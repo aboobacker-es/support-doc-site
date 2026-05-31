@@ -19,13 +19,13 @@ This ensures that candidates have a fair opportunity to complete their tests, wh
 
 The **Add Time Accommodation** feature allows you to extend test duration either before or after sending candidate invites, as long as the candidate has not yet started the test.
 
-## Prerequisites
+### Prerequisites
 
   * You must have a published test in your HackerRank account.
 
   * You must be the test owner or have editor access.
 
-## Adding time accommodation before sending invites
+### Adding time accommodation before sending invites
 
 To add time accommodation:
 
@@ -53,7 +53,7 @@ To add time accommodation:
 
 The system updates the invite template with the modified duration. You can then invite the candidate to the test. For more information, see [📄 Invite Candidates to a Test](</articles/6027855406>)
 
-## Adding time accommodation after sending invites
+### Adding time accommodation after sending invites
 
 You can extend the test duration for specific candidates after you send the invites, as long as the candidates have not started the test.
 
@@ -85,13 +85,13 @@ To add time accommodation for specific candidates:
 
 The test timer runs continuously and does not pause for technical issues. If a candidate loses time because of internet connectivity or other issues, you can add extra time during the test, after the candidate submits, or after the test ends.
 
-## Prerequisites
+### Prerequisites
 
   * You must have at least one candidate who is currently attempting or has submitted the test.
 
   * You must be the test owner or have editor access.
 
-## Adding extra time
+### Adding extra time
 
 To add extra time for specific candidates:
 
@@ -121,7 +121,7 @@ To add extra time for specific candidates:
 
   * Do not add time to a test that contains DevOps and Cloud questions after it ends or after the candidate submits it. The system purges the virtual machine for the questions upon submission, and added time does not restore access. To allow additional time, re-invite the candidate to take the test as a new attempt.
 
-## Adding extra time in variant-based tests
+### Adding extra time in variant-based tests
 
 For variant-based tests, you can add extra time at the section level for candidates.
 

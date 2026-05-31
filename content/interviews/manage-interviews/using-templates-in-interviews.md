@@ -30,7 +30,7 @@ To open a template during an Interview:
 
 You can update templates directly from the interview interface.
 
-## Add questions to a template
+### Add questions to a template
 
 You can update templates during an interview by adding new questions from the Question Library.
 
@@ -48,7 +48,7 @@ To add a question to a template:
 
 **Note:** You can also select **Create new template** to create a new template from the interview interface. Enter a template name and choose a role. After you create the template, add the question to it using the same **(+)** icon workflow.
 
-## Renaming a template
+### Renaming a template
 
 To rename a template during an interview: 
 
@@ -63,7 +63,7 @@ To rename a template during an interview:
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1765789120541-image.png?Expires=253370764800&Signature=IunaFZQNTUqs3STg0UdBPxpJ65z~vkCcv8VibVP2ac40UyET-IoUBy9xljtyPUSXOKl1JnZSgfU8QBT-XxRfnfGhtSjboJkBq55Caj8ylvg~JgN37MbpSvSvPXtOD3M02s2w80CyDfp9ewy6ielkmKpA24eLBTlc6-DDJHCUrQQdqeQSHigikVdGIhFi7EAYG86yLb2TJnEe0JLz0vDNjGrJULKhSBXzcarEGhZQAmCg2Fxv0Phwp25HFUpZ8qKm-ph-1rKPHej~5cRh4MkFFDdXoBDMJzOQGXBTTmM~KBA2nctE1LLneLkKlsVgCG5Jgf3gfoyU9u4MEl8aRyrVfA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-## Removing a question from a template
+### Removing a question from a template
 
 To remove a question from template during an interview:
 
@@ -75,7 +75,7 @@ To remove a question from template during an interview:
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1765789144336-image.png?Expires=253370764800&Signature=mvT71UO6-BJVheW~Xkk9je3Gphxe6J~ndZzGUGf4d-MLqsBYxP1Zkxv7Lk9UY9xtv7FIWH68NhZMj7VARo~RyzHiiQyHEZDP0VR7fsJM3-RwKkHHhiso47NT6PggZSZCI0cCWYzpvypsqDn1RKSrm5B5eR6W9VgnZwpFA6tuoYHoSYKAYKTDiUYGIPx7v7BZscX6jTUhslJR4Vr9vsTubKKRetAbuU7-PG6hpbfB6Bhm~Tv30zeBNDnueqjecBIqpZXKQZBqi0gveve7O9-S7I6X87LdGfsCWox5ObMDt5RFr04QG4Nvb3Ch-6lzf2PNQlXEwsSyu76V1xT~rhYgSA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-## Deleting a template
+### Deleting a template
 
 To delete a template during an interview: 
 

@@ -15,7 +15,7 @@ To use prompt engineering questions, select them from the **HackerRank Library**
 
 Prompt engineering questions are scored automatically using preconfigured test cases. Each case compares the model's output to the expected output using exact text matching. 
 
-## Scoring logic
+### Scoring logic
 
 When the candidates click **Run prompt** , the system uses a strict **Pass** or **Fail** scoring model based on text comparison. The system evaluates the response against a set of preconfigured test cases.
 

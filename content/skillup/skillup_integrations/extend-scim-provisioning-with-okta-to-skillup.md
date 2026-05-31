@@ -52,7 +52,7 @@ SkillUp Role| `skillup_role`| string (enum)| Yes| Group| Defines the user’s ac
 
 Use the namespace `urn:ietf:params:scim:schemas:core:2.0:User` for all new attributes.
 
-## Allowed values for SkillUp role
+### Allowed values for SkillUp role
 
 **Display Name**| **Value**  
 ---|---  

@@ -76,7 +76,7 @@ By default, the system provides four options. You can update the choices in the 
 
 The question appears under **My Company** questions in the HackerRank Library.
 
-## Bulk uploading Multiple Choice questions
+### Bulk uploading Multiple Choice questions
 
 You can upload up to 100 MCQs at once using a CSV or XLSX file.
 
@@ -111,7 +111,7 @@ To bulk upload multiple choice questions:
 
   * The system processes only the first 100 rows in the file.
 
-### File upload column specifications
+#### File upload column specifications
 
 The table below shows the supported column headers for bulk uploading multiple choice questions.
 
@@ -145,7 +145,7 @@ HackerRank automatically evaluates MCQs. You can configure scoring at:
 
   * **Test level**
 
-## Question-level scoring
+### Question-level scoring
 
 You can use question-level scoring to define a custom score for an individual MCQ.
 
@@ -175,7 +175,7 @@ Selects both correct answers| 5
 Select one correct answer| 2.5  
 Selects more than two options| 0  
   
-## Test-level scoring
+### Test-level scoring
 
 You can use test-level scoring to apply a uniform score to all MCQs in a test.
 
@@ -204,7 +204,7 @@ All questions use the test-level score of 10.
 
 If you do not define a test-level score, each question retains its custom question-level score.
 
-### Negative scoring
+#### Negative scoring
 
 You can assign negative scores for incorrect answers at the test level. 
 

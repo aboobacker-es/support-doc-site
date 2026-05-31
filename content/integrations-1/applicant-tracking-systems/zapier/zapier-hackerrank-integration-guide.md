@@ -23,7 +23,7 @@ Before you begin, ensure you meet the following requirements:
 
 To integrate Zapier with HackerRank:
 
-## Step 1: Generate an integration API token in HackerRank
+### Step 1: Generate an integration API token in HackerRank
 
 The integration[ ](<https://support.hackerrank.com/articles/1406188460-greenhouse---hackerrank-integration-guide#glossary-11>)API token allows Zapier to connect securely with your HackerRank account.
 
@@ -39,7 +39,7 @@ The integration[ ](<https://support.hackerrank.com/articles/1406188460-greenhous
 
 **Note:** You need this token to complete Step 2.
 
-## Step 2: Add the HackerRank API token in Zapier
+### Step 2: Add the HackerRank API token in Zapier
 
 This step authorizes Zapier to connect with your HackerRank account.
 

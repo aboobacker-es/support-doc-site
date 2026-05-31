@@ -28,7 +28,7 @@ To create custom certifications:
 
 The custom certification creation workflow opens with the following three steps.
 
-## Step 1: Certification details
+### Step 1: Certification details
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776693176197-image.png?Expires=253370764800&Signature=XXaCnnDGTrdbF1lSFbcmhozNG5~27zkUEgLsEt0Itss-FnMNDSwnSvKGac1phdPIbvdOagEPifhvB~CGO3WKe-kaJg~LW4hZJpaYZxfeg5yWK8jvI1tDPUHBXzywqsjbIvr-4X2aANyawfSf98LH4~ND73v3Y2cquVN8dMTaYGwNCfUdCZ5WzlJyhT1YwPkxFk7L3xtMroeHVgZw~mp8FzbUwu7xIEj6-7rfBFG~nRjovmCDZy~6TL~1AFWqkMy0LCwAl0JfnsxCtSPN2yP96zEIKl8IEPC47aVuYfGs9ThPgKzA~zaxYnCbigFfYUFCV46tvR7jBJGKVGpcacd~Ow__&Key-Pair-Id=K3NV4LZ47N8M46)
 
@@ -38,7 +38,7 @@ The custom certification creation workflow opens with the following three steps.
 
   3. Click **Continue**.
 
-## Step 2: Import HackerRank for Work test
+### Step 2: Import HackerRank for Work test
 
   1. Search and select a test under the **Linked HackerRank for Work test** field.
 
@@ -55,7 +55,7 @@ The custom certification creation workflow opens with the following three steps.
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776693219377-image.png?Expires=253370764800&Signature=sDd2A0l17LqAHjx5a73svWvD1gsvRXCpACKhyCSibT4OS48dmYAonZTmtqVMa4D1SsTVPiG~05kib0his0dizWXwr-ztasCV3JgughrEhJUvN-kdPyqJwu5HxRnl-hAw94~wkTy1m9LxOp~KCxTeNmIyUpNbDQJ6J-ACucIgCnWYUlPtlwUgyEmdEslwLOdnPylhulHx9c1le5llTZtL1kzqoGLvHuM4yrCnH8xnM1WJhrGL0LRDGNDg9-oNFk2UzMQ6RogsuWTUFAkpXtWCOhqDwHZUCaapyE1rUhAfpLKwhHYgA~NMKPxNgDJRnZM0k-jB9mJjukg~wg8QFhjTAw__&Key-Pair-Id=K3NV4LZ47N8M46)
   3. Click **Continue**.
 
-## Step 3: Review
+### Step 3: Review
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776693251738-image.png?Expires=253370764800&Signature=OEShdcEE9NA81QaK6KWSK1LSTJwdc-yZ8Hww0U4QF8d9RqQSCFipWOiBfrMUAGNoJwdMVauMDn~RfW~Kun7kdXFnnpNAjWPEKYuljM~SHHzA7lUck31sEJny9s~bXiFwAqGOmtHbOZihGv1jGUWKq895k7wRAeLPvfubIpcr02nK8X6eOUz10N3seDywSk1vyBWFiMKOa~U1UVzMSVH4HorhrLwUPEjFJxcSNaWpvJ6diA1k8k6N2PnJYTIehNF0AWN7XoeEw2pSwBOkhFGbiaB2fEEdmk0dH0NlgJW4OQM76koCJ9KT~3dAkOcsMvXepx6FsFWztxsYswQspptHVw__&Key-Pair-Id=K3NV4LZ47N8M46)
 

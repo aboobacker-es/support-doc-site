@@ -36,7 +36,7 @@ To create an event:
 
 After creating an event, configure the settings to ensure that participation types accurate. On the event homepage, click **Settings**.
 
-## Set participation type
+### Set participation type
 
 Select the appropriate participation type based on your event goal:
 
@@ -44,7 +44,7 @@ Select the appropriate participation type based on your event goal:
 
   * **Team** : Use for branding initiatives or internal engagement events that prioritize team collaboration.
 
-## Customize email communications
+### Customize email communications
 
 Tailor the invitation and reminder emails to match your brand voice and tone.
 

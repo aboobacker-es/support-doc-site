@@ -19,7 +19,7 @@ And, to foster upskilling and help your teams become next-gen developers, the ne
 
 ## Screen
 
-## Test-Level Invite Templates
+### Test-Level Invite Templates
 
 You can now create invite templates at the test level, tailoring each one to the context of a specific test. This makes it easy to send clear, personalized messages to candidates across different assessments.
 
@@ -27,7 +27,7 @@ You can now create invite templates at the test level, tailoring each one to the
 
 For more information, see [📄 Configure Email Settings for Tests](</articles/2564162886>), [📄 Manage Email Templates](</articles/9684438314>).
 
-## Candidate Email Editor Upgrade
+### Candidate Email Editor Upgrade
 
 You can now upload images, choose custom font styles, and add dynamic fields like candidate name, recruiter name, test link, and test name across all editors for reminder emails, confirmation emails, and test instructions. This upgrade makes it easier to deliver a consistent, on-brand, and personalized experience in every message.
 
@@ -35,7 +35,7 @@ You can now upload images, choose custom font styles, and add dynamic fields lik
 
 For more information, see [📄 Configure Onboarding Settings for Tests](</articles/5956879724>), [📄 Configure Email Settings for Tests](</articles/2564162886>).
 
-## New Candidate Report
+### New Candidate Report
 
 Earlier this year, we introduced a revamped reporting experience for tests that used Proctor Mode, bringing clearer performance summaries, integrity insights, and faster candidate navigation into a single, streamlined view. This upgrade made it easier to review results quickly and make confident, data-driven decisions.
 
@@ -45,7 +45,7 @@ Now, we’re extending this reports experience to all tests, not just those with
 
 For more information, see [📄 View Candidate Test Summary Report](</articles/8111267829>),[📄 Download Test Reports](</articles/1786677446>).
 
-## Candidate Benchmark
+### Candidate Benchmark
 
 With Candidate Benchmark, you’ll see a percentile score that shows how a candidate performed compared to everyone else who attempted the same questions. This gives you a clear benchmark to interpret scores and set meaningful cutoffs based on real performance data.
 
@@ -53,7 +53,7 @@ With Candidate Benchmark, you’ll see a percentile score that shows how a candi
 
 For more information, see[📄 Candidate Benchmark](</articles/6075450367>).
 
-## Updated Candidate Details UI
+### Updated Candidate Details UI
 
 Configuring what information to collect from candidates before they start a test is now quicker and more flexible. Recommended fields come preselected to help you get started right away, with the option to add custom fields so you can capture exactly what matters most.
 
@@ -61,7 +61,7 @@ Configuring what information to collect from candidates before they start a test
 
 For more information, see [📄 Configure Onboarding Settings for Tests](</articles/5956879724>).
 
-## Subtext for Test Variants
+### Subtext for Test Variants
 
 Candidates now see helpful subtext for each test variant, giving them more context about the available options and helping make informed decisions before they attempt the test.
 
@@ -69,7 +69,7 @@ Candidates now see helpful subtext for each test variant, giving them more conte
 
 For more information, see [📄 Create Test Variants ](</articles/7530103378>).
 
-## Improved Scalability for Projects and Candidate Logins
+### Improved Scalability for Projects and Candidate Logins
 
 Front-end, back-end, full-stack, and data science project assessments can now run at scale, supporting up to 10,000 concurrent project sessions, a 10x increase from the previous limit of 1,000.
 
@@ -77,7 +77,7 @@ Login concurrency has also increased from 100 to 1,000 users per minute, allowin
 
 For more information, see [📄 Limitations With HackerRank Projects](</articles/3052727240>).
 
-## Code Repos in Tests 
+### Code Repos in Tests 
 
 Code Repository questions are now available directly in Tests, bringing real-world engineering tasks into your assessments. Candidates can work in multi-file environments that mirror real codebases:building features, fixing bugs, and reviewing code across popular stacks like Spring Boot (Java), Angular 16, MongoDB, Flask (Python), React.js, Node.js, and Django (Python).
 
@@ -87,7 +87,7 @@ We’re expanding the library with new repo-based questions and upgrading existi
 
 For more information, see [Add a code repository section to a test](<https://support.hackerrank.com/articles/5546852679-section-based-testing#add-a-code-repository-section-to-a-test-38>).
 
-## Improvements to AI-assisted IDE in Tests (AI Add-on)
+### Improvements to AI-assisted IDE in Tests (AI Add-on)
 
 AI-assisted IDE in Tests gives candidates intelligent, AI-first coding support to boost productivity while giving you visibility into how they use AI in real-world tasks. With chat, candidates can get code explanations, clarify questions, and receive syntax help without full solutions, while AI autocomplete provides inline and multi-line completions to accelerate development.
 
@@ -101,7 +101,7 @@ AI-assisted IDE in Tests gives candidates intelligent, AI-first coding support t
 
 For more information, see [📄 AI-Assisted Tests](</articles/1152916770>).
 
-## Automated Code Review Scoring in Advanced Evaluation (AI Add-on)
+### Automated Code Review Scoring in Advanced Evaluation (AI Add-on)
 
 Advanced evaluation goes beyond pass/fail to capture richer signals about how candidates solve problems. New insights include database skills, code review proficiency, and AI usage patterns, giving you a clearer, more consistent view of strengths.  
   
@@ -113,7 +113,7 @@ For more information, see [📄 Advanced Evaluation](</articles/7098008997>), [�
 
 ## Skills Platform
 
-## Playwright Support
+### Playwright Support
 
 Playwright is rapidly growing in popularity for modern end-to-end testing. You can now create Playwright-based questions with built-in support for the Playwright VS Code extension in Tests and Interviews, allowing you to assess real automation skills in a realistic developer environment that reflects how teams work today.
 
@@ -121,7 +121,7 @@ Playwright is rapidly growing in popularity for modern end-to-end testing. You c
 
 For more information, see [📄 Execution Environment](</articles/6693750503>).
 
-## MySQL Support on Java and .NET
+### MySQL Support on Java and .NET
 
 MySQL support is now available on Java and .NET environments, enabling you to assess database skills alongside backend development. This enhancement allows candidates to interact with MySQL databases during their assessment, leading to more accurate evaluation of their backend skills.
 
@@ -129,7 +129,7 @@ MySQL support is now available on Java and .NET environments, enabling you to as
 
 For more information, see [📄 Execution Environment](</articles/6693750503>).
 
-## Library Improvements
+### Library Improvements
 
 The HackerRank Library is regularly updated, enabling you to assess candidates across a wide range of technical skills. This release brings enhanced content quality and an improved project question experience. 
 
@@ -156,7 +156,7 @@ Web Development| React| Projects
 Web Development| .NET| Projects  
 Web Development| Angular| Projects  
   
-### Improved Question Clarity and Readability
+#### Improved Question Clarity and Readability
 
 Previously hard-to-understand questions have been rewritten to be clearer, more precise, and easier to interpret. This helps candidates spend less time trying to understand the prompt and more time solving the problem. Every updated question goes through a rigorous verification process to ensure it meets our quality standards. Here’s an example:
 
@@ -164,7 +164,7 @@ Previously hard-to-understand questions have been rewritten to be clearer, more 
 
 ## Developer Experience
 
-## New Candidate Site Expansion
+### New Candidate Site Expansion
 
 In April 2025, we introduced a new candidate site to create a smoother, more modern test-taking experience. Developers love the refreshed design, cleaner UI, and simpler onboarding flow.   
   
@@ -174,27 +174,27 @@ This modern experience now extends beyond coding, database, and multiple-choice 
 
 For more information, see [Answer Cloud Questions](<https://candidatesupport.hackerrank.com/articles/3281902930-answering-aws-questions>), [Answer File Upload Questions](<https://candidatesupport.hackerrank.com/articles/9653183164-answering-file-upload-type-questions>), [Answer Subjective Question](<https://candidatesupport.hackerrank.com/articles/6005503805-answering-subjective-questions>), [Answer DevOps Questions](<https://candidatesupport.hackerrank.com/articles/5106204040-answer-devops-questions>).
 
-## Enhancements to New Candidate Site
+### Enhancements to New Candidate Site
 
-### Timer Nudges
+#### Timer Nudges
 
 When time is running out, candidates now see a clear prompt reminding them to wrap up and submit their work. This helps them stay mindful of the clock, manage their pace, and make sure their latest code is captured for evaluation. 
 
 ![TimeNudge.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1759311641247-TimeNudge.gif?Expires=253370764800&Signature=qu0GBiQM2qeZgbRcF0WJgthEN8~GrtdepmE3NG~c7ODxEUaPHAFFOErfXzdSE6u0Bmj89n~FwuJskRlt4pqgeGn-NXhcB9nHujzuTz4e5e6Dmvxx~OmyPCkoGJGHyq5h6vjTo1SZp13mloL~EA34yhbU3hj5L3fl6zXKGm-D2-HYxu-mvIzgEAeJDSe-5kFvg7MyOVd95AH6dcxyRQwNAyF9YGgF1LljnMXy9779ondHEfwxMr2Qx7XNRh69tDsGIJx5JcvMfaC7FpQDMJO~ZPLf-E~hVAj7yXkUOVSOZVe3mQFVAfe-7pWTXhwF6p0eS0dFSPRvrMukOXEVpwHEPQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-### Resizable Input Fields
+#### Resizable Input Fields
 
 The custom input box can now be expanded, making it easier for candidates to work on free-form answers comfortably.
 
 ![Resizable Input.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1759311643027-ResizableInput.gif?Expires=253370764800&Signature=I7y2WK~oVU81Wu3utrcLA7Sn3-Y8XkyswvDpH~KXyDZU-6uuOY3B-6u7Q8J79iazniv3uv9wpCu98r95XQqz~x~f8VqZr1cAGBGL8P7M8Tj17jDCFchJ6AJZOS-ttvYc0ADidtQEYN5YvOenN5MsmmnhyJHdEbYXYXhWmq08ioCkGtOK2GSpdHKTIFNTypBLwFJT4AhrHvqF48aPgqXLvO39s4zXDeDtUE58tJZ0kmWHpMeAmfoB-sMke8XCMv2HyALOk09hgPZTNM0l-mtSFFk4OTelCOsuIr7RsdZdXPWRXV69HmB0XNu4gX0qwnqUfa8ZTnDUjZA91Sv3EoMeFg__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-### Expandable Images
+#### Expandable Images
 
 You can now zoom into images in the question panel for a larger, clearer view.
 
 ![ImageExpansion.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1759311645870-ImageExpansion.gif?Expires=253370764800&Signature=Nj~Dkl~KrFAm2KeDNCqgi224gCvE29Nf2ZZY-7XA6mVcs72Yxpj6yvFQL6e-86FYtcAJ0atQtHTvRMJi5ACYY1wjzdNW0uXjpOzv0~T7FdrrpUcAcB3ILelSveQG7PUGliVV01W1mCPeFpA~FtdITRV4vNttNmL16p6xC-TdF20k2oCNBCCJSYo2mpDV8RA2bAaxpQNTy1e2KaAMKnEmeCU64toa7M2kznN22QIU5mf4PNJECiHMrrK4M~5f8IZUHPp3IrPNgoXrOapfh-JTO-dXH5vDF9xB30A1F0c5a79z3e6tnE7Bt9WEIpXMrCI7Vsq2RWgcaXhBq1aCtus3HA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-## VS Code IDE Upgrade
+### VS Code IDE Upgrade
 
 Project-type questions now run on the latest VS Code v1.103.2, bringing new capabilities and a more modern developer environment.  Key highlights include: 
 
@@ -210,7 +210,7 @@ For more information, see [📄 Create Front-end, Back-end, Full-stack, and Mobi
 
 ## Integrity
 
-## Revamped Test Integrity Settings
+### Revamped Test Integrity Settings
 
 Integrity settings have been reorganized to make test setup more straightforward and intuitive. New updates include:
 
@@ -226,7 +226,7 @@ Integrity settings have been reorganized to make test setup more straightforward
 
 For more information, see [📄 HackerRank Test Integrity](</articles/1079706165>),[📄 Modify Question Settings for Tests](</articles/5424328799>).
 
-## Single Monitor Enforcement in Secure Mode
+### Single Monitor Enforcement in Secure Mode
 
 Secure Mode now includes a single-monitor requirement to ensure a more secure and consistent testing environment. If multiple monitors are detected before the test begins, the test will not start. If additional monitors are connected during the test, it will automatically pause.
 
@@ -236,7 +236,7 @@ This feature is supported on Chrome and Edge, and candidates using unsupported b
 
 For more information, see [📄 Secure Mode](</articles/2545360734>).
 
-## Enhancements to Proctor Mode (AI Add-on)
+### Enhancements to Proctor Mode (AI Add-on)
 
 Proctor Mode brings AI-powered integrity monitoring to your assessments, offering the rigor of live proctoring without the overhead. It tracks webcam activity, tab switches, and takes screenshots during the test, delivering a post-test report with a full session replay and summarized violations.
 
@@ -248,7 +248,7 @@ Proctor Mode now includes:
 
 For more information, see [📄 Proctor Mode](</articles/5663779659>).
 
-## HackerRank Desktop App (AI Add-on)
+### HackerRank Desktop App (AI Add-on)
 
 You now have a powerful new way to protect test integrity while giving candidates a smooth, frustration-free experience. The **HackerRank Desktop App** is a lightweight application that candidates download before their assessment begins. Once launched, it creates a secure environment by locking the screen, preventing unauthorized applications, and monitoring activity throughout the session.
 
@@ -260,7 +260,7 @@ For more information, see [📄 HackerRank Desktop App Mode](</articles/59735900
 
 ## Interview
 
-## Enhancements to Scorecard Assist (AI Add-on)
+### Enhancements to Scorecard Assist (AI Add-on)
 
 Scorecard Assist auto-generates a structured summary with transcripts, code submissions, test results, and rubrics to simplify post-interview evaluation. It now supports whiteboard questions as well, resulting in faster, more structured evaluations that help teams make decisions with confidence.
 
@@ -268,7 +268,7 @@ Scorecard Assist auto-generates a structured summary with transcripts, code subm
 
 For more information, see [📄 Scorecard Assist](</articles/5847159594>)
 
-## Improvements to AI-assisted IDE in Interview (AI Add-on)
+### Improvements to AI-assisted IDE in Interview (AI Add-on)
 
 The AI-assisted IDE in Interviews is now smarter, faster, and enabled for more project types, with the following updates:
 
@@ -284,7 +284,7 @@ The AI-assisted IDE in Interviews is now smarter, faster, and enabled for more p
 
 For more information, see [📄 AI-Assisted Interviews](</articles/5821380141>).
 
-## Flexible Video Layouts in Interview
+### Flexible Video Layouts in Interview
 
 The interview video experience has been upgraded to give you more control and flexibility. Layouts automatically resize to fit everyone, while full-screen mode now offers three options: film strip, film strip vertical, and gallery.
 
@@ -292,7 +292,7 @@ The interview video experience has been upgraded to give you more control and fl
 
 For more information, see [Customize the video layout](<https://support.hackerrank.com/articles/6271433412-audio-and-video-calls-in-interviews-powered-by-zoom#customize-the-video-layout-14>).
 
-## Improvements to Interview Onboarding Experience
+### Improvements to Interview Onboarding Experience
 
 The interview login flow has been redesigned to make setup smoother and give participants a positive start.
 
@@ -308,7 +308,7 @@ The interview login flow has been redesigned to make setup smoother and give par
 
 For more information, see [Logging into HackerRank Interview.](<https://candidatesupport.hackerrank.com/articles/1952658165-logging-into-hackerrank-interview>)
 
-## Save Custom Questions in Interview
+### Save Custom Questions in Interview
 
 You can now create and save custom scratchpad questions directly during a live interview and reuse them in future sessions. Store questions in your personal or team library to stay organized and skip the hassle of copy-pasting from documents or other unorganized sources. This works across both coding and whiteboard questions, so your content is always in one place and ready to go.
 
@@ -316,7 +316,7 @@ You can now create and save custom scratchpad questions directly during a live i
 
 For more information, see [📄 Add Questions to Interview](</articles/6761309830>).
 
-## Auto Sync Interview Scorecard with ATS
+### Auto Sync Interview Scorecard with ATS
 
 Scorecard updates now flow directly into Workday, Lever, and Greenhouse in near real-time, appearing the moment feedback is submitted. This eliminates manual effort and sync delays, keeps data consistent across platforms, and ensures hiring teams can move faster with smooth, reliable post-interview workflows.
 
@@ -324,7 +324,7 @@ Scorecard updates now flow directly into Workday, Lever, and Greenhouse in near 
 
 For more information, see [📄 Interview Scorecards](</articles/9842091173>).
 
-## Customize Interview Guidelines
+### Customize Interview Guidelines
 
 You can now personalize the onboarding guidelines shown to candidates, adding custom instructions specific to your organization. 
 
@@ -334,13 +334,13 @@ For more information, see [📄 Centralized Interview Settings](</articles/92446
 
 ## Data and Insights
 
-## Performance Improvements to Analytics Infrastructure
+### Performance Improvements to Analytics Infrastructure
 
 We have optimized exports to ensure dramatically faster load times. In-product exports and dashboards that previously took 15+ seconds now complete in as little as 3 seconds.
 
 ## Integrations
 
-## Lever-Interviews Integration
+### Lever-Interviews Integration
 
 You can now seamlessly schedule, conduct, and evaluate live coding sessions without leaving Lever. The new Lever Interview integration reduces setup complexity by automatically configuring webhooks, syncing interview statuses, and streamlining candidate workflows.
 
@@ -358,7 +358,7 @@ A dedicated Lever Interviews card in your HackerRank settings includes partner b
 
 For more information, see [📄 Lever V2 - HackerRank Interview Integration](</articles/5647291926>).
 
-## Integration with Nortstarz.ai
+### Integration with Nortstarz.ai
 
 HackerRank is now integrated with Northstarz.ai, an AI-powered talent intelligence platform that helps teams identify top candidates using resume analysis and video interviews. With this integration, you can access a dedicated Northstarz.ai card in the HackerRank integration settings, complete with partner branding, setup instructions, and configuration options, making it easy to get up and running.
 
@@ -366,7 +366,7 @@ HackerRank is now integrated with Northstarz.ai, an AI-powered talent intelligen
 
 For more information, see [📄 Northstarz - HackerRank Integration User Guide](</articles/4546750166>).
 
-## Integration with Kula.ai
+### Integration with Kula.ai
 
 HackerRank is now integrated with Kula.ai, an AI-native Applicant Tracking System that unifies sourcing, CRM, pipeline management, interviewing, and analytics into a single platform. The integration includes a dedicated Kula.ai card in the HackerRank integration settings, featuring partner branding, setup instructions, and configuration options for a smooth onboarding experience.
 
@@ -374,7 +374,7 @@ HackerRank is now integrated with Kula.ai, an AI-native Applicant Tracking Syste
 
 For more information, see [📄 Kula.ai – HackerRank Integration User Guide](</articles/5121238837>).
 
-## Update to Greenhouse Integration
+### Update to Greenhouse Integration
 
 The Greenhouse integration has been updated to improve recruiter visibility and reporting. Assessment invitations will now display the recruiter who initiated the invite instead of the company owner, ensuring more accurate attribution and clearer insights into recruiter activity. This update also requires that anyone sending a HackerRank test invite through Greenhouse hold a valid HackerRank license.
 
@@ -382,7 +382,7 @@ The Greenhouse integration has been updated to improve recruiter visibility and 
 
 ## AI Interviewer (Limited Availability)
 
-## Improvements to Problem-Solving Interviewer
+### Improvements to Problem-Solving Interviewer
 
 The Problem Solving AI Interviewer has been enhanced to create a smoother, more natural interview experience. Here’s what’s new:
 
@@ -402,7 +402,7 @@ For more information, see [📄 Introduction to AI Interviewer](</articles/69083
 
 ## SkillUp
 
-## Enterprise-ready Reporting APIs
+### Enterprise-ready Reporting APIs
 
 You can now programmatically extract skill signals, badges, and certification details with our APIs. These can be leveraged to build customized reporting and integrations with HR systems, making it easier to track progress, showcase achievements, and connect learning outcomes to business impact.
 
@@ -410,13 +410,13 @@ You can now programmatically extract skill signals, badges, and certification de
 
 For more information, see [📄 ‭Reporting APIs](</articles/3081122402>).
 
-## Learn Access for Admin Users 
+### Learn Access for Admin Users 
 
 Admins can now earn badges and certifications while continuing to manage the product, helping them stay closely aligned with the skills and workflows their teams use every day. The learner view is now the default, making it easy to explore content, code, and demo features firsthand.
 
 ![AdminAccesstoLearning.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1759312276889-AdminAccesstoLearning.gif?Expires=253370764800&Signature=csCLeir6IlYGWh7IT~dcVVTWPF84-ylbEZ0QsMzVH6RcSflEo4d9LuMcbyOWxdtWzSlBpW9JA2jwrRm3Zts3-CY9ETqj-4vU2kSeaOrt5xjYiJWtMwAhYac11XSinaHAAlrHRs6GSmvyGkXesawdXb42X3NxCz1FguRi0TSb8iziUnNA8p-1-PH~pUHozpGqCj9rtFI8oMiuy7YI5zZPYKimjmiGGxasjgchbRIe42eReaigybkRoHTBcgZTlhhYtxgmCUzgDXjSsq1ZDbiLtkcFB4VXpSu5g8K98ouh8gPLFnQdB~wOP0h1GcDXw0eQhj1Pu06Cfp3GRq3ET88q~A__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-## Enhanced Administrative Controls
+### Enhanced Administrative Controls
 
 Admins now have new options to deactivate users, providing greater control over account management and ensuring teams stay current and secure.
 
@@ -424,7 +424,7 @@ Admins now have new options to deactivate users, providing greater control over 
 
 For more information, see [Deactivating a user](<https://support.hackerrank.com/articles/3868789028-user-management#deactivating-a-user-10>), [Reactivating a user](<https://support.hackerrank.com/articles/3868789028-user-management#reactivating-a-user-16>).
 
-## AI Engineer Certification
+### AI Engineer Certification
 
 The AI Engineer Certification is a guided pathway with lessons and challenges designed to help you build expertise in creating AI-powered applications and showcase your skills as a next-generation developer. The first three modules (LLM Fundamentals, Prompt Engineering, RAG & Vector Databases) will be shipping in the October release, with the rest to come in November.
 
@@ -432,7 +432,7 @@ The AI Engineer Certification is a guided pathway with lessons and challenges de
 
 ## Developer Community
 
-## Improvements to Mock Interview Experience
+### Improvements to Mock Interview Experience
 
 Mock Interviews are now smarter, smoother, and more content-rich, making practice feel closer to the real thing.
 
@@ -446,7 +446,7 @@ Mock Interviews are now smarter, smoother, and more content-rich, making practic
 
 ![Mock Interview Improvement \(1\).gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1759312416037-MockInterviewImprovement%25281%2529.gif?Expires=253370764800&Signature=RPIEvcNMy1br0wP~1o3UmLJVMIteYOH9A4uOqtoELkXq~3kernH9YSxnABn8Cxx6rva2Q3sWUPhdZL2tY1pdvsTC9Q6p68~AOO7~w2J63paemcwTnXI0Jd7vsjayxZvPb0rmA1GM5IEu-M~CLurAbsvaFJnEhHVXrSM0qCbKbVRi8LG8XxImLyN-~LtEgYpt7dCaQs5D6ipWtmOStuz67ym-QOBxRr0HTuylM2n2e9r68~1TmJmGV7Nk8dP~C859udYC5ju5m9LLl7-JX0S~QoyJtpWA5xrsOlw7Mgr5cCEiF6ruW6qWogLtJRv5yqyU0vyzYvl7k~eCVWNavMj4zQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-## Software Engineer Prep Kit
+### Software Engineer Prep Kit
 
 The Software Engineer Prep Kit helps you get interview-ready with curated challenges, realistic practice, and role-specific certification.
 
@@ -462,7 +462,7 @@ The Software Engineer Prep Kit helps you get interview-ready with curated challe
 
 For more information, see [Introduction to Prep Kits](<https://help.hackerrank.com/articles/1723224478-introduction-to-prep-kits>).
 
-## Subscription Plan for Software Engineer Prep Kits
+### Subscription Plan for Software Engineer Prep Kits
 
 You can choose between monthly billing or save more with a quarterly subscription, offering flexibility to upgrade as your needs evolve. Check [_this page_](<https://www.hackerrank.com/community/plans>) for more details 
 

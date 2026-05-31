@@ -28,7 +28,7 @@ To create a coding question:
 
 The coding question creation workflow opens with the following four steps.
 
-## Step 1: Question Details
+### Step 1: Question Details
 
   1.   In the **Problem details** section:
 
@@ -58,7 +58,7 @@ The coding question creation workflow opens with the following four steps.
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1772436811507-image.png?Expires=253370764800&Signature=oN8UlyrMEslBHd-sMxWkzq1hYJAM0wULb4sod7c45DDg25b3KsCQovuNtDJS~jIw25LkCnm7VKv5ajgmvKXTLPbkiXYdrXF20N03wOomcFbF7RzZcwI7fvbS-VU8RP5gd-Fuq4AYnwfdLUF3Yz~dq33595eMKmwPaWXdvyfa3sZS0mqcYwKEyztbzeFoWDXPCrRvOoFZ~r5TtsBpPu~92Sa7XzNx85pUtmR6CmzlHFd7R0cGC9UBSPPoFfqV-g9yzYL5b~FlkPpYFbVIXZVwAgDUKLmO1X9CqXxKRNzUXfMCT8Ducpu7rU-vE5v-kTD2x9PfduZXHPmtu93lkiVG3g__&Key-Pair-Id=K3NV4LZ47N8M46)
   4. Click **Next**.
 
-## Step 2: Languages
+### Step 2: Languages
 
 ![languagescoding.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1772436905340-languagescoding.gif?Expires=253370764800&Signature=PKyR4pnrTf9pQF6uuFvmXF6byHCJPFKeGaDv1TJMmMcHt6Am8NeCng2LIDDebrbJ7wAD9NreYwRKJIBx28XsXiE8HwK2bXcZ4hMmI5WJQokjjSAjREYAe6AqsE4C4OmEjcIy6jSSE08LB1eBRph-ldhfDqEnmEIVXdTPkuwLPL3uTcIk~NwCB0lQQUfkHzbysT8Ct0FrI4I8ot5YGe6iCKqjSF4wY37WJOfEI6ugRfju2EJ17UiD4oeJXfWDXky2ePPdlEpsz1yG60OKif7Y6eyqkFQtpm-w5yX9h9pJgq5oWBKqG-9cUbqSBGRcuaARC6ZlqEKYQIUMQ9jTaTBS7g__&Key-Pair-Id=K3NV4LZ47N8M46)
 
@@ -79,7 +79,7 @@ The platform groups languages into two categories:
 
      * Use the search bar to find a specific language.
 
-## Step 3: Code Stubs
+### Step 3: Code Stubs
 
 Define the function signature and generate code stubs for supported languages.
 
@@ -120,7 +120,7 @@ The platform generates code stubs for the **Popular languages** selected in Step
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1772438040240-image.png?Expires=253370764800&Signature=b157bKwMSUoLvcvr~hINtJY-fFDPN2IcHNJD~DnFwkLTvNyc56yfCWsXNA8bwgH39klaNOMPkI9CMfo8iVz0ucKrHuj95aqmlKdBym45VONiuMoVmqcbubNTr2A2TC4g0SV1l0cmkVwd0V~rFsp6oCEctArUosxm7-ZmwpziAiqIYc1vnDtunJEcHsnCSoN9DkwLT9~S8CVnIQJD4ME95I4AxsXhmqqRLlqfrKpWmap06ZIPdogdYr-eYkp7UeyOJYLNq7PGW3gL4lLbuU8XE1xPAsKbxEbrAi-Lv8p2w2O3bDt~raGMGa89yH269OJoHEKdjyFw0~5QpSqtbZd21A__&Key-Pair-Id=K3NV4LZ47N8M46)
   8. Click **Next**.
 
-### Handle unsupported languages
+#### Handle unsupported languages
 
 If you select languages that do not support automatic code stub generation, the platform displays a dialog listing the unsupported languages.
 
@@ -142,7 +142,7 @@ To add code stubs manually:
 
   3. Add the code stub manually.
 
-## Step 4: Testcases
+### Step 4: Testcases
 
 Use this step to upload solutions and define test cases for the question.
 
@@ -208,7 +208,7 @@ Quality review helps you evaluate and improve the quality of a coding question b
 
 The system analyzes the question and provides actionable recommendations.
 
-## Evaluation criteria
+### Evaluation criteria
 
 Quality Review evaluates the following parameters:
 
@@ -268,7 +268,7 @@ The candidate can attempt the question in the editor and click **Run** to run th
 
 HackerRank evaluates coding questions using predefined test cases that measure correctness and efficiency. Each test case includes defined input, expected output, and execution conditions. The system executes the submitted code against all test cases and calculates the score automatically.
 
-## How scoring works
+### How scoring works
 
 The system evaluates submissions as follows:
 

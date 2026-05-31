@@ -26,7 +26,7 @@ To create a whiteboard question:
 
 The whiteboard question creation workflow opens with the following two steps.
 
-## Step 1: Question Details
+### Step 1: Question Details
 
   1.  In the **Problem details** section:
 
@@ -53,7 +53,7 @@ The whiteboard question creation workflow opens with the following two steps.
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1769676786747-image.png?Expires=253370764800&Signature=UyEnZ0A6dQTb-rgHjoV39XhM2hBzwNat4gcU94unqk5J7B85YrZM0dNhBL5t97h6PgfVDme1KtHynconewLe1QnVlYjKmWOR8YF5xxk7tH4nkQHoVrNMN9LFVfFOlyk8VMxjN~sk5e-eUgy2TcUDlmmcc8f18HCd40AuASDN~8n4RmLKcSV1P-1I7rLJE-LOpRBBFfzM2lhlMsMNUjYe9WKnoqW9NdI6sg9UtPbR6Wxki-MJWWxz1xCTnX9QRjQQ6cjG1zhXtuYEuN19PtGN04b~xSY6f4fcDQXWga46vDfHTDDYe6C~9RekDHq4D2Tm5oMlA0YQTdKMXDyGCHYHjw__&Key-Pair-Id=K3NV4LZ47N8M46)
   4. Click **Next**.
 
-## Step 2: Whiteboard Settings
+### Step 2: Whiteboard Settings
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1769677124531-image.png?Expires=253370764800&Signature=ceZHSdX9XmIOspsi8KDhv-W8Veyh4yyVq11tZ8jWD4er8DnG2bJldrAQkePejSZH5YvVURrORl~snuyUiNEkhta2~uSbSlEd9qKMGMrro7S8bt0aXA8hVW31-nGIlcLCojKVojWnClLuOo2Wc97JTBDaUNj3iBWvXW6bqQcbgDbro5qnJpIyKl21vgxrwxJ71EMjidHXD7gCsk-Pi4pC6NGsQw5LE5vUMXA5jgMoxdT-h5ipZjbBwhAv2JvxItSIQrgIs7VgkFGyo1LJSHFriTQjNlTE3dL8p85ZTOSMPRr7XyuexWwYeY4PkGdJfVjHQ-kS17SWjTiesnjLjJOgyg__&Key-Pair-Id=K3NV4LZ47N8M46)
 
@@ -65,7 +65,7 @@ The whiteboard question creation workflow opens with the following two steps.
 
 The question appears under **My Company** questions in the HackerRank Library.
 
-### Whiteboard components and tools
+#### Whiteboard components and tools
 
 The virtual whiteboard includes the following components and tools.
 

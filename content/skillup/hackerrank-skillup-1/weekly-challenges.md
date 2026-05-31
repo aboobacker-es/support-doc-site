@@ -63,7 +63,7 @@ _Total score = Input tokens (prompt) + Output tokens (generated code)_
 
 HackerRank currently offers the Weekly Prompt Engineering Challenge.
 
-## Weekly Prompt Engineering challenge
+### Weekly Prompt Engineering challenge
 
 The Weekly Prompt Engineering Challenge helps users improve their ability to write effective prompts for large language models (LLMs).
 
@@ -71,7 +71,7 @@ Prompting is a critical skill in modern development workflows. Developers intera
 
 This challenge reinforces the importance of clear, precise prompts for generating efficient and accurate results.
 
-### Attempting weekly Prompt Engineering challenge
+#### Attempting weekly Prompt Engineering challenge
 
 To attempt the weekly Prompt Engineering challenge: 
 

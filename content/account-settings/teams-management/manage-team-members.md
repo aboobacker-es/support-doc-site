@@ -30,7 +30,7 @@ To manage team members:
 
   6. Select the **Users** tab to add team members, update their roles, or remove team members.
 
-## Adding an existing user to a team
+### Adding an existing user to a team
 
 To add an existing user to a team:
 
@@ -40,7 +40,7 @@ To add an existing user to a team:
 
 ![add users.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2Ff9d2fcc0-73f7-4cd3-b5ed-79c9f7e12c86-1772518280057-addusers.png-037aa9e0-45aa-4978-8048-04be06054a59?Expires=253370764800&Signature=LIT-XsZTZXceXG0y~I5JX6os33KyeOQ7~H-i6yMb8mlWTKscQB9e8aj2XEAZ3TcrFpbGX3RbenjJCFJxR1MCreXGue2j706MV1JsXbcTFvdBDLnsikxoyXbK~edBg~Hp2K12Ls8opWclAmgX2DSGIp9cPqdHwzRyLO-lCJbjdSRetFDulyQOhQrtsytyiazTeiKTkI~mTQTZpZWu8X~FA56ufe85FZCpAJfxhSdH-bYsHwFlQPPXDBwkyKWnDJqlTMEeA4mIuIWnGnJ~Pah6UxWAkvxXucPAC-Q2bj0EhIWOv~ARo-soVQoPqOO6KBTHkLMwwJRtCnr75jsIErnbkg__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-## Updating team member role
+### Updating team member role
 
 To modify the role of a team member:
 
@@ -52,7 +52,7 @@ To modify the role of a team member:
 
 ![team role update.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F11800322-647f-4227-99a3-821f943cddf5-1772518239711-teamroleupdate.png-c990113b-fa2b-4398-aa7b-aa7367565fc3?Expires=253370764800&Signature=bmfzFBUD4vmgsXFMQZwEs~m6SdB8Wj2cxjL15PEpIUKwgnS~r~OrVOHntgC7dZ5CrEF28PSj3hLQ3uBk9UY-4YYtpJ~NNW19jrVq87RJNYC6JuAandPgKQZZO3dfkovcJehVHS0iSohVVJFCAdGyXyg5DBbZSjTRMQctpv0H7jpPC1fmNRneCoVVaI~74WmOiVMusQhdE0H6qFtDAMGkJ~jeawBnGvfXxDAGbYDs2ShRKA7wMs8UaKWuvFvBiwg4W0g18mNkTgYgstyuUfDWU16RJoVZzc6bBE03XAMbVaPJx5CYey4Ggw4dne8KTppetjUECrlxZJv19485qp7lRQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-## Removing a team member
+### Removing a team member
 
 To remove a team member from the team:
 

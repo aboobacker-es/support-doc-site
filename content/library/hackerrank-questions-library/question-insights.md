@@ -25,7 +25,7 @@ To view test question insights:
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1758776148242-image.png?Expires=253370764800&Signature=ZhAj~Paw0dyS6R9OWKzisMxJ9uCU7bv2iFloKUOrNLz7izXN3JTJTTBuKZZIXCSaK7B8TvKPTtO~xLCRTmJhB1ld8QgZDvkXk2pht52-uSRvJwbMd-Rgr~Rivw5V8cMd-XufYv7y21RIAsMpTm85qB4e0eWcQqToYP3Y-sCrmBYHyvWIoSF~vGa8cbYyRUiPEakYyKlj5mMseWc0476pXvd6ro3FmQLQyQyfdMsNPgix-DhcLXkRDHiOhIWJivcHb8F7Diweg9kntvVCockyywzgf8~IJfht~3KJBWlCwh3sFHtbryBwhEGPRBCMnlx~sualZL~OZt9EqY3mqKPrNA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-## Question insights dashboard
+### Question insights dashboard
 
 The dashboard includes the following sections:
 
@@ -66,7 +66,7 @@ The dashboard includes the following sections:
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1758776266252-image.png?Expires=253370764800&Signature=qGEd9PBEPsqnJAt9GEoPUjtSa-fc8zhLAaienz18W29f0-610I6SdgiaUZJ5GPRfQ4a6btAW6BRZ~fXug84Y8aMFndhNRX83LP~7CxXgt-qr9blcyYXtgiDtttKRHMHyRL~5IZsfl-1jASexzSDGESFhAEItEu6seuX3KVmzYOv0ctjxBB~rJtA3LM4-L4YAjSTtgtv3jKXuB~nbGv-1y~xJg9j~fki8G15Ehy79wa043Mm7s-xhUw~GYNgHMTiFWZVL-rtW5G4yMIL0BWJVLq4tRREJEtTXuve6BXJ3Cz~4UmQl69dDxYCdBwhKjRvFLpnCO1kgXbJJhYvkG6nocQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-## Dashboard actions
+### Dashboard actions
 
 For each dashboard section, click the more option menu to access the following options:
 

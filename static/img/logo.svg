@@ -1,5 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 32" fill="none">
-  <rect width="32" height="32" rx="6" fill="#2EC866"/>
-  <text x="6" y="23" font-family="Inter,Arial,sans-serif" font-weight="700" font-size="16" fill="white">HR</text>
-  <text x="40" y="22" font-family="Inter,Arial,sans-serif" font-weight="600" font-size="14" fill="white">HackerRank</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 182 30" height="28">
+  <text
+    y="24"
+    font-family="Inter,'Helvetica Neue',Arial,sans-serif"
+    font-weight="700"
+    font-size="24"
+    fill="#ffffff"
+    letter-spacing="-0.5"
+    textLength="152"
+    lengthAdjust="spacingAndGlyphs"
+  >HackerRank</text>
+  <rect x="157" y="2" width="22" height="22" fill="#2EC866" rx="1"/>
 </svg>

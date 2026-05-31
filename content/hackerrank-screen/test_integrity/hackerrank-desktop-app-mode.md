@@ -31,7 +31,7 @@ HackerRank Desktop App Mode builds on the features of **Proctor Mode**. To use i
 
 To enable HackerRank Desktop App Mode:
 
-## Step 1: Enable Proctor Mode in Company Settings
+### Step 1: Enable Proctor Mode in Company Settings
 
   1. Log in to your **HackerRank for Work** account using your credentials.
 
@@ -44,7 +44,7 @@ To enable HackerRank Desktop App Mode:
 
   5. Click **Save Changes**.
 
-## Step 2: Enable HackerRank Desktop App Mode at the test level
+### Step 2: Enable HackerRank Desktop App Mode at the test level
 
   1. Go to the **Tests** tab. 
 
@@ -63,7 +63,7 @@ To enable HackerRank Desktop App Mode:
 
 Desktop App Mode enforces integrity at every stage of the test session.
 
-## Before the test
+### Before the test
 
 Candidates follow a guided onboarding flow that prepares them for the test and prevents integrity issues.
 
@@ -91,7 +91,7 @@ Candidates follow a guided onboarding flow that prepares them for the test and p
 
 Once candidates select **Start Test** , the application launches the test in full-screen mode. Candidates can exit full-screen mode after completing the test.
 
-## During the test
+### During the test
 
   * **Full-screen enforcement:** The application prevents candidates from exiting full-screen mode or switching to other applications. It blocks all such attempts. If a candidate bypasses these restrictions, the system automatically flags and logs the activity.
 
@@ -111,11 +111,11 @@ Once candidates select **Start Test** , the application launches the test in ful
 
   * **Copy-paste restrictions:** Copy-paste functionality is disabled to prevent pasting content from external sources into the editor.
 
-## After the test
+### After the test
 
 When the test ends, the system generates a comprehensive summary and detailed reports that help you assess candidate behaviour and overall test integrity. These reports are similar to those available in [📄 Proctor Mode](</articles/5663779659>).
 
-### Summary report
+#### Summary report
 
 The summary report offers a concise overview of the session, including:
 
@@ -139,7 +139,7 @@ The integrity result is paired with additional details in the **Integrity Summar
 
 ![desktop app with webcam.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1769514023885-desktopappwithwebcam.gif?Expires=253370764800&Signature=uXuavv94zpsL0nfQHg0yGUOg8WX2Y0fGCQnCGS7UiSCvVz5l04bTDAcPWm9vkAev2QTTCXcz-YpaILBzlJr2P3b96n4IRwuOCofSZlF5pyrL~84XI1c3ApYI7hpkIn0VRmsqdrESyk5cAc7UJuS1uBj5SxOT6UNvz6QCVYfZBmguTDPzyglqpYGcuWtEsaQpgPRVhU5mb-pv2anGvQdCIV~wnbJbdaHN~kFbsvDEre7YIouidbmBeBdEND399Pk1E4bGrxT3P9rOc9kvDJXSHwabITTbb4C0FDllKMo8oEEs5Xqm6lQavc3I~VGD0FlFvXzOAMpEnyE0yngneb62SA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-### Session Replay
+#### Session Replay
 
 Session Replay provides a timeline-based, video-style view of the test session. It includes the following features:
 

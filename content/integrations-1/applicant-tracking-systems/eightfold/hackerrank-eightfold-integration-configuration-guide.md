@@ -23,7 +23,7 @@ Before you begin, ensure you meet the following requirements:
 
 To integrate Eightfold with HackerRank:
 
-## Step 1: Generate an integration API token in HackerRank
+### Step 1: Generate an integration API token in HackerRank
 
 The integration API token allows Eightfold to connect securely with your HackerRank account.
 
@@ -38,7 +38,7 @@ The integration API token allows Eightfold to connect securely with your HackerR
 
 **Note:** You need this token in **Step 2: Add the HackerRank API token in Eightfold**.
 
-## Step 2: Add the HackerRank API token in Eightfold
+### Step 2: Add the HackerRank API token in Eightfold
 
 This step authorizes Eightfold to connect with your HackerRank account. 
 

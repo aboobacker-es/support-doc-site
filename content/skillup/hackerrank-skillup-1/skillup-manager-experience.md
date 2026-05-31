@@ -11,13 +11,13 @@ Managers in your organization can use the SkillUp platform to upskill themselves
 
 ## Manager Learning
 
-## Home
+### Home
 
 The home tab provides an organized overview of your learning progress. You can track your skills development, discover recommended roles, and view certifications to keep you aligned with your goals. The **Assigned to Me** tab provides an overview of the courses that your managers have assigned to you.
 
 ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046481964-?Expires=253370764800&Signature=Cpg8AnSZRvx47F4Vpmr~bgL39d5mtHgL2GfwbrHAR94YUl0o~urfzpZ5haCsnp0Q4BwCzgol7ZfVl5Ozb1YA~8lQL2tMl52FIOcFPtSkCjRSydQzIuVjeff13mYXHRmGCd7xl~teVh3WdJZ-HMBlvomEy7HV3AnE8Ao4nV0a7i5ih-Cd-Jl3PIWeWd5oaeEg711zT4kq9FsIqbnQ6ayMdfqf93uxUK60KDFY0f0UBLx1F~qKherRTQ~UlgRcjMXQNdrVyB7WLke0QDH6kx4JHSvQWpFXAk8e~6r-BkGxTbKnWTnHNEGsgJ6UhShOoQORakO4HRm305MSh44~6bIjHA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-## Skills 
+### Skills 
 
 The **Skills Directory** allows you to explore in-demand skills. View globally trending skills and those available in HackerRank's library, organized by categories such as **AI & ML**, **Software Engineering** , **Cloud Engineering** , **Data Engineering** , and more. Tracking skills here helps align your learning with organizational needs, increasing your impact.
 
@@ -25,13 +25,13 @@ On the **Skills** tab, you can either explore new skill areas or continue your l
 
 ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046482570-?Expires=253370764800&Signature=OG7umvfj8V5wI90l5c900B6jw418qmoyKisRIOfk6OqbuEXfJztwrB8~UTtkjQfUGH7H3puXxznAlkGKCdsMvI0cW2auTDSoiFH~C1YV8qQywKPZbLUuPSQ0pnc8-BtHi4E84oKjUZ-UypIDZ61zBoCrCWIiVAETXyv6YNyzvXNP6aBItrR1racf3N7ZCgve16HPdUGW2TTRH9LsSzziZifRBS4zaLenevQasuDovF-RdM4gnp7mXpWyflKldVjV8S3hHtbPYaRUtSpzt4miMcS5TD8ulEDFeFEhoFuR0LJ7TdhQ7wRVxXSLaKcZg7JbPQ56RIcT5PAo9AYSWD0NKg__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-## Roles
+### Roles
 
 Based on your skills, the **Roles Directory** recommends career paths such as Angular Developer or Full Stack Engineer. Every career path would be a combination of multiple skills.  You can unlock new roles and progress in your career by meeting the required learning milestones.
 
 ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046482991-?Expires=253370764800&Signature=deaOvbyXFb0xCjPShcE6mmGXWDhCjP7WUqQP7gbNo11uF9DVAc6KIKl3eARbD0667YH8~nKQLY7j7QikL~C3li5CP7zhzAKNi3bNs5st5j8afFBZSQuPNDGKGla~9eJ4KdeVraqkBqa-b7O9L9n9VnoRWRE6ZHxTOsIdMBWu~8pZ0IMWUaqc6medBo3T3Qz3UiFcrOTOHodFhinptaUcPkAOBFoC0oTmy52DMIgf~9BE-sOCtekwnua~Bt2~2IBh1LJx1F8ZFMedIeZFF2SaiCnRuFycAqjvGOoKKZarWPyfqbq6dHqECQBQEXzKtY2mGnBXW1HGOiuyY8gH-EVeSg__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-## Certifications & Badges
+### Certifications & Badges
 
 Completing learning paths can earn you industry-recognized certifications. Display your new skills with badges and certifications to highlight your achievements within your organization.
 
@@ -39,7 +39,7 @@ Completing learning paths can earn you industry-recognized certifications. Displ
 
 ## Tracking Team Progress
 
-## My Team Dashboard
+### My Team Dashboard
 
 Managers can access the **My Team** dashboard to review their team's progress.
 
@@ -51,19 +51,19 @@ The dashboard consists of two tabs:
 
 ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046483938-?Expires=253370764800&Signature=bGHoPbPRRyOtYPcTSj09956ZHRaB~xNt5LqslXs~Vee9Infk2pJ2Jux2lp3o~-vagciDoY8YPpjzdawu3FPLv41XUWdDRdkcDJ1rXBgYyj4pz5qXIIHfHdelHD3qL-mY126ZcJLAdngywgt6L5uzxE3Gaap8dYfhFZAKRtUy8u89B8ZnxGlR6P6-oYn-a9soZrBrJQ-DO4pvaT3MU~58rMd~dMQVmrfj57ka9NqX-TSqT9tky5sB4vQ0bqIMNCnrRyECxVbs7yxjFzlC6sy9-WC9EJt3SkqproWxDutY~uiYxDljaJ47F3Rgj-Kz7QCY02HeKmzfqlXNuEkrIaMdIA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-### Search and Export Data
+#### Search and Export Data
 
   * Use the search bar to find employees. The filters will help refine the search based on skills, activities, and managers. 
 
   * To download all of the employee data, click on the **Export** option.
 
-### Viewing Employee Progress
+#### Viewing Employee Progress
 
 Click on an employee’s name to view their progress. The **slider** displays all certifications, whether self-assigned or assigned by the employer. You can click on the certification name to expand the timeline of events. Additionally, you can send reminders and set a due date for the certification.
 
 ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046484368-?Expires=253370764800&Signature=cTgR2t29xvbGFhp~fom~QAG5bFA6d9yTyxb8Nme~VRvaB8Kn9ZKgZpiXjk1lzc4V1nrb8bQF39bbK0JEE9V43vtbmwtyoNzWmr2ctoVb37TfJUt4cTp-4FpP38neoZfL6qCf0HXENVstQC07pfQL7VCs80L7dZBAo4xCLfaqIQQ8G8kMhrAtwg117m1ecnsI7IWMQGTG2VM~mN5ARc9FGSzOBaFwl~be-T3CF9TTBKaQzn57UhVACTMNl4FUsC9nou-OxBFT1JFW4vn5uNM4jkph7dLMbvohS5PyVk9i1MFqlBfZ9D8qrbik5ic7TT3no-kXsxjFVHTyZ6p2Dg4Bzg__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-### Certification Attempt History
+#### Certification Attempt History
 
 Admins can view a candidate’s certification attempt history to track performance across attempts. You can use this information to:
 

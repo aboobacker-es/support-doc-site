@@ -60,7 +60,7 @@ To create a DevOps question:
 
 The DevOps question creation workflow opens with the following two steps.
 
-## Step 1: Settings
+### Step 1: Settings
 
 This step configures the environment and scripts required for the question.
 
@@ -109,7 +109,7 @@ A success message appears when validation completes.
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1771231505401-image.png?Expires=253370764800&Signature=EJkuYyhrrX8evy~~wasE8baLcGcHUyxapKV1Y8Ofvsbqrf4ZiKJMBp-HkPMkJSD7FlITeInSwFzSOHz4Vp5kODHfKBgCHc4CakZjxHLHGN4DZRns3qP6nF3gnuSLtyjuI6xuFshL~mEZMDXTjGNdbj0XEnhJ-WF73mblMEIdrdC~7VdAMQQLesqFdWRG1FDnQT1ZKpeXlDPAZeENOG2nJM0Ilx2M39ZFr8Ef2Uqovjw-U9sNcHmW7xJ7YVU6C~YFN52xz6pjKG1rh5tiXyxT10--GifRhXtM7IxfS89-SIM8IjUZwqej6Mf0rppR91m4WT1MoAcLUIKeFJpiDXMhZg__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-## Step 2: Details
+### Step 2: Details
 
   1. In the **Problem Details** section:
 
@@ -150,7 +150,7 @@ DevOps questions use automatic evaluation. The platform runs a Bash scoring scri
 
 The scoring script determines whether the candidate receives full credit, partial credit, or no credit, based on its output and exit status.
 
-## Partial credit logic
+### Partial credit logic
 
 If the scoring script prints one or more lines in the following format:
     
@@ -171,7 +171,7 @@ The system calculates the score as follows:
 
   * If a printed value is greater than 100%, the system treats it as 100%.
 
-## Scoring based on script exit status
+### Scoring based on script exit status
 
 If the scoring script does not print any lines in the `Partial Credit: <value>%` format, the system assigns the score based on the script’s exit code:
 

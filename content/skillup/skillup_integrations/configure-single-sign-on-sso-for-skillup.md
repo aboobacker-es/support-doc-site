@@ -23,7 +23,7 @@ SkillUp uses the same SSO configuration as HackerRank for Work. To enable SSO fo
 
 To configure SSO for SkillUp:
 
-## Step 1: Configure SSO in HackerRank for Work
+### Step 1: Configure SSO in HackerRank for Work
 
 To configure SSO in HackerRank for Work:
 
@@ -39,15 +39,15 @@ To configure SSO in HackerRank for Work:
 
 Once you complete the SSO configuration, all users under the same verified domain automatically authenticate to SkillUp using SSO.
 
-## Step 2: Provision users for SkillUp
+### Step 2: Provision users for SkillUp
 
 You can provision users for SkillUp in two ways:
 
-### Manual provisioning
+#### Manual provisioning
 
 Admins can manually invite users directly from the SkillUp Admin Panel. For more information, see[ ](<https://support.hackerrank.com/articles/3868789028-user-management>)[📄 User Management](</articles/3868789028>).
 
-### Automated provisioning with SCIM
+#### Automated provisioning with SCIM
 
 You can automate user provisioning in SkillUp using the System for Cross-domain Identity Management (SCIM) protocol. SCIM automatically creates, updates, and deactivates SkillUp user accounts based on changes in your organization’s directory.
 
@@ -60,7 +60,7 @@ To set up SCIM, use one of the following options based on your organization’s 
   * **Existing SCIM setup for HackerRank for Work:** If your organization already uses SCIM for HackerRank for Work, you can reuse the same SCIM endpoint and authentication token for SkillUp.This setup automatically synchronizes both platforms.  
 If your existing SCIM configuration uses Okta, follow the instructions in the [_Extend SCIM Provisioning with Okta to SkillUp_](<https://support.hackerrank.com/articles/9570265682-extend-scim-provisioning-with-okta-to-skillup?lang=en>) article to ensure the correct functioning of SCIM for SkillUp.
 
-## Step 3: Access SkillUp
+### Step 3: Access SkillUp
 
 Users can access SkillUp either via their IDP tool or by visiting [_hackerrank.com/skillup/home_](<http://hackerrank.com/skillup/home>) and logging in. 
 

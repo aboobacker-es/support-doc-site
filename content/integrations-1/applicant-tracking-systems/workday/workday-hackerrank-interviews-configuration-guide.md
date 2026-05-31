@@ -27,7 +27,7 @@ Before you begin, ensure you meet the following requirements:
 
 Configuring Workday Studio involves three steps:
 
-## Step 1: Import CLAR file into Workday Studio
+### Step 1: Import CLAR file into Workday Studio
 
   1. On the Studio menu bar, select **File** > **Import**.
 
@@ -57,7 +57,7 @@ Configuring Workday Studio involves three steps:
 
      7. Click **Finish**.
 
-## Step 2: Add a connection in Workday
+### Step 2: Add a connection in Workday
 
   1. Select **Window** > **Preferences** > **Workday** > **Connections**.
 
@@ -87,7 +87,7 @@ URL| The URL of the connection.![](https://assets.usepylon.com/e6a58e21-be80-477
 
 ![confg_guide1.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046123389-?Expires=253370764800&Signature=EUXEZqRnzLkuE~eez1n1v8ZPep6egPsCxsCW5S1-0S9TY7ot3U5L7sn7qnusVsZWqvxoKrOotYxx0VCpGCWsvSDSMfm1jtg-zLfbb5KlYWNu94xsccY9bj14fKAK~YEuoyR94cz5f5bydBD7mmSZExvmiY17SJI9sdxtS64XgQ9-b~xq4B18mJzDn~ag7wAf23EQLXBBk4s1kzR1m5Px10oOrpvweECcE1~KYibtwFRTgZW797EUAv7kyu8GOFZZHbawWpDp96eUAxSDGDt8oVV66SZVPYB4ikBBxJXnMSbpshy-rrG0PliksekDbfqJcy~WS2LsYV954gIdSev9TQ__&Key-Pair-Id=K3NV4LZ47N8M46)![confg_guide_testconnections.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046123815-?Expires=253370764800&Signature=F-EBc0fAOy1MSKm7Q46k0segf5G7WcefhZIbtd1rKrvA1-j4bJMCGG4gPxz8zC5IH6xkzykjOanHVLLJu5W9nsaAyLG-~bhIEHIn6uG0XuR6jJq0JrgeJXzDNG5yTrvsXCFIv7d-GM5cgwrIHBIG62Ip44TOde9CE1HquKpQVg7CCynDbQLP~8cC6fyKocR5LvDJoTFk-rtQYmQKKnDauThdo4js3E0FxIFk7tpgYFX0mufN-pgpctM2NHB68-EsFzVY1SynIGXNNQSCfq~K3OdRaoCznTOF-l~HrRcFJpfa2D0UML2GBK6tAu-h93FZFWY69D5bljnf~IgbhUszzw__&Key-Pair-Id=K3NV4LZ47N8M46)![confg_guide_testconnections2.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046124227-?Expires=253370764800&Signature=BoSpt7spaRVeZ4kQ-dhM065aL2eInLZCxmdPYp3etfD-JxgwoVX1fCnHagbyPikL~xmLuI4UwnpScKuRJSnJmphEmtw1V3CbdFgnhd-d~O~JBEENe91emeAFBwrUh-rA4pdTrAFCcWbpl3p43wFO0B9bGVkaMacjRQ8XlpxRaFxsv5XAt8E2HpXSJ-XV9JDuFBH-MxJ1mebVFoYf2hlaGupGJt8wxvBn~XjsC3s1Xr2PoIFZYM-cZxAk50nn90DeMP-vwAV4Oeuwkf2KoQaIwFkTLO96vimPBvgnSOhRV~17U0LP2yXrJTVi0gvwgthVVvR0~jCghU9R9ONx9QbXnA__&Key-Pair-Id=K3NV4LZ47N8M46)![confg_guide_testconnections3.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046124704-?Expires=253370764800&Signature=c-CjTRGsZJmzEcQrzWyj0hoNPNwiK3Crxs6Z3JqwApI1wuSiS3khoSJwiTpnQYk5XSdmyfSqZUVVjtYTHyWvuSkyjLr-QBSBeYKbd-od3lZSgFTQVZX4idKflZAr6QI5O-A465o1gHTo1UIHlAq4ehm5m5q-tUDWIwsz5JCwaFDEaOteh6Tkd4HKGaw9ITbkxU1g7D5QlOdniJJXffZ7~8b8xmS73fj-RocSUTimP705yjgBkDe1iXnuj3BruylRxAomjU7P2Ap0ebBN5reXHcUhTC1ZAqcpoa5YvHjnPPI0iT6ax-bihf~zpTxqNGEvgrI2v6pdGWXoEGEqkBOTPw__&Key-Pair-Id=K3NV4LZ47N8M46)![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046125142-?Expires=253370764800&Signature=UoiXQUoY4054xcJu9ky4PmzPtgZIPjsKgnxNRUVja0muCV1Q6NIJZj-NNoIB15156WQXVCzVBGAncloHXAuOgUgCINdRsdZjqjXihHAVP59z2qgF8iIairwhI-t7tVrc~ddJ~fX6EGfie7MF6SQ-BDCXKbtjORz7bZ5pUdXd-YDA46ZuNXlB~yduuaH2ZhIWxiepfP8DXfsYKSk8uSWrAZr5UeY0EssIdwLIsZrxvbnpiZMoQUIirQAKeWmGGJdgqWX5cA-nNeQKBMVgpZEXGb8HzmTNItO-HkpM258UC9lagydCLwbc2l9bQ0DanmacJFFKhltf--at6-fBjbrT~A__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-## Step 3: Deploy CLAR file to Workday tenant using Workday Studio
+### Step 3: Deploy CLAR file to Workday tenant using Workday Studio
 
   1. In Workday Studio, right-click the project and select **Deploy to Workday**.
 
@@ -103,7 +103,7 @@ URL| The URL of the connection.![](https://assets.usepylon.com/e6a58e21-be80-477
 
 **Important:** You must have access to the domain **Security: Security Configuration** to perform the steps in this section.
 
-## Create and configure an Integration System User (ISU) account
+### Create and configure an Integration System User (ISU) account
 
 **Note:** If you cannot access a specific task or report referenced in this guide, use the **View Security for Securable Item** report to review the domains required for that task and the associated security groups.
 
@@ -209,7 +209,7 @@ Add the integration system users to the System Users exempt from the password ex
 
 **Note** : If authentication policies are not configured correctly, HackerRank may be unable to make web service calls to Workday. If there are issues with authentication, use the **Signons and Attempted Signons** report to troubleshoot the failed sign-on attempt.
 
-## Configure the HackerRank Settings page
+### Configure the HackerRank Settings page
 
   1. Enter the username of one of the integration system users you created.
 
@@ -230,7 +230,7 @@ Saving the configuration generates the **Access Token** and **Company ID** in th
 
 **Note** : If you move tenants, provide updated credentials to the HackerRank team.
 
-## Add HackerRank-specific fields to the Integration
+### Add HackerRank-specific fields to the Integration
 
 **Important Note:** Before configuring the integration attributes in Workday:
 
@@ -289,7 +289,7 @@ Each value appears in a masked field. Click the copy button next to the field to
 
 ![workday_new_ss.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046127983-?Expires=253370764800&Signature=nVg9rVtppI5Osfo5z197sC5PMMG6myyI8CKuh08izirymgaJKGnEwfU8XcvzTebKGU0QtsJkMYCwCR2YaTny53wobMuQXadMqGxvz5H44t08ZRKyTY9sRBOH9x1U7qgopyxGU8toXa9lOW-4he4FvJuQnqKdXc6NbaZfHCOXYsBjact3nFCKP0l~yRDy76TadpBQ5EQFOB~66NsaqF3IDF9GPRLrCPj4MaRTxBZ697FRsF9~SEcfVJVTH0fCfOnwgKXGPUjb7P8dWMgPartSUqvQNjA4aVHG2rZGDxvt9U1nVAOu9M-R-ZiG56ONVldjBQ3FRjlaTajFJoP4TbiXRg__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-## Edit tenant setup - recruiting task
+### Edit tenant setup - recruiting task
 
   1. Go to the **Edit Tenant Setup - Recruiting** task.
 
@@ -297,7 +297,7 @@ Each value appears in a masked field. Click the copy button next to the field to
 
 ![confg_guide_webconf.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046128305-?Expires=253370764800&Signature=CL9gHEOuwsWi8rXbkyGl~MVjTPs99SOleVmr0i9KyQZn~g~n1cY3M25CQC387J5KaghdfuFFueHJmVHn99P-2FDVsKHrSMRisPIbj7BVPJBYPKWbLwcYt0r3dHGoczI7twLrU8vcEJAOTzaMf3ywfO5QtUeqeGU4UNSWT7T285T~mLfkfj7tmwG5OyWGT1zF8WeP2IYK68yo4Y5vGNOu9GLrZ~yYWCpIOBrxCZ7VI4yjIq73VRM7eTGcKnqKcJRtFconRJkpIS~Sx97AVxZ~-QkVymMavuyF-VIBlf3lmqD4QLzq5I2hvuhBHBEu4VOfWWn~5C9Qu9a3KcI6Uv3rDQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-## Build calculated fields
+### Build calculated fields
 
 Use the **Create Calculated Field** task to build the following fields:
 
@@ -353,7 +353,7 @@ Description automatically generated](https://assets.usepylon.com/e6a58e21-be80-4
 
      * Return Value: Email - Primary Work
 
-## Business process configuration
+### Business process configuration
 
 **Note:** Workday recommends the following setup and has been tested for the integration to work. We recommend keeping all the steps mentioned below in the specified order. If you have additional steps in your setup, make sure first to test if the integration works for your setup.
 

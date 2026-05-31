@@ -11,9 +11,9 @@ is_published: true
 
 ## See What’s Included
 
-## Integrity features
+### Integrity features
 
-### Proctor Mode
+#### Proctor Mode
 
 Proctor mode ensures the integrity of take-home assessments by monitoring the session for any suspicious activities via signals from the webcam, screen capture, and other sources, and presenting the findings in a report. It's intentionally designed not to impact the candidate experience unless there's suspicious activity.
 
@@ -23,7 +23,7 @@ Proctor mode ensures the integrity of take-home assessments by monitoring the se
 
 ![PrcotOR mode.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1769697790684-PrcotORmode.gif?Expires=253370764800&Signature=vxxz5hEicBHnWrGzwuVa4Izus2emwJYRzWNUjyqi0agpa6YbRU4lAHba9TZsGAdoyYiKxcolcbRr3yXtSje7uig5iPRCiYxfEK9JHfpuQmDfWLwidMn5l17lKce-~YEJcVszZ8Ii4y19y5WSkNsnqVUtSoQFdtwiUG42dqCaku93rSGoU1bceoYhdXNaWqqDi7y-UjwitrZfgPFquwBdxUZZZomkSowJsHlrMmkM854qRNuEWJzZXZgZh8F-MvCc3-CgLL~z9UIjI3h9XUdcXiuuiuls1xpAdIeHogvfFfcXEFW2nNGrAXkMICYXyR9wTjnGycffGUh8DJmjkM0M5A__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-### HackerRank Desktop App Mode
+#### HackerRank Desktop App Mode
 
 The HackerRank App adds a new layer of security for high-stakes assessments. It creates a secure testing environment by blocking unauthorized applications and continuously monitoring candidate activity. It delivers enterprise-grade integrity while preserving a smooth candidate experience.
 
@@ -31,7 +31,7 @@ The HackerRank App adds a new layer of security for high-stakes assessments. It 
 
 ![HackerRank App secon.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1762256551742-HackerRankAppsecon.gif?Expires=253370764800&Signature=gUt4YnQZTGo2yvA3y182V6L3aN4hy9Yxg3QCtvVumwRWGZ8E3FKGQFNZlkL7UUNSlzJMYCb5wEss3FLboqAX6Wk73jL1Y3tCVeOPeugEeTl~Am-nFWA6~esaWQoxWWd3zW3PlJRe-FBpgx9SlhQ~UyUHAWiyACZxCO~TqgU8tmJJQP9u6vHWGIM7vcsMJHPzU3~aZQPyS-8TbLnsy5iXeXc-AOOn0g4JqQiVRKFWgsuoQWNrXnjRnb2JPytQuf53b2ErcB4lJYUM-~yVKTIdx10M4Cwyy8Dk6nxm9n2zUC7kfA~HICVFQMjRaNTAEp99DPSCqwY4oOYvNInkbiZUIQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-### Screen to Interview Identity Match
+#### Screen to Interview Identity Match
 
 Screen to Interview Identity Match compares candidate images from take-home assessments in our Screen product with the images from the video feed in our Interview product and flags if there's a mismatch. 
 
@@ -41,9 +41,9 @@ Screen to Interview Identity Match compares candidate images from take-home asse
 
 ![Screen to Identity Mismatch.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1753780507822-ScreentoIdentityMismatch.gif?Expires=253370764800&Signature=c1lJcPeiISasTnyEfAarQZWoz48-xAOmpmSX-OY7O6ew6efj5UUedqC4uIvkzXYAaz9GcCNPSzSJeLZ3nfC4MOiPjjubnc6kEoVJakZaqK80ptS7rYLohPfz2A71~vRW0g70ai8yQsJWw354lsD8HcObXDNgQq5MNHaO4bJUHJqDg7cMLGuyL~qg81WTJOOm8hWO5doW8u7VjSdOiJV8-7Tbi9FTZpq0Kv0LnEGJZWtCcbFy7-rDdi7WDhx9XHkgkEYRybeUSlLjmxZrnxK8deanVDXVNN8tvntLc1AmrhX2Zvt6obg4lrFW9IwuYw6udht2km7ag6UqnGNHa-2ISg__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-## Features to evaluate NextGen Skills
+### Features to evaluate NextGen Skills
 
-### AI-Assisted IDE
+#### AI-Assisted IDE
 
 The IDE now comes with an AI assistant mirroring the real world. It's currently a guarded assistant in take-home assessments in the Screen product and unguarded in the Interview product.
 
@@ -57,7 +57,7 @@ The IDE now comes with an AI assistant mirroring the real world. It's currently 
 
 ![AI first IDE- Chat \(1\).gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2Fcda61d97-2c0c-4b33-adf6-b4c4aa0ee41e-1753626354383-AIfirstIDE-Chat%2525281%252529.gif-e9588d57-0951-4f39-83c7-ac51b487c1e5?Expires=253370764800&Signature=cLKEyzGX1l5dtrLH29khRgWwcppeej~ZEj3kJPLhoBL7U9Jxs0Qdi-TCAyT6-ueUwL2OfaIJ6E14viXMOYdq~eJFn3WJmgWNJpmGZ-xMyZLRQ1LmWoFb8NwdV686FidoM8xFEIs0PUGHdL3GF-L-CU8X5Tqrwvbr6WSpGW7XPdv7SfVr90L72cx1VLU99D2vnxdzOTrEXiUFsV4O2Z4PAi1LSveenDqfIigkoA5Bf5VumZG8zu8do1uBdqHRDs4pWWXKTuVJRkx~J40tqQEAaLIhwtvONjIk15RQNLyph8WMqKO4yFpaO5sR5pq2fsuDy~iT-uoa5B7N10N8R206uw__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-### Advanced Evaluation
+#### Advanced Evaluation
 
 Advanced evaluation extends beyond evaluating the candidates on code correctness and optimality. It assesses the quality of the code written, how they worked with the AI, and other factors, and all of these are summarized and presented in the report.
 
@@ -67,7 +67,7 @@ Advanced evaluation extends beyond evaluating the candidates on code correctness
 
 ![advanced eval.gif.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1769697103503-advancedeval.gif.gif?Expires=253370764800&Signature=IQOHAbkvgt6-hrtqIp9EmhuslPcW8FYhxvtvlpRHAPdqRWQo6jHmlTX393mFO2RMCY1WoZZ4j7cfVT9HS0eGJIBpC5jDgYo1i~8gWlWYgcNEmcpSocTSpiPCbH9TiujuCaZOR07JS-VRQiproPze-P-fheO99lTzn9iXS-zuSlkyndunJ82iz2wFw~dCLWxTEyDEbEqapHPPRIzpHMxyvgRlZo2njZ9RVbvTjBOMPqAO81iVWMkZa0ebRDSGuYH-VI2LfsoSYZ6B8TK-HCn00~36JrntmBFSkufMtwJZykAX9DTKCF4FW0AA6KPeCOUXSyew32m-c2THW42wxIGwng__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-### Scorecard Assist
+#### Scorecard Assist
 
 Scorecard Assist uses AI to generate a structured summary from the interview session, analyzing a combination of the transcript and code playback. This is summarized in the rubric specified by the interviewer, helping them complete the writing of the scorecard more efficiently.
 

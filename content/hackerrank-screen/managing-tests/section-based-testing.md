@@ -71,7 +71,7 @@ HackerRank automatically selects questions based on the chosen skill and type. T
 
             * Click **Create Question** to write a new question. For more information, see [📄 Creating Questions](</articles/4894957291>).
 
-## Configure section settings
+### Configure section settings
 
 You can modify the section name, timing, and behavior. 
 
@@ -101,7 +101,7 @@ For more information about AI Assistant, see [📄 AI-Assisted Tests](</articles
 
 **Note:** Random selection sections allow you to control the variety of questions across candidates.
 
-## Reorder a section
+### Reorder a section
 
 To reorder a section:
 
@@ -111,7 +111,7 @@ To reorder a section:
 
   2. Drag the drag handle (⋮⋮) to move the section to a different position.
 
-## Delete a section
+### Delete a section
 
 To delete a section:
 
@@ -129,11 +129,11 @@ To delete a section:
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1758791910992-image.png?Expires=253370764800&Signature=b0BzVndWgV5uinTc-VS3yOl3mqZMQbrPJCfa0fonyXayE4t1E-csOWtWVACJVAcDfWqK0pPXLDdRZumLWhffBtWD8IfOiTLxG94w72eQUFRQ1582EJlI~PGglu9duT-ARZnHXofddW11qK-BbwBb8N5QL6Z9xoMyWoZXWsBNdHCM7csCBzrZV3KjXvJ0~sypIgF4M27MePuKUlYB1PX5A1FPVM2OExAvnvHJe4igeG43-XYke87ABxA7naqH6TjqfujgG7AYnR4wisQnqi2E3gHslHoWjJWR2teeyrZ8yT9wNINvuLMYecUF1mfEmiJxzDU2LwnScCAzdZjHtD9aAw__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-## Manage questions in a section
+### Manage questions in a section
 
 You can add, try, replace, or remove questions within a section to control what candidates see and how the questions are presented.
 
-### Add a question
+#### Add a question
 
 To add a question to a section :
 
@@ -154,7 +154,7 @@ To add a question to a section :
 
        1. Click **Create Question** to write a new question. For more information, see [📄 Creating Questions](</articles/4894957291>).
 
-### Try a question
+#### Try a question
 
 To try a question in a section:
 
@@ -164,7 +164,7 @@ To try a question in a section:
 
   2. Select **Try question**. A new window opens showing how the question appears to the candidate.
 
-### Replace a question
+#### Replace a question
 
 To replace a question in a section: 
 
@@ -180,7 +180,7 @@ To replace a question in a section:
 
   5. Click **Confirm**.
 
-### Remove a question
+#### Remove a question
 
 To remove a question in a section:
 
@@ -249,7 +249,7 @@ To add a code repository section:
 
 **Note:** To add a code repository tasks to a code repository section, see [Add a code repository task](<https://support.hackerrank.com/articles/5546852679-section-based-testing#add-a-code-repository-task-35>).
 
-## Add a code repository task
+### Add a code repository task
 
 To add a code repository task to a code repository section:
 

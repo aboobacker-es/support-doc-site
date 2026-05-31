@@ -40,7 +40,7 @@ To access the interview scorecards:
 
 Custom scorecards provide a structured approach to candidate evaluation, reducing subjectivity and improving hiring consistency. It helps interviewers assess candidates using clear, role-specific criteria.
 
-## Key capabilities 
+### Key capabilities 
 
 Custom Scorecards offers the following capabilities:
 
@@ -52,7 +52,7 @@ Custom Scorecards offers the following capabilities:
 
   * **Flexible assignment** : Assign scorecards during interview setup or through templates for consistent use across interviews.
 
-## Creating a custom scorecard
+### Creating a custom scorecard
 
 To create a custom scorecard:
 
@@ -67,7 +67,7 @@ To create a custom scorecard:
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760193412413-image.png?Expires=253370764800&Signature=qMt20hOKlnFXpCTZcxYx5bG1cQNFLwStQs2g-605FNcPfv24OwCg0C7Z2ao3FzPUrcoIS2H-SJkH801wyR9grW1eqHFWFzDtIXcEN8715tqWbhjAzHgybBDwbT2vqM9njmJomkWgMfFZHl3u7oj-HH4tu3RRSMXPbg0rgDcy49sxSvINR7MjR6DBScmp3JEUl6iWZexIGwXoxSHSZ09JXOweuvTHdTX5isSa267t17MBZNreo3kuc81Mm7jtAEZUde9RRNQQr1WOOTmC8L9YXV1c1C8jmmYSh6PVp7YmF6BVFx3JwMKw0hujeTHwlNy2Ha62QAcRYZlqhi2lRcWj8g__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-### Edit the default question
+#### Edit the default question
 
 To edit the default question:
 
@@ -108,7 +108,7 @@ To edit the default question:
 
 **Note:** Scorecards save automatically.
 
-### Add a section to the scorecard
+#### Add a section to the scorecard
 
 To add a section to the Scorecard:
 
@@ -126,7 +126,7 @@ To add a section to the Scorecard:
 
   * Select the **delete icon** to remove a section.
 
-### Add a question to a section
+#### Add a question to a section
 
 To add a question to a section:
 
@@ -157,7 +157,7 @@ To add a question to a section:
 
   * Select the **delete icon** to remove a question.
 
-## Assign a scorecard
+### Assign a scorecard
 
 You can assign a scorecard in two ways:
 
@@ -165,7 +165,7 @@ You can assign a scorecard in two ways:
 
   * During the interview setup
 
-### Assign scorecard through templates
+#### Assign scorecard through templates
 
 To assign a scorecard through templates:
 
@@ -181,7 +181,7 @@ To assign a scorecard through templates:
 
 **Note:** If you do not select a scorecard, HackerRank uses the default scorecard.
 
-### Assign Scorecard during interview setup
+#### Assign Scorecard during interview setup
 
 To assign Scorecard during interview setup:
 

@@ -17,7 +17,7 @@ When you retrieve candidate data using the HackerRank API, the JSON response inc
 
 The `status` field represents the state of the candidate’s test attempt.
 
-## Stable values
+### Stable values
 
 The table below lists the stable values and their descriptions.
 
@@ -30,7 +30,7 @@ The table below lists the stable values and their descriptions.
   
 **Note:** You can build downstream logic only on the stable values.
 
-## Transient values
+### Transient values
 
 The API may return values such as `2–6` or other negative numbers.
 
@@ -54,7 +54,7 @@ After a candidate completes a test:
 
   * A recruiter can manually update the state to move the candidate forward in the hiring process.
 
-## ATS state values
+### ATS state values
 
 The table below lists the `ats_state` values and their corresponding recruitment stages:
 

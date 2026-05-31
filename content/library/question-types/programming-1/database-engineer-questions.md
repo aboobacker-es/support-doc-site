@@ -26,7 +26,7 @@ To create a database question:
 
 The database question creation workflow opens with the following two steps.
 
-## Step 1: Question Details
+### Step 1: Question Details
 
   1.  In the **Problem details** section:
 
@@ -65,7 +65,7 @@ Hard| 100 Points| 45-60 Minutes
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1769680123677-image.png?Expires=253370764800&Signature=PhwA0H~6IE38c2lYiFPRtIYdtRtSuNc0XiA2KhO8e05moZZON5CHW-2L6tofBMahZdFMk~pYgdvQycKp3iWSA1FDe-EEAuqetYeimkoDg7rV~EoiAu8mSNjJyr5KXLgwYTV5DdQlZyVgWgviHCpig6YSoWzmfI7ItrZrwgcQlxuc6veVBD8SATsA34evNzcvlOSu~EIGOEVFdjFSgwZbR-p6j5ns75klNqSqKN~nT-WZi9W-NdNzzWZb7kEWOIdBNoSFfPj9J6dVE8PHAQiFDL7pnwfcwKxFOV3CDZXoxWgM6yUbzu7dJbBRPzQlrpazjsRfgoUzm5ggOShZPtPsoA__&Key-Pair-Id=K3NV4LZ47N8M46)
   4. Click **Next**.
 
-## Step 2: Database Setup
+### Step 2: Database Setup
 
 Configure the database schema and define the expected output for the question.
 

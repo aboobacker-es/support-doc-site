@@ -74,7 +74,7 @@ The right pane displays all candidates who have completed the test and are marke
 
      * **Excel:** Downloads a single file with all candidate results.
 
-## Downloading test reports for selected candidates
+### Downloading test reports for selected candidates
 
 To download test reports for selected candidates in PDF or Excel format:
 

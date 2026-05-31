@@ -19,7 +19,7 @@ HackerRank integrates with ModernLoop to create HackerRank interview sessions fo
 
 To integrate ModernLoop with HackerRank:
 
-## Step 1: Generate an API key in HackerRank
+### Step 1: Generate an API key in HackerRank
 
   1. Log in to your **HackerRank for Work** account using your credentials.
 
@@ -45,7 +45,7 @@ To integrate ModernLoop with HackerRank:
 
 **Note:** The integration will stop working if the HackerRank account that generated the API key is deprecated. Best practice is to use a dedicated admin account or create a new HackerRank admin account specifically for this integration.
 
-## Step 2: Connect HackerRank to ModernLoop
+### Step 2: Connect HackerRank to ModernLoop
 
   1. Log in to [_ModernLoop_](<http://app.modernloop.io>).
 
@@ -66,7 +66,7 @@ To integrate ModernLoop with HackerRank:
 
 To use HackerRank Integration:
 
-## Step 1: Generate HackerRank links during scheduling
+### Step 1: Generate HackerRank links during scheduling
 
 When you schedule an interview in ModernLoop:
 
@@ -76,7 +76,7 @@ When you schedule an interview in ModernLoop:
 
   3. Click **\+ Add HackerRank link** to auto-generate a link for the interview.
 
-## Step 2: Add HackerRank links to interview plans
+### Step 2: Add HackerRank links to interview plans
 
 To automate link generation for specific job stages in ModernLoop:
 

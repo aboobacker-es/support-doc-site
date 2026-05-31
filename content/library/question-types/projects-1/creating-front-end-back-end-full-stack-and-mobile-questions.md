@@ -64,16 +64,16 @@ To create a Front-end, Back-end, Full-stack, or Mobile question:
 
 The question creation workflow opens with the following three steps.
 
-## Step 1: Environment
+### Step 1: Environment
 
   1. Select the project environment.
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760247852340-image.png?Expires=253370764800&Signature=BZfUQhknA8DRkxJXLpCzsHanu8FB3xI~MWd5g893fAl9OBqf62jSCG4WHQYeBKXSQJ26gINpMOWPsd4fJrIlx7fUnQo6M4uAJhc81QUVmReqjNDwlJ4ULaMkAmrl8WH7YcbhhDuL9TIWbmQp7N9qsrxvTvScbKzj~ivJbyGaEsAaq4pMV99iQ~Zs-Yut0-5I~DM0VuQcKo7ZlZ3fxkc5mzcOhs2bsMhS9yYlpHZSc-7Q17Phx2sckt7eqI981DOAW~jcoU4lnZgI7rQKAPJmvlnm0WC6nZhytN9KdpmvhJX0Ql6tmII9IdsgxrMzANsgR8R13fgJdtIHFbDOlSOJ3Q__&Key-Pair-Id=K3NV4LZ47N8M46)![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1772688876110-image.png?Expires=253370764800&Signature=liJwuGljdH-OFd2l8hjtD8I0WqbNlJIwj9HdY1~GNeV1O7YWlaXqKqVMxXo~QWQn38PVriqKqADYTXY3U63wyo5OwkB5g0XQmqERkqbQGHaRDitARPUX0pUpsWRPcy9znlkkWmqjFs4sQfjCCN7OcwQBtQe8JlAh5ToNYwxOq-aWaYucdrWocFmQaJ8z6vsZVFbVHnoVcLjPfUtyWnVQeWpAfLdmfQq9kRqNUeuZzYJ1BOt6yRpQpsH6mzJCRXF9wMFMcS28NmCs6uMKgPVsu8YEp2jtdUlPl3rcI6Hx5vj7psePAdmxZpibj0xZIOniQ-zdAapy6QT4zZTzl4rmEg__&Key-Pair-Id=K3NV4LZ47N8M46)
   2. Click **Next**.
 
-## Step 2: Project Setup 
+### Step 2: Project Setup 
 
-### Step 2A: Select Project
+#### Step 2A: Select Project
 
   1. Set up the project using one of the following methods:
 
@@ -103,7 +103,7 @@ The question creation workflow opens with the following three steps.
 
 ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1772619856717-pasted-image-0.png?Expires=253370764800&Signature=Vk2SB1xVXCLHBYud5OXto5b9p8ultcyYrIbT88m3VlNwn5ix~uQ3VbMFRzZX1GNBySNmymAR~PaRStNC17FmnFhXwqbT3nco9WHcBOMNieuAo6kqcBXmsQl2pib-8r72Iu70OwV1A762t0HZXYMOPm7Ca4cY7W~nRFfFUBQojjudXW8GMW2AsXiXZuU6iFROQHhmuY5CjtpPb3JLnXIgKnMyLYoVZZRRw-sufSUu7oCzM14nvmHhHSjt6~We2UVpr9DAYAneb00wwYvNfhozItNXtaelCVhnt0aXBxjvOk0fzmPRN8b506xmaBCGcovE0rD1pFAfjDFFHn50Vwoxeg__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-### Step 2B: IDE Setup
+#### Step 2B: IDE Setup
 
   1. Configure the IDE project commands for**Install** , **Run,** and **Test**. 
 
@@ -119,7 +119,7 @@ The question creation workflow opens with the following three steps.
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760248607369-image.png?Expires=253370764800&Signature=hbqSLBMs1b2iPhodkaUxTNB8DVINEF9k-p3imI8v-O3mhQ34SPj43aJbhABv90HAIs54yolEkYrOsABWhhZKXn0c55AqTn5heObqNz84-IsBpUJOKd6qRVfd3ioah9c-11hhVhuyM7K2Vr8O1Pw4atvKAq3lgJGMy5GH~CZjZcXsZrf99vmwRUSyxIQacs~oP1T0uUjqFZunPs0d3wT5MlzBSqoYyp~ijOXkVQZdXhnrIqylKvA~SCZUn5ubcJHgZeEp9pJUZ-v4yJTkRb7cYNqhCNYl89UEZKJoTLZDJMecyKTo8M0XTq1b4KRUQw8ivX0EOtsd8EUGymaEeD4Ikg__&Key-Pair-Id=K3NV4LZ47N8M46)
   4. Click **Next**.
 
-### Step 2C: Scoring Settings 
+#### Step 2C: Scoring Settings 
 
   1. Choose whether to enable automated scoring.
 
@@ -150,7 +150,7 @@ For more information about scoring, see [Scoring front-end, back-end, full-stack
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760248858880-image.png?Expires=253370764800&Signature=nhTA-SPvxSycF~QocaOisXqKGolj2xOJm~We9aGcOnAr4A38ue9XdvAuHcILkfM3RS1Ej64wdZ7ERnqiKhXR5wXnhDbYFP2PzQV0MhxVisnRRZ~CDlpu0gZZYOoRMN4KFRR-YDnKqFdU9L-F8IR8zRwfL4WEq6fcGtneSfaFiphROOZpyo5qNtA4BA38CKJNEgMEbByehlZ05VXT2out1ryQqVHq1TPPetqb7DvAYNJmSRwNsY-dY4CB3i-b8VuvWcVEiS02qcltdf1pgIMsMleTkHot3vSTBFZvnRSi8Y6rncc8XZ~oCINC39U4F4gilvwmerRAnHoltrBCrMbldg__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-## Step 3: Question Details
+### Step 3: Question Details
 
   1. Enter the **Question name.**
 
@@ -194,7 +194,7 @@ When a question loads, the IDE automatically starts the installation process. Th
 
 HackerRank project questions support automated, manual, and custom scoring methods to evaluate candidate performance in realistic development environments. 
 
-## Automated scoring
+### Automated scoring
 
 Automated scoring evaluates candidate submissions against predefined unit test cases. The final score depends on how many test cases the submission passes.
 
@@ -202,7 +202,7 @@ Each scoring format supports specific languages, frameworks, and testing tools. 
 
 HackerRank supports the following scoring formats.
 
-### JUnit-based scoring
+#### JUnit-based scoring
 
 JUnit-based scoring is the default method.
 
@@ -220,7 +220,7 @@ _Example_ :
     <?xml version="1.0"?><testsuite name="Node.js (linux; U; rv:v6.9.1) AppleWebKit/537.36 (KHTML, like Gecko)" package="unit" timestamp="2017-04-12T21:08:42" id="0" hostname="2c29b2a64693" tests="8" errors="0" failures="0" time="0.29"><properties>
         <property name="browser.fullName" value="Node.js (linux; U; rv:v6.9.1) AppleWebKit/537.36 (KHTML, like Gecko)"/></properties><testcase name="CountryList should exist" time="0" classname="unit.CountryList"/><testcase name="Check Rendered List check number of rows that are rendered" time="0.017" classname="unit.Check Rendered List"/><testcase name="Main should exist" time="0.001" classname="unit.Main"/><testcase name="Check Functions check if the filter works" time="0.093" classname="unit.Check Functions"/><testcase name="Check Functions check empty search" time="0.061" classname="unit.Check Functions"/><testcase name="Search should exist" time="0.001" classname="unit.Search"/><testcase name="Check Search check if search bar works (case-sensitive)" time="0.071" classname="unit.Check Search"/><testcase name="Check Search check if search bar works (case-insensitive)" time="0.046" classname="unit.Check Search"/><system-err/></testsuite>
 
-### xUnit-based scoring
+#### xUnit-based scoring
 
 xUnit-based scoring applies to .NET projects that use [**xUnit.net**](<http://xUnit.net>)**** for testing.
 
@@ -252,7 +252,7 @@ _Example_ :
           </test>
         </collection></assembly></assemblies>
 
-### TAP scoring
+#### TAP scoring
 
 Test Anything Protocol (TAP) is a standard unit test output format. HackerRank supports a basic version of the TAP output format. The system evaluates test results based on the TAP specification. For more information on the TAP specification, see [TAP documentation](<https://testanything.org/tap-version-13-specification.html>).
 
@@ -272,7 +272,7 @@ _Example_ :
     not ok 5 - Placing the tile produces error
     ok 6 - Board size is 1
 
-## Manual scoring
+### Manual scoring
 
 Manual scoring allows you to assign scores directly for project-based questions.
 
@@ -288,13 +288,13 @@ To manually score:
 
 The system saves the score for the selected question.
 
-## Custom scoring
+### Custom scoring
 
 You can use custom scoring when predefined scoring formats (JUnit, xUnit, or TAP) do not meet your evaluation requirements.
 
 Custom scoring allows you to define your own evaluation logic using a script. The system runs this script after the candidate’s submission executes and assigns a score based on the script output.
 
-### How custom scoring works
+#### How custom scoring works
 
 The system assigns a score using the following process:
 
@@ -310,7 +310,7 @@ The system assigns a score using the following process:
 
   6. The system reads the output and assigns the score to the question.
 
-### Required output format
+#### Required output format
 
 The scoring script must print the final score in the following format:
 

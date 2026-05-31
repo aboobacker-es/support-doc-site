@@ -15,7 +15,7 @@ This article provides you with detailed steps to integrate **Lever** with **Hack
 
 ## Lever - HackerRank Interview Integration
 
-## **Prerequisites**
+### **Prerequisites**
 
 **In HackerRank for Work**| **In Lever**  
 ---|---  
@@ -30,7 +30,7 @@ This article provides you with detailed steps to integrate **Lever** with **Hack
 
   
   
-## **Steps**
+### **Steps**
 
 Lever - HackerRank Interview integration is a two-step process that involves the following actions.
 
@@ -38,7 +38,7 @@ Lever - HackerRank Interview integration is a two-step process that involves the
 
   * Obtaining webhook URL from HackerRank and connect it to Lever
 
-### Obtaining the Webhook Signing Token from Lever 
+#### Obtaining the Webhook Signing Token from Lever 
 
   1. Log in to **Lever,  **click on the **Settings** option.
 
@@ -111,7 +111,7 @@ _API Credentials Tab within Lever_
 
 _Read endpoints within Lever API credentials_
 
-### Obtaining the Webhook URL from HackerRank and Adding it in Lever
+#### Obtaining the Webhook URL from HackerRank and Adding it in Lever
 
   1. Log in to **HackerRank for Work** as a **Company Admin** user.
 

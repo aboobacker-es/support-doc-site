@@ -27,7 +27,7 @@ You can add questions to an interview using any of the following methods:
 
   * [Screen Tests](<https://support.hackerrank.com/articles/6761309830-adding-questions-to-interviews#import-questions-from-screen-test-27>)
 
-## Using Question Tiles
+### Using Question Tiles
 
 When you start an interview, the **Start Your Interview** page displays tiles for different question types.
 
@@ -81,7 +81,7 @@ To add a question:
 
          3. Click **Validate and Continue**.
 
-## Using Question Library
+### Using Question Library
 
 To import questions from the Question Library:
 
@@ -125,7 +125,7 @@ To import questions from the Question Library:
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760282118186-image.png?Expires=253370764800&Signature=Efhd4AmvEacdl9DUIFR4b40e9Jnr3BMkDrMOAQn7T8iex41whs07L4N0daRkBgm5jbHl84cpNGyV2Dv52zFtoRD9MyvfHRLrYZNuopIvtTl0Wi~KSnYasI-UfQhHpVvT-emHGCfe3JYQHKGuJvfQLj~v3BpvSUIg8-5caxKVvG3862CuDio44WflrLi3o7jZfxbTTKJ8e3UPCK8pfvNKvpyOdYHb3pGjRQVMbZoQOnbMnv64g9~ZJKKm9aGaFPjGmeQrf0rZRD7IhwJpyVq-T9J1AZ6P~QozThm8fDNOlSF7uR0-yOw2OUozVG3xBX8JarOj1gaYSk2iGa~bRwIiFg__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-## Using Templates
+### Using Templates
 
 You can access the pre-built template directory shared by your team.
 
@@ -143,7 +143,7 @@ To import a question from templates:
 
 For more information, see[📄 Standardizing Interviews Using Templates](</articles/2837093779>).
 
-## Using Code Repositories
+### Using Code Repositories
 
 Use Code Repositories to access real-world repositories that allow you to assess candidates’ skills in feature building, bug fixing, and other development tasks. 
 
@@ -161,7 +161,7 @@ To import a Code Repository:
 
 For more information, see [📄 The Next-Generation of Hiring: Interview Features](</articles/5377881818>).
 
-## Import Questions from Screen Test
+### Import Questions from Screen Test
 
 With the **Tests** integration, interviewers can import a candidate’s screening test, including questions and submitted code, directly into an interview session. For more information, see [📄 Import Questions from Screen Test](</articles/2218911700>).
 

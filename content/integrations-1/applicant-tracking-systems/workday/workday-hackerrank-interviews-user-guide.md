@@ -89,7 +89,7 @@ This article describes the integration steps to schedule HackerRank Interviews w
 
 After an interview ends, you can sync the interview scorecard from HackerRank to Workday and review the feedback in Workday.
 
-## Step 1: Sync the scorecard from HackerRank
+### Step 1: Sync the scorecard from HackerRank
 
 ![ATS_Sync.12gif.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1767074239516-ATS_Sync.12gif.gif?Expires=253370764800&Signature=Re1kF3ihIjNvdv82gk~-5wZWlQ78uo0pQvDvxMf-aJxQL8lWlILMiONfUFGkCC2PGD47uoszSI77V2dMOsxXSvtiI3MzA1omqrhOPZ6Eoc5j-~Uc8E9~E4R~NmwlfW1ZPK3yAU5710WIjIdrrLgvwZ6OuLHv4TLqu23inFQnFJel5Ck2~HQUUqnc9sttDokINe1lxicji8eh3SmowFc~ArJuB-z2kK1JKhTHV7YpTq9zBwK8XvCTs4qjDO4orph2IinUzZYCdDUQWj8hE9D3DSbHnzwqlFSgI4OeOgKCs1kPzbTsrssuDXbslb08phDm7LpSidNgXfYBWjcxlYf39A__&Key-Pair-Id=K3NV4LZ47N8M46)
 
@@ -99,7 +99,7 @@ After an interview ends, you can sync the interview scorecard from HackerRank to
 
 **Note:** If multiple interviewers participate, each interviewer submits their scorecard in HackerRank. Sync the scorecard to Workday after each interviewer submits their scorecard.
 
-## Step 2: View the scorecard in Workday
+### Step 2: View the scorecard in Workday
 
   1. Open the candidate profile in Workday.
 

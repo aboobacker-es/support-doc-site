@@ -13,7 +13,7 @@ A question is considered leaked if it appears in publicly accessible search resu
 
 HackerRank uses a leak detection algorithm that automatically searches at regular intervals to identify leaked questions from the leak-protected skill sets in your tests. 
 
-## How leak detection works
+### How leak detection works
 
 The system:
 

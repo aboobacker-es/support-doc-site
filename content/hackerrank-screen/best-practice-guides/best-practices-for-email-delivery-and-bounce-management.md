@@ -13,7 +13,7 @@ Reliable email delivery is essential for effective candidate communication and u
 
 An email bounce occurs when a message fails to reach the recipient. Bounces are categorized as either soft or hard depending on whether the failure is temporary or permanent.
 
-## Soft bounces
+### Soft bounces
 
 A soft bounce indicates a temporary failure to deliver an email. The message might be delivered successfully if retried. However, delivery is not guaranteed, especially if a spam filter caused the failure.
 
@@ -29,7 +29,7 @@ Common causes of soft bounces include:
 
   * **Temporary server error** : A transient issue occurred on the recipient’s server.
 
-## Hard bounces
+### Hard bounces
 
 A hard bounce indicates a permanent failure to deliver an email. The message cannot be delivered and will not be retried.
 
@@ -53,7 +53,7 @@ Common causes of hard bounces include:
 
 Follow these best practices to improve email deliverability:
 
-## Allowlist HackerRank domains and IP addresses
+### Allowlist HackerRank domains and IP addresses
 
 Request your IT or security team to allowlist the following HackerRank domain and IP addresses:
 
@@ -67,17 +67,17 @@ Request your IT or security team to allowlist the following HackerRank domain an
 
   * **IP Addresses** : Contact the HackerRank Support team to obtain the current list of IP addresses used for outgoing emails.
 
-## Encourage candidates to provide a personal email address
+### Encourage candidates to provide a personal email address
 
 Ask candidates to provide a personal email address (such as Gmail, Outlook) for receiving their HackerRank invitation. Personal email providers offer better delivery rates and fewer bulk-email restrictions.
 
-## Encourage candidates to allowlist HackerRank
+### Encourage candidates to allowlist HackerRank
 
 Ask candidates to add HackerRank emails to their safe sender list. You can include the following message in your communications:
 
 > _Check your spam or junk folder if you do not receive the HackerRank invitation. We recommend adding_[ _no-reply@hackerrank.com_](<mailto:no-reply@hackerrank.com>) _to your contacts to ensure future messages are delivered._
 
-## Avoid spam triggers in custom messages
+### Avoid spam triggers in custom messages
 
 Format your message carefully to enhance deliverability and minimize the risk of triggering spam filters. Follow these guidelines when drafting or customizing emails.
 

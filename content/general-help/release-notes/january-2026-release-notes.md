@@ -17,15 +17,15 @@ Alongside integrity, improvements to AI-assisted evaluation, code quality gradin
 
 ## Screen
 
-## Test Variant Updates
+### Test Variant Updates
 
-### Test Variant Overview
+#### Test Variant Overview
 
 When you create a variant of an existing test, you now see a clear overview that explains how test variants work. This helps you get oriented before setup, whether you are new to variants or need a quick refresher.
 
 ![Variant Test Overview.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1768922551159-VariantTestOverview.gif?Expires=253370764800&Signature=vl~luoHoyOvoXzCfc1XZMSKuBP54vlQ1buGtexqWbczD71OmdMKpFk84zsXc82pAfFD8oXT~6sO9UvK7xV-2-mfv6shTo1iW-ZvqS510gqHDF4lCqjcV2s3B~CNtebPr2xHm6PM-YQGNjTfyALIWSdOfPOMuMFhO63hypJG-6ViHrdvQd1xqk7~NpNP9gpE-WIrq70pgfug0yJNvUtLOqvm0hoJqL4duyV5i~eCAU1B0bY1GAeXqZOtBtdnCnMJtXJh93xL1MhG71WyT6x8TnrSrB8f32hs22VJH82YC8svo2mTuW3AUzYn6yF0GSFlvV7Udy4bqlsD9fKa~5zLFrQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-### Add Time to Candidate Attempts
+#### Add Time to Candidate Attempts
 
 You can now grant time accommodations to candidates taking variant-based tests. Time adjustments can be applied at the section level for each candidate.
 
@@ -35,7 +35,7 @@ Time adjustments can only be applied when all selected candidates belong to the 
 
 ![Add time to candidate attempts.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1768922441647-Addtimetocandidateattempts.gif?Expires=253370764800&Signature=QaBrDSBPUVg01UIeOjYZyhP6qa~1bv6m-d7uMiuBIfio64QLk1Ecz3I324EAQ-qQzcl90b9aJzmuaIe8iP~F4nhUfrz2PnQ0ojRHRvBfMnmEUvQa9JM5PufHw82ks5vvxSFqjY9NsGiB1hCYy03rAwJgU~Uc99~zOfXUEmw4XKzKLUiuQufkaAwWoRM4w1U3CceZjxBjTIBhYistBbkRh7sEOVw7~hUuVjTW0Ka9Ie4Gk2rARVPROdrdzUisAIoKvN6Cg1~D1yJjRDaUZYzG1owU1wbcBTtEUWNhsOzB6Rlonx3CThoYv8gJvDehYJmNyeiNxeiuIE5mYGUSa~lDbg__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-### Simplified Test Variant Logic Creation
+#### Simplified Test Variant Logic Creation
 
 Creating test variant criteria is now more intuitive. The redesigned Add Variant Logic workflow lets you route candidates to different test variants based on their answers to a qualifying question.
 
@@ -43,7 +43,7 @@ Creating test variant criteria is now more intuitive. The redesigned Add Variant
 
 For more information, see [Adding extra time in variant-based tests](<https://support.hackerrank.com/articles/4811403281-adding-extra-time-for-candidates#adding-extra-time-in-variant-based-tests>), [📄 Create Test Variants](</articles/7530103378>).
 
-## Improved Navigation in Detailed Reports
+### Improved Navigation in Detailed Reports
 
 Detailed reports are now easier to navigate, making it faster to move between questions. The Next and Previous buttons are more prominent, so you can review responses without losing context.
 
@@ -53,7 +53,7 @@ The Suspicious Activity tab is now easier to find, helping you access and review
 
 For more information, see [📄 Viewing a Candidate's Detailed Test Report](</articles/8263794320>).
 
-## Emoji Support in Emails
+### Emoji Support in Emails
 
 You can now include emojis in key emails, including test reports, leakage alerts, reminders, invites, and confirmations. This helps add emphasis and personality where it fits your brand, helping important messages stand out.
 
@@ -61,7 +61,7 @@ You can now include emojis in key emails, including test reports, leakage alerts
 
 For more information, see [📄 Manage Email Templates](</articles/9684438314>), [📄 Invite Candidates to a Test](</articles/6027855406>).
 
-## Leakage Indicator and Filter on Test Listing Page
+### Leakage Indicator and Filter on Test Listing Page
 
 You can now identify tests with one or more leaked questions directly from the test listing page. An indicator appears next to affected tests, and you can hover over it to see the number of leaked questions. As part of this update, the Leaked tab under Library has been removed.
 
@@ -69,7 +69,7 @@ You can now identify tests with one or more leaked questions directly from the t
 
 For more information, see [Viewing tests with leaked questions](<https://support.hackerrank.com/articles/8820947031-managing-leaked-questions#viewing-tests-with-leaked-questions>).
 
-## See Predefined Fields During Candidate Details Setup
+### See Predefined Fields During Candidate Details Setup
 
 You can now view a complete list of predefined HackerRank candidate fields directly in the Candidate Details setup flow, making it easier to see what’s already available before adding your own. Predefined fields retain their standard field types, while custom fields can be fully tailored to your unique requirements. This ensures a consistent structure for candidate data with the flexibility to customize where needed.
 
@@ -77,7 +77,7 @@ You can now view a complete list of predefined HackerRank candidate fields direc
 
 For more information, see [📄 Configure Onboarding Settings for Tests](</articles/5956879724>).
 
-## Expanded Attempt-Level Insights in the Summary Report
+### Expanded Attempt-Level Insights in the Summary Report
 
 The upgraded Summary Report gives you a more complete view of each attempt, with improved data visibility, faster access, and easier next steps:
 
@@ -99,7 +99,7 @@ You can also view more details on question-level AI fluency in the ‘Candidate 
 
 For more information, see [📄 View Candidate Test Summary Report](</articles/8111267829>), [📄 Candidate Benchmark](</articles/6075450367>), [📄 AI Fluency](</articles/1773201418>). 
 
-## Clear and Neutral Candidate Performance Signals
+### Clear and Neutral Candidate Performance Signals
 
 You can assess candidates more fairly and consistently with updated performance signals designed to reduce bias and improve clarity.
 
@@ -113,7 +113,7 @@ You can assess candidates more fairly and consistently with updated performance 
 
 For more information, see [📄 View Candidate Test Summary Report](</articles/8111267829>).
 
-## Updated Test Access Permissions
+### Updated Test Access Permissions
 
   * Starring a test is now independent of your user role, so you can mark important tests regardless of your permissions.
 
@@ -129,11 +129,11 @@ For more information, see [📄 View Candidate Test Summary Report](</articles/8
 
 For more information, see [📄 Modify Entitlements for Recruiters](</articles/4851183051>), [📄 Modify Entitlements for Developers](</articles/8127960820>).
 
-## Code Quality Grading Improvements
+### Code Quality Grading Improvements
 
 Code quality grading now excludes variable naming, helping you focus on more meaningful indicators like code structure, logical soundness, readability, and long-term maintainability. Reports also process faster, so you get insights sooner and can make more informed evaluations using a clear, reliable skill signal.
 
-## V3 API Updates
+### V3 API Updates
 
 The Show Candidate API now returns additional attempt-level data, making it easier to analyze candidate performance programmatically. You can now access:
 
@@ -143,7 +143,7 @@ The Show Candidate API now returns additional attempt-level data, making it easi
 
 These enhancements help you build richer, more data-driven evaluations directly into your systems.
 
-## AI-Assisted Question Creation for Code Repos (AI Add-on)
+### AI-Assisted Question Creation for Code Repos (AI Add-on)
 
 You can now create Code Repository questions with built-in AI guidance, making creation fast and self-serve. This update is designed to support custom code repositories, allowing you to generate realistic feature or bug-fix challenges directly from uploaded repositories or markdown projects. The AI analyzes the codebase to suggest relevant skills, difficulty level, and tech stack. You can then review, validate, and publish tasks directly to your content library.
 
@@ -153,7 +153,7 @@ You can now create Code Repository questions with built-in AI guidance, making c
 
 ## Skills Platform
 
-## Library Improvements
+### Library Improvements
 
 The HackerRank Library continued to expand, with a strong focus on code repo questions, modern frameworks, and higher-quality candidate experiences. This release marks significant advancements in content depth, scale, and real-world relevance.
 
@@ -196,7 +196,7 @@ Web Development| MERN, React+Django, React+SpringBoot| Code Repo| 3
   
 ## Developer Experience
 
-## Completed Rollout of New Candidate Site
+### Completed Rollout of New Candidate Site
 
 In April 2025, HackerRank launched a new candidate site designed to deliver a more modern test-taking experience. Developers have responded positively to the refreshed design, cleaner interface, and simpler onboarding.
 
@@ -206,13 +206,13 @@ With this update, the new candidate site is now fully rolled out across all ques
 
 For more information, see [Answer Front-end, Back-end, Full-stack, Mobile Developer, and Generative AI Assessments](<https://candidatesupport.hackerrank.com/articles/8606305957-taking-front-end-back-end-full-stack-and-mobile-developer-assessments>), [Answer Whiteboard Question](<https://candidatesupport.hackerrank.com/articles/8261786061-answer-whiteboard-question>), [Answer Cloud Questions](<https://candidatesupport.hackerrank.com/articles/3281902930-answering-aws-questions>).
 
-## Faster Project Setup for Code Repo Questions (AI Add-on)
+### Faster Project Setup for Code Repo Questions (AI Add-on)
 
 Code repository installs and builds are now significantly faster across stacks in assesments, reducing setup time so candidates can start solving sooner. Dependency installation and caching have been optimized, cutting setup time by about 70%.
 
 ![Faster Project Setup for Code Repo Questions \(AI Add-on\).gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1768924730134-FasterProjectSetupforCodeRepoQuestions%2528AIAdd-on%2529.gif?Expires=253370764800&Signature=Y4iw5zREwVdrWBmoP5Xvdz67WlL4XL1Y972MJ-Z01x-Ho6zSlE4YuuzM~Y9IPVn7wZpuSQMI8kLw~AkzmUxvNwbiDpeHLxxuoymZzibfKsLG7c9ywRjDEDzakB6~vhU5B-vsie~IzvCty9Le5oIHJz0Hcfm1mSR9uCjaC-EMu-jsaX1J~EKMEyDVjWLdRp-p5Xkf1v6d7E1PM2HFGgzZdTuRBBOj6rcTqKDK3r9woYdJ1txiZAw2K1f0hwVuIXHK8A2lWMkQLfA4ZB93aedcMn~X6HMbArXIraMuIdy~LqbWdyUTEyaBJQQ6SsmZkXpnOXgkmzmxjAC4zJtvwMUvUQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-## VS Code IDE for Data Science
+### VS Code IDE for Data Science
 
 Data science assessments will now run on the VS Code IDE, replacing JupyterLab and aligning the experience with front-end, back-end, and full-stack roles. This update includes full notebook support within VS Code and AI guidance to help candidates explore data, debug issues, and review code more effectively.
 
@@ -222,13 +222,13 @@ _This feature will be available as part of a phased rollout._
 
 For more information, see [Answer Data Science Questions](<https://candidatesupport.hackerrank.com/articles/8119048607-answering-data-science-questions>).
 
-## Sample Tests for Code Repos (AI Add-on)
+### Sample Tests for Code Repos (AI Add-on)
 
 Every test that includes a Code Repo question now includes a paired sample project, giving candidates a chance to practice before the live assessment. Each test includes a framework-specific sample repository (such as MERN, Django, or .NET), helping candidates get familiar with the environment and build confidence before they begin.
 
 ![Sample Test for Code Repos \(AI Add-on\) .gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1768924891405-SampleTestforCodeRepos%2528AIAdd-on%2529.gif?Expires=253370764800&Signature=NkpSmCNSQkTDjT3Nz7M-jl7XM1wdUr9LpYru95NawzkeHXdp5siMKK2~lDOUC7qeUntBtq6MUdVHPPHIwLx1m9iAH2KoOauthghGMgYHpk26VhMkkGNYkFncfExWGsuX0QnNuQPMQVZqUfNAD9udMauEoP7lZydTMAwdWruHlVpBwF6lbSrBPYfbJbpRNPn6A14FD7o8rw~M93lANPFWE4K0pOaEbc~HmSmThNmvr1bF6Xbkx8WC6no7KR5qWXjqNrIBhx~3vpaakipGby5xfffJFvnWMlwofZdfPKoGzHgnbvEXoFQ1rBnb4XmDpADfEH9YrpKChbNSUpIv6hUJbA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-## AI-Assisted IDE Enhancements (AI Add-on)
+### AI-Assisted IDE Enhancements (AI Add-on)
 
 You’ll see an improved AI Assistant experience across tests and interviews, with several key enhancements:
 
@@ -247,7 +247,7 @@ For more information, see [📄 AI-Assisted Tests](</articles/1152916770>), [�
 
 ## Integrity
 
-## Object Detection in Webcam Feed (AI Add-on)
+### Object Detection in Webcam Feed (AI Add-on)
 
 During tests with Proctor Mode enabled, the system automatically detects and flags suspicious objects in a candidate’s webcam feed, including devices like mobile phones and tablets. This helps you identify potential interactions with unauthorized objects and review them alongside other integrity signals.
 
@@ -255,7 +255,7 @@ _This feature will roll out in February as part of a phased release._
 
 ![Object Detection in Webcam Feed \(AI Add-on\).gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1768979576122-ObjectDetectioninWebcamFeed%2528AIAdd-on%2529.gif?Expires=253370764800&Signature=PRrUa85NtExKnKl0pBmudGR5WQM7TPAQA~JaClrpm-L7ks6Qp6d7wox09FIpuZ22Z6KxmRhwgAG9n-U8wpZcOkMIO77~O620347SM94Xb03V2Kup4xRpw0LfFNIOCwT3Px-4Ow~xv~slLpVdjujKc-FTrnU1e5sAh0xfb-K79WQ8yzirrR0JlrUvYOmTC9BShYbYZMO1LJ6rpkfOEOQrbAlXP7U~VTvKi9KnDMr70lPdt06V7-9dfnX8tDaFPW20lX1TYZNseKuxUgMVsR1cIB6FZVzmvxoh5eHxt-Ulz~rskKAS3tdw6YsLMCbSfeK0K8tx1p9~3o76dbgzWak6qw__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-## Deleted Code Analysis (AI Add-on)
+### Deleted Code Analysis (AI Add-on)
 
 Deleted code is now analyzed during assessments to identify chat-like activity. This detects suspicious activity patterns where candidates type and delete messages, which can indicate the use of screen-sharing or other tools to receive remote assistance during a test. Such activity is flagged for review to help maintain assessment integrity.
 
@@ -263,7 +263,7 @@ _This feature will roll out in February as part of a phased release._
 
 ![Deleted Code Analysis \(AI Add-on\).gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1768925117239-DeletedCodeAnalysis%2528AIAdd-on%2529.gif?Expires=253370764800&Signature=TmtdYnHLUMttFKgqIZyCjekdhfNpCdLHt53PzcZy28r5~fc1cGIxQ3w2T-yGNjqJ~6-USVgQJxDjGzXRJlNAuBRdbGYn116tJjGF84MUemQw4SyS-j~buOaFj2nNb42w-~2sqIivE7bGzD5OvPN879cY8wkJxRyn8lYI-jbfhx-xIEuNwSLTQsUvXorqY4UNNdBqDw-yilpRx~1qe-tpIcX1P13mOQPAeCU-oly3jcyAHJsSvF1S0NwsNcXUrHGZI1A2GEr5z87op72JMG2m5EMouMCH9MCjK7Ud~Es98aSDiRkD0dxGeWooWkr1BHO0Gk1zN4yKwsi1dojQbEm4bQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-## Company-Level Image Retention Policy
+### Company-Level Image Retention Policy
 
 You can now specify how long candidate images are stored in your account to help meet privacy and compliance requirements. To set a company-level image retention period of 30, 45, or 90 days, please contact your HackerRank account manager.
 
@@ -271,7 +271,7 @@ Once enabled, images older than the selected timeframe are automatically deleted
 
 ![Images deleted.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1769580291719-Imagesdeleted.gif?Expires=253370764800&Signature=p0eW0Im6mUVb6MDENbUI-arGyKgOW10hZcJh6Nj~ErGyH~xtqN3RCpE-jpSwWmHA3S2I5-7-EEMblkq6r9-1NwGD3pNxQWwQmNa0FoljLi1t4wd7WIlfIpiuA-jxbdNhOixmLWudec7QhIdq4YAYJirjOykj0bYB81BsZcu1YBp-2oqQlscDqzKLGu4Cc4ap5NgAwld78uxNQanINs8okC-Bh3j0e2a9pd-cgifzntOvcXSOfitsCD9iRcKJsfBYyM-poKSBWLLFrs1cFQEcfQ0rqaG4OJBaG-11G-g0vAPe4~Gst~kRmhytn~cJhjVaRFtdB16FBqGOqQJlZJ8T1g__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-## Override Integrity Flags in Reports
+### Override Integrity Flags in Reports
 
 You can now manually override an integrity flag from the Summary report if you decide a flag isn’t warranted. Click the edit icon next to the “Integrity Issues” field and provide a reason for the override to add context to your decision.
 
@@ -281,11 +281,11 @@ Once the flag is overridden, the Integrity Issues field updates to “No Issues 
 
 For more information, see [Override integrity flags in summary reports](<https://support.hackerrank.com/articles/8111267829-viewing-a-candidate's-test-summary-report#override-integrity-flags-in-summary-reports>).
 
-## Plagiarism Detection Signals Refinement
+### Plagiarism Detection Signals Refinement
 
 Plagiarism detection no longer includes the “Potential Reference Taking” signal, which flagged periods of inactivity followed by sudden or unusual typing patterns. Removing this signal improves interpretability and avoids assumptions about behavior during inactivity, so you can focus on more reliable indicators of suspicious behavior.
 
-## Improved Interpretability of Integrity Signals on Reports
+### Improved Interpretability of Integrity Signals on Reports
 
 Integrity signals in the Summary Report are now easier to understand and validate. You can clearly see why a flag was raised and review the supporting evidence, making it easier to assess each case with confidence. 
 
@@ -303,7 +303,7 @@ Under Integrity Summary, you can now preview all integrity violations, including
 
 For more information, see [📄 Proctor Mode](</articles/5663779659>), [📄 HackerRank Desktop App Mode](</articles/5973590014>), [📄 Review Integrity Issues in Proctor Mode](</articles/9607697321>).
 
-## Code Playback Reliability Improvements
+### Code Playback Reliability Improvements
 
 Code playback captures candidate activity more accurately, even if the session is interrupted, giving you a complete and reliable record of each session.
 
@@ -317,13 +317,13 @@ Code playback captures candidate activity more accurately, even if the session i
 
 ![code playback with skip corrupted.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1769162800550-codeplaybackwithskipcorrupted.gif?Expires=253370764800&Signature=NVRqo~RPXVOqCMZxLYW2bbjBiuTI339ETTik6k85WL8xWcb3TM0Iba-uNDWowc~cHs-p2jC7e3AuMD-6tS20AyiuRhjSJt4tOomeufZi7zaAsS89RaTrpLId~2HQ8q3Mnm5Cr7PloM7R1nenvS6MtWWXXH9mi7dr7L2-qRQY4K08oo6hBcUZYslbYMMEomvlrdV13bGp9t0dsvCE6G3PwHwo1XNAGDqMQH-Op9W4YM1eJk99J~yKxUVHhzwVwoVLEeJr1cwQsR1D66T3S44V~TmLLBm~Yhhh16OP5SD74UHp6uIJy-sBF~r44xxmDa3Nb9LdmwE4CcCaPKuLEXS4jA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-## Flexible Mode Switching for Proctored Tests (AI Add-on)
+### Flexible Mode Switching for Proctored Tests (AI Add-on)
 
 AI Add-on customers can now switch between Secure Mode and Proctor Mode on any test, even those with existing candidate attempts. Once updated, new attempts will follow the selected mode, giving you flexibility to change your proctoring strategy without disrupting existing data. Both modes are compatible with Chrome and Edge, so there's no change to browser requirements for candidates.
 
 ## Interview
 
-## Sample Interview Link for Code Repo Questions
+### Sample Interview Link for Code Repo Questions
 
 A sample interview experience is now available for Code Repo questions, aligned with the existing sample interview flow for coding and whiteboard interviews. This experience supports multiple Code Repo tasks from the same repository, giving candidates a more realistic preview of how Code Repo–based interviews work.
 
@@ -331,7 +331,7 @@ A sample interview experience is now available for Code Repo questions, aligned 
 
 For more information, see [📄 Create an Interview](</articles/8404005945>).
 
-## AI Assistant for Coding Questions in Interviews (AI Add-on)
+### AI Assistant for Coding Questions in Interviews (AI Add-on)
 
 The AI assistant in Interviews now supports coding questions, in addition to Project and Code Repo question types. It helps candidates demonstrate real-world collaboration with AI by answering clarifying questions and offering contextual hints, while revealing how they reason and problem-solve.
 
@@ -339,7 +339,7 @@ The AI assistant in Interviews now supports coding questions, in addition to Pro
 
 For more information, see [📄 AI-Assisted Interviews](</articles/5821380141>), [AI Assistant in Interviews](<https://candidatesupport.hackerrank.com/articles/6665907643-ai-assistant-in-interviews>). 
 
-## Improved AI Assistant Experience for Interviewers (AI Add-on)
+### Improved AI Assistant Experience for Interviewers (AI Add-on)
 
 Interviewers can use Observation Mode to see all AI assistant interactions in real time. Live assistant edits and shared diff views stay synced between the interviewer and candidate, making it easy to understand what changed, why it changed, and how the candidate responded. This gives interviewers clearer insight into a candidate’s thinking, iteration, and use of AI during the interview.
 
@@ -347,7 +347,7 @@ Interviewers can use Observation Mode to see all AI assistant interactions in re
 
 For more information, see [📄 AI-Assisted Interviews](</articles/5821380141>). 
 
-## Scorecard Assist for Projects and Code Repos (AI Add-on)
+### Scorecard Assist for Projects and Code Repos (AI Add-on)
 
 Scorecard Assist is now available for Project and Code Repository questions. You’ll see AI-generated summaries and suggestions directly in the scorecard, making it easier to review feedback quickly while reducing manual note-taking and maintaining consistency across interviews.
 
@@ -355,7 +355,7 @@ Scorecard Assist is now available for Project and Code Repository questions. You
 
 For more information, see [📄 Scorecard Assist](</articles/5847159594>).
 
-## AI Assistance for Data Science IDE (AI Add-on)
+### AI Assistance for Data Science IDE (AI Add-on)
 
 AI Assistant capabilities are now available for data science questions in VS Code, bringing the same experience used for software engineering roles.
 
@@ -369,13 +369,13 @@ For more information [📄 AI-Assisted Interviews](</articles/5821380141>), [AI 
 
 ## Data and Insights
 
-## Performance Improvements to Insights Dashboards and Exports
+### Performance Improvements to Insights Dashboards and Exports
 
 Insights across the platform are now available faster than ever. Exports and dashboards that once took 15+ seconds now load in as little as 3 seconds, making it easier to explore data and spend less time on routine reporting.
 
 ![Performance Improvements to Analytics Dashboard.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1768925661480-PerformanceImprovementstoAnalyticsDashboard.gif?Expires=253370764800&Signature=dSVfFM8LVHo8BiK~fu9y12IxR7acJ5BfFAtuyTmBMD7Hl9JB0rQwe8RtHoQxxJSyXKupGYBSaWq3kfNT6TOd2fnpzq1zN7euUdQ-EQVrQ~e6KYCjTPOxfv6pLnexNW3DSliCIZRL3luC9ghYDEKdy0klMRC06S3OoKGF6JEFEffvFYBZDD7T7Pg7lzf5HntIXkiC1O3tg8OGpvozCxokU55QlV7RC5DeTm4me8cfrahReKHGgaBgWF0JIYqQCZp6M5ZlMlkEqSaEi5vINqsaQWTVWsvAUK7v3QB~hxOywlp~yYECXufOLe5aJdqAWvO44WbrbjU22XswkiTKMn9~Ow__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-## Advanced Filtering and Slicing for Custom Reports
+### Advanced Filtering and Slicing for Custom Reports
 
 Custom Reports provide a powerful way to access, analyze, and share your HackerRank data on demand, giving you full control to build tailored reports across key data objects. Custom Reports are now enhanced with advanced filtering and slicing capabilities, making it easier to explore reports in detail and focus on the exact data you need.
 
@@ -385,7 +385,7 @@ For more information, see [📄 Custom Reports](</articles/7355624862>).
 
 ## Integrations
 
-## Integration with Zapier
+### Integration with Zapier
 
 You can now connect HackerRank to tools like Slack, Google Sheets, and Notion using Zapier, with no engineering effort required. This no-code integration lets you automate workflows such as notifications or data syncing using triggers like test completions or interview feedback, all managed securely from the Integrations page.
 
@@ -393,7 +393,7 @@ You can now connect HackerRank to tools like Slack, Google Sheets, and Notion us
 
 For more information, see [📄 Zapier - HackerRank Integration Guide](</articles/9883166979>), [📄 Zapier - HackerRank Integration Test User Guide](</articles/7100809601>), [📄 Zapier - HackerRank Integration Interview User Guide](</articles/5179178131>).
 
-## View Integrity Signals in Greenhouse, iCIMS, and Workday Integrations
+### View Integrity Signals in Greenhouse, iCIMS, and Workday Integrations
 
 Assessment results in Greenhouse, iCIMs, and Workday now include more accurate and up-to-date integrity signals, delivered through a standardized data schema.
 
@@ -405,7 +405,7 @@ Deeper analysis and full integrity context remain available in the HackerRank as
 
 ## SkillUp
 
-## Weekly Prompt Engineering Challenge
+### Weekly Prompt Engineering Challenge
 
 Prompting is at the heart of getting high-quality outputs from LLMs. SkillUp’s new Prompt Engineering Challenge helps developers build this skill through competitive, hands-on practice. Developers must prompt an LLM to solve real problem statements and earn a spot on an org-wide leaderboard.
 
@@ -415,13 +415,13 @@ The challenge resets weekly, keeping teams engaged between courses while fosteri
 
 For more information, see [📄 Weekly Challenges](</articles/7992263058>).
 
-## Audit Logs
+### Audit Logs
 
 Admins can now request access to audit logs via Customer Support. These logs support compliance and internal reviews, strengthening oversight across learning programs.
 
 For more information, see [📄 Audit Logs in SkillUp](</articles/2103106582>).
 
-## AI Engineer Certification
+### AI Engineer Certification
 
 The AI Engineer Certification is a guided pathway with lessons and challenges designed to help you build expertise in creating AI-powered applications and showcase your skills as a next-generation developer. The complete certification with all modules is now available.
 
@@ -433,13 +433,13 @@ For more information, see [📄 Roles and Skills in SkillUp](</articles/15066217
 
 The following changes will be effective January 28th, 2026.
 
-## Screen
+### Screen
 
-### Legacy Content Library Experience
+#### Legacy Content Library Experience
 
 All remaining users will be migrated to the new Library experience. The updated Library includes natural language search, 15+ filters, advanced sorting, and question summaries to help you find questions faster.
 
-### Legacy Detailed Test Report
+#### Legacy Detailed Test Report
 
 All users will be upgraded to the new detailed report experience. The new report makes reviewing candidates easier with:
 
@@ -449,7 +449,7 @@ All users will be upgraded to the new detailed report experience. The new report
 
   * Simpler, more intuitive navigation
 
-### Local IDE/Offline Flow
+#### Local IDE/Offline Flow
 
 Due to increased integrity risks, the Offline (Local IDE) experience is no longer supported
 
@@ -461,9 +461,9 @@ What this means for you:
 
   * All other new and existing tests will require candidates to use the HackerRank IDE
 
-## Interview
+### Interview
 
-### Twilio-Powered Interviews
+#### Twilio-Powered Interviews
 
 We’re deprecating Twilio-powered interviews and transitioning affected accounts to Zoom. Since most HackerRank interviews already run on Zoom audio/video technology, this will provide a consistent experience across all customers that supports key features like background blur and transcripts.
 

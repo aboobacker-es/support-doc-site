@@ -29,7 +29,7 @@ To create an approximate solution question:
 
 The approximate solution question creation workflow opens with the following five steps.
 
-## Step 1: Question Details
+### Step 1: Question Details
 
   1.  In the **Problem details** section:
 
@@ -52,7 +52,7 @@ The approximate solution question creation workflow opens with the following fiv
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1771238542860-image.png?Expires=253370764800&Signature=WQoUbFs~~srb2goN-s1XrkuJ6W0gBKivBX7Pfpf3eIWQWSUIb0MUYO0lM89sI7016XRXASWCPoguEHmnLu4MtlxkxdW-LmADcY8Gw~bJz1iy4YyYgtnWJlYZuZgW545LggsbJ3t84Y8YWjKjjvwUZCXFQ5jeTgn63lMYZ5OgkVYd2b32pO4R4wzjT2q8ks8GOlEqKMsgObi5ETpKMvFm1rbhz75Vc56Mw5zXlpgq0hJtOxmfvS79qnOa35c1JAeUsvX2FNsTE4RYvmbSE7KYmmk5~baCWvSnCzf1CLpsCbBX6h237zp03LDbyXzeiHk9ktul9nsmwrsMXi6uHdRwWA__&Key-Pair-Id=K3NV4LZ47N8M46)
   4. Click **Next**.
 
-## Step 2: Languages
+### Step 2: Languages
 
 ![languagesapprox.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1771238620836-languagesapprox.gif?Expires=253370764800&Signature=tQDpPPD8WJQBAH054Kkj5-BMBWhoQL1C8c07jegpKgp0mKDI6z~fnY76nqgvQmxnotEAIYjwO0T136Ndv-55z4wedbjvjusxMtKoMmPMmar01vGjd8rxM02DA1h2LRhE6A6sA4Yf6RvPa2yr75jsZcxX5ydso5vXMS6J7XSIZ8328NBmrTkfpZBRdUpLJSQJpva1K5lJrzwD4LCtU8yQimawj4ySJ~JhfV0P3ntuo4gTbbmgbVCpa1tOi0pLoR~Ag18MBpXM05YfYTczWRCy81vlG249CN9kSFEikRjnEJ~wvJ79sE0vtVyLW4IbhTruJn~jJym9Y2PIQzYn8Bd0TA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
@@ -77,7 +77,7 @@ Select the **Other languages** checkbox to include all other languages.
 
      * Use the search bar to find a specific language.
 
-## Step 3: Code Stubs
+### Step 3: Code Stubs
 
 Define the function signature and generate code stubs for supported languages.
 
@@ -112,7 +112,7 @@ The platform generates code stubs for the **Popular languages** selected in Step
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1771238791721-image.png?Expires=253370764800&Signature=Fl5ptCTSQVsircnsZ9bbWHVMUN0oAUgZCPxTLB~-R5bt3Nf17aMfbY7yTLC0zktlt8maDQIwuE-IWPD695mjG~8-~I569ttlbgc7uRzZgnQTjVOtdhhCi6bVZ5dyCSSvXYZRtXsS1a4xx5IoLxYcKU-UKqaPoIn3IJFZXHsQxHeBdv~GoZhZCFi7Ru5-EJ6SFsRKM-vzSJlrptFUQnZ8Bo1j-Y8U3uFb~idZbOEYg4vtyNxvJO21uQO3ryU0UTUyoGES-RISagQqQ37V6hnCG89Dy7zL8YjNOoWgEEDLy8GXYYamCBLilA8izFFiW2GGFDo2KJUakUs5YH7zgl1u2Q__&Key-Pair-Id=K3NV4LZ47N8M46)
   8. Click **Next**.
 
-### Handle unsupported languages
+#### Handle unsupported languages
 
 If you select languages that do not support automatic code stub generation, the platform displays a dialog listing the unsupported languages.
 
@@ -134,7 +134,7 @@ To add code stubs manually:
 
   4. Click **Confirm**.
 
-## Step 4: Testcases
+### Step 4: Testcases
 
 Use this step to upload solutions and define test cases for the question.
 
@@ -173,7 +173,7 @@ Use this step to upload solutions and define test cases for the question.
 
         7. Click **Save**.
 
-## Step 5: Custom Checker
+### Step 5: Custom Checker
 
 Use the custom checker to define scoring logic.
 
@@ -194,7 +194,7 @@ Approximate Solution questions use automatic scoring.
 
   * If you do not configure a custom checker, the platform scores the question like a standard coding question using test cases.
 
-## How scoring works with a custom checker
+### How scoring works with a custom checker
 
 When you use a custom checker, the platform evaluates submissions at the test case level using your scoring logic.
 

@@ -26,7 +26,7 @@ To create a Code Review question:
 
 The Code Review question creation workflow opens with the following three steps.
 
-## Step 1: Question Details
+### Step 1: Question Details
 
   1. In the **Problem details** section:
 
@@ -53,7 +53,7 @@ The Code Review question creation workflow opens with the following three steps.
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1765963993490-image.png?Expires=253370764800&Signature=o2OLUmOX8UJNTSBQP2gVBZs9PCJt~PGC--wOfEiphMdP8akVLEyMtkkKk7j4xHwoF0c93HcuWseJXf0M2x5SYe~~wu5oJLv-UTE14a38ZlUSE6aJWpFFIufzEK3zDW4OL~zUBs57kEWXjyuGSJ72OrG6~N2Y~y4-MFqO63yHAbBpFucxadMEN8nq9OxE34FdpqHy~kPxOIJcno2JmhXVKgpdwOpdimrY60XF-CWwHUy5KzgP4MsQuKVMSUPrj4l-DF5y44doDeZOS1EhVPu2xR9zhvhtr1whMoaX8gG8nhNc5KZXfu~foWzWbXChTdLK2cBSw-uRiXT-bYC2TaLhAg__&Key-Pair-Id=K3NV4LZ47N8M46)
   4. Click **Next**. 
 
-## Step 2: Upload Code
+### Step 2: Upload Code
 
 Upload the codebase that candidates review as part of the question.
 
@@ -69,7 +69,7 @@ Upload the codebase that candidates review as part of the question.
 
   3. Click **Next**. 
 
-## Step 3: Grading Rubric
+### Step 3: Grading Rubric
 
 You can customize the rubric by defining the key areas where you expect candidates to leave comments.
 
@@ -123,7 +123,7 @@ You can score Code Review questions in two ways:
 
   * Automated Code Review scoring 
 
-## Manual Code Review scoring
+### Manual Code Review scoring
 
 You can review the submission and manually score Code Review questions for each candidate attempt.
 
@@ -137,13 +137,13 @@ To score a Code Review question manually:
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1765964708965-image.png?Expires=253370764800&Signature=NrA7img~YafKMBw3St7uWZwsaJkhCaY2HhV984lX9ZJ~WjmG5RTjQi~I4maYFHc7qVE6X2uAkEdsfGfuqaI7vO0yoLcKbyPk7h7LOMgVvdt--52-cmZj8dthFPwDjZlZtA4IkU61E0VMtg4A4UsZEk6CC-h-LqUUfXfQ8bRZzu7pkwcbQD9TpQgxwfCrwtkLuhA8EXtlIwGhdWPWtJ-EBzyQt66DyWl3ZcRu6-Dxl9I-KRclWOLpKXRFuG9MBNswNqdqb3kgMcV-plhwnsmrbSrpUe89uVPQle0KyQ6tgZh45K7SC0-MFm4stUsLgh8qPtJNViBHaSgvVh5LGJwE0A__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-##  Automated Code Review Scoring
+###  Automated Code Review Scoring
 
 This feature is part of the [AI Add-on](<https://support.hackerrank.com/articles/5847651809-hackerrank-ai-add-ons>). For more information, see [📄 Advanced Evaluation](</articles/7098008997>).
 
 The Automated Code Review Scoring feature automatically evaluates a candidate’s code review comments against expert comments. It measures how effectively the candidate identifies issues, explains reasoning, and provides actionable feedback. This helps hiring teams assess review skills at scale with consistency and efficiency.
 
-### Key benefits
+#### Key benefits
 
 The Automated Code Review Scoring feature offers the following benefits:
 
@@ -151,7 +151,7 @@ The Automated Code Review Scoring feature offers the following benefits:
 
   * **Transparent results:** Provides detailed reasoning for every automated score.
 
-### How it works
+#### How it works
 
 When you enable **Advanced Evaluation** at the company level, Automated Code Review Scoring automatically applies to all **Code Review** questions.
 
@@ -165,7 +165,7 @@ Each relevant and similar comment contributes to the candidate’s overall score
 
 ![Automated Code Review Scoring in Advanced Evaluation \(AI Add-on\)  1.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1765964771936-AutomatedCodeReviewScoringinAdvancedEvaluation%2528AIAdd-on%25291.gif?Expires=253370764800&Signature=A1x9b0Etjt7zCqY7so9y5Yd-Ik1m6DwNmqB2mF~NJu0bLwP~Qtalu8vX8ilsJFPrAgC52Y2rcWrFVz6AhyhViDaDFShMoKp~SdtewzcP5vBug6OimxGEiwUhzpz3ZGn1zI8YBFQXNjFTqAG0hUQcoW3m4as8u8ueqRItXtbueZw~hpUm2xhcODYCQj4zbFXDUjspvKmcebFYqPS-c3kOk9y8Dcj68rWAh-bjEyJBjEGxuXCUJleiqZx69bewAUNd0-gNVPOw8LAybCal-XuxRmSRab~XGzRV3448L35b~vn5bDlZ04JFW6T-gr~Us~X1Xk1s33IzpBoaKRIKj9mmTg__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-### Viewing evaluation results
+#### Viewing evaluation results
 
 Recruiters can view automated evaluation details in the **Candidate** **Evaluation** tab of the **Detailed Report** , including:
 

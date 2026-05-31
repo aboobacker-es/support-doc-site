@@ -25,7 +25,7 @@ To request audit logs, contact the SkillUp Support team at [skillup-support@hack
 
 **Note:** Only administrators can request audit logs for a SkillUp account. This restriction ensures that only authorized users can access organization-wide data.
 
-## Sample template
+### Sample template
 
 You can use the following template to request audit logs:
 

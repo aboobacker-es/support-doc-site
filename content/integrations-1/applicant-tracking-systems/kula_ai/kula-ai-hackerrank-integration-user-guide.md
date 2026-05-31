@@ -21,7 +21,7 @@ HackerRank integrates with [Kula.ai](<http://Kula.ai>), an AI-powered recruitmen
 
 To integrate Kula.ai with HackerRank:
 
-## Step 1: Generate an API key in HackerRank
+### Step 1: Generate an API key in HackerRank
 
   1. Log in to your **HackerRank for Work** account using your credentials.
 
@@ -43,7 +43,7 @@ To integrate Kula.ai with HackerRank:
 
   * The **Token Activity** tab displays when and where each key was last used.
 
-## Step 2: Share the token with the Kula.ai team
+### Step 2: Share the token with the Kula.ai team
 
   1. Share your HackerRank API token with your Kula.ai account manager.
 
@@ -51,7 +51,7 @@ To integrate Kula.ai with HackerRank:
 
 **Important Note:** Share API tokens only through encrypted or secure channels.
 
-## Step 3: Complete setup in Kula.ai
+### Step 3: Complete setup in Kula.ai
 
   1. The Kula.ai team configures the integration in your Kula.ai account.
 

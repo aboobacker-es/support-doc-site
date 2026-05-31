@@ -34,7 +34,7 @@ To create an HTML/CSS/JavaScript question:
 
 The HTML/CSS/JavaScript question creation workflow opens with the following two steps.
 
-## Step 1: Question Details
+### Step 1: Question Details
 
   1. In the **Problem details** section:
 
@@ -64,7 +64,7 @@ Hard| 100 Points| 45-60 Minutes
 
   4. Click **Next**.
 
-## Step 2: Design Stubs
+### Step 2: Design Stubs
 
   1. Enter the starter code that candidates can use to build their solution in the following sections:
 

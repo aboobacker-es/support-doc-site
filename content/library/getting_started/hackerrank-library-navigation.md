@@ -53,7 +53,7 @@ The total number of available questions appears in the upper-right corner.
 
   * The library selection persists based on the last selection. For example, if you select **My Company** and navigate away from the Library, the same option remains selected when you return. The last selected library also persists in the **Add Question** flow from a Test or Interview.
 
-## Test question actions
+### Test question actions
 
 When you select a question in the **Tests** tab, the available actions depend on the question source as shown in the table below.
 
@@ -75,7 +75,7 @@ Share with your organization| ❌ No| ✅ Yes
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1758775867663-image.png?Expires=253370764800&Signature=ZQgzmH6HHJU4ZyoDE9Q7fIazAeqavd3GD~Q~zzTcPnxqTS1oQn2j4f-Bix6vqo7DpBJS5KoJ6zNYatWDnV96wsD55n0QWs1Qla0frfLDJNs2d7mfxG0gukg20MhRBfu~b6gImTyYF3Lt3D6k4tNI3Hu~NKY7NsjIggJGBxn9iUJwRQvdj4CgAwAmysYLoe26QhYxgjjpudVypvuxk3L8P3-iJ07A2APeamwTRtEDicgD9TdJVhTaiH4dTomD9kvminxiwlx0DW9VVIiKDdbJp5ZCIenfCSI9Vc2MAAr3VheGclEA~HBi0Qth0Ia558nDxERVQg2Lr-h50syhRTfOcw__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-## Interview question actions
+### Interview question actions
 
 When you select a question in the **Interviews** tab, the available actions depend on the question source as shown in the table below.
 

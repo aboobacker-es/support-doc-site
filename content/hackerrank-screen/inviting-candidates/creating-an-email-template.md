@@ -43,11 +43,11 @@ To create a custom email template:
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1758792595920-image.png?Expires=253370764800&Signature=rpsKVnFLTbf3T41Q4w93eOBDvwDtT335U~Xhz2PBZDvt6LAO8OlS8gTsvPZKDMsGYwiiGRJLsaaNV1MLw2wI2uqHx~f0Fqa0vhcpM-~Xz1al4OPD7sAZMQuvNtWqDCPercFXpklfSC7mYjYE8pFeeA0IGJhBxTGIzgklQ36CTc-f8jEM8UQRWGG0wHhS4EXSFBSSVFBs1mmCjr-Zg~RZtm3T4S2nuT~lhlIcKU6o6RKtNKnWpRiDLFQ5RfD8~5X5q0wzB91HSdx8EaID-ZXhW0FkgX~~9jhXG8nt7iMq8VpqXtympmMYy3hb8aGC3Ei0Me80ADz9eMVmARNoJal7Yg__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-## Sample email templates
+### Sample email templates
 
 The following are sample email templates:
 
-### Invitation template 1
+#### Invitation template 1
 
  _Subject:_ **< Company Name> < Test Name >** Assessment Invitation _Email Body:_ Hi **< Candidate Name>**,Thank you for your interest in **< Company Name>.** We have reviewed your application and would like you to proceed to the next step of the interview process!Your next step is to complete the coding challenge administered by HackerRank. We use this coding challenge to assess **< list skills here>** needed for the job. Once complete, we’ll review your results **< include optional timeframe> **alongside the rest of your application and let you know if we want to set up a phone call to discuss the role further. **To begin, please click on the "Start Challenge" button below.  ****Test Expiration Date:  **The challenge consists of **< list # of questions with question type>.** You are free to choose any coding language from [this list](<https://candidatesupport.hackerrank.com/hc/en-us/articles/4402913877523-Execution-Environment-and-Samples>) and can even take this **< insert sample test URL> **to familiarize yourself with the HackerRank system before you get started.  **Here are a few other helpful things to know:  **
 
@@ -58,7 +58,7 @@ The following are sample email templates:
 We hope you enjoy the challenge and look forward to receiving your results!    
 ---  
   
-### Invitation template 2
+#### Invitation template 2
 
  _Subject:_ **< Company> <Test Name>** Assessment Invitation _Email Body:_ Hi **< Candidate>**,Thanks so much for your interest in joining the **< Company> **team! We’re excited to move you forward in our interview process.For your next step, please complete our online coding challenge, administered by HackerRank. This exercise evaluates your technical skillset, and the correctness and completeness of your solution will be evaluated based on the number of passed test cases.Once complete, we’ll review your results and get back to you within **< days/weeks> **about the next steps. A few helpful things to note before you begin the challenge:
 

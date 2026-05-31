@@ -27,7 +27,7 @@ To use Proctor Mode in tests, you must enable it at both the **Company** level a
 
 To enable Proctor Mode:
 
-## Step 1: Enable Proctor Mode in Company Settings
+### Step 1: Enable Proctor Mode in Company Settings
 
   1. Log in to your **HackerRank for Work** account using your credentials.
 
@@ -40,7 +40,7 @@ To enable Proctor Mode:
 
   5. Click **Save Changes**.
 
-## Step 2: Enable Proctor Mode at the test level
+### Step 2: Enable Proctor Mode at the test level
 
   1. Go to the **Tests** tab.
 
@@ -71,7 +71,7 @@ Proctor Mode replicates the stages of live proctoring through automated workflow
 
 Proctor Mode simulates an ideal proctoring experience by focusing on the following areas:
 
-## Before the test: Set rules and guidelines
+### Before the test: Set rules and guidelines
 
 Proctor Mode starts with an onboarding flow that prepares candidates and helps prevent integrity issues:
 
@@ -94,7 +94,7 @@ Proctor Mode starts with an onboarding flow that prepares candidates and helps p
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1759320398229-image.png?Expires=253370764800&Signature=nk0qNhxmRXu~Q8LEVMcGlpYkgwfzVkHLBNl4U6jaSvfiUSad13B7t6aCQkVig1q4ZFabPHJmCNkzIPNAK9FhfQk4na3xOZULKlfGL6MMXwZRng8JKNgg0rw147l973sTjhQLQGaGxAEnnCxee~sCcW1I2dYnIl6evwEYQaQGqNaJZXRuwjuLqEc09yg-yPrUJ8JujeETKTbrk0EIoVZCvXOPyVsU1cqDPWiKGkTqolmyKWMeFAeHaWk7Dnrz-IeNHYiK5iq7nCDQuX96lIOUzqo2ZwO5FG2YjuWoFzWs6HvRewqz1BX9hlqTsgU25EcJIG5f72QlnHNNhVdOj0NNfg__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-## During the test: Monitor in real time
+### During the test: Monitor in real time
 
 Proctor Mode uses AI to monitor candidate behavior and flag suspicious actions in real time.
 
@@ -115,11 +115,11 @@ Proctor Mode uses AI to monitor candidate behavior and flag suspicious actions i
 
   * **Copy-paste restrictions:** Copy-paste functionality is disabled to prevent pasting content from external sources into the editor.
 
-## After the test: Generate post-test integrity report
+### After the test: Generate post-test integrity report
 
 Proctor Mode generates summary and detailed reports that help you assess candidate behavior and overall test integrity.
 
-### Summary report
+#### Summary report
 
 The summary report offers a concise overview of the session, including:
 
@@ -127,7 +127,7 @@ The summary report offers a concise overview of the session, including:
 
   * Integrity summary
 
-### Integrity results
+#### Integrity results
 
 Proctor Mode assigns a final integrity result of **High** or **Medium** based on the severity of detected issues.
 
@@ -179,7 +179,7 @@ The **Session Replay** for these tests includes all the features available for *
 
   * For more information on how to review integrity issues in Proctor Mode, see [📄 Review Integrity Issues in Proctor Mode](</articles/9607697321>).
 
-### Screenshot analysis
+#### Screenshot analysis
 
 The system prompts candidates to share their entire screen. The platform captures screenshots every 15 seconds. When the system detects suspicious activity such as window switching or exiting full-screen mode, it reduces the capture interval to five seconds.
 

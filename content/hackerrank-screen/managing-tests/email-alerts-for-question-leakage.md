@@ -21,7 +21,7 @@ Email alerts provide the following benefits:
 
 You can enable email alerts for leaked questions at the company level, user level, or test level.
 
-## Enabling email alerts for all company tests
+### Enabling email alerts for all company tests
 
 **Note:** You must have admin access to configure company-level settings. 
 
@@ -50,7 +50,7 @@ To enable email alerts for all company tests:
 
 All test owners and editors will receive an email notification when a question is leaked.
 
-## Enabling email alerts for your tests
+### Enabling email alerts for your tests
 
 You can enable email alerts for all the tests you have created. 
 
@@ -68,7 +68,7 @@ To enable email alerts for all your tests:
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2Fc5e99012-ab26-4664-8062-d52317370109-1759991061116-image.png-2f73a93a-bcd0-450c-abfe-e0f8b141dedb?Expires=253370764800&Signature=lR4tIJj88EujQJKeHu00ym8rW7~2H3RzD2lEtBgK1IYOXc88LW6T60x1GE0et4jf37QeMENEj2v39Amz8OGSA-K1dvd8RT6I57CzSyTbihLACLINIwywlVSozBR6kur-Ad7y~yxYIOEAvBVz1a6xhfBsF8BdwlBjo7iXCztRJ5XlNm0Kc~1~jAylorYzpEfQKoC-gK1-cGzcAuBNEucc1xPZ8~xqZO9BRj~hBJqX8sVWENhwcedngCLKh9yPht8z4P8i-AX0w5F-MnAMphRbONBMq9i-I-VhKHH4OJo5KfMl~0uccR6d8pUNVAahCLK4QmqUQvvWYq8DHtv8jXPD-Q__&Key-Pair-Id=K3NV4LZ47N8M46)
   5. Click **Save**.
 
-## Enabling email alerts for a specific test
+### Enabling email alerts for a specific test
 
 You can enable email alerts for a specific test that you own or created for other users within your company.
 

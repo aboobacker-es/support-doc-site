@@ -30,7 +30,7 @@ You can create a test using one of the following methods:
 
      * [Create a custom test](<https://support.hackerrank.com/articles/6967597139-creating-a-new-test#creating-a-custom-test-15>)
 
-## Creating a test with job description
+### Creating a test with job description
 
 You can generate a skills-based assessment by using your job description. HackerRank analyzes the job description to identify the required skills and experience level, then recommends relevant questions from the HackerRank library. This helps you save time and ensures that the test aligns with the role requirements.
 
@@ -60,7 +60,7 @@ To create a test with a job description:
 
   7. Click **Publish** to make the test available to candidates.
 
-## Creating a test based on a specific role
+### Creating a test based on a specific role
 
 You can create a test using predefined roles in HackerRank. Each predefined role includes mapped skills and curated questions from the HackerRank Library.
 
@@ -86,7 +86,7 @@ To create a test based on a specific role:
 
   5. Click **Publish** to make the test available to candidates.
 
-## Creating a custom test
+### Creating a custom test
 
 Custom tests let you design assessments that meet specific hiring needs. You can create a test from scratch to evaluate candidates for particular roles, skill levels, or experience. Use this option when you need a highly tailored assessment.
 
@@ -116,7 +116,7 @@ To create a custom test:
 
 ## Additional test actions
 
-## Move a test to draft
+### Move a test to draft
 
 Select **Move to draft** from the More options (⋮) menu to change a published test to draft mode. If a candidate has already started the test, their session continues even when you move the test to draft.
 
@@ -126,13 +126,13 @@ When you leave a test in draft mode without publishing, a confirmation dialog pr
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1757090768608-image.png?Expires=253370764800&Signature=FqPExvmU-ZNm88i-T6P0tm4TT~AtclrmozV55BQ7EgBIWRPasIOrfPPDh1IbDsY-GD0JL-3fDG3LZv1XpTp8t0vgDpb2aBqto466TvWxuVKZQFAYfTky8zeXLakwdB7IL~vKkj8xbWQsSBkURYodPl2NFCQDUyVZgmmax9hOOtAlHzHwk2l2C4ETxjqr8XE0-nOoMpkdh7XsMRO~pvfDvBdNhK9L1FgOJd44R68yNLOEsCVj5FUcSgwGulrg3gc2gUWfWcykkXcJeH12cgFuoXjRlc8LsHxoygyMyZSRWTIsQwLaIKhpufM8K-B-~~P6hutTES5RY279PUIAedADXw__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-## Share a test
+### Share a test
 
 Click **Share** to share the test with your team. For more information, see [📄 Grant Test Access](</articles/9398245856>).
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1757671469803-image.png?Expires=253370764800&Signature=Bt4p7PWwPV63b3uP0Bt4~3wru8k-vi5a8S7dS9IPPqM72kwpMt58b2iF2I9S9Aa17RRdq9NLkmjzqQyKtydmEAOdlK9qPDEwecDZC05BvwKz12pgAkPXVN--e85s0s98cBSNH73oYMdslJtUgCIRvnVMVxk0Rulq1scPXANRagVf2MuLg37A7MwYUrKL5SC6a52eF6IIlX9eKxix9N2jdCMaDjrBnggsnkgL3mqllxx6Zh0bIuzr7UZTlKdFEv6rmVZgfJ77GsE-5hl7jkPXgkuYEZkjjx6oRhMsz41VTRnZgGep45QfC1ZMhFO1L42W3o-piEgquc7vNkZVUdb2ug__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-## Preview a test
+### Preview a test
 
 You can preview a test from the candidate’s perspective by selecting **Try Test**. This action opens the complete test experience in a new window.
 

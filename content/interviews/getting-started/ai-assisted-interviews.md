@@ -47,7 +47,7 @@ AI-Assisted Interviews offer signal-rich insights by enabling the following:
 
 You can enable the AI Assistant for candidates at the company level and control how it applies to interviews.
 
-## Enable AI Assistant in Company Settings
+### Enable AI Assistant in Company Settings
 
 To enable AI Assistant:
 
@@ -70,7 +70,7 @@ To enable AI Assistant:
 
   7. Click **Save**.
 
-## Enable AI Assistant for a specific interview
+### Enable AI Assistant for a specific interview
 
 **Note:** You can manually enable the AI Assistant for individual interviews only when **Choose per interview** is selected under **AI Assistant for Candidates** in company settings.
 

@@ -40,7 +40,7 @@ To enable Secure Mode:
 
 Secure Mode applies integrity controls at every stage of the test session.
 
-## Before the test
+### Before the test
 
 Secure Mode starts with an onboarding flow that prepares candidates and helps prevent integrity issues:
 
@@ -55,7 +55,7 @@ Secure Mode starts with an onboarding flow that prepares candidates and helps pr
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760388746565-image.png?Expires=253370764800&Signature=F7qWFP4i8z1opQetbtm7FPeyYyWdl5WI4ZT~aGBreQa25OJSPaY4oyzx6YljvRi4bUuYsgngIAE-nyUjqvqTw6rAWMEEMqmdGKZnBw4uZSm4t6nglWKnFyuirpxJTKcXSkWmiBeHn~~zNiHIMC1NUVuy~9q3DRWaRpZmJozqiHRgCksb4DkKr9v2ZVXKwRytlcLMkp2IS9EKHp3c8pX7psbJK9sd04O8q~tgkyJ~hE4EmBhibtnL-zQDU~HpMogESmzEgx9FlKSFuQHWeGFAJWVATCrjFiWTwOJS7uIafMoJSwlu8PhDN7gJy9yn1SRnH3CZoFGZG4qS6-lJwNz2Rg__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-## During the test
+### During the test
 
 Secure Mode actively monitors and enforces integrity controls:
 
@@ -73,11 +73,11 @@ Secure Mode actively monitors and enforces integrity controls:
 
 Secure Mode logs all violations in the candidate’s report for review.
 
-## After the test
+### After the test
 
 Secure Mode generates summary and detailed reports that help you assess candidate behavior and overall test integrity.
 
-### Summary report
+#### Summary report
 
 The summary report offers a concise overview of the session, including:
 

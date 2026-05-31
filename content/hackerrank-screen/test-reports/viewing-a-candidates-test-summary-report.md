@@ -63,7 +63,7 @@ Assessment and Candidate Details| ✅| ✅
 
 The old Summary Report provides detailed insights into candidate performance and test efficiency. It helps you to assess a candidate's suitability for a role.
 
-## Key components
+### Key components
 
 The old Summary Report includes the following components:
 
@@ -124,7 +124,7 @@ The question requires manual evaluation.| ![25.png](https://assets.usepylon.com/
 
 The New Summary Report provides enhanced performance analytics, AI insights, and improved integrity tracking. It offers deeper visibility into candidate behavior, performance, and code quality, helping you make informed, data-driven hiring decisions.
 
-## Key components
+### Key components
 
 The new Summary Report includes the following components:
 
@@ -209,7 +209,7 @@ The question requires manual evaluation.| ![25.png](https://assets.usepylon.com/
 
   * Open it in a new tab using the **New Tab** icon.
 
-## Override integrity flags in summary reports
+### Override integrity flags in summary reports
 
 You can manually override integrity flags in a candidate’s **Summary Report** if you determine that the flagged activity is not valid.
 

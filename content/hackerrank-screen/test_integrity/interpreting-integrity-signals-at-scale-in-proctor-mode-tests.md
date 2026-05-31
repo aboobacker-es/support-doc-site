@@ -13,7 +13,7 @@ Proctor Mode helps test administrators quickly identify potential integrity issu
 
 To evaluate Integrity Signal for flagged candidates at scale in Proctor Mode:
 
-## Step 1: Export Proctor Mode data for flagged candidates
+### Step 1: Export Proctor Mode data for flagged candidates
 
   1. Log in to your **HackerRank for Work** account using your credentials.
 
@@ -31,7 +31,7 @@ To evaluate Integrity Signal for flagged candidates at scale in Proctor Mode:
 ![pr2.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1761737608161-pr2.png?Expires=253370764800&Signature=TEsU7GJSeZiy7Q6oWSHiNuEZdgm8gGO22IgkIXB98Az8TjuLB6oolDk3APJiO4ZK5-kdLRWNxCmsWQOROcX2DnxyRpyjqz7mKe70NaEKTeaNy2gEf84XdYqayCOT-veiIQNv-Xwbb39twaxaC7nY2axDZTltw4QC0KkFwd3euU~i3fTZjrfrc~CW-uHHNncg9t8swIa9C4eX2oWJ8cDtxM7rmUI~ppQ0unOfV-3RVnxM~x8mUHXIN~ZlsgxTIWyPFkkqtj-DkflcNRzt1z~p~4t180hz0gePIiICBuGGf3gssDOULYymahB-NtQRzn8QfLeiOfQqr~8fexUAtoeOCQ__&Key-Pair-Id=K3NV4LZ47N8M46)
   7. Click **Export** and select **Excel**.
 
-## Step 2: Apply filters in the spreadsheet
+### Step 2: Apply filters in the spreadsheet
 
 Use the exported file to filter and analyze candidates based on suspicious activities. Apply the following filters:
 

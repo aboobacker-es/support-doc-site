@@ -19,7 +19,7 @@ These updates are now live! Watch our [_webinar recording_](<https://hackerrank.
 
 ## **Screen**
 
-## **Test Variants  ** 
+### **Test Variants  ** 
 
 You can now create multiple variations of a test and deliver the correct one based on the candidate's input at login. This makes it easy to assess candidates working with different tech stacks—like Node.js, Python, or Java, using a single, streamlined test setup.
 
@@ -31,7 +31,7 @@ Candidates see only the sections relevant to them, and reports reflect just the 
 
 For more information, see [📄 Test Variants ](</articles/7530103378>).
 
-## **Enhancements to Test Settings**
+### **Enhancements to Test Settings**
 
 We have revamped the Test Settings to reduce complexity and improve usability. Settings are now grouped more intuitively. These changes simplify decision-making, enhance consistency across the platform, and lay the groundwork for smarter, organization-wide controls. Here are the highlights:
 
@@ -47,7 +47,7 @@ We have revamped the Test Settings to reduce complexity and improve usability. S
 
 For more information, see [📄 Modify General Settings for Tests](</articles/9672590042>), [📄 Modify Question Settings for Tests](</articles/5424328799>), [📄 Modify Sections Settings for Tests](</articles/2528926257>), [📄 Modify Evaluation Settings for Tests](</articles/8294988738>), [📄 Configure Onboarding Settings for Tests](</articles/5956879724>), [📄 Configure Email Settings for Tests](</articles/2564162886>), [📄 Configure Test Invites Settings for Tests](</articles/9544354489>).
 
-## **Set Custom Invite Expiration for Tests**
+### **Set Custom Invite Expiration for Tests**
 
 You can now define how long a test invite stays active directly at the test level. Set a specific end date or define a custom duration to fit your needs. This gives you more flexibility to tailor expiration windows without being tied to a global default.
 
@@ -55,7 +55,7 @@ You can now define how long a test invite stays active directly at the test leve
 
 For more information, see [📄 Configure Test Invites Settings for Tests](</articles/9544354489>).
 
-## **Updated Default Invite Template**
+### **Updated Default Invite Template**
 
 The default test invite template now includes clearer instructions, an improved tone, and a preview of the sample test. This helps candidates feel more confident and better prepared, thus helping you get more candidates into your funnel with no extra effort.
 
@@ -65,13 +65,13 @@ The default test invite template now includes clearer instructions, an improved 
 
 The AI Add-on package includes advanced features that help you assess next-gen skills and maintain interview integrity in an AI-native world. It’s built to solve emerging challenges with the right level of depth and control. For more details, contact your account manager or email [_support@hackerrank.com_](<mailto:support@hackerrank.com>).
 
-## **AI-Assisted Tests**  
+### **AI-Assisted Tests**  
 
 Upgrade your tests with an AI-assisted IDE that offers candidates contextual help like syntax tips, templates, and platform guidance without giving away full solutions. It mirrors how developers work today, while keeping assessments fair.
 
 Get a complete view of each candidate’s approach with advanced evaluation, which includes signals like code quality, optimality, and AI usage summaries, along with full chat transcripts.
 
-### AI-Assisted IDE
+#### AI-Assisted IDE
 
 Enable intelligent, AI-first coding assistance for candidates, designed to boost productivity and give you visibility into how candidates use AI in real-world coding tasks.
 
@@ -85,13 +85,13 @@ AI Assistant supports Coding, Frontend, Backend, Mobile, Full-Stack, and Code Re
 
 For more information, see [📄 AI-Assisted Tests](</articles/1152916770>).
 
-### Advanced Evaluation 
+#### Advanced Evaluation 
 
 With AI assistance, hiring decisions cannot rely on pass/fail test case results alone. As a hiring manager, you need to understand how a candidate thinks, builds, and uses AI to get there. Advanced Evaluation helps you do exactly that by surfacing deeper insights into code quality, problem-solving behavior, and AI collaboration, offering a more comprehensive view of real-world skills.
 
 For more information, see [📄 Advanced Evaluation](</articles/7098008997>).
 
-###### **Code Quality Grading**
+####### **Code Quality Grading**
 
 Production-ready code needs to be readable, maintainable, and efficient, in addition to being functionally correct. Code Quality Grading highlights how well a candidate writes code that others can understand and build on. You’ll see reviewer-style comments that call out strengths and suggest improvements, so you can quickly gauge craftsmanship, not just correctness.
 
@@ -99,7 +99,7 @@ Production-ready code needs to be readable, maintainable, and efficient, in addi
 
 For more information, see [📄 Code Quality Evaluation](</articles/9625818007>).
 
-###### **Optimality**
+####### **Optimality**
 
 Great code should also scale. Optimality scores candidate solutions based on time and space complexity, so you can evaluate performance under real-world constraints.
 
@@ -107,7 +107,7 @@ Great code should also scale. Optimality scores candidate solutions based on tim
 
 For more information, see [📄 Optimality ](</articles/4755292353>).
 
-###### **AI Usage Summary**
+####### **AI Usage Summary**
 
 The AI usage summary gives a clear, concise view of how the AI assistant was used during each test. It is available in both the performance summary report and the detailed, question-level report.
 
@@ -117,7 +117,7 @@ Any test with supported question types can be upgraded to the AI-assisted experi
 
 For more information, see [📄 AI Usage Summary](</articles/1773201418>).
 
-## **Enhanced Proctor Mode**  
+### **Enhanced Proctor Mode**  
 
 **Note:** Must be a new test with no attempts. 
 
@@ -141,7 +141,7 @@ For more information, see [📄 Proctor Mode](</articles/5663779659>).
 
 ## **Skills Platform**
 
-## **iOS Assessments  **
+### **iOS Assessments  **
 
 Hiring iOS developers just got easier. You can now assess iOS development skills in an environment that mirrors how iOS apps are actually built, with a multi-file structure, Swift syntax support, and intelligent autocomplete. These assessments also support frameworks like SwiftUI.
 
@@ -151,7 +151,7 @@ Candidates write and run their code with a built-in iOS emulator, so you can pre
 
 For more information, see [Using HackerRank IDE](<https://candidatesupport.hackerrank.com/articles/8606305957-taking-front-end-back-end-full-stack-and-mobile-developer-assessments#using-the-hackerrank-ide-12>).
 
-## **Flox**
+### **Flox**
 
 We now support Flox, giving you the flexibility to create and run custom questions using the Flox package manager. With Flox, you can define consistent, reproducible environments directly within your question setup, making it easier to test candidates on real-world tooling and workflows. This is especially useful for teams working with custom dev environments.
 
@@ -159,9 +159,9 @@ We now support Flox, giving you the flexibility to create and run custom questio
 
 For more information, see [Execution Environment](<https://candidatesupport.hackerrank.com/hc/en-us/articles/4402913877523-Execution-Environment>).
 
-## **Library Improvements**
+### **Library Improvements**
 
-### New Content
+#### New Content
 
 We’ve expanded our content library to help you assess a broader range of skills.
 
@@ -192,7 +192,7 @@ Data Engineering| Redis| MCQs
 Data Engineering| Snowflake| MCQs  
 Data Engineering| Informatica| MCQs  
   
-### Content Quality Upgrades
+#### Content Quality Upgrades
 
 The HackerRank library continues to evolve to improve clarity, precision, and ease of use, while supporting effective skill assessment.
 
@@ -216,7 +216,7 @@ You are required to customize a class named `DataEncryption`, having the followi
   
 ## **Developer Experience**
 
-## **New Candidate Site - Projects and Sentence Completion Questions**
+### **New Candidate Site - Projects and Sentence Completion Questions**
 
 Building on last quarter’s redesign for Coding, MCQ, and Database questions, we’ve now extended the streamlined candidate interface to more question types - Frontend, Backend, Mobile, Full-Stack, GenAI, and Sentence Completion.
 
@@ -226,9 +226,9 @@ As part of these updates, candidates can now easily reset a project, making it s
 
 For more information, see [Taking Front-end, Back-end, Full-stack, and Mobile Developer Assessments](<https://candidatesupport.hackerrank.com/articles/8606305957-taking-front-end-back-end-full-stack-and-mobile-developer-assessments>).
 
-## **Data Science Assessment Improvements**
+### **Data Science Assessment Improvements**
 
-### Submission Check for Candidates
+#### Submission Check for Candidates
 
 Submitting an incorrect file shouldn't get in the way of a great result. Candidates now get an automatic submission check when clicking Submit, confirming that their submission.csv file is present, correctly named, and properly formatted.
 
@@ -246,7 +246,7 @@ This reduces preventable errors and helps ensure candidates get credit for the w
 
 For more information, see [Answer Data Science Questions](<https://candidatesupport.hackerrank.com/articles/8119048607-answering-data-science-questions>).
 
-### Upgraded JupyterLab IDE
+#### Upgraded JupyterLab IDE
 
 We’ve upgraded to JupyterLab 4.4.1 to deliver a smoother, faster, and more intuitive experience for data science candidates.
 
@@ -258,21 +258,21 @@ We’ve upgraded to JupyterLab 4.4.1 to deliver a smoother, faster, and more int
 
 ![JupyterIDE\(Statusbar\)seocnd option.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1753201101398-JupyterIDE%2528Statusbar%2529seocndoption.gif?Expires=253370764800&Signature=Nf3gVqvPkTnJoa9wmJvAuAUhO7wE4udgwbestGbfaRLPClvBmCCEgrBjWcYS2NovFO2p8wkDWWUBCyknCUnC9EUAv537ZHo8n2RhRgb5Ay8gNbeic4oMEFLzZFT6J7RGBcr4Qflv4BkL6U0wmDPsi631zcWNiXw3xGdtpjE3zY-rpdR8-by3DI3QVXgk2L3R4UMnkEq7zomeI7kSxw0odpCYxSM~~A0tavFiMSNRiMVK6Ii9xqr6fYOXVzbXQl5FHnfF6wxU3t6gk~kXdqO-MBOIncFk7tIHtvPUdZsgby0ZH2jMJtlPKPs2ZBITTN3SQHfPQH1bRBKej1MbEfLx0g__&Key-Pair-Id=K3NV4LZ47N8M46)![JupyterIDE\(Code Consol\).gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1753201061263-JupyterIDE%2528CodeConsol%2529.gif?Expires=253370764800&Signature=OjcD9ViHOtkHnfweiwxffJTbv8lYoxuoje31pl804e0MnSiSvypPW6IiwjYvre~2cbUv2pffuatZidxWpO1bBgnDLsJ-yfn78GxfHfCK0N5xFUA1jTDmknPR4TqMYWHkMSBYQnEFTEAvf-cXTkvqM6hFXcY86RtDqN56bjPzmBlO4lJ9LeShKtnSBhVYId2BlcYCpIqWIuq6fi0~pJ36dVuBomgP1uOEiyY6~Um93dy7XYt9M1fRN0PH65kvTLj7L-k~vkmGD5mT-Y~tUi9s0HyIsXQmX~pK3AuZ~Ql5WnzdFcdIGJ4~swNaHLgTvEsQ~NV-UosagjixZhGFO6Of~w__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-### Higher Compute, When You Need It
+#### Higher Compute, When You Need It
 
 As question complexity increases, especially with compute-heavy use cases like TensorFlow for Machine Learning and Data Science roles, we now support GPU-backed environments to ensure smooth execution and an optimal candidate experience, enabling you to assess skills more accurately without being constrained by platform limitations.
 
 You can now request a free trial for GPU support by contacting [support@hackerrank.com](<mailto:support@hackerrank.com>).
 
-## **DevOps Assessment Improvements**
+### **DevOps Assessment Improvements**
 
 DevOps Library questions now load up to **50% faster** , cutting wait times from over four minutes to around two. Terminal lag has also been reduced, so the environment feels more responsive from the start.
 
-## **Error-free Report Processing  **
+### **Error-free Report Processing  **
 
 Candidate report processing is now more reliable, helping minimize delays in receiving evaluation results. We've made major improvements to reduce report processing errors by **93%** bringing it to under 0.2%. This ensures a smoother, more dependable assessment experience, helping you access timely insights to evaluate performance and make confident hiring decisions.
 
-## **Platform Upgrades**
+### **Platform Upgrades**
 
 The HackerRank platform now runs on the latest versions of today’s most-used languages and frameworks, so you can assess developers in environments that reflect real-world engineering stacks
 
@@ -307,7 +307,7 @@ Custom| Ubuntu 22.04| Ubuntu 24.04
   
 ## **Interview**
 
-## **Improvements to Whiteboard Experience**
+### **Improvements to Whiteboard Experience**
 
 We’ve introduced a series of whiteboard improvements to make editing, working with shapes, and copy-pasting faster and more intuitive.
 
@@ -323,7 +323,7 @@ We’ve introduced a series of whiteboard improvements to make editing, working 
 
 ![Improvements to Whiteboard experience.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F62580e00-4b89-4400-a5c9-a57e285bb8a1-1753201000420-ImprovementstoWhiteboardexperience.gif-65dd81db-677d-4bba-95e1-1506abea4d6e?Expires=253370764800&Signature=VZn5EKPTHqskwhCafqXuyHwzziw8yg6XeOH3VnVJtpXNGOenY0imecgXEvVnvVaq~13W5-gQYXI2M34Qt0argeAPm~z~isx~eATQ3NYJ8Zcd~SsYBMGr~ZmcpC1EVvcsnp6sb5Uvdi6pCwdnaxTY7E82pAB-TrnkY~YirL94NlPRDvo1-6bSmUfl~L12K4yc-WYxjY5qNyDeo0dgvCmJWWwNMw2ejNyhDyzfocDBjFDBmlg4MP4hNRIuZk2q8yjVKLkCMbXHkhHoNIJvcxv1lcx99DiKznd21GNyws9ohqKvHFPqpDVR~varen6YxyTAwupZcabnhbGvxs4ztOvBzA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-## **Interview Scorecard PDFs for Workday and Greenhouse**
+### **Interview Scorecard PDFs for Workday and Greenhouse**
 
 Hiring teams can now view secure, authenticated PDF versions of HackerRank scorecards directly within candidate profiles in Greenhouse and Workday. This makes it easier for teams, especially those who don’t log into HackerRank, to review feedback without delays or workarounds. With evaluations available right where you work, hiring decisions become faster, clearer, and more collaborative.
 
@@ -331,17 +331,17 @@ Hiring teams can now view secure, authenticated PDF versions of HackerRank score
 
 For more information, see [View Interview Scorecard on Greenhouse](<https://support.hackerrank.com/articles/8806262569-greenhouse---hackerrank-integration-interviews-user-guide#view-the-interview-scorecard-on-greenhouse-8>).
 
-## **Status Indicator in the Report Page**
+### **Status Indicator in the Report Page**
 
 The thumbs-up/down status indicators on the interview page are now removed. This ensures that “Qualified” or “Failed” labels do not appear on the timeline, creating a more neutral, consistent experience for both candidates and interviewers.
 
 ![hidee.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1753214307884-hidee.png?Expires=253370764800&Signature=ijsWThBn~vHjA1jJ6OFb6jv1Ha9J-yacbJyECdSZj3bXQuhB02663Xs1IbWBHsJo0UJ2SoFCwZ9jp3G5eaikgZyZSgc2Oha7IpaXP1cL0HHcIImz3TaXbyjLLMLkEjA7NeS~lvcitAn5BS9AnLef-A3fqLTpXhTaCy~lgCoAVE7~mhtx6Eov~A9g1kjJSsa2L4ZiwnO0Av5nT1m-wOoJGvp3eipqwtjNmtby3X58efHK~UZRqcvxBfopRUbL7AagTGFDlm5-X4-Ctp4vlzNhSgegyaz-1ufPlYLNVmLo318RhSWCG7f7qbPeHD49SRBJzqP274yU78-Cx4waQETVzA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-## **Improvements to Performance**  
+### **Improvements to Performance**  
 
 Interviews now load significantly faster, improving the experience for both candidates and interviewers. Coding questions open 37% faster, and Whiteboard questions load 26% quicker. By reducing redirects, eliminating unnecessary loading checks, and parallelizing API calls, we’ve cut down wait times across the board, helping candidates get started quicker and interviewers stay on schedule.
 
-## **Improvements to Integrity Signals  **
+### **Improvements to Integrity Signals  **
 
 Interview integrity is now more contextual and focused. Instead of flagging isolated actions like tab switches or pastes, the system looks for patterns of behavior,  grouping signals and classifying them as silent, grouped, or critical. You’ll only be alerted when multiple actions suggest a genuine concern, reducing unnecessary noise.
 
@@ -355,7 +355,7 @@ For more information, see [📄 Interview Integrity Signals](</articles/51615826
 
 The AI Add-on package includes advanced features that help you assess next-gen skills and maintain interview integrity in an AI-native world. It’s built to solve emerging challenges with the right level of depth and control. For more details, contact your account manager or email [support@hackerrank.com](<mailto:support@hackerrank.com>).
 
-## **Screen to Interview Identity Match**
+### **Screen to Interview Identity Match**
 
 Ensure that the candidate who took the screening test is the same person attending the interview - without adding friction to the process.
 
@@ -365,7 +365,7 @@ Candidate images are automatically captured during both stages and matched using
 
 For more information, see [📄 Screen-to-Interview Identity Match](</articles/8605077096>).
 
-## **Interview Transcription**
+### **Interview Transcription**
 
 Real-time transcription now provides a lightweight, searchable record of each conversation, so hiring teams can focus on meaningful evaluation instead of manually taking notes. Powered by Zoom’s SDK, transcripts capture all audio interactions and are easily accessible via email, reports, or API. You also have complete control over transcription settings to match your workflow and privacy preferences, making it simple to revisit and review what matters most.
 
@@ -373,7 +373,7 @@ Real-time transcription now provides a lightweight, searchable record of each co
 
 For more information, see [📄 Scorecard Assist](</articles/5847159594>).
 
-## **Scorecard Assist for Coding Questions**
+### **Scorecard Assist for Coding Questions**
 
 A new auto-generated scorecard simplifies post-interview evaluation for hiring teams. Once an interviewer selects “Leave Interview” or “End Interview,” the platform automatically generates a pre-filled scorecard using data from the session, including the transcript, code submissions, timestamps, test case results, and the assigned rubric, resulting in faster, more structured evaluations that help teams make decisions.
 
@@ -383,7 +383,7 @@ A new auto-generated scorecard simplifies post-interview evaluation for hiring t
 
 For more information, see [📄 Scorecard Assist](</articles/5847159594>).
 
-## **AI-Assisted Interviews**
+### **AI-Assisted Interviews**
 
 In interviews, you can turn on unguarded mode, where the AI Assistant offers more open-ended help, especially useful during pair programming rounds. Whether candidates are reviewing code, fixing a bug, or navigating a new file, the interview experience now feels more natural and closer to everyday software development.
 
@@ -403,13 +403,13 @@ For more information, see [📄 AI-Assisted Interviews](</articles/5821380141>).
 
 ## **SkillUp**
 
-## **New Learn Tracks for GenAI Skills**
+### **New Learn Tracks for GenAI Skills**
 
 AI is changing how software gets built, and your teams are looking to become Next-gen developers. With SkillUp, developers learn to think and build with AI: when to use it, how to guide it, and how to stay unblocked while maintaining quality. New AI-tutor-led tracks on Prompt Engineering, RAG, and Agent Building help your teams master these new skills.
 
 For more information, see [Roles and Skills in SkillUp](<https://support.hackerrank.com/articles/1506621765-roles-and-skills-in-skillup>).
 
-### RAG
+#### RAG
 
 You can now learn to build Retrieval-Augmented Generation (RAG) pipelines with hands-on support from an AI tutor - one focused concept at a time.
 
@@ -421,7 +421,7 @@ You can now learn to build Retrieval-Augmented Generation (RAG) pipelines with h
 
 ![RAG.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1753200465129-RAG.gif?Expires=253370764800&Signature=SweQVKavol1gB3v6vW4fsuCTg0MuIdyzlRIRJqf83zZNr76gGkLiwlcUX3yd1~q-HrrJfpzgISnrYUnJVGY6VdwoP0xM7PwA6B3nYXVPSYqIY5AtFw6HM8gJ5o1ubKEEbGonNTzVpa~PjPeLRzTo-4nDs9zu7qjs241vQG5sUx7bQpzVkCEKYBxtD5zX-rOfNs9xQ6xe5-216bMrQUbjiasqbWaWk3eYqcURsERbLpW95s~INjixcYtll6b00CI-TIwM~Gygz035faxBFkA3BySOnQPWTBUT5XaMyBmk~8nglCvdRaNGzThaLP8QZIE1zMdwq6Q0LiY8E3BIBnRa8g__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-### Prompt Engineering
+#### Prompt Engineering
 
 Master the skill of writing clear, effective prompts that generate better AI outputs, with hands-on guidance from an AI tutor.
 
@@ -433,7 +433,7 @@ Master the skill of writing clear, effective prompts that generate better AI out
 
 ![prompt_engineering.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1753200470636-prompt_engineering.gif?Expires=253370764800&Signature=HRhVA5Ez8SNXcL~9Czu3XYHaKkH2sbYG~y8z0TDB7Ww7lgSxw1F25CcGBTPwZhrRklNz2C35gTfNsqhXmEdFNyziSeUh9rGNnIOCtI3BI1BR56umZoLJYLJ4ZkJJaVMPKo~WxtxmAwbhQGUUwL8gu64plCr-o7cNDowMxmt5kcxp5Y7kinqrb2amG270DQqh3cFq76ELzasXKJkIpIFd9KjC2R1NXdZpi1d~aEtrhb6KOrcjOJgq8vEbTAVQzLrsILPqa2lN1tUJsaXWW9eqHZd3sR3VuG6EVKuFvrj3LcTi-w0MJ1JLN1w~FrG67Sc2jnUHYOxfjfFYY8JFPsDCpg__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-### Agent Building
+#### Agent Building
 
 Get started with AI agents by building foundational skills that reflect how modern developers integrate LLMs into real workflows.
 
@@ -445,7 +445,7 @@ Get started with AI agents by building foundational skills that reflect how mode
 
 ![AgentBuilding.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1753200478836-AgentBuilding.gif?Expires=253370764800&Signature=dNA39Pz-YzfiWfwfPOX~jYhb~3HPAEqkv8K2DmsbKqHmOvxdPLKFPI8WQeyA1UJ6YKgGlFHKibSC8edYv3nPqC8PPvQ9p~rnazkPQOGxM4PO-PtbywNk4oE0T4hPqgJOqSlZ~40vRHMwvGuPvnjVz4KoS5rlIV2TY36KFNVMYrVdnyNzAJOnk-jV9CSaEfQ-3QIOOor9L4~GfnWcq3ssBKZdk3Yvcz9MfxBvCKF9O1DOcgB9wSMwfU7Mmn2nU0F2sm77GKvjHws7~ZW8dme9GkPXPnd6QdWyZpdzHqSSj8wZ-lowLdBWKDtnPBgyPimIPzWwun50m8KIWJEmCKzzXw__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-## **Custom Certifications  **
+### **Custom Certifications  **
 
 You can now convert a custom test built in HackerRank Screen into a certification in SkillUp. These certifications work just like our standard ones, with progress tracking and clear custom labels to distinguish them. Admins can build and manage assessments in HackerRank, while developers earn certifications through SkillUp’s guided experience. This gives you the flexibility to test the skills that matter most to your organization, while benefiting from SkillUp’s integrated learning paths, practice tracks, and reporting tools.
 
@@ -453,7 +453,7 @@ You can now convert a custom test built in HackerRank Screen into a certificatio
 
 For more information, see [📄 Custom Certifications](</articles/3726813028>).
 
-## **In-line Integration for Terminal and Jupyter Notebook  **
+### **In-line Integration for Terminal and Jupyter Notebook  **
 
 You can now execute terminal commands and Jupyter notebooks directly within SkillUp’s Learn and Practice tracks, making it easier to complete DevOps and Data Science tasks without switching contexts and being redirected to an HRW test. Everything runs in one seamless, integrated workflow.
 
@@ -461,7 +461,7 @@ You can now execute terminal commands and Jupyter notebooks directly within Skil
 
 ## **Engage**
 
-## **Generate Banner Images using AI**
+### **Generate Banner Images using AI**
 
 You can now generate a professional banner image for your event in seconds using AI. Enter a description of your desired image using the starter prompts provided for guidance. The system will create a custom banner featuring your event name. Regenerate the banner image up to five times to view alternative variations and select the version that best aligns with your event’s visual identity.
 
@@ -469,7 +469,7 @@ You can now generate a professional banner image for your event in seconds using
 
 For more information, see [Update content layout](<https://support.hackerrank.com/articles/3958121708-setting-up-the-event-microsite#steps-2-update-content-layout-7>).
 
-## **Auto-Publish Ads on HackerRank Community**
+### **Auto-Publish Ads on HackerRank Community**
 
 Your events deserve the right audience. With this update, you can promote them directly to millions of developers on the HackerRank Community, all from within Engage. Simply add your event details under the ‘Promotions’ tab and publish when ready. Your ad goes live instantly, helping you drive registrations without delays.
 
@@ -477,7 +477,7 @@ Your events deserve the right audience. With this update, you can promote them d
 
 For more information, see [Set up your promotion](<https://support.hackerrank.com/articles/7392770596-getting-candidates-for-your-event#set-up-your-promotion-23>).
 
-## **Registration Insights on Home Page**
+### **Registration Insights on Home Page**
 
 Tracking the ROI of your marketing channels is now simpler. The new ‘Views vs. Registrations’ graph on your event’s Overview page shows exactly how each channel contributes to your registrations. Use these insights to optimize your marketing strategy and focus your efforts where they drive the most impact.
 
@@ -485,7 +485,7 @@ Tracking the ROI of your marketing channels is now simpler. The new ‘Views vs.
 
 For more information, see [View marketing insights](<https://support.hackerrank.com/articles/5336874519-view-event-stats#view-marketing-insights-7>).
 
-## **Enhancements to Email Sequence Experience**
+### **Enhancements to Email Sequence Experience**
 
 No more jumping between tabs to track your event emails. All candidate communications—registration confirmations, invitations, reminders, and engagement emails—are now organized under the new ‘Email Sequence’ tab in the ‘Outreach’ menu. Review and edit every message easily from a single, streamlined view.
 

@@ -35,7 +35,7 @@ Each question includes one or more evaluation criteria:
 
   * Each criterion includes test cases that vary by question.
 
-## Viewing evaluation criteria
+### Viewing evaluation criteria
 
 To view the evaluation criteria for a question:
 
@@ -53,7 +53,7 @@ To view the evaluation criteria for a question:
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1777540873372-image.png?Expires=253370764800&Signature=C4n3JA2bnj83uQnizDbwVBPHG4OoqET8GkrBmlDLO8WMY-dfnQn86YC-6MC-rOQ71LrRUxoSNfPymUYnIsALpVdTx0Z9ack3M2fnN1b41XIeWLgIWPyVxLq2ULWeE~agGgTJCO2chbFLrhsTrCHoFtE8IKCpsyXWslWJN1EAxf8-dj51BpU7IdRHd9FXRJKMV7nFf7X5YlA0IxXvzqLYR5gtYBkt4AxY5vxO4mMBUA~ge3i11hkoEU-8PXCRRsclaPzvUjQ0K00soxiMHzjgv4QQBulW1H~XRRYOzESDKghx4tKaKtfk1TmBCFGH4d9XKAQvaSd-V~6oMZ3F0vDBFQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-## Viewing scoring logs
+### Viewing scoring logs
 
 Scoring logs show how many test cases a candidate passes. 
 

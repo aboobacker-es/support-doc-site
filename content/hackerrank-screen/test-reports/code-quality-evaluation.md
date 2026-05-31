@@ -41,7 +41,7 @@ HackerRank uses the time-debt method to create a grading system for code quality
 
 **Note** : This feature is currently supported only for Coding and React questions.
 
-## Grades based on tech debt
+### Grades based on tech debt
 
   * **Grade A** : Tech debt is low; code quality is good.
 
@@ -67,7 +67,7 @@ The **Summary Report** also displays the code quality grade in a dedicated **Cod
 
 You can evaluate a candidate’s code quality directly in the **Detailed Report**. The report provides a code quality grade alongside the candidate’s score, offering deeper insight into their coding abilities.
 
-## Key components
+### Key components
 
   * **Code quality grade** : A quick indicator of the candidate’s code quality. This requires the question to have a recommended time set.
 
@@ -75,7 +75,7 @@ You can evaluate a candidate’s code quality directly in the **Detailed Report*
 
 If you disagree with a comment, you can choose to ignore it. The grade is automatically updated to reflect this action.
 
-## Reading grade
+### Reading grade
 
   * **A** : Good quality code; very few issues.
 

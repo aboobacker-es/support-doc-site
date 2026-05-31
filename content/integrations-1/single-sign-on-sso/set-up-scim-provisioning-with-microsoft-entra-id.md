@@ -37,7 +37,7 @@ Before you begin, ensure you meet the following requirements:
 
 To set up SCIM provisioning with Microsoft Entra ID:
 
-## Step 1: Generate an API key in HackerRank
+### Step 1: Generate an API key in HackerRank
 
   1. Log in to your **HackerRank for Work** account using your credentials.
 
@@ -54,11 +54,11 @@ To set up SCIM provisioning with Microsoft Entra ID:
 
 **Note** : You need this API Key in [Step 3: Configure automatic provisioning in Entra](<https://support.hackerrank.com/articles/9508675839-set-up-scim-provisioning-with-microsoft-entra-id?lang=en#step-3-configure-scim-provisioning-in-microsoft-entra-id>).
 
-## Step 2: Create a HackerRank enterprise application in Microsoft Entra ID
+### Step 2: Create a HackerRank enterprise application in Microsoft Entra ID
 
 Follow the steps outlined in [📄 Setting up HackerRank Single Sign-On with Azure AD](</articles/3007497492>)to create and configure the HackerRank enterprise application.
 
-## Step 3: Configure SCIM provisioning in Microsoft Entra ID
+### Step 3: Configure SCIM provisioning in Microsoft Entra ID
 
   1. Log in to your [Microsoft Entra ID](<https://entra.microsoft.com/>) account using your credentials.
 
@@ -88,7 +88,7 @@ Follow the steps outlined in [📄 Setting up HackerRank Single Sign-On with Azu
 
   9. Click **Create**.
 
-## Step 4: Create Microsoft Entra app roles
+### Step 4: Create Microsoft Entra app roles
 
 Create app roles in Microsoft Entra ID to map users and groups to corresponding roles in HackerRank. 
 
@@ -131,7 +131,7 @@ Create app roles in Microsoft Entra ID to map users and groups to corresponding 
 
 **Note:** When you create Entra app roles for custom roles, use the customer-facing role name.
 
-## Step 5: Configure attribute mappings
+### Step 5: Configure attribute mappings
 
 Configure attribute mappings to control how Microsoft Entra ID provisions users and groups in HackerRank.
 
@@ -141,7 +141,7 @@ Configure attribute mappings to control how Microsoft Entra ID provisions users 
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1779689193726-image.png?Expires=253370764800&Signature=JPbGaRFWo0fv0ZnT-2ZpegVp6BVClnCXFCSr~pKCx2N7kdi1hhK5R8YjjFnbV7Sdv3RsGs4IaQeKtYZ~IbA7yQ6IkwMyELMvyfNM20ggAK27gjcTZ-akZbh-mVtWMrrc~hqrARnmS8h1Qcut1HPlzXZ3d6ztF~BwcpPtdkinapvK5cA9MqNgxwg0Ly9TNCGfY5Bm6miuDeTrUPySBOFfT8S9yIp84ec2GKPNXx~mH3qxFY3U6sKSaQ9MOk~K-T8UDscQxluZIt-NnZJUnVaWws0fWtg~-HCeASGekNhhIN-MDzY88d9TBAENkhz8Dkj5imNjsTkr~57o~GL81FfkYA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-### Configure user attribute mappings
+#### Configure user attribute mappings
 
   1. Select **Provision Microsoft Entra ID Users**.
 
@@ -158,7 +158,7 @@ Configure attribute mappings to control how Microsoft Entra ID provisions users 
 `active`| `[accountEnabled]`| Disables the user in HackerRank when set to false.  
 `roles[primary eq "True"].value`| `SingleAppRoleAssignment([appRoleAssignments])`| Assigns the user role in HackerRank based on Entra app role assignments.  
   
-### Configure group attribute mappings
+#### Configure group attribute mappings
 
   1. Select **Provision Microsoft Entra ID Groups**.
 
@@ -170,7 +170,7 @@ Configure attribute mappings to control how Microsoft Entra ID provisions users 
 
 **Note** : Keep only these two attributes. Remove any additional attributes such as externalId.
 
-## Step 6: Assign users/groups to the application
+### Step 6: Assign users/groups to the application
 
   1. Open your **HackerRank enterprise application** in Microsoft Entra ID.
 
@@ -195,7 +195,7 @@ Configure attribute mappings to control how Microsoft Entra ID provisions users 
 
 **Note:** Create Microsoft Entra ID groups such as HackerRank Recruiters or HackerRank Developers, and assign each group to the application with the corresponding role.
 
-## Step 7: Enable provisioning
+### Step 7: Enable provisioning
 
   1. Open your **HackerRank enterprise application** in Microsoft Entra ID.
 
@@ -205,7 +205,7 @@ Configure attribute mappings to control how Microsoft Entra ID provisions users 
 
   4. Click **Save**.
 
-## Step 8: Verify provisioning in HackerRank
+### Step 8: Verify provisioning in HackerRank
 
 Verify that users and teams are created and active in HackerRank.
 
@@ -215,7 +215,7 @@ Verify that users and teams are created and active in HackerRank.
 
 **Note:** Use **Provision on demand** to quickly test provisioning for a single user.
 
-### Verify users
+#### Verify users
 
   1. Go to the **Users** tab.
 
@@ -227,7 +227,7 @@ Verify that users and teams are created and active in HackerRank.
 
      * The correct **User Role** is assigned.
 
-### Verify teams
+#### Verify teams
 
   1. Go to the **Teams** tab.
 
@@ -243,19 +243,19 @@ Verify that users and teams are created and active in HackerRank.
 
 Use the following guidance to resolve common provisioning issues.
 
-### Authentication errors (401/403)
+#### Authentication errors (401/403)
 
   * Confirm that the **secret token** is the HackerRank SCIM API key.
 
   * Ensure that you paste the token exactly, without extra spaces.
 
-### No users are provisioned
+#### No users are provisioned
 
   * Confirm that you assign users or groups to the enterprise application.
 
   * Ensure that **Provisioning Status** is set to **On**.
 
-### Name or email is not populated
+#### Name or email is not populated
 
   * Confirm that you configure attribute mappings for:
 
@@ -265,13 +265,13 @@ Use the following guidance to resolve common provisioning issues.
 
     * `emails`
 
-### Group membership does not sync
+#### Group membership does not sync
 
   * Confirm that group provisioning is enabled under **Mappings**.
 
   * Ensure that the required groups and their members are in scope for provisioning.
 
-### Role does not sync
+#### Role does not sync
 
   * Confirm that users have an app role assigned in Microsoft Entra ID.
 

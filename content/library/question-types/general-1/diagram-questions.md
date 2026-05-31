@@ -24,7 +24,7 @@ To create a diagram question:
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1763547042729-image.png?Expires=253370764800&Signature=LZu2fhGkWfRJqSDi42Tt-ng7H9rzkKT3pG27ll4M1kY3wMngjEYmlukiYAp6uFunBh--7q3jlAXY6mq7~~59os0-eei0D5-NcyFEm3UA2G-2w1W0ixIREPimRXN-hgh0INxypsN8o2Zpr-5qDASdbA3~WUvaqSPlP8iYz9EAYZxRh6oQyMCE1XfsMteuf3UMypT-CBkNVJQYAqGhlDTTmorzOfRicnzPuAPP~x5WU9dlY4pz8SFcqWJ8RikT-V4hLqPceZSmCStCHie0c5AcrRNvRnMNyWNn4f~2fOUZongqH5qhAvlCGpLxrlT0rZukwHJk~X~G5iu-1uK~qM4gtQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-## Step 1: Question Details
+### Step 1: Question Details
 
   1. Add **Problem details** : 
 
@@ -51,7 +51,7 @@ Hard| 100 Points| 45-60 Minutes
 
   4. Click **Next**. 
 
-## Step 2: Diagram Settings
+### Step 2: Diagram Settings
 
   1. Select the diagram pallets you want to use for the test.  
 **UML** and**Entity Relation** are auto-selected. 

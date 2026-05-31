@@ -43,7 +43,7 @@ The AI Fluency evaluation focuses on the following dimensions:
 
   * **Collaboration:** How candidates progress through problems, build on earlier interactions, and refine solutions over time.
 
-## AI Fluency grades
+### AI Fluency grades
 
 AI Fluency assigns one of the following grades based on how candidates interact with the AI assistant:
 
@@ -69,7 +69,7 @@ To enable AI Fluency:
 
 AI Fluency results appear in both the **Summary Report** and the **Detailed Report**.
 
-## Viewing AI Fluency results in a summary report
+### Viewing AI Fluency results in a summary report
 
 To view the AI Fluency results in the summary report:
 
@@ -95,7 +95,7 @@ To view the AI Fluency results in the summary report:
 
 For each dimension, select **Ref** to view excerpts from the candidate–AI interaction that support the evaluation.
 
-## Viewing AI Fluency results in a detailed report
+### Viewing AI Fluency results in a detailed report
 
 To view AI Fluency evaluation details for a specific question in the detailed report:
 

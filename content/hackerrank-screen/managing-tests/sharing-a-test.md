@@ -9,11 +9,11 @@ is_published: true
 
 HackerRank for Work allows admins to grant access to a test for specific users or teams.
 
-## Prerequisites
+### Prerequisites
 
 You must be the test owner or have **Editor** access.
 
-## Granting test access
+### Granting test access
 
 To grant test access to users or teams:
 

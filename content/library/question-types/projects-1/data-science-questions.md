@@ -36,7 +36,7 @@ To create a Data Science question:
 
 The Data Science question creation workflow begins with the following three steps.
 
-## Step 1: Environment
+### Step 1: Environment
 
   1. In the **Environment Settings** section, choose one of the following kernels:
 
@@ -54,7 +54,7 @@ The Data Science question creation workflow begins with the following three step
 
   2. Click **Next**.
 
-## Step 2: Project Setup
+### Step 2: Project Setup
 
   1. Set up the project using one of the following methods:
 
@@ -206,7 +206,7 @@ The scoring command must execute successfully, produce valid output, and return 
 
   5. Click **Next**.
 
-## Step 3: Question details
+### Step 3: Question details
 
   1.  In the **Question details** section:
 
@@ -249,13 +249,13 @@ Candidates solve these challenges in an embedded VS Code IDE within HackerRank P
 
 You can evaluate a Data Science question using **Automatic** or **Manual** scoring.
 
-## Automatic scoring
+### Automatic scoring
 
 When you enable **Automatic Scoring** , the platform evaluates the question based on the selected scoring metric and configuration.
 
 The system generates the score automatically and displays it in the candidate report.
 
-## Manual scoring
+### Manual scoring
 
 You can use manual scoring when **Automatic Scoring** is disabled or when a submission requires manual review.
 

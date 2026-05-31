@@ -35,7 +35,7 @@ Before you begin, ensure you meet the following requirements:
 
 To integrate Lever V2 with HackerRank for tests:
 
-## Step 1: Generate an API token in HackerRank
+### Step 1: Generate an API token in HackerRank
 
 The integration API token allows Lever to connect securely with your HackerRank account.
 
@@ -54,7 +54,7 @@ The integration API token allows Lever to connect securely with your HackerRank 
 
 **Note:** You need this token in Step 2: Add the HackerRank API token in Lever.
 
-## Step 2: Add the HackerRank API token in Lever
+### Step 2: Add the HackerRank API token in Lever
 
 This step authorizes Lever to connect with your HackerRank account.
 
@@ -77,7 +77,7 @@ Your Lever account is now integrated with HackerRank to schedule tests.
 
 To integrate Lever V2 with HackerRank for interviews:
 
-## Step 1: Generate an API key in Lever
+### Step 1: Generate an API key in Lever
 
 The API key allows HackerRank to connect securely with your Lever account.
 
@@ -132,7 +132,7 @@ The API key allows HackerRank to connect securely with your Lever account.
 
 **Note:** You need this token in Step 2: Add the Lever API Key in HackerRank.
 
-## Step 2: Add the Lever API key in HackerRank
+### Step 2: Add the Lever API key in HackerRank
 
 This step authorizes HackerRank to connect with your Lever account.
 

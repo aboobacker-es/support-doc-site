@@ -73,7 +73,7 @@ To avoid disruptions, upload a metadata file that includes both the current and 
 
 This process ensures that users remain logged in and prevents unexpected login failures.
 
-#### **Note:**  
+##### **Note:**  
 
   * HackerRank can only accept a user's email address. The SSO setup requires the user to define the SAML assertion with the correct data. SSO will fail if anything other than the email address is provided.
 

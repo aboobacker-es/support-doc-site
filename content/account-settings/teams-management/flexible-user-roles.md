@@ -39,7 +39,7 @@ To access flexible roles:
 
 ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F557a9934-80f3-402d-8e1c-4f6285e53ba3-AD_4nXd1yTwzzdfFzMdMgd6SCnSsACQUCLLwCZkbTqFQm5N_qTu-b9g7R3W5YFvz1XjZntqm1OBIzzJFmn2K_FeriT8dmiLSGL_ge2THMEv_tX_NXfeXnWK5NFcxPXMb5GuCO2GvIp_edg-a1c94eb1-2cb5-4bda-bb39-bb19ff773dba?Expires=253370764800&Signature=VA~0EQCGzR4XVUmnOyeoaH3D1i4CfLKP6PMWVzlSwLr6sf~XOypnRwRQils3tK7yP~T5Zf1K-fweShRHTVhtD8L9XVEC6HGBM~EfuuTFm7qdXUjWlb6XdL-vOoORLQCHbsCIM1Zx5DYhng68IrzDnw44Z6gExYYsPScnvmkheRcqT9yeITsN-WBmv6qIAbASsm~2Yt2hu6B8JXXVA-p4nnViLtXQE4XOf3yJQmDgH3PG7jEkGVVSq-WT79kYxRY~N6LRrex38wt7Do4Vza6uP6d0mUI~Kiv~nWIDx0jfa9h7HNgufBj4RPt2O~O0WpLzehup3R4PQ4pUTMreRxoc4g__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-## Customizing user roles
+### Customizing user roles
 
 To customize a user role:
 
@@ -50,7 +50,7 @@ To customize a user role:
 
   3. Scroll to the bottom of the page and click **Save Changes**.
 
-## Customizing entitlements for individual users
+### Customizing entitlements for individual users
 
 To customize entitlements for an individual user:
 

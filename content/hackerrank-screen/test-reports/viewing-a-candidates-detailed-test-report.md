@@ -54,7 +54,7 @@ Based on the Question type, the Detailed test report includes specific options t
 
   * On the comments tab, you can find the comments by all the recruiters who have evaluated the candidate’s attempt. You can also write a comment in the given placeholder and publish it by clicking **Comment**. 
 
-## Code Playback
+### Code Playback
 
 Using the detailed reports, you can check the candidate’s test activity using the **Keystroke Code Playback.  **
 

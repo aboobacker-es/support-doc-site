@@ -25,7 +25,7 @@ The Photo Identification feature in **Test Integrity** settings is disabled by d
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760447191895-image.png?Expires=253370764800&Signature=SjkYXU4~uWZtld9ugjVU3yAFr0rBESYH34hWE8ynMnim~qts76eIRF9nQKdXHmDX0g2pyawwcH2sWS80njaNWdxmUjcJ-DeFBF53EXYQJ81tw5yWLdacYlcu3oTBojrdX3gXhcPgiHC4CJYFqICMvbdnU28qLDVAiBredTy69TiEMoM6QDeBEKeSX-tyM6tEQ0LjZfaZH6jBNi9mLX7Lc5ENM~0BzQVywOMDrQIEepiIG0o67UmeZ1RXGBvTsjEPbvTyG5C~U9zhq0BFw7~vXr-Qb6NsBKRwAQpNRHByPz3uioq2R2tzY7D1EGlbBNuxAMtGzQgi~3Yf2PIFEnSDPg__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-## Candidate Experience
+### Candidate Experience
 
 When **Photo Identification** is enabled, the system captures a photo of the candidate before the test begins. To complete the identification process:
 
@@ -41,7 +41,7 @@ When **Photo Identification** is enabled, the system captures a photo of the can
 
 **Note:** The system does not automatically validate or flag candidates based on the captured photo. The hiring team must manually verify the candidate's photo.
 
-## View Candidate Photo
+### View Candidate Photo
 
 To view the photo:
 
@@ -59,7 +59,7 @@ The **Image Proctoring** feature captures images of candidates at one-minute int
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760447211342-image.png?Expires=253370764800&Signature=ECnZkNxSsWor2zGI932Z-jOXrbwZc--I9DZTbfsAPUxa20ZsFaXFw0mDxMKtlQeWujndaPq1siPKk86J5~yN7Tr8XiIXIIrXz812uSVOIWqD0WS0hMozlX7MMnuc02vlhcZp0sQWDqSi75EMSiM35HBhzecLbteQ9lnfO~y3E8UUBgVHfEUNFFykgAofKLY~i7VEEwHJ8w4sJj9Wr-tuXHGFgDfKh~AA2SVb7Ljt0yVpe7EW-u56tlilrmkAroaE3P~CUUZJ2QRVFJKHniu30V2Jga8lGcDTKp49uzladW47dFi5ST6hjC3M8jQWMJ~iMaBFGhevS322vSiNxJj1eg__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-## Candidate Experience
+### Candidate Experience
 
   * Before taking the test, the candidate is notified about **Image Proctoring** and to enable webcam access. 
 
@@ -67,7 +67,7 @@ The **Image Proctoring** feature captures images of candidates at one-minute int
 
   * When the candidate clicks **Continue** , their image is captured periodically throughout the test duration or until the test is submitted.  
 
-## Accessing Image Proctoring Results
+### Accessing Image Proctoring Results
 
 To view the **Image Proctoring** results:
 
@@ -85,11 +85,11 @@ You can detect if an external monitor is connected to the candidate's device dur
 
 This feature within the **Test Integrity** settings is disabled by default for all the tests.
 
-## Candidate Experience
+### Candidate Experience
 
 HackerRank will detect and track the number of monitors that the candidate uses throughout the test. This feature is supported only on Edge, Chrome, and Chromium-based browsers. HackerRank will not prompt the candidate if they proceed with an unsupported browser. 
 
-## Monitor Detection Logs in Test Reports
+### Monitor Detection Logs in Test Reports
 
 From the **Timeline  **tab in the candidate report, you’ll be able to view the list of events, such as changes in the number of windows open throughout the duration of the test.
 
@@ -121,13 +121,13 @@ To enable **Image Analysis** , turn on **Image Proctoring**. This will unlock th
 
 **Note:** For more details, click the help icon or view the [HackerRank NYC laws for AI](<https://support.hackerrank.com/articles/3067349942-faqs%3A--hackerrank-services-and-ai-laws>). HackerRank’s AI-powered plagiarism solution has undergone an independent bias audit, ensuring compliance with the NYC AI Law.
 
-## Candidate Experience
+### Candidate Experience
 
 When **Image Analysis** is enabled, candidates are prompted to allow webcam access. Upon launching the test, the candidate must consent to the proctoring and webcam access.
 
 **Note:** Proctored tests are only supported on Chrome, Safari, Edge, and Firefox browsers.
 
-## Reviewing Suspicious Activity
+### Reviewing Suspicious Activity
 
 To review a candidate’s suspicious activity:
 
@@ -149,7 +149,7 @@ The captured images are categorized based on the following:
 
     * **Image spoofing** is the ability to detect if a candidate projects a static image during an ongoing test. This feature helps identify those candidates who try to use image spoofing software to pretend they are live while taking the test.
 
-## Reviewing Suspicious Activity in CSV Exports
+### Reviewing Suspicious Activity in CSV Exports
 
 Proctoring data is captured in the CSV report, with additional columns to help filter candidates based on suspicion severity, score, and reason. The columns include:
 

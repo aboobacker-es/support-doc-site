@@ -37,7 +37,7 @@ In the **Onboarding** section, you can:
 
   5. Click **Save** **Changes** to apply your changes.
 
-## Configure Candidate Details
+### Configure Candidate Details
 
 You can choose the candidate information fields you want to collect before the test begins. This helps you capture relevant data such as full name, work experience, gender, and more. By default, only essential fields are enabled.
 
@@ -69,7 +69,7 @@ To configure candidate details:
 
   4. Click **Try Test** to see how the onboarding form appears to candidates.
 
-## Enable Disclaimer
+### Enable Disclaimer
 
 You can enable a disclaimer to ensure candidates acknowledge test integrity requirements before starting a test. When enabled, a declaration with a checkbox appears on the test login page. Candidates must select the checkbox to proceed.
 
@@ -83,7 +83,7 @@ To enable the disclaimer:
 
   2. Edit the disclaimer text in the text box.
 
-## Configure Test Instructions
+### Configure Test Instructions
 
 You can add custom instructions to guide candidates before they begin the test. This helps set expectations and ensures a smooth test experience. 
 

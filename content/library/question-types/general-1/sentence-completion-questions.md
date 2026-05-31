@@ -83,7 +83,7 @@ To create a sentence completion question:
 
 The question appears under **My Company** questions in the HackerRank Library.
 
-## Bulk uploading sentence completion questions
+### Bulk uploading sentence completion questions
 
 You can upload multiple sentence completion questions at once using a CSV or XLSX file.
 
@@ -113,7 +113,7 @@ To bulk upload sentence completion questions:
 
   * When you upload the bulk file, the system processes only the first 100 rows.
 
-### File upload column specifications
+#### File upload column specifications
 
 The table below lists the required column headers and input expectations for bulk uploads.
 

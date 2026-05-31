@@ -13,19 +13,19 @@ When you create questions or answer tests, you may encounter errors caused by bl
 
 The IDE displays the notification for the blocked domains in the following areas:
 
-## Screen
+### Screen
 
 When you access blocked domains through the screen functionality in the IDE, you receive a notification that specifies the domain you need to safelist.
 
 ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046399487-?Expires=253370764800&Signature=a1p7pfrGU0rET~~M4b23tZ5NvqmH35OGMvftv6NCVY8u0nkPkn7~duez1dqkuADawFUVgAjBZrawsMSHVGos8lZLz~mxZ1kDiTwEmx3DFzSMfK~0T48PXzY~9qLX6XgFpnZKrP2dZ9RFTleVgmtSyIwkbQj-7nWwnmVtZ8BfXGYHXJIsqcXm8CIFoSThcBGoPIwAROXx2hB1B0UVqWTZ4X0Sp4D1oLLTWNtzGtC4pRPiYRi74nFg1lvltK2cPK81z5cToBOhpJnVHvjTsydwXkBZWSIBoua686psgKrG6mULMjZXJO1aiezzSJ-66QtQIfi1xLK0cWAwX3jY7wZD2A__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-## Question creation
+### Question creation
 
 When you create questions and attempt to include content from a blocked domain, a notification appears to alert you to the domain that requires safelisting.
 
 ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046399944-?Expires=253370764800&Signature=h56qNp~jg0IEs9RtpWTP17p-FARz~h4u4omCleD5b9kXGb6LNLn5m70Gsp10DxjCbq2dl7S9bj5CQc2UDW6MqkGkQvEjSQj6Ju4X0jJGmbVP8LHDLrC9OFhsQHXfOCQRFnGpyFnI48CORlTeNkGAHaPP08I9BUn~lbM45U9xhn-M2BPjEG8dzrfVjAODs~45IQXRAyCHMmiXPBxKN-4Je8u7Mu7-E3AG0dS3NqbCrj2au-Q7EXDYOfea8mOF0NYD43PchgDUKRJOPZBZIvH6xD3cMSeZRpKklNfXkO5cOFrqCxwA1JmiI6B94EiBBU1bVgREV~g5Yms4sIBJdjmjtA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-## Reports
+### Reports
 
 When you generate or access reports in the IDE, any blocked domains referenced in the report content trigger a notification.  
 The notification displays the blocked domains, making it easy to determine which ones you must safelist for uninterrupted access and functionality in the IDE.

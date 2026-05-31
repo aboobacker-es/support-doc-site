@@ -83,7 +83,7 @@ To invite candidates to a test:
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1758612410511-image.png?Expires=253370764800&Signature=DH2xRtb7xF5GplpvfIARxOLYkpEyJ42gjRGhqUq0LMFZWW40nBZAPznssKbb-sqBq01zBR-FFI8pkka8WbF5hHhfkVlYCdkGnTi-GZRRDKlNXegGk~39bU11S6sgDTyXzdrfP2ua9CDYj-gYrJ9okEXfS8EUnOOkMRQBMdsQnLjDnCdtTLB7TaNqP01Mg74dMqM2yCphWSU4Jy7Dnj30ddH9JMQ6CeCsqd2whO1sS3MRR2r55NOGoD9cDchSWBI3ajly1j6eGMLwYTPjmol1cPzWS3gZYEYS8NxBLQ-akUC-pH9As-~B-gnkpc~twlnqodJf9bPta7DH-mBgLL5vFw__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-## Set an expiry date
+### Set an expiry date
 
 You can define how long a test invitation remains active. After the expiry time, the test invitation expires, and candidate(s) can no longer take the Test. 
 
@@ -105,7 +105,7 @@ The selected expiry date appears.
 
 **Note:** By default, the **Expiry** option is set to **Never** , and the invitation does not expire.
 
-## Send reminders
+### Send reminders
 
 You can schedule reminder emails for candidates who have not started the test. The steps vary depending on whether the invitation has an expiry date.
 
@@ -135,11 +135,11 @@ To set a reminder:
 
 **Note:** Reminder emails are only sent to candidates who have not started the Test. Reminders can be scheduled only if the invitation expires more than one day from today.
 
-## Add time accommodation
+### Add time accommodation
 
 You can extend the test duration if needed. For more information, see [📄 Extend Test Duration for Candidates](</articles/4811403281>).
 
-## Configure invite settings
+### Configure invite settings
 
 You can configure additional email options for test invitation, such as sending a copy to yourself, including the test link, displaying start and end dates, and adding candidate tags. 
 

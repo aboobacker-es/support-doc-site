@@ -38,16 +38,16 @@ To create a Generative AI question:
 
 The Generative AI question creation workflow opens with the following three steps.
 
-## Step 1: Environment
+### Step 1: Environment
 
   1. Select **RAG** under **Generative AI Environments**.
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1772617756063-image.png?Expires=253370764800&Signature=jGf~4vd3Bm5giaYl1qWWvahLe7KSTVfd25PW5abpy2DDEXSbZOGIww7Q-g6XIjd43sQ~A5klHqOyfzGibh2D4zSW1TnrZoM5kE4S0xw42QJdKrQDLKIsNp97DdZX0RfY5t2-NdeGDiY4TO2fEBPeYwjcUeOGSKa77VqqTcS6NpMkXyy~Pq9yCmkkJAQeVg6MmEubXrB1rSjwzhjYEfBE35rNZTh5B4Bp4wFsXqyEYNc4dDNc9gms~WBYwtvskts3iB-om1n9mkE0bbVvMww53dXqCQrvz8HA5h5bzJhtNvRo695rLogqpf-Xn7NH4W-qrmmDU51fJrZFDWmAvwdfYg__&Key-Pair-Id=K3NV4LZ47N8M46)
   2. Click **Next**.
 
-## Step 2: Project Setup
+### Step 2: Project Setup
 
-### Step 2A: Select Project
+#### Step 2A: Select Project
 
   1. Set up the project using one of the following methods:
 
@@ -75,7 +75,7 @@ The Generative AI question creation workflow opens with the following three step
 
 ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1772618972843-pasted-image-0.png?Expires=253370764800&Signature=WHMn6zly8-yty81YFydt13LdiVC7uKvhkWryDiNm6TrMCfqxh9rtvOmtSgoLAzjBlwMciKw2U1VlausK~NwgX~GDMijiwcTJ7qICMi~-QakNATLnzPsc598t8HA4s1ev9oA7ml~69jOYfup9-skQmVlEfgNkIC297BSVXzrz~m33saQrBTjStxX6pR1d3ObnkuPvYnHIHTla17TsP27SpMDGCftE1i244w25zA~N9HAKStHWWKRAScnE1Y5tqTmdA~zY5HK4WbwniJLGPCHh8JVh5UjrSLK0oC2uTrKCnfNzTK1fskoPmWfXTXZlizdTIY2tk0nf8eZiGAWg10gFyg__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-### Step 2B: IDE Setup
+#### Step 2B: IDE Setup
 
   1. Define a data source for the model to retrieve information from. Choose one of the following storage options:
 
@@ -139,7 +139,7 @@ You can:
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1772617903119-image.png?Expires=253370764800&Signature=YcBESGm7Kr~dCFENOMRi1EnykgQYodaRy47p1KI9BZbpJhxj7BS7HFlF6gPblqlHUP4tMth3MHrgg6oVWcnm3ytCzmnFuFs7d9oAwWaWF8qFPTb6tzV8h8V02KbiJEwHuMKuViJKp1EbCAaHPapbhgtUktro8KBSOygfuDk9t32JZBKwdR9U9a2vC3rTFg7-wSTb1jUeCEd91kUgwt~SzxbErT-v8~MSVqsRqlJIY4WUEXdDX250kEhhI3UoXOU8HlPLMcJm~bQefiOuB4JFYDnUD5H~TYffrG1Kde~1CFyqwDogUB8iD24v-GHi63r1pqy2M47V-SzinyXVQgkS2Q__&Key-Pair-Id=K3NV4LZ47N8M46)
   5. Click **Next**.
 
-### Step 2C: Scoring Settings
+#### Step 2C: Scoring Settings
 
   1. Choose whether to enable automated scoring.
 
@@ -171,7 +171,7 @@ For more information about scoring, see [Scoring a Generative AI Question in tes
 
   3. Click **Next**.
 
-## Step 3: Question Details
+### Step 3: Question Details
 
   1. Enter the **Question name.**
 
@@ -217,7 +217,7 @@ When a question loads, the IDE automatically starts the installation process. Th
 
 Generative AI questions support both automatic and manual scoring to evaluate candidate performance in realistic development environments.
 
-## Automated scoring
+### Automated scoring
 
 Automated scoring evaluates candidate submissions against predefined unit test cases. The final score depends on how many test cases the submission passes.
 
@@ -225,7 +225,7 @@ Each scoring format supports specific languages, frameworks, and testing tools. 
 
 HackerRank supports the following scoring formats.
 
-### JUnit-based scoring
+#### JUnit-based scoring
 
 JUnit-based scoring is the default method.
 
@@ -243,7 +243,7 @@ Example:
     <?xml version="1.0"?><testsuite name="Node.js (linux; U; rv:v6.9.1) AppleWebKit/537.36 (KHTML, like Gecko)" package="unit" timestamp="2017-04-12T21:08:42" id="0" hostname="2c29b2a64693" tests="8" errors="0" failures="0" time="0.29"><properties>
         <property name="browser.fullName" value="Node.js (linux; U; rv:v6.9.1) AppleWebKit/537.36 (KHTML, like Gecko)"/></properties><testcase name="CountryList should exist" time="0" classname="unit.CountryList"/><testcase name="Check Rendered List check number of rows that are rendered" time="0.017" classname="unit.Check Rendered List"/><testcase name="Main should exist" time="0.001" classname="unit.Main"/><testcase name="Check Functions check if the filter works" time="0.093" classname="unit.Check Functions"/><testcase name="Check Functions check empty search" time="0.061" classname="unit.Check Functions"/><testcase name="Search should exist" time="0.001" classname="unit.Search"/><testcase name="Check Search check if search bar works (case-sensitive)" time="0.071" classname="unit.Check Search"/><testcase name="Check Search check if search bar works (case-insensitive)" time="0.046" classname="unit.Check Search"/><system-err/></testsuite>
 
-### xUnit-based scoring
+#### xUnit-based scoring
 
 xUnit-based scoring applies to .NET projects that use [**xUnit.net**](<http://xUnit.net>)**** for testing.
 
@@ -275,7 +275,7 @@ Example:
           </test>
         </collection></assembly></assemblies>
 
-### TAP scoring
+#### TAP scoring
 
 Test Anything Protocol (TAP) is a standard unit test output format. HackerRank supports a basic version of the TAP output format. The system evaluates test results based on the TAP specification. For more information on the TAP specification, see [TAP documentation](<https://testanything.org/tap-version-13-specification.html>).
 
@@ -295,7 +295,7 @@ _Example_ :
     not ok 5 - Placing the tile produces error
     ok 6 - Board size is 1
 
-## Manual scoring
+### Manual scoring
 
 Manual scoring allows you to assign scores directly for Generative AI questions.
 

@@ -76,7 +76,7 @@ To view the test results in Lever:
 
 **Note:** You can also review the test feedback from the **Feedback** tab.
 
-## Test feedback
+### Test feedback
 
 The test feedback includes:
 
@@ -98,7 +98,7 @@ The test feedback includes:
 
   * **Test name** : Name of the assigned HackerRank test.
 
-## PDF test report
+### PDF test report
 
 The PDF report replicates the **Detailed Test Report** and includes the following information:
 

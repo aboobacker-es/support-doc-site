@@ -28,7 +28,7 @@ To create an interview template:
 
 After you create the template, the **Questions** tab opens automatically.
 
-## Adding questions to an interview template
+### Adding questions to an interview template
 
 To add questions to the template:
 
@@ -49,11 +49,11 @@ To add questions to the template:
 
 **Note:** To remove a question in the **Questions** tab, click the **Delete** icon in the **Action** column.
 
-## Setting a Scorecard**** for an interview template** **
+### Setting a Scorecard**** for an interview template** **
 
 You can assign a scorecard to the template by selecting an existing scorecard or creating a new one.
 
-### Selecting an existing scorecard
+#### Selecting an existing scorecard
 
 To select an existing scorecard:
 
@@ -72,7 +72,7 @@ You can modify any scorecard created by your company, and your changes apply eve
 
 **Note:** You cannot edit the default HackerRank scorecard.
 
-### Creating a custom scorecard for the template
+#### Creating a custom scorecard for the template
 
 To create a new scorecard for the template:
 
