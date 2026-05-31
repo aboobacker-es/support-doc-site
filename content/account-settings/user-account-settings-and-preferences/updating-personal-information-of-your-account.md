@@ -1,7 +1,6 @@
 ---
 title: "Updating Personal Information of your Account"
-slug: updating-personal-information-of-your-account
-collection: account-settings/user-account-settings-and-preferences
+slug: /account-settings/user-account-settings-and-preferences/updating-personal-information-of-your-account
 pylon_id: 28ab23da-bb08-4803-8acc-547b6839e46e
 published_url: https://support.hackerrank.com/articles/9551418346-Updating-Personal-Information-of-your-Account
 last_edited: "2025-01-23"

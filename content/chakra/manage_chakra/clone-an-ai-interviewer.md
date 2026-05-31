@@ -1,7 +1,6 @@
 ---
 title: "Clone an AI Interviewer"
-slug: clone-an-ai-interviewer
-collection: chakra/manage_chakra
+slug: /chakra/manage_chakra/clone-an-ai-interviewer
 pylon_id: 524103db-29fa-4323-a9b1-9024a52cb8be
 published_url: https://support.hackerrank.com/articles/8961150967-Clone-an-AI-Interviewer
 last_edited: "2026-04-15"

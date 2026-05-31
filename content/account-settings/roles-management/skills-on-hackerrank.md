@@ -1,7 +1,6 @@
 ---
 title: "Skills on HackerRank"
-slug: skills-on-hackerrank
-collection: account-settings/roles-management
+slug: /account-settings/roles-management/skills-on-hackerrank
 pylon_id: 08d7201e-d6cc-4744-bd9d-e048d51edf31
 published_url: https://support.hackerrank.com/articles/3872148153-Skills-on-HackerRank
 last_edited: "2025-08-23"

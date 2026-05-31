@@ -1,7 +1,6 @@
 ---
 title: "HackerRank Interview Best Practices"
-slug: hackerrank-interview-best-practices
-collection: interviews/additional_resources
+slug: /interviews/additional_resources/hackerrank-interview-best-practices
 pylon_id: ed2178da-c591-41d5-9acc-c0c02a7a84b8
 published_url: https://support.hackerrank.com/articles/5533854049-HackerRank-Interview-Best-Practices
 last_edited: "2025-07-07"

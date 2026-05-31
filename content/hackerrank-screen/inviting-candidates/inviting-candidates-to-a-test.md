@@ -1,7 +1,6 @@
 ---
 title: "Invite Candidates to a Test"
-slug: inviting-candidates-to-a-test
-collection: hackerrank-screen/inviting-candidates
+slug: /hackerrank-screen/inviting-candidates/inviting-candidates-to-a-test
 pylon_id: 7911bb8a-2966-4ca7-b9ae-956dfbc6fb99
 published_url: https://support.hackerrank.com/articles/6027855406-Invite-Candidates-to-a-Test
 last_edited: "2026-01-28"

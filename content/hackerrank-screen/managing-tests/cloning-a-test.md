@@ -1,7 +1,6 @@
 ---
 title: "Clone a Test"
-slug: cloning-a-test
-collection: hackerrank-screen/managing-tests
+slug: /hackerrank-screen/managing-tests/cloning-a-test
 pylon_id: 2bb3c274-756c-445d-a515-207b8dce4eda
 published_url: https://support.hackerrank.com/articles/3225598042-Clone-a-Test
 last_edited: "2025-09-25"

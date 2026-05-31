@@ -1,7 +1,6 @@
 ---
 title: "Ensuring a Great Candidate Experience"
-slug: ensuring-a-great-candidate-experience
-collection: general-help/additional_resources-1
+slug: /general-help/additional_resources-1/ensuring-a-great-candidate-experience
 pylon_id: ca44df5e-3fb0-459a-af22-7bd165688b0f
 published_url: https://support.hackerrank.com/articles/6477583642-Ensuring-a-Great-Candidate-Experience
 last_edited: "2025-12-03"

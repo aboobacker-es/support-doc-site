@@ -1,7 +1,6 @@
 ---
 title: "Accessing Audit Logs"
-slug: accessing-audit-logs
-collection: account-settings/company-level-admin-settings
+slug: /account-settings/company-level-admin-settings/accessing-audit-logs
 pylon_id: 2071caf0-f0a7-4938-aaa9-91b5b305c1bb
 published_url: https://support.hackerrank.com/articles/8979783963-Accessing-Audit-Logs
 last_edited: "2026-05-27"

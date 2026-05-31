@@ -1,7 +1,6 @@
 ---
 title: "Manual Scoring for General Question Types"
-slug: manual-scoring-for-general-questions
-collection: library/question-scoring
+slug: /library/question-scoring/manual-scoring-for-general-questions
 pylon_id: ffee0a66-7317-42d5-a51b-4e447065652a
 published_url: https://support.hackerrank.com/articles/2056253220-Manual-Scoring-for-General-Question-Types
 last_edited: "2026-03-30"

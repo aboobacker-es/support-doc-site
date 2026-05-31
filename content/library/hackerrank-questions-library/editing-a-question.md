@@ -1,7 +1,6 @@
 ---
 title: "Edit a Question"
-slug: editing-a-question
-collection: library/hackerrank-questions-library
+slug: /library/hackerrank-questions-library/editing-a-question
 pylon_id: 42d7599b-3e87-41db-87f8-088223ef5f32
 published_url: https://support.hackerrank.com/articles/9349097996-Edit-a-Question
 last_edited: "2025-08-14"

@@ -1,7 +1,6 @@
 ---
 title: "Manual for Fair Hiring"
-slug: manual-for-fair-hiring
-collection: general-help/evaluation-guides
+slug: /general-help/evaluation-guides/manual-for-fair-hiring
 pylon_id: 3f6bbc9b-c1c0-4052-873b-ffa00d85ee9c
 published_url: https://support.hackerrank.com/articles/7033977271-Manual-for-Fair-Hiring
 last_edited: "2024-12-12"

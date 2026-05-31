@@ -1,7 +1,6 @@
 ---
 title: "Cookie settings for HTML/CSS/JavaScript and Projects Questions"
-slug: cookie-settings-for-html/css/javascript-and-projects-questions
-collection: library/creating-custom-questions/projects
+slug: /library/creating-custom-questions/projects/cookie-settings-for-html-css-javascript-and-projects-questions
 pylon_id: 1540157e-8de2-4f88-ac27-34e3a0a24fb0
 published_url: https://support.hackerrank.com/articles/7103861099-Cookie-settings-for-HTML/CSS/JavaScript-and-Projects-Questions
 last_edited: "2026-03-11"

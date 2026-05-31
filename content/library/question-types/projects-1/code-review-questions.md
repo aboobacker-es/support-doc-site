@@ -1,7 +1,6 @@
 ---
 title: "Code Review Questions"
-slug: code-review-questions
-collection: library/question-types/projects-1
+slug: /library/question-types/projects-1/code-review-questions
 pylon_id: 06a2dfae-837f-4307-94c8-730f4988368e
 published_url: https://support.hackerrank.com/articles/4262355406-Code-Review-Questions
 last_edited: "2026-03-26"

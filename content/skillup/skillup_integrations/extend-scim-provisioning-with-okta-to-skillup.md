@@ -1,7 +1,6 @@
 ---
 title: "Extend SCIM Provisioning with Okta to SkillUp"
-slug: extend-scim-provisioning-with-okta-to-skillup
-collection: skillup/skillup_integrations
+slug: /skillup/skillup_integrations/extend-scim-provisioning-with-okta-to-skillup
 pylon_id: e81ae616-8bdf-4d3d-a5a8-feca99b22283
 published_url: https://support.hackerrank.com/articles/9570265682-Extend-SCIM-Provisioning-with-Okta-to-SkillUp
 last_edited: "2025-11-05"

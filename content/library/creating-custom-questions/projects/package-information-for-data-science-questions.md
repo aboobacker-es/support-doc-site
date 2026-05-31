@@ -1,7 +1,6 @@
 ---
 title: "Package Information for Data Science Questions"
-slug: package-information-for-data-science-questions
-collection: library/creating-custom-questions/projects
+slug: /library/creating-custom-questions/projects/package-information-for-data-science-questions
 pylon_id: 4f38a234-1e78-432c-b5f9-e0bd4b59aeba
 published_url: https://support.hackerrank.com/articles/6282504591-Package-Information-for-Data-Science-Questions
 last_edited: "2026-03-26"

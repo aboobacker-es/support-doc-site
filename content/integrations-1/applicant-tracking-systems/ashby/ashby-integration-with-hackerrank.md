@@ -1,7 +1,6 @@
 ---
 title: "Ashby Integration with HackerRank"
-slug: ashby-integration-with-hackerrank
-collection: integrations-1/applicant-tracking-systems/ashby
+slug: /integrations-1/applicant-tracking-systems/ashby/ashby-integration-with-hackerrank
 pylon_id: ff15ea10-d47e-435a-abc4-e33a215ef657
 published_url: https://support.hackerrank.com/articles/9896080715-Ashby-Integration-with-HackerRank
 last_edited: "2026-05-05"

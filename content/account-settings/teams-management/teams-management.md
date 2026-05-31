@@ -1,7 +1,6 @@
 ---
 title: "Getting Started with Teams Management"
-slug: teams-management
-collection: account-settings/teams-management
+slug: /account-settings/teams-management/teams-management
 pylon_id: f1542326-4a59-4fdf-9fe1-0033f80e0d24
 published_url: https://support.hackerrank.com/articles/1508181842-Getting-Started-with-Teams-Management
 last_edited: "2025-04-29"

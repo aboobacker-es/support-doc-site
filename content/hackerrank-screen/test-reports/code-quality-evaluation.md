@@ -1,7 +1,6 @@
 ---
 title: "Code Quality Evaluation"
-slug: code-quality-evaluation
-collection: hackerrank-screen/test-reports
+slug: /hackerrank-screen/test-reports/code-quality-evaluation
 pylon_id: 753a2490-35b2-4071-b8a4-6df58da25255
 published_url: https://support.hackerrank.com/articles/9625818007-Code-Quality-Evaluation
 last_edited: "2025-12-01"

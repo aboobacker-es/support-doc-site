@@ -1,7 +1,6 @@
 ---
 title: "April 2025 Release Notes"
-slug: april-2025-release-notes
-collection: general-help/release-notes
+slug: /general-help/release-notes/april-2025-release-notes
 pylon_id: 84228c89-eee2-4932-81d7-a474a3282c0b
 published_url: https://support.hackerrank.com/articles/5686123513-April-2025-Release-Notes
 last_edited: "2025-05-02"

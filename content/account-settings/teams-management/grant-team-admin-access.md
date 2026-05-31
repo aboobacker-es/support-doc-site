@@ -1,7 +1,6 @@
 ---
 title: "Grant Team Admin Access"
-slug: grant-team-admin-access
-collection: account-settings/teams-management
+slug: /account-settings/teams-management/grant-team-admin-access
 pylon_id: 5293d254-8452-46f7-b124-18b6f6a3eecb
 published_url: https://support.hackerrank.com/articles/9611303302-Grant-Team-Admin-Access
 last_edited: "2026-02-19"

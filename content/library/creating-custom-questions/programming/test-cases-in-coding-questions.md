@@ -1,7 +1,6 @@
 ---
 title: "Test Cases in Coding and Approximate Solution Questions"
-slug: test-cases-in-coding-questions
-collection: library/creating-custom-questions/programming
+slug: /library/creating-custom-questions/programming/test-cases-in-coding-questions
 pylon_id: 85bf7f49-36d6-4bf3-862d-a92b38c33822
 published_url: https://support.hackerrank.com/articles/3245197419-Test-Cases-in-Coding-and-Approximate-Solution-Questions
 last_edited: "2025-09-18"

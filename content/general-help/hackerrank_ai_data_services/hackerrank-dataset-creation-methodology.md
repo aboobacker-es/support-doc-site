@@ -1,7 +1,6 @@
 ---
 title: "HackerRank Dataset Creation Methodology "
-slug: hackerrank-dataset-creation-methodology
-collection: general-help/hackerrank_ai_data_services
+slug: /general-help/hackerrank_ai_data_services/hackerrank-dataset-creation-methodology
 pylon_id: 9263f3bd-8a0b-403b-bac7-2e728b860a7a
 published_url: https://support.hackerrank.com/articles/4425890244-HackerRank-Dataset-Creation-Methodology-
 last_edited: "2025-06-23"

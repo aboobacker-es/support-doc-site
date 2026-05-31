@@ -1,7 +1,6 @@
 ---
 title: "Configure Test Invites Settings for Tests"
-slug: configure-test-invites-settings-for-tests
-collection: hackerrank-screen/test-settings
+slug: /hackerrank-screen/test-settings/configure-test-invites-settings-for-tests
 pylon_id: 6705acd6-bdf9-4870-9753-7003d5a26fb7
 published_url: https://support.hackerrank.com/articles/9544354489-Configure-Test-Invites-Settings-for-Tests
 last_edited: "2025-07-30"

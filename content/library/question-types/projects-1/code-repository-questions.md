@@ -1,7 +1,6 @@
 ---
 title: "Code Repository Questions"
-slug: code-repository-questions
-collection: library/question-types/projects-1
+slug: /library/question-types/projects-1/code-repository-questions
 pylon_id: 75a07b4b-a7ef-41dc-a10e-19b77dcbe590
 published_url: https://support.hackerrank.com/articles/1900882930-Code-Repository-Questions
 last_edited: "2026-05-27"

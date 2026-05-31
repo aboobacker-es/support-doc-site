@@ -1,7 +1,6 @@
 ---
 title: "Greenhouse - Chakra Integration User Guide"
-slug: greenhouse-chakra-integration-user-guide
-collection: chakra/integrations-2
+slug: /chakra/integrations-2/greenhouse-chakra-integration-user-guide
 pylon_id: 5c5a5daf-f65a-4b16-9c91-c5f60a41250c
 published_url: https://support.hackerrank.com/articles/8491534135-Greenhouse---Chakra-Integration-User-Guide
 last_edited: "2026-04-22"

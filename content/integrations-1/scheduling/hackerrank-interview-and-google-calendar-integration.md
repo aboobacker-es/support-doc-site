@@ -1,7 +1,6 @@
 ---
 title: "HackerRank Interview and Google Calendar Integration"
-slug: hackerrank-interview-and-google-calendar-integration
-collection: integrations-1/scheduling
+slug: /integrations-1/scheduling/hackerrank-interview-and-google-calendar-integration
 pylon_id: c7ff19cb-f35b-4209-a9f0-94f6e3bd1067
 published_url: https://support.hackerrank.com/articles/1262999130-HackerRank-Interview-and-Google-Calendar-Integration
 last_edited: "2024-12-24"

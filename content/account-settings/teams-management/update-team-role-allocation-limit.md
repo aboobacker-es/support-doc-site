@@ -1,7 +1,6 @@
 ---
 title: "Update Team Role Allocation Limit"
-slug: update-team-role-allocation-limit
-collection: account-settings/teams-management
+slug: /account-settings/teams-management/update-team-role-allocation-limit
 pylon_id: c3e62090-1b9c-4f69-b865-95554b3c393a
 published_url: https://support.hackerrank.com/articles/2788636010-Update-Team-Role-Allocation-Limit
 last_edited: "2026-03-03"

@@ -1,7 +1,6 @@
 ---
 title: "Multiple Choice Questions"
-slug: multiple-choice-questions
-collection: library/question-types/general-1
+slug: /library/question-types/general-1/multiple-choice-questions
 pylon_id: 45c02af4-ba05-4385-b4bc-101cd6473efb
 published_url: https://support.hackerrank.com/articles/2513748038-Multiple-Choice-Questions
 last_edited: "2026-03-26"

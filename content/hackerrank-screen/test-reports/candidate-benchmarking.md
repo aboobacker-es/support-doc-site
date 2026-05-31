@@ -1,7 +1,6 @@
 ---
 title: "Candidate Benchmark"
-slug: candidate-benchmarking
-collection: hackerrank-screen/test-reports
+slug: /hackerrank-screen/test-reports/candidate-benchmarking
 pylon_id: a05cf74b-b55b-4558-9aa8-59eea58f3414
 published_url: https://support.hackerrank.com/articles/6075450367-Candidate-Benchmark
 last_edited: "2026-01-28"

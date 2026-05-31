@@ -1,7 +1,6 @@
 ---
 title: "Integration Logs"
-slug: integration-logs
-collection: integrations-1/getting-started-with-integrations
+slug: /integrations-1/getting-started-with-integrations/integration-logs
 pylon_id: 4594d50f-b08d-4085-8e8d-2aab60e16c2b
 published_url: https://support.hackerrank.com/articles/7263906600-Integration-Logs
 last_edited: "2024-12-13"

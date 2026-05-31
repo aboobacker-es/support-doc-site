@@ -1,7 +1,6 @@
 ---
 title: "Mid-Level"
-slug: mid-level
-collection: general-help/evaluation-guides
+slug: /general-help/evaluation-guides/mid-level
 pylon_id: 447ff064-62e8-496c-946f-c0ab0cf8e2dd
 published_url: https://support.hackerrank.com/articles/7483769801-Mid-Level
 last_edited: "2024-12-12"

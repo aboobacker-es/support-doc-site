@@ -1,7 +1,6 @@
 ---
 title: "April 2024 Release Notes"
-slug: april-2024-release-notes
-collection: general-help/release-notes
+slug: /general-help/release-notes/april-2024-release-notes
 pylon_id: f533785e-668a-4185-a443-e009849ad850
 published_url: https://support.hackerrank.com/articles/9911032760-April-2024-Release-Notes
 last_edited: "2025-01-22"

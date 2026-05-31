@@ -1,7 +1,6 @@
 ---
 title: "January 2026 Release Notes"
-slug: january-2026-release-notes
-collection: general-help/release-notes
+slug: /general-help/release-notes/january-2026-release-notes
 pylon_id: f496c25f-47ea-4e8d-8239-2532674ce17f
 published_url: https://support.hackerrank.com/articles/2321596225-January-2026-Release-Notes
 last_edited: "2026-03-02"

@@ -1,7 +1,6 @@
 ---
 title: "Modify Evaluation Settings for Tests"
-slug: modifying-score-settings-for-tests
-collection: hackerrank-screen/test-settings
+slug: /hackerrank-screen/test-settings/modifying-score-settings-for-tests
 pylon_id: 75e1fac0-c6fd-4146-97f1-ea0ad5818a69
 published_url: https://support.hackerrank.com/articles/8294988738-Modify-Evaluation-Settings-for-Tests
 last_edited: "2025-07-30"

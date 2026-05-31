@@ -1,7 +1,6 @@
 ---
 title: "Limitations With HackerRank Projects"
-slug: limitations-with-hackerrank-projects
-collection: hackerrank-screen/inviting-candidates
+slug: /hackerrank-screen/inviting-candidates/limitations-with-hackerrank-projects
 pylon_id: 37c486bc-399f-43b8-ab92-1960ffdd8bcd
 published_url: https://support.hackerrank.com/articles/3052727240-Limitations-With-HackerRank-Projects
 last_edited: "2026-02-19"

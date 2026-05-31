@@ -1,7 +1,6 @@
 ---
 title: "Browser Recommendations"
-slug: browser-recommendations
-collection: uncategorized
+slug: /browser-recommendations
 pylon_id: 0fd2ec37-6b8c-4099-bb0c-104a19675c1d
 published_url: https://support.hackerrank.com/articles/5897755717-Browser-Recommendations
 last_edited: "2025-11-13"

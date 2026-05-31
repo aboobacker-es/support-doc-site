@@ -1,7 +1,6 @@
 ---
 title: "Disabling Implicit Sharing"
-slug: disabling-implicit-sharing
-collection: account-settings/company-level-admin-settings
+slug: /account-settings/company-level-admin-settings/disabling-implicit-sharing
 pylon_id: a1d33ffd-e3ba-4b7e-bd79-7f82b9c89fab
 published_url: https://support.hackerrank.com/articles/2553508615-Disabling-Implicit-Sharing
 last_edited: "2026-03-11"

@@ -1,7 +1,6 @@
 ---
 title: "Zapier - HackerRank Integration Test User Guide"
-slug: zapier-hackerrank-integration-test-user-guide
-collection: integrations-1/applicant-tracking-systems/zapier
+slug: /integrations-1/applicant-tracking-systems/zapier/zapier-hackerrank-integration-test-user-guide
 pylon_id: bf8bff0a-0222-4a42-9ada-af84f43508d3
 published_url: https://support.hackerrank.com/articles/7100809601-Zapier---HackerRank-Integration-Test-User-Guide
 last_edited: "2026-03-28"

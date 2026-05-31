@@ -1,7 +1,6 @@
 ---
 title: "Secure Mode"
-slug: secure-mode
-collection: hackerrank-screen/test_integrity
+slug: /hackerrank-screen/test_integrity/secure-mode
 pylon_id: 390ab75c-506c-472e-870f-ab089a9c6aa6
 published_url: https://support.hackerrank.com/articles/2545360734-Secure-Mode
 last_edited: "2026-04-21"

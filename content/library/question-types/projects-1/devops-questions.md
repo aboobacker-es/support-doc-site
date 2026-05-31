@@ -1,7 +1,6 @@
 ---
 title: "DevOps Questions"
-slug: devops-questions
-collection: library/question-types/projects-1
+slug: /library/question-types/projects-1/devops-questions
 pylon_id: 1b620a44-e070-4180-9eb9-a6aa09cf4e99
 published_url: https://support.hackerrank.com/articles/5929074504-DevOps-Questions
 last_edited: "2026-03-26"

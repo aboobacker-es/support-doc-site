@@ -1,7 +1,6 @@
 ---
 title: "Adding Candidates to Lever ATS from a Public Link"
-slug: adding-candidates-to-lever-ats-from-a-public-link
-collection: integrations-1/applicant-tracking-systems/lever
+slug: /integrations-1/applicant-tracking-systems/lever/adding-candidates-to-lever-ats-from-a-public-link
 pylon_id: bbd23e0c-40b5-4449-8907-24d7c01cf64a
 published_url: https://support.hackerrank.com/articles/9868451767-Adding-Candidates-to-Lever-ATS-from-a-Public-Link
 last_edited: "2024-12-27"

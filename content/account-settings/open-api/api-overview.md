@@ -1,7 +1,6 @@
 ---
 title: "API Overview"
-slug: api-overview
-collection: account-settings/open-api
+slug: /account-settings/open-api/api-overview
 pylon_id: f55dd93e-44fb-4722-a93c-b1edea617309
 published_url: https://support.hackerrank.com/articles/2067417637-API-Overview
 last_edited: "2025-11-21"

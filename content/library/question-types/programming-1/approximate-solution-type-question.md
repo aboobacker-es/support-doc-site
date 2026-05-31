@@ -1,7 +1,6 @@
 ---
 title: "Approximate Solution Type Questions"
-slug: approximate-solution-type-question
-collection: library/question-types/programming-1
+slug: /library/question-types/programming-1/approximate-solution-type-question
 pylon_id: bcc509b5-d27b-4fbe-bc69-49371bc1d760
 published_url: https://support.hackerrank.com/articles/8117531949-Approximate-Solution-Type-Questions
 last_edited: "2026-03-27"

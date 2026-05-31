@@ -1,7 +1,6 @@
 ---
 title: "Download Tests as PDF"
-slug: downloading-tests-in-pdf-files
-collection: hackerrank-screen/managing-tests
+slug: /hackerrank-screen/managing-tests/downloading-tests-in-pdf-files
 pylon_id: d2d5e69e-5ce2-4a4d-b398-76827e865c50
 published_url: https://support.hackerrank.com/articles/4481890289-Download-Tests-as-PDF
 last_edited: "2025-09-01"

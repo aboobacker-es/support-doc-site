@@ -1,7 +1,6 @@
 ---
 title: "Enhancing your Account Security on Hackerrank for Work"
-slug: enhancing-your-account-security-on-hackerrank-for-work
-collection: account-settings/company-level-admin-settings
+slug: /account-settings/company-level-admin-settings/enhancing-your-account-security-on-hackerrank-for-work
 pylon_id: cbddb8ad-3568-44b6-81c1-09543fd29bec
 published_url: https://support.hackerrank.com/articles/7425207053-Enhancing-your-Account-Security-on-Hackerrank-for-Work
 last_edited: "2025-01-29"

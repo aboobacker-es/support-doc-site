@@ -1,7 +1,6 @@
 ---
 title: "Configure Onboarding Settings for Tests"
-slug: configure-onboarding-settings-for-tests
-collection: hackerrank-screen/test-settings
+slug: /hackerrank-screen/test-settings/configure-onboarding-settings-for-tests
 pylon_id: 8490c75f-8d75-4921-b8bf-b676c59f11a3
 published_url: https://support.hackerrank.com/articles/5956879724-Configure-Onboarding-Settings-for-Tests
 last_edited: "2026-04-06"

@@ -1,7 +1,6 @@
 ---
 title: "Create Custom Reports"
-slug: create-custom-reports
-collection: account-settings/insights
+slug: /account-settings/insights/create-custom-reports
 pylon_id: 4e047597-89e3-438e-8ee0-8b5b4e2448e4
 published_url: https://support.hackerrank.com/articles/7355624862-Create-Custom-Reports
 last_edited: "2026-04-20"

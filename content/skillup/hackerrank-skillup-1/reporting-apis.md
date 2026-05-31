@@ -1,7 +1,6 @@
 ---
 title: "‭Reporting APIs"
-slug: reporting-apis
-collection: skillup/hackerrank-skillup-1
+slug: /skillup/hackerrank-skillup-1/reporting-apis
 pylon_id: f92a68ae-c15e-4101-a710-7bbbfb4a44a5
 published_url: https://support.hackerrank.com/articles/3081122402-‭Reporting-APIs
 last_edited: "2025-10-14"

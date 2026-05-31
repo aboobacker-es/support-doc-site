@@ -1,7 +1,6 @@
 ---
 title: "Manage Billing"
-slug: manage-subscriptions
-collection: account-settings/user-account-settings-and-preferences
+slug: /account-settings/user-account-settings-and-preferences/manage-subscriptions
 pylon_id: ae3491f7-7bed-4485-8273-85f01201f87a
 published_url: https://support.hackerrank.com/articles/4255542979-Manage-Billing
 last_edited: "2026-03-10"

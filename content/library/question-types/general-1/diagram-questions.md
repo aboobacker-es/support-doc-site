@@ -1,7 +1,6 @@
 ---
 title: "Diagram Questions"
-slug: diagram-questions
-collection: library/question-types/general-1
+slug: /library/question-types/general-1/diagram-questions
 pylon_id: 7f301f10-1807-4756-87f2-44038b803a77
 published_url: https://support.hackerrank.com/articles/4376717308-Diagram-Questions
 last_edited: "2025-11-19"

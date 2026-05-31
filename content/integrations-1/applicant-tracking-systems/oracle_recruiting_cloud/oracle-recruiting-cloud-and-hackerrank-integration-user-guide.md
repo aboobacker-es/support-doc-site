@@ -1,7 +1,6 @@
 ---
 title: "Oracle Recruiting Cloud and HackerRank Integration User Guide"
-slug: oracle-recruiting-cloud-and-hackerrank-integration-user-guide
-collection: integrations-1/applicant-tracking-systems/oracle_recruiting_cloud
+slug: /integrations-1/applicant-tracking-systems/oracle_recruiting_cloud/oracle-recruiting-cloud-and-hackerrank-integration-user-guide
 pylon_id: 83481c78-d74d-41f4-ba21-700d63723d8e
 published_url: https://support.hackerrank.com/articles/3350882088-Oracle-Recruiting-Cloud-and-HackerRank-Integration-User-Guide
 last_edited: "2024-12-27"

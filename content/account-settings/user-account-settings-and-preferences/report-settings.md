@@ -1,7 +1,6 @@
 ---
 title: "Report Settings"
-slug: report-settings
-collection: account-settings/user-account-settings-and-preferences
+slug: /account-settings/user-account-settings-and-preferences/report-settings
 pylon_id: a07604c6-bac7-4502-8eaa-cc586bfa1db6
 published_url: https://support.hackerrank.com/articles/5213013268-Report-Settings
 last_edited: "2024-12-26"

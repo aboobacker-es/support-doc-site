@@ -1,7 +1,6 @@
 ---
 title: "Safelist/Allowlist URLs and IP Addresses for HackerRank"
-slug: safelist-or-allowlist-urls-for-hackerrank
-collection: account-settings/user-account-settings-and-preferences
+slug: /account-settings/user-account-settings-and-preferences/safelist-or-allowlist-urls-for-hackerrank
 pylon_id: efe9d978-dccb-4b74-a8f0-fc9217f12aac
 published_url: https://support.hackerrank.com/articles/6769658535-Safelist/Allowlist-URLs-and-IP-Addresses-for-HackerRank
 last_edited: "2025-11-19"

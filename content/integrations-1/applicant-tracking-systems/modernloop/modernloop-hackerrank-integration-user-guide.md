@@ -1,7 +1,6 @@
 ---
 title: "ModernLoop - HackerRank Integration User Guide"
-slug: modernloop-hackerrank-integration-user-guide
-collection: integrations-1/applicant-tracking-systems/modernloop
+slug: /integrations-1/applicant-tracking-systems/modernloop/modernloop-hackerrank-integration-user-guide
 pylon_id: 63dd23ac-e01d-40a0-b332-44765c1d4b3b
 published_url: https://support.hackerrank.com/articles/9797503689-ModernLoop---HackerRank-Integration-User-Guide
 last_edited: "2026-05-06"

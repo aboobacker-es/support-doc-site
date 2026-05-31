@@ -1,7 +1,6 @@
 ---
 title: "Cancel a Test Invite"
-slug: cancelling-a-test-invite
-collection: hackerrank-screen/inviting-candidates
+slug: /hackerrank-screen/inviting-candidates/cancelling-a-test-invite
 pylon_id: dda2edc0-f02a-4f21-9eb2-4e7d7fd7332f
 published_url: https://support.hackerrank.com/articles/6257623198-Cancel-a-Test-Invite
 last_edited: "2025-05-12"

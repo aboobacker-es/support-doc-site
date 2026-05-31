@@ -1,7 +1,6 @@
 ---
 title: "How Do I Upload All Test Cases at Once?"
-slug: how-do-i-upload-all-test-cases-at-once
-collection: hackerrank-screen/frequently-asked-questions-1
+slug: /hackerrank-screen/frequently-asked-questions-1/how-do-i-upload-all-test-cases-at-once
 pylon_id: df463e06-92b9-470f-b3e5-bb28d023f34e
 published_url: https://support.hackerrank.com/articles/5773853281-How-Do-I-Upload-All-Test-Cases-at-Once?
 last_edited: "2026-05-27"

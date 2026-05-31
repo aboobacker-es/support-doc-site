@@ -1,7 +1,6 @@
 ---
 title: "IDE Functionalities in HackerRank Coding Environments"
-slug: ide-functionalities-in-hackerrank-coding-environments
-collection: library/getting_started
+slug: /library/getting_started/ide-functionalities-in-hackerrank-coding-environments
 pylon_id: 951bd490-f87a-4f43-b216-6c284c640281
 published_url: https://support.hackerrank.com/articles/3699635252-IDE-Functionalities-in-HackerRank-Coding-Environments
 last_edited: "2026-05-20"

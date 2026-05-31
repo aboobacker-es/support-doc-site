@@ -1,7 +1,6 @@
 ---
 title: "Manage Users"
-slug: user-management
-collection: skillup/hackerrank-skillup-1
+slug: /skillup/hackerrank-skillup-1/user-management
 pylon_id: 5a19c1f7-c5ed-439c-b5f2-ecc53b349000
 published_url: https://support.hackerrank.com/articles/3868789028-Manage-Users
 last_edited: "2026-02-23"

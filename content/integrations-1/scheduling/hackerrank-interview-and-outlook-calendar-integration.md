@@ -1,7 +1,6 @@
 ---
 title: "HackerRank Interview and Outlook Calendar Integration"
-slug: hackerrank-interview-and-outlook-calendar-integration
-collection: integrations-1/scheduling
+slug: /integrations-1/scheduling/hackerrank-interview-and-outlook-calendar-integration
 pylon_id: 6bc8fd8d-04fd-4256-8f67-1d637e4295ae
 published_url: https://support.hackerrank.com/articles/2480863637-HackerRank-Interview-and-Outlook-Calendar-Integration
 last_edited: "2024-12-24"

@@ -1,7 +1,6 @@
 ---
 title: "Types of User Roles"
-slug: types-of-user-roles
-collection: account-settings/teams-management
+slug: /account-settings/teams-management/types-of-user-roles
 pylon_id: 811dacbf-7640-435f-afc1-678a1fa7b2b6
 published_url: https://support.hackerrank.com/articles/9603546665-Types-of-User-Roles
 last_edited: "2025-03-26"

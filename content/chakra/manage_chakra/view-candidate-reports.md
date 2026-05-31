@@ -1,7 +1,6 @@
 ---
 title: "View Candidate Report in Chakra"
-slug: view-candidate-reports
-collection: chakra/manage_chakra
+slug: /chakra/manage_chakra/view-candidate-reports
 pylon_id: 62d68312-6f98-4c48-9ed7-38f6e751d5e3
 published_url: https://support.hackerrank.com/articles/6818900787-View-Candidate-Report-in-Chakra
 last_edited: "2026-04-20"

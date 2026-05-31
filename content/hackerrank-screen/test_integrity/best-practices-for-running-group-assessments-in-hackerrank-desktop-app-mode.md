@@ -1,7 +1,6 @@
 ---
 title: "Best Practices for Running Group Assessments in HackerRank Desktop App Mode"
-slug: best-practices-for-running-group-assessments-in-hackerrank-desktop-app-mode
-collection: hackerrank-screen/test_integrity
+slug: /hackerrank-screen/test_integrity/best-practices-for-running-group-assessments-in-hackerrank-desktop-app-mode
 pylon_id: dc0bc8d9-3689-4624-9d4e-4b0ee7b9f059
 published_url: https://support.hackerrank.com/articles/2686193421-Best-Practices-for-Running-Group-Assessments-in-HackerRank-Desktop-App-Mode
 last_edited: "2026-03-12"

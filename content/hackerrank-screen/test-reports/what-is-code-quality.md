@@ -1,7 +1,6 @@
 ---
 title: "What is Code Quality"
-slug: what-is-code-quality
-collection: hackerrank-screen/test-reports
+slug: /hackerrank-screen/test-reports/what-is-code-quality
 pylon_id: b13ef524-f6fb-47ba-8ad2-3c9dd35a6a3c
 published_url: https://support.hackerrank.com/articles/9722863972-What-is-Code-Quality
 last_edited: "2025-08-13"

@@ -1,7 +1,6 @@
 ---
 title: "January 2024 Release Notes"
-slug: january-2024-release-notes
-collection: general-help/release-notes
+slug: /general-help/release-notes/january-2024-release-notes
 pylon_id: 9759cf64-a584-483c-b37f-2848b4a6d2ed
 published_url: https://support.hackerrank.com/articles/1306589776-January-2024-Release-Notes
 last_edited: "2025-01-22"

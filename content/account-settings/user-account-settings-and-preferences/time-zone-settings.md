@@ -1,7 +1,6 @@
 ---
 title: "Time Zone Settings"
-slug: time-zone-settings
-collection: account-settings/user-account-settings-and-preferences
+slug: /account-settings/user-account-settings-and-preferences/time-zone-settings
 pylon_id: e3988914-37a0-4258-b3ec-94dc2e223848
 published_url: https://support.hackerrank.com/articles/6839245613-Time-Zone-Settings
 last_edited: "2024-12-12"

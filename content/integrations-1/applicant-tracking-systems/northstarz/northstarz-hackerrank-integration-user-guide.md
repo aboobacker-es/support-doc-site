@@ -1,7 +1,6 @@
 ---
 title: "Northstarz - HackerRank Integration User Guide"
-slug: northstarz-hackerrank-integration-user-guide
-collection: integrations-1/applicant-tracking-systems/northstarz
+slug: /integrations-1/applicant-tracking-systems/northstarz/northstarz-hackerrank-integration-user-guide
 pylon_id: dadc8c4b-d5e3-45a4-81e3-9bbd47f4e6d8
 published_url: https://support.hackerrank.com/articles/4546750166-Northstarz---HackerRank-Integration-User-Guide
 last_edited: "2025-09-08"

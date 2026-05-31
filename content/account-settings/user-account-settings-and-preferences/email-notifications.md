@@ -1,7 +1,6 @@
 ---
 title: "Email Notifications"
-slug: email-notifications
-collection: account-settings/user-account-settings-and-preferences
+slug: /account-settings/user-account-settings-and-preferences/email-notifications
 pylon_id: 83245b98-0832-479e-a61a-79b8a873189d
 published_url: https://support.hackerrank.com/articles/7318805499-Email-Notifications
 last_edited: "2024-12-26"

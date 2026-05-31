@@ -1,7 +1,6 @@
 ---
 title: "Recruitee - HackerRank Integration Test User Guide"
-slug: recruitee-hackerrank-integration-test-user-guide
-collection: integrations-1/applicant-tracking-systems/recruitee
+slug: /integrations-1/applicant-tracking-systems/recruitee/recruitee-hackerrank-integration-test-user-guide
 pylon_id: b6634dfc-6472-43a8-9b25-98ad4f5f911d
 published_url: https://support.hackerrank.com/articles/4110238052-Recruitee---HackerRank-Integration-Test-User-Guide
 last_edited: "2026-02-05"

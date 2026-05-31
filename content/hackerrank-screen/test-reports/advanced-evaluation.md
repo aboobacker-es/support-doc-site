@@ -1,7 +1,6 @@
 ---
 title: "Advanced Evaluation"
-slug: advanced-evaluation
-collection: hackerrank-screen/test-reports
+slug: /hackerrank-screen/test-reports/advanced-evaluation
 pylon_id: 77cf8e0b-57e1-498f-9c64-9526abcb1170
 published_url: https://support.hackerrank.com/articles/7098008997-Advanced-Evaluation
 last_edited: "2026-02-11"

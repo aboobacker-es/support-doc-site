@@ -1,7 +1,6 @@
 ---
 title: "Onboarding Candidates"
-slug: onboarding-candidates
-collection: uncategorized
+slug: /onboarding-candidates
 pylon_id: 469d6f2c-711a-4af5-ae27-30dd65099bad
 published_url: https://support.hackerrank.com/articles/9695299159-Onboarding-Candidates
 last_edited: "2025-02-03"

@@ -1,7 +1,6 @@
 ---
 title: "Invite Candidates to an AI Interview"
-slug: invite-candidates-to-an-ai-interview
-collection: chakra/manage_chakra
+slug: /chakra/manage_chakra/invite-candidates-to-an-ai-interview
 pylon_id: d4f007d8-ebf7-4d14-beb5-a464340891f7
 published_url: https://support.hackerrank.com/articles/5542727476-Invite-Candidates-to-an-AI-Interview
 last_edited: "2026-04-19"

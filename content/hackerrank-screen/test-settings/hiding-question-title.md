@@ -1,7 +1,6 @@
 ---
 title: "Hide Question Title"
-slug: hiding-question-title
-collection: hackerrank-screen/test-settings
+slug: /hackerrank-screen/test-settings/hiding-question-title
 pylon_id: d729f033-c871-4a86-94d2-3525e9804d46
 published_url: https://support.hackerrank.com/articles/2274056414-Hide-Question-Title
 last_edited: "2025-10-14"

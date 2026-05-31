@@ -1,7 +1,6 @@
 ---
 title: "Changing the Account Email"
-slug: changing-the-account-email
-collection: account-settings/user-account-settings-and-preferences
+slug: /account-settings/user-account-settings-and-preferences/changing-the-account-email
 pylon_id: 6d2a8046-9965-45cd-ab08-738506698eca
 published_url: https://support.hackerrank.com/articles/9181791010-Changing-the-Account-Email
 last_edited: "2024-12-12"

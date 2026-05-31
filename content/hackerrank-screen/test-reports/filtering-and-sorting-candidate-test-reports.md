@@ -1,7 +1,6 @@
 ---
 title: "Filtering and Sorting Candidate Test Reports"
-slug: filtering-and-sorting-candidate-test-reports
-collection: hackerrank-screen/test-reports
+slug: /hackerrank-screen/test-reports/filtering-and-sorting-candidate-test-reports
 pylon_id: ed1920da-00bb-4594-8a79-4aad483488fc
 published_url: https://support.hackerrank.com/articles/1829746072-Filtering-and-Sorting-Candidate-Test-Reports
 last_edited: "2025-01-20"

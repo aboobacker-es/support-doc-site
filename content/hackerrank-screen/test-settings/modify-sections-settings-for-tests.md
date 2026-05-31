@@ -1,7 +1,6 @@
 ---
 title: "Modify Sections Settings for Tests"
-slug: modify-sections-settings-for-tests
-collection: hackerrank-screen/test-settings
+slug: /hackerrank-screen/test-settings/modify-sections-settings-for-tests
 pylon_id: ee8332a8-5898-49f5-be72-21aa7981f98d
 published_url: https://support.hackerrank.com/articles/2528926257-Modify-Sections-Settings-for-Tests
 last_edited: "2025-07-30"

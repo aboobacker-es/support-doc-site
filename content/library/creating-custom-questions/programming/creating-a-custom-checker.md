@@ -1,7 +1,6 @@
 ---
 title: "Custom Checker in Approximate Solution Type Questions"
-slug: creating-a-custom-checker
-collection: library/creating-custom-questions/programming
+slug: /library/creating-custom-questions/programming/creating-a-custom-checker
 pylon_id: cac51f28-4665-404a-b267-1905dd1c104e
 published_url: https://support.hackerrank.com/articles/6515044510-Custom-Checker-in-Approximate-Solution-Type-Questions
 last_edited: "2026-05-27"

@@ -1,7 +1,6 @@
 ---
 title: "Attach a File to a Problem Statement"
-slug: attach-a-file-to-a-problem-statement
-collection: interviews/additional_resources
+slug: /interviews/additional_resources/attach-a-file-to-a-problem-statement
 pylon_id: 84ad461d-2550-4e7e-81ae-7f9338aee634
 published_url: https://support.hackerrank.com/articles/7571200514-Attach-a-File-to-a-Problem-Statement
 last_edited: "2025-05-14"

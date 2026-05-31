@@ -1,7 +1,6 @@
 ---
 title: "Kula.ai – HackerRank Integration User Guide"
-slug: kula-ai-hackerrank-integration-user-guide
-collection: integrations-1/applicant-tracking-systems/kula_ai
+slug: /integrations-1/applicant-tracking-systems/kula_ai/kula-ai-hackerrank-integration-user-guide
 pylon_id: 71be6b1f-e783-4c61-9d29-53c9ef75cda0
 published_url: https://support.hackerrank.com/articles/5121238837-Kula.ai-–-HackerRank-Integration-User-Guide
 last_edited: "2025-10-14"

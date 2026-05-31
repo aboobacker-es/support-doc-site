@@ -1,7 +1,6 @@
 ---
 title: "Delete a Team"
-slug: deleting-a-team
-collection: account-settings/teams-management
+slug: /account-settings/teams-management/deleting-a-team
 pylon_id: 2e38da6d-d7d4-4ab6-bac0-a6e44debdb1c
 published_url: https://support.hackerrank.com/articles/2181136239-Delete-a-Team
 last_edited: "2026-03-31"

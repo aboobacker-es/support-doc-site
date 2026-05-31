@@ -1,7 +1,6 @@
 ---
 title: "Modify Entitlements for Recruiters"
-slug: modifying-entitlements-for-recruiters
-collection: account-settings/teams-management
+slug: /account-settings/teams-management/modifying-entitlements-for-recruiters
 pylon_id: 2db80db0-407e-42f9-ad92-5ad6f0d1d9d6
 published_url: https://support.hackerrank.com/articles/4851183051-Modify-Entitlements-for-Recruiters
 last_edited: "2026-01-28"

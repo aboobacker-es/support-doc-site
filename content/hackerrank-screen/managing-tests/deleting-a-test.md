@@ -1,7 +1,6 @@
 ---
 title: "Delete a Test"
-slug: deleting-a-test
-collection: hackerrank-screen/managing-tests
+slug: /hackerrank-screen/managing-tests/deleting-a-test
 pylon_id: 5d22b81b-6a96-451c-84d0-61badffb4869
 published_url: https://support.hackerrank.com/articles/9552481360-Delete-a-Test
 last_edited: "2025-09-03"

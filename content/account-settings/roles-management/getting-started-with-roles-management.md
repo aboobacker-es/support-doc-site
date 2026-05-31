@@ -1,7 +1,6 @@
 ---
 title: "Getting Started with Roles Management"
-slug: getting-started-with-roles-management
-collection: account-settings/roles-management
+slug: /account-settings/roles-management/getting-started-with-roles-management
 pylon_id: 6ff9dfd6-6ac1-445c-9db3-d5386a320b7b
 published_url: https://support.hackerrank.com/articles/9675847328-Getting-Started-with-Roles-Management
 last_edited: "2025-03-05"

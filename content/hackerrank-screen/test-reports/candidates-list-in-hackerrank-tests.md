@@ -1,7 +1,6 @@
 ---
 title: "View Candidates List for a Test"
-slug: candidates-list-in-hackerrank-tests
-collection: hackerrank-screen/test-reports
+slug: /hackerrank-screen/test-reports/candidates-list-in-hackerrank-tests
 pylon_id: 0fd5a55c-a7a4-4068-b96c-4b26d88e71c0
 published_url: https://support.hackerrank.com/articles/9135272973-View-Candidates-List-for-a-Test
 last_edited: "2025-10-14"

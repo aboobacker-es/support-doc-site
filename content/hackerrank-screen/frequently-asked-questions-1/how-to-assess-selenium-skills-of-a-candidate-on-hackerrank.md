@@ -1,7 +1,6 @@
 ---
 title: "How to Assess Selenium Skills of a Candidate on HackerRank?"
-slug: how-to-assess-selenium-skills-of-a-candidate-on-hackerrank
-collection: hackerrank-screen/frequently-asked-questions-1
+slug: /hackerrank-screen/frequently-asked-questions-1/how-to-assess-selenium-skills-of-a-candidate-on-hackerrank
 pylon_id: e56ec959-9b74-4e5f-bd42-696dfc4d0669
 published_url: https://support.hackerrank.com/articles/4357184721-How-to-Assess-Selenium-Skills-of-a-Candidate-on-HackerRank?
 last_edited: "2024-12-13"

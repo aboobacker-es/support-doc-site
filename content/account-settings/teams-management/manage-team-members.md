@@ -1,7 +1,6 @@
 ---
 title: "Manage Team Members"
-slug: manage-team-members
-collection: account-settings/teams-management
+slug: /account-settings/teams-management/manage-team-members
 pylon_id: 557b3815-fac1-446b-963a-2f2f59d84543
 published_url: https://support.hackerrank.com/articles/2203617737-Manage-Team-Members
 last_edited: "2026-03-03"

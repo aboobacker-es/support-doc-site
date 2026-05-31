@@ -1,7 +1,6 @@
 ---
 title: "Data Science Questions"
-slug: data-science-questions
-collection: library/question-types/projects-1
+slug: /library/question-types/projects-1/data-science-questions
 pylon_id: 81e3c4cc-ad39-4fac-8bab-5a8f298ad253
 published_url: https://support.hackerrank.com/articles/5187107609-Data-Science-Questions
 last_edited: "2026-04-22"

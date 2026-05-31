@@ -1,7 +1,6 @@
 ---
 title: "File Upload Questions"
-slug: file-upload-question
-collection: library/question-types/general-1
+slug: /library/question-types/general-1/file-upload-question
 pylon_id: 6e6227c6-8994-4fd0-95c5-9dfed5bea225
 published_url: https://support.hackerrank.com/articles/3284451474-File-Upload-Questions
 last_edited: "2026-03-26"

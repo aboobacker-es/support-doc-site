@@ -1,7 +1,6 @@
 ---
 title: "Centralized Test Settings"
-slug: centralized-test-settings
-collection: account-settings/company-level-admin-settings
+slug: /account-settings/company-level-admin-settings/centralized-test-settings
 pylon_id: b1234a3c-00f1-497e-a7d2-ad70d672df04
 published_url: https://support.hackerrank.com/articles/6271327319-Centralized-Test-Settings
 last_edited: "2024-12-26"

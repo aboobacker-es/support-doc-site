@@ -1,7 +1,6 @@
 ---
 title: "Pause Subscription"
-slug: pause-subscription
-collection: account-settings/user-account-settings-and-preferences
+slug: /account-settings/user-account-settings-and-preferences/pause-subscription
 pylon_id: 1f98b852-b5d9-4825-abea-dd9df8b87fdd
 published_url: https://support.hackerrank.com/articles/5157311476-Pause-Subscription
 last_edited: "2026-05-19"

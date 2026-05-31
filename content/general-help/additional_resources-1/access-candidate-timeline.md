@@ -1,7 +1,6 @@
 ---
 title: "Access Candidate Timeline"
-slug: access-candidate-timeline
-collection: general-help/additional_resources-1
+slug: /general-help/additional_resources-1/access-candidate-timeline
 pylon_id: fd74667f-7143-42da-9360-88751e6c957e
 published_url: https://support.hackerrank.com/articles/2652374569-Access-Candidate-Timeline
 last_edited: "2026-04-15"

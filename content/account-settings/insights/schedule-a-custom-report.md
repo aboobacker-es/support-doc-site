@@ -1,7 +1,6 @@
 ---
 title: "Schedule a Custom Report"
-slug: schedule-a-custom-report
-collection: account-settings/insights
+slug: /account-settings/insights/schedule-a-custom-report
 pylon_id: 378fc934-e37f-4626-a485-e6635c0a213d
 published_url: https://support.hackerrank.com/articles/8981360888-Schedule-a-Custom-Report
 last_edited: "2026-04-21"

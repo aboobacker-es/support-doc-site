@@ -1,7 +1,6 @@
 ---
 title: "Invite a New User"
-slug: invite-a-new-user
-collection: account-settings/teams-management
+slug: /account-settings/teams-management/invite-a-new-user
 pylon_id: f79021be-7942-4603-afdc-2b913489ad0a
 published_url: https://support.hackerrank.com/articles/9482219268-Invite-a-New-User
 last_edited: "2026-02-13"

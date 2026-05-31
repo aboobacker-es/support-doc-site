@@ -1,7 +1,6 @@
 ---
 title: "Get Started with Learn"
-slug: get-started-with-learn
-collection: skillup/hackerrank-skillup-1
+slug: /skillup/hackerrank-skillup-1/get-started-with-learn
 pylon_id: 4b900c3a-d46b-40b5-9c5a-573aeea7bf41
 published_url: https://support.hackerrank.com/articles/6047728972-Get-Started-with-Learn
 last_edited: "2025-04-23"

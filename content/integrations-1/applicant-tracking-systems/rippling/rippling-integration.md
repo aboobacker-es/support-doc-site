@@ -1,7 +1,6 @@
 ---
 title: "Rippling Integration"
-slug: rippling-integration
-collection: integrations-1/applicant-tracking-systems/rippling
+slug: /integrations-1/applicant-tracking-systems/rippling/rippling-integration
 pylon_id: bf3e261f-0208-488e-947d-8ec04a342357
 published_url: https://support.hackerrank.com/articles/8750225690-Rippling-Integration
 last_edited: "2026-05-06"

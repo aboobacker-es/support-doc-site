@@ -1,7 +1,6 @@
 ---
 title: "Generative AI Questions"
-slug: creating-a-rag-retrieval-augmented-generation-question
-collection: library/question-types/projects-1
+slug: /library/question-types/projects-1/creating-a-rag-retrieval-augmented-generation-question
 pylon_id: 66dd8f3f-495f-438f-a127-a93fee65edd9
 published_url: https://support.hackerrank.com/articles/7355446816-Generative-AI-Questions
 last_edited: "2026-03-26"

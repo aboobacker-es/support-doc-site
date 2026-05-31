@@ -1,7 +1,6 @@
 ---
 title: "Test Case Input Format"
-slug: test-case-input-format
-collection: library/creating-custom-questions/programming
+slug: /library/creating-custom-questions/programming/test-case-input-format
 pylon_id: c5ae8de4-4f18-42e6-b7ff-738fab46b5c9
 published_url: https://support.hackerrank.com/articles/2461683826-Test-Case-Input-Format
 last_edited: "2026-03-11"

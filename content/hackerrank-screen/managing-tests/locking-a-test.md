@@ -1,7 +1,6 @@
 ---
 title: "Lock a Test"
-slug: locking-a-test
-collection: hackerrank-screen/managing-tests
+slug: /hackerrank-screen/managing-tests/locking-a-test
 pylon_id: 3967785f-4620-4098-9c3a-82dab933a08d
 published_url: https://support.hackerrank.com/articles/2125093931-Lock-a-Test
 last_edited: "2026-02-19"

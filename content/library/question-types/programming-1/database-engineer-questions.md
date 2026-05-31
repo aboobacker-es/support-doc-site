@@ -1,7 +1,6 @@
 ---
 title: "Database Questions"
-slug: database-engineer-questions
-collection: library/question-types/programming-1
+slug: /library/question-types/programming-1/database-engineer-questions
 pylon_id: 78448697-84e8-42cb-84d8-f21ff15cac8a
 published_url: https://support.hackerrank.com/articles/8826242281-Database-Questions
 last_edited: "2026-03-26"

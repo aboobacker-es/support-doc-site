@@ -1,7 +1,6 @@
 ---
 title: "Custom Certifications"
-slug: custom-certifications
-collection: skillup/hackerrank-skillup-1
+slug: /skillup/hackerrank-skillup-1/custom-certifications
 pylon_id: ba3374dd-5f4d-4837-87f7-27138406ffd9
 published_url: https://support.hackerrank.com/articles/3726813028-Custom-Certifications
 last_edited: "2025-07-30"

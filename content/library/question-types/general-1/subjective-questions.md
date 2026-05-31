@@ -1,7 +1,6 @@
 ---
 title: "Subjective Questions"
-slug: subjective-questions
-collection: library/question-types/general-1
+slug: /library/question-types/general-1/subjective-questions
 pylon_id: 91a8165e-8d80-4e02-ab8d-349f5ccb2e99
 published_url: https://support.hackerrank.com/articles/2296520412-Subjective-Questions
 last_edited: "2026-03-26"

@@ -1,7 +1,6 @@
 ---
 title: "Export Questions"
-slug: export-questions
-collection: library/hackerrank-questions-library
+slug: /library/hackerrank-questions-library/export-questions
 pylon_id: ced7a795-93d1-431c-8a1c-d0c81e2ffc60
 published_url: https://support.hackerrank.com/articles/9028620307-Export-Questions
 last_edited: "2025-09-25"

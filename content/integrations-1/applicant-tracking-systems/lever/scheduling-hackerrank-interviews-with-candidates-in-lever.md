@@ -1,7 +1,6 @@
 ---
 title: "Scheduling HackerRank Interviews with Candidates in Lever"
-slug: scheduling-hackerrank-interviews-with-candidates-in-lever
-collection: integrations-1/applicant-tracking-systems/lever
+slug: /integrations-1/applicant-tracking-systems/lever/scheduling-hackerrank-interviews-with-candidates-in-lever
 pylon_id: fc9d0106-d188-4c6e-9b5f-f9c66d3a6909
 published_url: https://support.hackerrank.com/articles/2634152447-Scheduling-HackerRank-Interviews-with-Candidates-in-Lever
 last_edited: "2025-04-03"

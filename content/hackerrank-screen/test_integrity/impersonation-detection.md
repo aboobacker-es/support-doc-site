@@ -1,7 +1,6 @@
 ---
 title: "Impersonation Detection"
-slug: impersonation-detection
-collection: hackerrank-screen/test_integrity
+slug: /hackerrank-screen/test_integrity/impersonation-detection
 pylon_id: caa39936-aba3-4171-b2b1-7c088cee9bc6
 published_url: https://support.hackerrank.com/articles/7825915809-Impersonation-Detection
 last_edited: "2025-10-14"

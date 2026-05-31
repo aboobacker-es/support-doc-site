@@ -1,7 +1,6 @@
 ---
 title: "Manage Email Templates"
-slug: creating-an-email-template
-collection: hackerrank-screen/inviting-candidates
+slug: /hackerrank-screen/inviting-candidates/creating-an-email-template
 pylon_id: 3b715b2f-91aa-4860-a1f5-d60a04bf6dbf
 published_url: https://support.hackerrank.com/articles/9684438314-Manage-Email-Templates
 last_edited: "2026-01-28"

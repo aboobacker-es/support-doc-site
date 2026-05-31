@@ -1,7 +1,6 @@
 ---
 title: "Accessing SkillUp Employer Platform"
-slug: accessing-skillup-employer-platform
-collection: skillup/hackerrank-skillup-1
+slug: /skillup/hackerrank-skillup-1/accessing-skillup-employer-platform
 pylon_id: 5ded7ea6-9fc0-4353-8e40-4ac88d494867
 published_url: https://support.hackerrank.com/articles/4329363164-Accessing-SkillUp-Employer-Platform
 last_edited: "2025-04-03"

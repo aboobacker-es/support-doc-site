@@ -1,7 +1,6 @@
 ---
 title: "How to Assess Kubernetes Skills on HackerRank"
-slug: how-to-assess-kubernetes-skills-on-hackerrank
-collection: hackerrank-screen/frequently-asked-questions-1
+slug: /hackerrank-screen/frequently-asked-questions-1/how-to-assess-kubernetes-skills-on-hackerrank
 pylon_id: 3bc1463d-0bb5-444b-849e-a1df6ed061c6
 published_url: https://support.hackerrank.com/articles/8730911957-How-to-Assess-Kubernetes-Skills-on-HackerRank
 last_edited: "2024-12-12"

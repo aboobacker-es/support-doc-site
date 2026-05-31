@@ -1,7 +1,6 @@
 ---
 title: "HackerRank Question Count Comparison by Subscription Plan"
-slug: hackerrank-question-count-comparison-by-subscription-plan
-collection: library/getting_started
+slug: /library/getting_started/hackerrank-question-count-comparison-by-subscription-plan
 pylon_id: 58379529-741e-454a-b9fa-a0c27e38da62
 published_url: https://support.hackerrank.com/articles/6095274436-HackerRank-Question-Count-Comparison-by-Subscription-Plan
 last_edited: "2026-04-23"

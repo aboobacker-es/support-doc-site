@@ -1,7 +1,6 @@
 ---
 title: "Ashby - HackerRank Technical Interview Integration Guide"
-slug: ashby-hackerrank-technical-interview-integration-guide
-collection: integrations-1/applicant-tracking-systems/ashby
+slug: /integrations-1/applicant-tracking-systems/ashby/ashby-hackerrank-technical-interview-integration-guide
 pylon_id: 915265b9-18bb-4a83-9779-b02b5224cf5a
 published_url: https://support.hackerrank.com/articles/7862793608-Ashby---HackerRank-Technical-Interview-Integration-Guide
 last_edited: "2025-06-05"

@@ -1,7 +1,6 @@
 ---
 title: "Floating Values in Database Engineer Questions"
-slug: floating-values-in-database-engineer-questions
-collection: library/creating-custom-questions/programming
+slug: /library/creating-custom-questions/programming/floating-values-in-database-engineer-questions
 pylon_id: db6c54e7-ea9b-46b2-8ae8-9dd91ed46ac8
 published_url: https://support.hackerrank.com/articles/7867481079-Floating-Values-in-Database-Engineer-Questions
 last_edited: "2024-12-12"

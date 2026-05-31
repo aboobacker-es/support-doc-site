@@ -1,7 +1,6 @@
 ---
 title: "Create a Team"
-slug: creating-a-team
-collection: account-settings/teams-management
+slug: /account-settings/teams-management/creating-a-team
 pylon_id: fdba3ccc-9169-48ec-9cfd-60698470219a
 published_url: https://support.hackerrank.com/articles/9032143729-Create-a-Team
 last_edited: "2026-02-23"

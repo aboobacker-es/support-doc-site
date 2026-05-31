@@ -1,7 +1,6 @@
 ---
 title: "Question Types in HackerRank"
-slug: question-types-in-hackerrank-tests
-collection: library/getting_started
+slug: /library/getting_started/question-types-in-hackerrank-tests
 pylon_id: 63c2c81e-de74-4ada-8659-2a06c852a040
 published_url: https://support.hackerrank.com/articles/2354192461-Question-Types-in-HackerRank
 last_edited: "2026-05-08"

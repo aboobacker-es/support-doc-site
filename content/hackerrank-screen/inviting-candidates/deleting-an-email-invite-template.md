@@ -1,7 +1,6 @@
 ---
 title: "Deleting an Email Template"
-slug: deleting-an-email-invite-template
-collection: hackerrank-screen/inviting-candidates
+slug: /hackerrank-screen/inviting-candidates/deleting-an-email-invite-template
 pylon_id: 812ae5ee-07a1-4ccc-ae4c-835d367d44b4
 published_url: https://support.hackerrank.com/articles/1128741183-Deleting-an-Email-Template
 last_edited: "2026-05-27"

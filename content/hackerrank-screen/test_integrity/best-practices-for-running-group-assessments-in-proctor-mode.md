@@ -1,7 +1,6 @@
 ---
 title: "Best Practices for Running Group Assessments in Proctor Mode"
-slug: best-practices-for-running-group-assessments-in-proctor-mode
-collection: hackerrank-screen/test_integrity
+slug: /hackerrank-screen/test_integrity/best-practices-for-running-group-assessments-in-proctor-mode
 pylon_id: fc33898b-dbc5-404e-8489-1454ed2eea00
 published_url: https://support.hackerrank.com/articles/9264843630-Best-Practices-for-Running-Group-Assessments-in-Proctor-Mode
 last_edited: "2026-02-06"

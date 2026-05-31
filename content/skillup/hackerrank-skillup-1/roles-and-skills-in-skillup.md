@@ -1,7 +1,6 @@
 ---
 title: "Roles and Skills in SkillUp"
-slug: roles-and-skills-in-skillup
-collection: skillup/hackerrank-skillup-1
+slug: /skillup/hackerrank-skillup-1/roles-and-skills-in-skillup
 pylon_id: 5a724fb2-4eb0-40a8-82ed-1a9e96699750
 published_url: https://support.hackerrank.com/articles/1506621765-Roles-and-Skills-in-SkillUp
 last_edited: "2025-11-20"

@@ -1,7 +1,6 @@
 ---
 title: "Whiteboard Questions"
-slug: creating-a-whiteboard-question
-collection: library/question-types/general-1
+slug: /library/question-types/general-1/creating-a-whiteboard-question
 pylon_id: dff70f98-7dfc-4417-8ee2-2a8594ec3826
 published_url: https://support.hackerrank.com/articles/2578948087-Whiteboard-Questions
 last_edited: "2026-03-26"

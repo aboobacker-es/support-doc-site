@@ -1,7 +1,6 @@
 ---
 title: "Manage Sections in Tests"
-slug: section-based-testing
-collection: hackerrank-screen/managing-tests
+slug: /hackerrank-screen/managing-tests/section-based-testing
 pylon_id: d576be1b-d86a-422b-a2ef-c6435e3eeaff
 published_url: https://support.hackerrank.com/articles/5546852679-Manage-Sections-in-Tests
 last_edited: "2025-10-15"

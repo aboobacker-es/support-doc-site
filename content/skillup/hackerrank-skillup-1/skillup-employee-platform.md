@@ -1,7 +1,6 @@
 ---
 title: "SkillUp Employee Platform"
-slug: skillup-employee-platform
-collection: skillup/hackerrank-skillup-1
+slug: /skillup/hackerrank-skillup-1/skillup-employee-platform
 pylon_id: b388730c-482d-491c-b53e-3e13dcca5d68
 published_url: https://support.hackerrank.com/articles/8522032191-SkillUp-Employee-Platform
 last_edited: "2025-03-06"

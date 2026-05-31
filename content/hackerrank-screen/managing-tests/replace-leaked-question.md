@@ -1,7 +1,6 @@
 ---
 title: "Replace Leaked Question"
-slug: replace-leaked-question
-collection: hackerrank-screen/managing-tests
+slug: /hackerrank-screen/managing-tests/replace-leaked-question
 pylon_id: 5a5ff31e-aabc-486a-b1c6-226976ab4446
 published_url: https://support.hackerrank.com/articles/2349070108-Replace-Leaked-Question
 last_edited: "2025-11-18"

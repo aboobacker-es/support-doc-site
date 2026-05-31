@@ -1,7 +1,6 @@
 ---
 title: "Assessing Candidates on Prompt Engineering Skills"
-slug: assessing-candidates-on-prompt-engineering-skills
-collection: uncategorized
+slug: /assessing-candidates-on-prompt-engineering-skills
 pylon_id: 77d87a65-08d4-40fa-995b-1fcec3de592a
 published_url: https://support.hackerrank.com/articles/1231590424-Assessing-Candidates-on-Prompt-Engineering-Skills
 last_edited: "2025-01-20"

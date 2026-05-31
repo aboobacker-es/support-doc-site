@@ -1,7 +1,6 @@
 ---
 title: "Candidate Status in API Results"
-slug: candidate-status-in-api-results
-collection: account-settings/open-api
+slug: /account-settings/open-api/candidate-status-in-api-results
 pylon_id: 9f5f50de-a811-4c0a-b1b1-353579520329
 published_url: https://support.hackerrank.com/articles/3094540490-Candidate-Status-in-API-Results
 last_edited: "2026-02-23"

@@ -1,7 +1,6 @@
 ---
 title: "Diversity and Inclusion Settings Page"
-slug: diversity-and-inclusion-settings-page
-collection: account-settings/company-level-admin-settings
+slug: /account-settings/company-level-admin-settings/diversity-and-inclusion-settings-page
 pylon_id: d8e3ecde-8a2b-45f5-8ff9-1bac9bb6cfd1
 published_url: https://support.hackerrank.com/articles/8847622491-Diversity-and-Inclusion-Settings-Page
 last_edited: "2024-12-26"

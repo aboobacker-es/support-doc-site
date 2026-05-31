@@ -1,7 +1,6 @@
 ---
 title: "Lever HackerRank Integration"
-slug: lever-hackerrank-integration
-collection: integrations-1/applicant-tracking-systems/lever
+slug: /integrations-1/applicant-tracking-systems/lever/lever-hackerrank-integration
 pylon_id: 7a59b421-81fd-4daa-9f75-79c1a337957e
 published_url: https://support.hackerrank.com/articles/1538275190-Lever-HackerRank-Integration
 last_edited: "2026-05-06"

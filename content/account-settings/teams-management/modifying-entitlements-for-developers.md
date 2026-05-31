@@ -1,7 +1,6 @@
 ---
 title: "Modify Entitlements for Developers"
-slug: modifying-entitlements-for-developers
-collection: account-settings/teams-management
+slug: /account-settings/teams-management/modifying-entitlements-for-developers
 pylon_id: 3b772859-f4d2-4de8-b488-8cde0e3bc10f
 published_url: https://support.hackerrank.com/articles/8127960820-Modify-Entitlements-for-Developers
 last_edited: "2026-01-28"

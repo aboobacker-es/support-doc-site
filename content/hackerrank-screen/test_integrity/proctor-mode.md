@@ -1,7 +1,6 @@
 ---
 title: "Proctor Mode"
-slug: proctor-mode
-collection: hackerrank-screen/test_integrity
+slug: /hackerrank-screen/test_integrity/proctor-mode
 pylon_id: 90138fc5-1335-48d7-bc61-dc591f99d664
 published_url: https://support.hackerrank.com/articles/5663779659-Proctor-Mode
 last_edited: "2026-04-22"

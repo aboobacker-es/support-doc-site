@@ -1,7 +1,6 @@
 ---
 title: "Extend Test Duration for Candidates"
-slug: adding-extra-time-for-candidates
-collection: hackerrank-screen/managing-tests
+slug: /hackerrank-screen/managing-tests/adding-extra-time-for-candidates
 pylon_id: 93d61263-173d-419b-9e97-a4a0e7455bd8
 published_url: https://support.hackerrank.com/articles/4811403281-Extend-Test-Duration-for-Candidates
 last_edited: "2026-05-27"

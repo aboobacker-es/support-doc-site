@@ -1,7 +1,6 @@
 ---
 title: "Watermarking the Tests"
-slug: watermarking-the-tests
-collection: hackerrank-screen/test-settings
+slug: /hackerrank-screen/test-settings/watermarking-the-tests
 pylon_id: 8bf21aa5-3280-4b32-9a9a-9e6771fc7b38
 published_url: https://support.hackerrank.com/articles/2519766322-Watermarking-the-Tests
 last_edited: "2026-05-27"

@@ -1,7 +1,6 @@
 ---
 title: "Taleo"
-slug: taleo
-collection: integrations-1/applicant-tracking-systems/taleo
+slug: /integrations-1/applicant-tracking-systems/taleo/taleo
 pylon_id: d19baa6b-61a2-41ae-82dd-be5f3c2330eb
 published_url: https://support.hackerrank.com/articles/7459195623-Taleo
 last_edited: "2026-05-27"

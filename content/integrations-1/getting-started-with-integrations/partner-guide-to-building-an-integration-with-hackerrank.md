@@ -1,7 +1,6 @@
 ---
 title: "Partner Guide to building an integration with HackerRank"
-slug: partner-guide-to-building-an-integration-with-hackerrank
-collection: integrations-1/getting-started-with-integrations
+slug: /integrations-1/getting-started-with-integrations/partner-guide-to-building-an-integration-with-hackerrank
 pylon_id: 4df976d1-f906-49b7-bb6b-4c8efc87ceb1
 published_url: https://support.hackerrank.com/articles/8660206242-Partner-Guide-to-building-an-integration-with-HackerRank
 last_edited: "2026-02-07"

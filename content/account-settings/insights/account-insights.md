@@ -1,7 +1,6 @@
 ---
 title: "Account Insights"
-slug: account-insights
-collection: account-settings/insights
+slug: /account-settings/insights/account-insights
 pylon_id: 1b39068e-5840-4a91-82f2-5f9a7032a9a7
 published_url: https://support.hackerrank.com/articles/4945003466-Account-Insights
 last_edited: "2026-01-22"

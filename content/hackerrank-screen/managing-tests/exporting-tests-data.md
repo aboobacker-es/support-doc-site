@@ -1,7 +1,6 @@
 ---
 title: "Export Tests Data"
-slug: exporting-tests-data
-collection: hackerrank-screen/managing-tests
+slug: /hackerrank-screen/managing-tests/exporting-tests-data
 pylon_id: d4a62b24-68be-4acd-b896-ffb5e1a612e2
 published_url: https://support.hackerrank.com/articles/7081156839-Export-Tests-Data
 last_edited: "2025-09-03"

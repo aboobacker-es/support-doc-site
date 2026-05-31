@@ -1,7 +1,6 @@
 ---
 title: "Modify Question Settings for Tests"
-slug: modifying-question-settings-for-tests
-collection: hackerrank-screen/test-settings
+slug: /hackerrank-screen/test-settings/modifying-question-settings-for-tests
 pylon_id: 84089ab7-9812-4b0f-9fe0-504edd3f0fed
 published_url: https://support.hackerrank.com/articles/5424328799-Modify-Question-Settings-for-Tests
 last_edited: "2026-05-19"

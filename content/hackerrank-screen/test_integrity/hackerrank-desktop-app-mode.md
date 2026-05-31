@@ -1,7 +1,6 @@
 ---
 title: "HackerRank Desktop App Mode"
-slug: hackerrank-desktop-app-mode
-collection: hackerrank-screen/test_integrity
+slug: /hackerrank-screen/test_integrity/hackerrank-desktop-app-mode
 pylon_id: 2951c46b-e324-42ec-9a35-cdcd9cae6b7c
 published_url: https://support.hackerrank.com/articles/5973590014-HackerRank-Desktop-App-Mode
 last_edited: "2026-04-21"

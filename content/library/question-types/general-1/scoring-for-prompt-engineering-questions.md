@@ -1,7 +1,6 @@
 ---
 title: "Prompt Engineering Questions"
-slug: scoring-for-prompt-engineering-questions
-collection: library/question-types/general-1
+slug: /library/question-types/general-1/scoring-for-prompt-engineering-questions
 pylon_id: b2048e70-73fc-42a4-8068-a1cd6d006a3d
 published_url: https://support.hackerrank.com/articles/6081633644-Prompt-Engineering-Questions
 last_edited: "2026-03-26"

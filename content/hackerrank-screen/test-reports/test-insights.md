@@ -1,7 +1,6 @@
 ---
 title: "Test Insights"
-slug: test-insights
-collection: hackerrank-screen/test-reports
+slug: /hackerrank-screen/test-reports/test-insights
 pylon_id: 07119f1f-45dc-4777-9fdb-684b6cfe02d4
 published_url: https://support.hackerrank.com/articles/7964147006-Test-Insights
 last_edited: "2026-05-27"

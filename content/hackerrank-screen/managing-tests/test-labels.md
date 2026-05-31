@@ -1,7 +1,6 @@
 ---
 title: "Test Labels"
-slug: test-labels
-collection: hackerrank-screen/managing-tests
+slug: /hackerrank-screen/managing-tests/test-labels
 pylon_id: 32362a5d-ee40-47bd-bb3f-4cb3bf3d9d51
 published_url: https://support.hackerrank.com/articles/2096315953-Test-Labels
 last_edited: "2026-05-27"

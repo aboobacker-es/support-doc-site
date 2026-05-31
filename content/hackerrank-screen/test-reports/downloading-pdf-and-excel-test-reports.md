@@ -1,7 +1,6 @@
 ---
 title: "Download Test Reports"
-slug: downloading-pdf-and-excel-test-reports
-collection: hackerrank-screen/test-reports
+slug: /hackerrank-screen/test-reports/downloading-pdf-and-excel-test-reports
 pylon_id: e93675ae-ad1b-4ee6-ae17-bf1bd8999b97
 published_url: https://support.hackerrank.com/articles/1786677446-Download-Test-Reports
 last_edited: "2025-10-14"

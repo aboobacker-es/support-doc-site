@@ -1,7 +1,6 @@
 ---
 title: "Update Company Logo"
-slug: adding-a-custom-logo-to-your-account
-collection: account-settings/company-level-admin-settings
+slug: /account-settings/company-level-admin-settings/adding-a-custom-logo-to-your-account
 pylon_id: 9ff1bbc8-8fd0-484d-aeed-c1819fac86be
 published_url: https://support.hackerrank.com/articles/6195679465-Update-Company-Logo
 last_edited: "2025-12-15"

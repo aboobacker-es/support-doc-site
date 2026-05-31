@@ -1,7 +1,6 @@
 ---
 title: "HackerRank SkillUp Licenses"
-slug: hackerrank-skillup-licenses
-collection: skillup/hackerrank-skillup-1
+slug: /skillup/hackerrank-skillup-1/hackerrank-skillup-licenses
 pylon_id: 5f725a1c-df42-4955-83be-07d4b05af740
 published_url: https://support.hackerrank.com/articles/1238999371-HackerRank-SkillUp-Licenses
 last_edited: "2024-12-12"

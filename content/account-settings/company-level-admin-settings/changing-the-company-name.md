@@ -1,7 +1,6 @@
 ---
 title: "Update Company Name and Sender Name"
-slug: changing-the-company-name
-collection: account-settings/company-level-admin-settings
+slug: /account-settings/company-level-admin-settings/changing-the-company-name
 pylon_id: 55a99207-ed4d-45ce-9644-fabb8c8cb571
 published_url: https://support.hackerrank.com/articles/1019487408-Update-Company-Name-and-Sender-Name
 last_edited: "2025-12-15"

@@ -1,7 +1,6 @@
 ---
 title: "Update Team Settings"
-slug: update-team-settings
-collection: account-settings/teams-management
+slug: /account-settings/teams-management/update-team-settings
 pylon_id: fa09bb4a-6b5a-41cc-942e-f92912b088e5
 published_url: https://support.hackerrank.com/articles/3481284381-Update-Team-Settings
 last_edited: "2026-03-03"

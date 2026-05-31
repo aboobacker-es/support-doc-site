@@ -1,7 +1,6 @@
 ---
 title: "Create a Test"
-slug: creating-a-new-test
-collection: hackerrank-screen/managing-tests
+slug: /hackerrank-screen/managing-tests/creating-a-new-test
 pylon_id: 77d2d5da-424e-428c-9fad-0af7e58c70d0
 published_url: https://support.hackerrank.com/articles/6967597139-Create-a-Test
 last_edited: "2025-12-03"

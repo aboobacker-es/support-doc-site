@@ -1,7 +1,6 @@
 ---
 title: "Archive a Test"
-slug: archiving-a-test
-collection: hackerrank-screen/managing-tests
+slug: /hackerrank-screen/managing-tests/archiving-a-test
 pylon_id: 97bc1008-7a85-438b-a9c7-62f9f8a8effd
 published_url: https://support.hackerrank.com/articles/8415416322-Archive-a-Test
 last_edited: "2025-09-25"

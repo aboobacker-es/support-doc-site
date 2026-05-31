@@ -1,7 +1,6 @@
 ---
 title: "Centralized Interview Settings"
-slug: configure-interview-settings
-collection: account-settings/company-level-admin-settings
+slug: /account-settings/company-level-admin-settings/configure-interview-settings
 pylon_id: 1121e847-bec7-49f2-bbd1-290920fe06d2
 published_url: https://support.hackerrank.com/articles/9244658640-Centralized-Interview-Settings
 last_edited: "2026-04-19"

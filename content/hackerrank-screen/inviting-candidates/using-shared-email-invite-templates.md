@@ -1,7 +1,6 @@
 ---
 title: "Using Shared Email Templates"
-slug: using-shared-email-invite-templates
-collection: hackerrank-screen/inviting-candidates
+slug: /hackerrank-screen/inviting-candidates/using-shared-email-invite-templates
 pylon_id: c08ada3a-b649-4e27-90d5-1f94940829a0
 published_url: https://support.hackerrank.com/articles/4162887849-Using-Shared-Email-Templates
 last_edited: "2025-01-20"

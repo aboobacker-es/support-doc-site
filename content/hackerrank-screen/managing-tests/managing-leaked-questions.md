@@ -1,7 +1,6 @@
 ---
 title: "Manage Leaked Questions"
-slug: managing-leaked-questions
-collection: hackerrank-screen/managing-tests
+slug: /hackerrank-screen/managing-tests/managing-leaked-questions
 pylon_id: 579eb939-7289-4eb3-aafd-d68018a209ec
 published_url: https://support.hackerrank.com/articles/8820947031-Manage-Leaked-Questions
 last_edited: "2026-04-22"

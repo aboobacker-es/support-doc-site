@@ -1,7 +1,6 @@
 ---
 title: "October 2024 Release Notes"
-slug: october-2024-release-notes
-collection: general-help/release-notes
+slug: /general-help/release-notes/october-2024-release-notes
 pylon_id: a556b0b4-c672-4a1e-8378-8389aca03d8e
 published_url: https://support.hackerrank.com/articles/1189675016-October-2024-Release-Notes
 last_edited: "2025-04-09"

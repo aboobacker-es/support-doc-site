@@ -1,7 +1,6 @@
 ---
 title: "HackerRank Test Integrity"
-slug: proctoring-hackerrank-tests
-collection: hackerrank-screen/test_integrity
+slug: /hackerrank-screen/test_integrity/proctoring-hackerrank-tests
 pylon_id: 6608481e-ffc0-4bfb-8f68-3fb5b773172f
 published_url: https://support.hackerrank.com/articles/1079706165-HackerRank-Test-Integrity
 last_edited: "2025-11-05"

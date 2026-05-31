@@ -1,7 +1,6 @@
 ---
 title: "Deprecations and Experience Changes"
-slug: january-2026-deprecations-and-experience-changes
-collection: general-help/deprecations_and_experience_changes
+slug: /general-help/deprecations_and_experience_changes/january-2026-deprecations-and-experience-changes
 pylon_id: 2a54f155-9b5e-4320-bd12-924b2aeda5a3
 published_url: https://support.hackerrank.com/articles/9867323057-Deprecations-and-Experience-Changes
 last_edited: "2026-04-22"

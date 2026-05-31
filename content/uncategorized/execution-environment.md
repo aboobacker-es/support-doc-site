@@ -1,7 +1,6 @@
 ---
 title: "Execution Environment"
-slug: execution-environment
-collection: uncategorized
+slug: /execution-environment
 pylon_id: 306c65cb-092f-4a57-8a05-bb153c0972e4
 published_url: https://support.hackerrank.com/articles/6693750503-Execution-Environment
 last_edited: "2026-04-22"

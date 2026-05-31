@@ -1,7 +1,6 @@
 ---
 title: "Configure Email Settings for Tests"
-slug: modifying-email-settings-for-tests
-collection: hackerrank-screen/test-settings
+slug: /hackerrank-screen/test-settings/modifying-email-settings-for-tests
 pylon_id: bf7f1631-0ff2-4263-a607-82e422a2e381
 published_url: https://support.hackerrank.com/articles/2564162886-Configure-Email-Settings-for-Tests
 last_edited: "2025-10-15"

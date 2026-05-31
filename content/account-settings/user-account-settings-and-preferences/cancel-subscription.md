@@ -1,7 +1,6 @@
 ---
 title: "Cancel Subscription"
-slug: cancel-subscription
-collection: account-settings/user-account-settings-and-preferences
+slug: /account-settings/user-account-settings-and-preferences/cancel-subscription
 pylon_id: 2df33a9d-c688-4a14-9523-b69bf7b7961f
 published_url: https://support.hackerrank.com/articles/3131912618-Cancel-Subscription
 last_edited: "2026-03-10"

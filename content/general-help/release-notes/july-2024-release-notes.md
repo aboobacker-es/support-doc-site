@@ -1,7 +1,6 @@
 ---
 title: "July 2024 Release Notes"
-slug: july-2024-release-notes
-collection: general-help/release-notes
+slug: /general-help/release-notes/july-2024-release-notes
 pylon_id: ed0527b1-e9c9-47a4-9174-2bf016017c37
 published_url: https://support.hackerrank.com/articles/4505174147-July-2024-Release-Notes
 last_edited: "2025-01-22"

@@ -1,7 +1,6 @@
 ---
 title: "Create an AI Interviewer"
-slug: create-an-ai-interviewer
-collection: chakra/manage_chakra
+slug: /chakra/manage_chakra/create-an-ai-interviewer
 pylon_id: 6c69eabb-5de9-4741-8e21-61b0b2e2f60e
 published_url: https://support.hackerrank.com/articles/8041423965-Create-an-AI-Interviewer
 last_edited: "2026-04-19"

@@ -1,7 +1,6 @@
 ---
 title: "Update or Reset Password"
-slug: update-or-reset-password
-collection: account-settings/user-account-settings-and-preferences
+slug: /account-settings/user-account-settings-and-preferences/update-or-reset-password
 pylon_id: 064d43e2-fd0c-4aaa-b6ff-54b0e6c34e3e
 published_url: https://support.hackerrank.com/articles/7046498277-Update-or-Reset-Password
 last_edited: "2026-02-23"

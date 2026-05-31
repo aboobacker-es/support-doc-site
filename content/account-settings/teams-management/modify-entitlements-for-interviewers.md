@@ -1,7 +1,6 @@
 ---
 title: "Modify Entitlements for Interviewers"
-slug: modify-entitlements-for-interviewers
-collection: account-settings/teams-management
+slug: /account-settings/teams-management/modify-entitlements-for-interviewers
 pylon_id: 9c4433ef-2e5b-4662-8092-25fd89106bff
 published_url: https://support.hackerrank.com/articles/2072399562-Modify-Entitlements-for-Interviewers
 last_edited: "2026-03-12"

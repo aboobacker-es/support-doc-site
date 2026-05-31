@@ -1,7 +1,6 @@
 ---
 title: "Greenhouse-HackerRank Integration FAQs"
-slug: greenhouse-hackerrank-integration-faqs
-collection: integrations-1/applicant-tracking-systems/greenhouse
+slug: /integrations-1/applicant-tracking-systems/greenhouse/greenhouse-hackerrank-integration-faqs
 pylon_id: 0b9caca0-5bbc-454e-8aad-034c5e45f71a
 published_url: https://support.hackerrank.com/articles/3678461564-Greenhouse-HackerRank-Integration-FAQs
 last_edited: "2025-08-01"

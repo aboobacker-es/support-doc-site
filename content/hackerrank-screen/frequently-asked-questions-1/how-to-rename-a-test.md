@@ -1,7 +1,6 @@
 ---
 title: "How to Rename a Test"
-slug: how-to-rename-a-test
-collection: hackerrank-screen/frequently-asked-questions-1
+slug: /hackerrank-screen/frequently-asked-questions-1/how-to-rename-a-test
 pylon_id: 4d750cde-2b8e-49e8-8ebe-7a111eeba26d
 published_url: https://support.hackerrank.com/articles/2426927743-How-to-Rename-a-Test
 last_edited: "2024-12-23"

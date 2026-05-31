@@ -1,7 +1,6 @@
 ---
 title: "Contact HackerRank Support"
-slug: contact-hackerrank-support
-collection: general-help/office-hours
+slug: /general-help/office-hours/contact-hackerrank-support
 pylon_id: b351e358-1484-415e-8f7b-b8b528e320a4
 published_url: https://support.hackerrank.com/articles/8616956464-Contact-HackerRank-Support
 last_edited: "2025-09-17"

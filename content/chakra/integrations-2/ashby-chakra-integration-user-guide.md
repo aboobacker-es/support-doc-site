@@ -1,7 +1,6 @@
 ---
 title: "Ashby - Chakra Integration User Guide"
-slug: ashby-chakra-integration-user-guide
-collection: chakra/integrations-2
+slug: /chakra/integrations-2/ashby-chakra-integration-user-guide
 pylon_id: ac698fb6-3bd3-4066-8b98-bed8230ae1c3
 published_url: https://support.hackerrank.com/articles/8472393759-Ashby---Chakra-Integration-User-Guide
 last_edited: "2026-04-22"

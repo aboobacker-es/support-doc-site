@@ -1,7 +1,6 @@
 ---
 title: "Revoke Test Access"
-slug: revoking-access-to-a-shared-test
-collection: hackerrank-screen/managing-tests
+slug: /hackerrank-screen/managing-tests/revoking-access-to-a-shared-test
 pylon_id: 4cdf702e-ea8a-41e8-a2e9-9a93a827940a
 published_url: https://support.hackerrank.com/articles/2097730024-Revoke-Test-Access
 last_edited: "2025-06-26"

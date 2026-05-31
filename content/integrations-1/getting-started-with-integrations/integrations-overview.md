@@ -1,7 +1,6 @@
 ---
 title: "Integrations Overview"
-slug: integrations-overview
-collection: integrations-1/getting-started-with-integrations
+slug: /integrations-1/getting-started-with-integrations/integrations-overview
 pylon_id: 32384887-3ff5-495a-bed3-83744b8cbbcb
 published_url: https://support.hackerrank.com/articles/1847021717-Integrations-Overview
 last_edited: "2026-03-12"

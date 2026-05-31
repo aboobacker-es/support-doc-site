@@ -1,7 +1,6 @@
 ---
 title: "Frequently Asked Questions"
-slug: FAQs
-collection: interviews/additional_resources/faqs
+slug: /interviews/additional_resources/faqs/faqs
 pylon_id: 9082075d-fa85-4d70-963f-72fb4fe48f67
 published_url: https://support.hackerrank.com/articles/9583186367-Frequently-Asked-Questions
 last_edited: "2026-01-02"

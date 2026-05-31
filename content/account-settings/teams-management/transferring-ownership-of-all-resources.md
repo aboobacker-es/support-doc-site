@@ -1,7 +1,6 @@
 ---
 title: "Transfer Resource Ownership"
-slug: transferring-ownership-of-all-resources
-collection: account-settings/teams-management
+slug: /account-settings/teams-management/transferring-ownership-of-all-resources
 pylon_id: 4a36c3b2-2818-418b-8a7b-6b13124c428b
 published_url: https://support.hackerrank.com/articles/8845665482-Transfer-Resource-Ownership
 last_edited: "2026-03-12"

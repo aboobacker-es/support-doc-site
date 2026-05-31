@@ -1,7 +1,6 @@
 ---
 title: "Modify General Settings for Tests"
-slug: modifying-general-settings-for-tests
-collection: hackerrank-screen/test-settings
+slug: /hackerrank-screen/test-settings/modifying-general-settings-for-tests
 pylon_id: 29f081ed-7689-4942-aa8e-24f373ba5780
 published_url: https://support.hackerrank.com/articles/9672590042-Modify-General-Settings-for-Tests
 last_edited: "2025-07-30"

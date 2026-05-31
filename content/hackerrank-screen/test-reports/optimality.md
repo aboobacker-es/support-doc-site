@@ -1,7 +1,6 @@
 ---
 title: "Optimality "
-slug: optimality
-collection: hackerrank-screen/test-reports
+slug: /hackerrank-screen/test-reports/optimality
 pylon_id: 9f70e231-12d5-47fd-b5c2-7285457cc8a8
 published_url: https://support.hackerrank.com/articles/4755292353-Optimality 
 last_edited: "2025-12-01"

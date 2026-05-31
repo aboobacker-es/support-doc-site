@@ -1,7 +1,6 @@
 ---
 title: "Upgrade Plan"
-slug: upgrade-plan
-collection: account-settings/user-account-settings-and-preferences
+slug: /account-settings/user-account-settings-and-preferences/upgrade-plan
 pylon_id: e7fd89f9-d1bf-4837-843d-1c3a3ed2052e
 published_url: https://support.hackerrank.com/articles/7542858084-Upgrade-Plan
 last_edited: "2026-03-10"

@@ -1,7 +1,6 @@
 ---
 title: "Clone a Question"
-slug: cloning-a-question
-collection: library/hackerrank-questions-library
+slug: /library/hackerrank-questions-library/cloning-a-question
 pylon_id: b98ab93b-d6e6-412f-a4a9-eb5fdd7da733
 published_url: https://support.hackerrank.com/articles/9746551127-Clone-a-Question
 last_edited: "2025-08-14"

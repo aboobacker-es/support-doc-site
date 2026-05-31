@@ -1,7 +1,6 @@
 ---
 title: "General Data Protection Regulation FAQs"
-slug: gdpr-faqs-for-hackerrank-for-work
-collection: account-settings/gdpr-and-nyc-ai-laws
+slug: /account-settings/gdpr-and-nyc-ai-laws/gdpr-faqs-for-hackerrank-for-work
 pylon_id: 53cd2bd6-bd7d-49aa-95e2-ac347629c9c1
 published_url: https://support.hackerrank.com/articles/2634495557-General-Data-Protection-Regulation-FAQs
 last_edited: "2026-05-19"

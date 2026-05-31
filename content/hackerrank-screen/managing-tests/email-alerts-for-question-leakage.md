@@ -1,7 +1,6 @@
 ---
 title: "Manage Email Alerts for Leaked Questions"
-slug: email-alerts-for-question-leakage
-collection: hackerrank-screen/managing-tests
+slug: /hackerrank-screen/managing-tests/email-alerts-for-question-leakage
 pylon_id: c2fb91ce-624f-444a-a581-7cbd9c900f78
 published_url: https://support.hackerrank.com/articles/3105510130-Manage-Email-Alerts-for-Leaked-Questions
 last_edited: "2025-11-04"

@@ -1,7 +1,6 @@
 ---
 title: "Rooster - HackerRank integration"
-slug: rooster-hackerrank-integration
-collection: integrations-1/applicant-tracking-systems
+slug: /integrations-1/applicant-tracking-systems/rooster-hackerrank-integration
 pylon_id: 0d0bf521-f48e-43d9-bb61-2e7d20a2ddc2
 published_url: https://support.hackerrank.com/articles/5902644770-Rooster---HackerRank-integration
 last_edited: "2025-01-22"

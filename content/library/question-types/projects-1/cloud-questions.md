@@ -1,7 +1,6 @@
 ---
 title: "Cloud Questions"
-slug: cloud-questions
-collection: library/question-types/projects-1
+slug: /library/question-types/projects-1/cloud-questions
 pylon_id: 67b27213-499f-4463-b979-68e4bca60f48
 published_url: https://support.hackerrank.com/articles/1938573113-Cloud-Questions
 last_edited: "2026-05-08"

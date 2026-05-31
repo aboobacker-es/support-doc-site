@@ -1,7 +1,6 @@
 ---
 title: "Introduction to Chakra"
-slug: introduction-to-chakra
-collection: chakra/getting_started-1
+slug: /chakra/getting_started-1/introduction-to-chakra
 pylon_id: a5021c14-9d67-4722-b6c3-41fcb7155cac
 published_url: https://support.hackerrank.com/articles/6908366644-Introduction-to-Chakra
 last_edited: "2026-05-20"

@@ -1,7 +1,6 @@
 ---
 title: "Zapier - HackerRank Integration Interview User Guide"
-slug: zapier-hackerrank-integration-interview-user-guide
-collection: integrations-1/applicant-tracking-systems/zapier
+slug: /integrations-1/applicant-tracking-systems/zapier/zapier-hackerrank-integration-interview-user-guide
 pylon_id: 7fb9a8f2-021e-4f70-8b31-707a3a7cc831
 published_url: https://support.hackerrank.com/articles/5179178131-Zapier---HackerRank-Integration-Interview-User-Guide
 last_edited: "2026-03-05"

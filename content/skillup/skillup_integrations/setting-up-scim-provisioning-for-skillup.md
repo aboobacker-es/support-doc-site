@@ -1,7 +1,6 @@
 ---
 title: "Setting Up SCIM Provisioning for SkillUp"
-slug: setting-up-scim-provisioning-for-skillup
-collection: skillup/skillup_integrations
+slug: /skillup/skillup_integrations/setting-up-scim-provisioning-for-skillup
 pylon_id: cbb0f48f-b167-4220-bd43-02dadc9625e7
 published_url: https://support.hackerrank.com/articles/9005750838-Setting-Up-SCIM-Provisioning-for-SkillUp
 last_edited: "2026-03-11"

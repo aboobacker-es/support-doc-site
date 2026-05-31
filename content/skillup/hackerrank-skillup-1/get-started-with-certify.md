@@ -1,7 +1,6 @@
 ---
 title: "Get Started with Certify"
-slug: get-started-with-certify
-collection: skillup/hackerrank-skillup-1
+slug: /skillup/hackerrank-skillup-1/get-started-with-certify
 pylon_id: 5a02d491-8b2d-490a-bdf7-b2bc6fb1f752
 published_url: https://support.hackerrank.com/articles/2960935422-Get-Started-with-Certify
 last_edited: "2025-04-23"

@@ -1,63 +1,38 @@
 ---
-title: "Recruitee - HackerRank Integration Guide"
-slug: recruitee-hackerrank-integration-guide
-collection: integrations-1/applicant-tracking-systems/recruitee
-pylon_id: 378fe73d-8ac0-487a-99d1-c78ba479709e
-published_url: https://support.hackerrank.com/articles/1039021982-Recruitee---HackerRank-Integration-Guide
-last_edited: "2026-01-30"
+title: "Recruitee - HackerRank Integration Overview"
+slug: /integrations-1/applicant-tracking-systems/recruitee/recruitee-hackerrank-integration-guide
+pylon_id: 20b721eb-6113-484c-a334-b7fee5fa918b
+published_url: https://support.hackerrank.com/articles/6130823390-Recruitee---HackerRank-Integration-Overview
+last_edited: "2026-05-06"
 is_published: true
 ---
 
-HackerRank integrates with Recruitee to let you invite candidates to HackerRank assessments and interviews directly from Recruitee. 
+HackerRank integrates with Recruitee for screening Tests. The integration between HackerRank and Recruitee allows hiring teams to send HackerRank assessments and view candidate scores, directly through the Recruitee platform. This reduces friction by eliminating the need to switch between multiple platforms, thus saving time, eliminating cognitive bias, and bringing more order to your recruiting.
 
-# Prerequisites
+**Tests**
 
-Before you begin, ensure you meet the following requirements:
+The table below describes the features supported for HackerRank tests in Recruitee.
 
-  * You have admin access to your HackerRank and Recruitee accounts.
-
-  * Your organization has an active Enterprise plan with HackerRank.
-
-# Integrating Recruitee with HackerRank
-
-To integrate Recruitee with HackerRank:
-
-## Step 1: Generate an integration API token in HackerRank
-
-The integration API token allows Recruitee to connect securely with your HackerRank account.
-
-  1. Log in to your HackerRank account using your credentials.
-
-  2. Go to **Settings > Integrations > Recruitee > Connect**, or open the [Recruitee integration](<https://www.hackerrank.com/work/settings/integrations/recruitee/configuration>) page directly.
-
-  3. In the Configuration tab, click **Generate an API Token.**
-
-![Recruitee integration.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1769699679380-Recruiteeintegration.png?Expires=253370764800&Signature=lqWGSqz~vXoSL7oFrZtjMe-IwD1raenFF-mNMsfcqhNJH4Bw7c535iJOf~Ffgpni2uuWXYCkw1Im59jui6zJxNQVffh1hFI~tH7lsFJI~B1vvWH4fPcW5Iq6ZEUn9jNyDfwzsD6OH0h6PXvrtE6JAFT6FplJBeRwe6sGxxDhfQbx1iWbsdnlSXZMLQcxKcpz8TljD4tNrD2mamixsiRiKfFEwuvgUWak8ndvdqf12R~w6YUiG5ThamSzdv4~XhIDUfR2g36jMYuAYxQz4sPxbon1giC7zoV~FfGIIWP8JoHrBEZNVe5Xxv4Ak~jr~R7mKfAhndIbO7MShOdsmJ9MOg__&Key-Pair-Id=K3NV4LZ47N8M46)
-  4. Click **Copy and close** to copy your token. 
-
-**Note:** You need this token in Step 2: Add the HackerRank API token in Recruitee. 
-
-## Step 2: Add the HackerRank API token in Recruitee
-
-This step authorizes Recruitee to connect with your HackerRank account. 
-
-  1. Log in to your Recruitee account using your credentials.
-
-  2. Go to[ Marketplace > Categories > Assessments](<https://app.recruitee.com/#/marketplace/categories/assessment>).
-
-  3. Select **HackerRank**.
-
-![Recruitee 1.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1769754809473-Recruitee1.png?Expires=253370764800&Signature=NMaQ2KYuyJoOxdIuToK2CqVqpxWPIxGEV9zWsSD2HOhOvspK~IV6pPEJvSOL83XGLfPgBjgWeVgYKRGvGPGsYXB30d8rWDU-GmX2fVWkLdUmtJTmqA99bIqIT9U6s4EXuZ-uXxaEoRbjWc2-eLjb-Qhh-oJzdO9FXUE1RxvULQitw3LfPsYx7e6q4kn4cSXHMDhxHCmAh2VzHovy9DnNM5fvhe9bwEbxtj4hf~t3IqUkzZdnlvBffihcifdFN41RmR8qbx5FexU2oEDnxYygRlXGFNdPg6yfG8k0bztWqQiXlgZkTO1v7fuTFcwAzLkG2YATVeAaJPNOCavKfdxI-Q__&Key-Pair-Id=K3NV4LZ47N8M46)
-  4. Click **Accept and integrate**.
-
-  5. In the **API Key** field, paste the API token generated in Step 1.
-
-  6. Click **Integrate**.
-
-Your Recruitee account is now integrated with HackerRank.
-
-![Recruitee last but one.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1769700303053-Recruiteelastbutone.png?Expires=253370764800&Signature=H4Na1nGR4XbAe7nO-r9RWLZZ7sZw8MPvBaUtzUzBuX2lPwb0afXYSaL5EjiFhtGI2SLGSMO-6rbiUfJ9Uel2iLQhDnniEkN6IK~H8wenLLbrsojXbcfLikmgaaNkV-kXh1d6upUSus79QwPCl5W3-fVHEqcw0mmd4lRnltRuhbLzl8xiSHF7TUJe2NGquXT58J-LJbp4YSGS10H8IrGSzGZwNGOoVI73g-KG9Dy5m83GbKkOrobbBUCG0-tihLraSvl-6LFYjVu6lWDfRf7PRs1OzhxgBsMwcnb7yVYDOCvqPBBDQJJR9x2FZj2jYR-p~HlxRK4VEgsKHa7OWKT5GA__&Key-Pair-Id=K3NV4LZ47N8M46)
-
-**Note:** Click **Manage** to control role-based access for viewing and sending tests, or to remove the integration.
-
-![Recruitee last.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1769700369302-Recruiteelast.png?Expires=253370764800&Signature=rWjMYFAIgoz7bsm8il~PVj6bwJhbG2bTktEX8tnODKWVc-9mQeS8hu0odLyKOeACce1EqwrlGQiuAVuClMkK7Lf7qT6M0USJU2hDNTN8aEK7gbdiIo-FBGFEpwK4ZuGKapJMAMReLCOTgMrUHoeJz3QBIw3hzKF5z9KXC2uZsY2A7JzT7m1qdF2xuN8CcbzPTwrueGfugP3NACrrG7dSpOPlGb0Mhmj-aA1M04YBurxGrtGi3xt7ZJ0w6oBiKZX-nc5UkRj8HhzQI3RrreEvag3CCiPl-K3huWutWAlXvbWcLq0So0mwf1hG2scn9ccDM-AwyMbLJBikqT0FHP1HcQ__&Key-Pair-Id=K3NV4LZ47N8M46)
+**Feature**| **Recruitee Support**  
+---|---  
+View the full list of HackerRank tests| ✅  
+Invite candidates to a specific test| ✅  
+Cancel an invite| ❌  
+Reinvite| ❌  
+Status update from invite to completion| ✅  
+View total candidate score| ✅  
+View maximum score| ✅  
+Link to the detailed test report| ✅  
+View question-wise scores| ❌  
+View candidate feedback| ❌  
+View reviewer comments| ❌  
+View code| ❌  
+Play code| ❌  
+Templates| user default  
+Invite sent from| assigned recruiter on requisition  
+Public URL sync| ❌  
+Update results after editing HackerRank| ❌  
+Result sharing and validity| ❌  
+Add time accommodation| ❌  
+  
+For more information, see [📄 Recruitee - HackerRank Integration Guide](</articles/1039021982>).

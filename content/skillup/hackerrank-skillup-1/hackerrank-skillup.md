@@ -1,7 +1,6 @@
 ---
 title: "HackerRank SkillUp"
-slug: hackerrank-skillup
-collection: skillup/hackerrank-skillup-1
+slug: /skillup/hackerrank-skillup-1/hackerrank-skillup
 pylon_id: 52f0bd47-0859-48e6-a719-849cccfee851
 published_url: https://support.hackerrank.com/articles/4624433684-HackerRank-SkillUp
 last_edited: "2024-12-12"

@@ -1,7 +1,6 @@
 ---
 title: "How can I Try a Question or a Test?"
-slug: how-to-try-a-question-or-a-test
-collection: hackerrank-screen/frequently-asked-questions-1
+slug: /hackerrank-screen/frequently-asked-questions-1/how-to-try-a-question-or-a-test
 pylon_id: 9518e290-62b6-476a-8f27-c22dcae4544a
 published_url: https://support.hackerrank.com/articles/1202456939-How-can-I-Try-a-Question-or-a-Test?
 last_edited: "2024-12-23"

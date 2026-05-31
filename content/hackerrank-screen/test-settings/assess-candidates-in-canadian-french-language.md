@@ -1,7 +1,6 @@
 ---
 title: "Assess Candidates in Canadian French Language"
-slug: assess-candidates-in-canadian-french-language
-collection: hackerrank-screen/test-settings
+slug: /hackerrank-screen/test-settings/assess-candidates-in-canadian-french-language
 pylon_id: 2174fddb-0221-4709-8bed-d2b279ab54e4
 published_url: https://support.hackerrank.com/articles/6201558176-Assess-Candidates-in-Canadian-French-Language
 last_edited: "2025-09-03"

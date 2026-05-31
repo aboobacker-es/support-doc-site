@@ -1,7 +1,6 @@
 ---
 title: "April 2026 Release Notes"
-slug: april-2026-release-notes
-collection: general-help/release-notes
+slug: /general-help/release-notes/april-2026-release-notes
 pylon_id: 2c7f889e-25bb-445f-aa20-76b2b633a1a5
 published_url: https://support.hackerrank.com/articles/4368819843-April-2026-Release-Notes
 last_edited: "2026-05-08"

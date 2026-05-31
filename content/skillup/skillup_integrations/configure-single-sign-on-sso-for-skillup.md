@@ -1,7 +1,6 @@
 ---
 title: "Configure Single Sign-On (SSO) for SkillUp"
-slug: configure-single-sign-on-sso-for-skillup
-collection: skillup/skillup_integrations
+slug: /skillup/skillup_integrations/configure-single-sign-on-sso-for-skillup
 pylon_id: 796d4944-9f64-4ac4-afdd-ba758655feec
 published_url: https://support.hackerrank.com/articles/7581923631-Configure-Single-Sign-On-(SSO)-for-SkillUp
 last_edited: "2025-11-05"

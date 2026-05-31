@@ -1,0 +1,431 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+/* ─── Color tokens ──────────────────────────────────────────────────────── */
+:root {
+  --ifm-color-primary: #2ec866;
+  --ifm-color-primary-dark: #22b559;
+  --ifm-color-primary-darker: #1fab54;
+  --ifm-color-primary-darkest: #1a8d45;
+  --ifm-color-primary-light: #41ce74;
+  --ifm-color-primary-lighter: #52d27e;
+  --ifm-color-primary-lightest: #72da94;
+
+  /* Typography */
+  --ifm-font-family-base: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI',
+    Helvetica, Arial, sans-serif;
+  --ifm-font-family-monospace: 'JetBrains Mono', 'Fira Code', 'SF Mono', Menlo,
+    Consolas, monospace;
+  --ifm-font-size-base: 15px;
+  --ifm-line-height-base: 1.75;
+  --ifm-font-weight-bold: 600;
+
+  /* Headings */
+  --ifm-heading-font-weight: 600;
+  --ifm-heading-color: #111827;
+  --ifm-h1-font-size: 1.875rem;
+  --ifm-h2-font-size: 1.375rem;
+  --ifm-h3-font-size: 1.125rem;
+
+  /* Layout */
+  --ifm-navbar-height: 60px;
+  --ifm-sidebar-width: 272px;
+  --doc-sidebar-width: 272px;
+  --ifm-container-width-xl: 1440px;
+
+  /* Navbar (dark green — matches support.hackerrank.com header) */
+  --ifm-navbar-background-color: #162e1e;
+  --ifm-navbar-link-color: #d1e8d8;
+  --ifm-navbar-link-hover-color: #ffffff;
+  --ifm-navbar-link-active-color: #2ec866;
+  --ifm-navbar-shadow: 0 1px 0 0 rgba(255 255 255 / 0.08);
+
+  /* Surface & text */
+  --ifm-background-color: #ffffff;
+  --ifm-background-surface-color: #f8fafc;
+  --ifm-font-color-base: #1f2937;
+  --ifm-font-color-secondary: #6b7280;
+
+  /* Sidebar */
+  --ifm-menu-color: #374151;
+  --ifm-menu-color-active: #16a34a;
+  --ifm-menu-color-background-active: #f0fdf4;
+  --ifm-menu-color-background-hover: #f3f4f6;
+  --ifm-menu-link-padding-vertical: 6px;
+  --ifm-menu-link-padding-horizontal: 12px;
+
+  /* Borders */
+  --ifm-toc-border-color: #e5e7eb;
+  --ifm-hr-border-color: #e5e7eb;
+  --ifm-color-emphasis-200: #e5e7eb;
+  --ifm-color-emphasis-300: #d1d5db;
+
+  /* Code */
+  --ifm-code-font-size: 87%;
+  --ifm-code-background: #f1f5f9;
+  --ifm-code-border-radius: 5px;
+  --ifm-code-padding-horizontal: 0.4em;
+  --ifm-code-padding-vertical: 0.15em;
+
+  /* Radius / shadow */
+  --ifm-global-radius: 8px;
+  --ifm-global-shadow-md: 0 4px 16px rgba(0 0 0 / 0.07);
+  --ifm-breadcrumb-color-active: #2ec866;
+  --ifm-link-color: #16a34a;
+  --ifm-link-hover-color: #15803d;
+}
+
+/* ─── Dark mode overrides ────────────────────────────────────────────────── */
+[data-theme='dark'] {
+  --ifm-color-primary: #4ade80;
+  --ifm-color-primary-dark: #22c55e;
+  --ifm-background-color: #0f172a;
+  --ifm-background-surface-color: #1e293b;
+  --ifm-font-color-base: #e2e8f0;
+  --ifm-font-color-secondary: #94a3b8;
+  --ifm-heading-color: #f1f5f9;
+  --ifm-code-background: #1e293b;
+  --ifm-menu-color: #cbd5e1;
+  --ifm-menu-color-active: #4ade80;
+  --ifm-menu-color-background-active: rgba(74 222 128 / 0.08);
+  --ifm-menu-color-background-hover: rgba(255 255 255 / 0.05);
+  --ifm-toc-border-color: #334155;
+  --ifm-link-color: #4ade80;
+  --ifm-link-hover-color: #86efac;
+  --ifm-navbar-background-color: #0d1f11;
+}
+
+/* ─── Base ───────────────────────────────────────────────────────────────── */
+html {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* ─── Navbar ─────────────────────────────────────────────────────────────── */
+.navbar {
+  border-bottom: 1px solid rgba(255 255 255 / 0.07);
+}
+
+.navbar__title {
+  font-weight: 600;
+  font-size: 1rem;
+  letter-spacing: -0.01em;
+  color: #ffffff;
+}
+
+.navbar__logo {
+  height: 26px;
+  margin-right: 6px;
+}
+
+.navbar__link {
+  font-size: 0.875rem;
+  font-weight: 500;
+}
+
+.navbar__link--active {
+  color: var(--ifm-color-primary) !important;
+}
+
+/* Search bar in navbar */
+.navbar__search-input {
+  background-color: rgba(255 255 255 / 0.1);
+  border: 1px solid rgba(255 255 255 / 0.15);
+  color: #ffffff;
+  border-radius: 6px;
+  font-size: 0.8125rem;
+}
+
+.navbar__search-input::placeholder {
+  color: rgba(255 255 255 / 0.5);
+}
+
+/* ─── Sidebar ────────────────────────────────────────────────────────────── */
+.theme-doc-sidebar-container {
+  border-right: 1px solid var(--ifm-color-emphasis-200) !important;
+}
+
+.menu__list {
+  margin: 0;
+  padding: 0;
+}
+
+/* Category headers */
+.menu__list-item-collapsible > .menu__link,
+.menu__list-item-collapsible > .menu__link:hover {
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: #9ca3af;
+  background: transparent !important;
+  padding-top: 18px;
+  padding-bottom: 4px;
+  cursor: pointer;
+}
+
+.menu__caret {
+  display: flex;
+  align-items: center;
+  opacity: 0.5;
+}
+
+/* Regular menu items */
+.menu__link {
+  border-radius: 6px;
+  font-size: 0.875rem;
+  font-weight: 400;
+  transition: background 0.12s ease, color 0.12s ease;
+}
+
+.menu__link:hover {
+  background: var(--ifm-menu-color-background-hover);
+  color: var(--ifm-font-color-base);
+}
+
+/* Active item — left accent border */
+.menu__link--active {
+  font-weight: 500;
+  color: var(--ifm-menu-color-active);
+  background: var(--ifm-menu-color-background-active);
+  border-left: 3px solid var(--ifm-color-primary);
+  padding-left: 9px;
+}
+
+.menu__link--active:hover {
+  background: var(--ifm-menu-color-background-active);
+}
+
+/* Sub-level items */
+.menu__list .menu__list .menu__link {
+  font-size: 0.8125rem;
+  color: var(--ifm-font-color-secondary);
+}
+
+.menu__list .menu__list .menu__link--active {
+  color: var(--ifm-menu-color-active);
+}
+
+/* ─── TOC (right column) ─────────────────────────────────────────────────── */
+.table-of-contents {
+  font-size: 0.8rem;
+  border-left: 2px solid var(--ifm-toc-border-color);
+}
+
+.table-of-contents__link {
+  color: var(--ifm-font-color-secondary);
+  transition: color 0.12s;
+}
+
+.table-of-contents__link:hover,
+.table-of-contents__link--active {
+  color: var(--ifm-color-primary);
+  font-weight: 500;
+}
+
+/* ─── Content ────────────────────────────────────────────────────────────── */
+.markdown {
+  max-width: 768px;
+}
+
+.markdown h1 {
+  font-size: var(--ifm-h1-font-size);
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  margin-bottom: 0.5rem;
+  border-bottom: none;
+}
+
+.markdown h2 {
+  font-size: var(--ifm-h2-font-size);
+  font-weight: 600;
+  margin-top: 2.5rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 1px solid var(--ifm-color-emphasis-200);
+}
+
+.markdown h3 {
+  font-size: var(--ifm-h3-font-size);
+  font-weight: 600;
+  margin-top: 2rem;
+}
+
+/* Inline code */
+.markdown code {
+  background: var(--ifm-code-background);
+  padding: var(--ifm-code-padding-vertical) var(--ifm-code-padding-horizontal);
+  border-radius: var(--ifm-code-border-radius);
+  font-size: var(--ifm-code-font-size);
+  border: 1px solid var(--ifm-color-emphasis-200);
+}
+
+/* Code blocks */
+.prism-code {
+  font-size: 0.875rem !important;
+  border-radius: 8px !important;
+}
+
+div[class^='codeBlockContainer'] {
+  box-shadow: var(--ifm-global-shadow-md);
+  border-radius: 8px;
+  border: 1px solid var(--ifm-color-emphasis-200);
+}
+
+/* Images */
+.markdown img {
+  border-radius: 8px;
+  border: 1px solid var(--ifm-color-emphasis-200);
+  box-shadow: var(--ifm-global-shadow-md);
+  max-width: 100%;
+}
+
+/* Ordered / unordered lists */
+.markdown ol,
+.markdown ul {
+  padding-left: 1.5rem;
+}
+
+.markdown li {
+  margin-bottom: 0.35rem;
+}
+
+/* Blockquote / note callouts */
+.markdown blockquote {
+  border-left: 4px solid var(--ifm-color-primary);
+  background: var(--ifm-menu-color-background-active);
+  border-radius: 0 6px 6px 0;
+  margin: 1.25rem 0;
+  padding: 0.75rem 1rem;
+  color: var(--ifm-font-color-base);
+}
+
+/* Tables */
+.markdown table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.875rem;
+}
+
+.markdown table th {
+  background: var(--ifm-background-surface-color);
+  font-weight: 600;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--ifm-font-color-secondary);
+}
+
+.markdown table td,
+.markdown table th {
+  padding: 0.625rem 0.875rem;
+  border: 1px solid var(--ifm-color-emphasis-200);
+}
+
+.markdown table tr:hover td {
+  background: var(--ifm-background-surface-color);
+}
+
+/* Admonitions (Note / Tip / Important) */
+.alert {
+  border-radius: 8px;
+  border: 1px solid;
+  font-size: 0.875rem;
+}
+
+.alert--info {
+  border-color: #bfdbfe;
+  background: #eff6ff;
+  color: #1e40af;
+}
+
+.alert--success,
+.alert--tip {
+  border-color: #bbf7d0;
+  background: #f0fdf4;
+  color: #15803d;
+}
+
+.alert--warning,
+.alert--caution {
+  border-color: #fed7aa;
+  background: #fff7ed;
+  color: #c2410c;
+}
+
+/* ─── Breadcrumbs ────────────────────────────────────────────────────────── */
+.breadcrumbs__item--active .breadcrumbs__link {
+  color: var(--ifm-font-color-secondary);
+  font-weight: 400;
+}
+
+.breadcrumbs__link {
+  font-size: 0.8125rem;
+  color: var(--ifm-font-color-secondary);
+}
+
+.breadcrumbs__link:hover {
+  color: var(--ifm-color-primary);
+}
+
+/* ─── Pagination ─────────────────────────────────────────────────────────── */
+.pagination-nav__link {
+  border-radius: 8px;
+  border: 1px solid var(--ifm-color-emphasis-200);
+  transition: border-color 0.15s, box-shadow 0.15s;
+}
+
+.pagination-nav__link:hover {
+  border-color: var(--ifm-color-primary);
+  box-shadow: 0 0 0 3px rgba(46 200 102 / 0.15);
+  text-decoration: none;
+}
+
+/* ─── Doc page layout adjustments ───────────────────────────────────────── */
+.docMainContainer_gTbr {
+  padding-top: 2rem;
+}
+
+/* Push content area so it sits nicely centred */
+.container.padding-top--md.padding-bottom--lg article {
+  max-width: 768px;
+}
+
+/* ─── Generated index (category landing pages) ───────────────────────────── */
+.generatedIndexPage h1 {
+  font-size: 1.75rem;
+  font-weight: 700;
+}
+
+.generatedIndexPage .card {
+  border-radius: 8px;
+  border: 1px solid var(--ifm-color-emphasis-200);
+  transition: box-shadow 0.15s, border-color 0.15s, transform 0.15s;
+}
+
+.generatedIndexPage .card:hover {
+  border-color: var(--ifm-color-primary);
+  box-shadow: 0 4px 20px rgba(46 200 102 / 0.12);
+  transform: translateY(-2px);
+}
+
+/* ─── Footer ─────────────────────────────────────────────────────────────── */
+.footer--dark {
+  background-color: #0d1f11;
+}
+
+.footer__title {
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #9ca3af;
+}
+
+.footer__link-item {
+  font-size: 0.875rem;
+  color: #9ca3af;
+  transition: color 0.12s;
+}
+
+.footer__link-item:hover {
+  color: #ffffff;
+}

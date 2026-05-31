@@ -1,7 +1,6 @@
 ---
 title: "Flexible User Roles"
-slug: flexible-user-roles
-collection: account-settings/teams-management
+slug: /account-settings/teams-management/flexible-user-roles
 pylon_id: 9375027c-bbec-437d-b155-ec3e6e08b2f2
 published_url: https://support.hackerrank.com/articles/3929488044-Flexible-User-Roles
 last_edited: "2026-03-05"

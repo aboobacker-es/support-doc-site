@@ -1,7 +1,6 @@
 ---
 title: "HackerRank Academy"
-slug: hackerrank-academy-video-tutorial
-collection: general-help/academy
+slug: /general-help/academy/hackerrank-academy-video-tutorial
 pylon_id: 4b84bd04-fd2e-4b8c-9cc4-ddb5351d0738
 published_url: https://support.hackerrank.com/articles/5297005851-HackerRank-Academy
 last_edited: "2024-12-20"

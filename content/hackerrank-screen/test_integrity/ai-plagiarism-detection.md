@@ -1,7 +1,6 @@
 ---
 title: "AI Plagiarism Detection"
-slug: ai-plagiarism-detection
-collection: hackerrank-screen/test_integrity
+slug: /hackerrank-screen/test_integrity/ai-plagiarism-detection
 pylon_id: 70376365-f469-4cf0-a771-b793966b8704
 published_url: https://support.hackerrank.com/articles/8000786908-AI-Plagiarism-Detection
 last_edited: "2026-05-27"

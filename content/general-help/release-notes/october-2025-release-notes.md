@@ -1,7 +1,6 @@
 ---
 title: "October 2025 Release Notes"
-slug: october-2025-release-notes
-collection: general-help/release-notes
+slug: /general-help/release-notes/october-2025-release-notes
 pylon_id: 2a1d7960-3154-4239-baf0-93bd5d873c89
 published_url: https://support.hackerrank.com/articles/8474307750-October-2025-Release-Notes
 last_edited: "2025-11-27"

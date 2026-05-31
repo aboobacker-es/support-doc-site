@@ -1,7 +1,6 @@
 ---
 title: "SkillUp Manager Experience"
-slug: skillup-manager-experience
-collection: skillup/hackerrank-skillup-1
+slug: /skillup/hackerrank-skillup-1/skillup-manager-experience
 pylon_id: 44398b72-3fa9-42b4-8025-955cab82d352
 published_url: https://support.hackerrank.com/articles/9473085715-SkillUp-Manager-Experience
 last_edited: "2026-04-19"

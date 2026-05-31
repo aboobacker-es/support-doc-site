@@ -1,7 +1,6 @@
 ---
 title: "Generating Code Stubs"
-slug: generating-code-stubs
-collection: library/creating-custom-questions/programming
+slug: /library/creating-custom-questions/programming/generating-code-stubs
 pylon_id: 77053a7c-9b9a-44c9-9fe1-5865a84c2861
 published_url: https://support.hackerrank.com/articles/9168425479-Generating-Code-Stubs
 last_edited: "2024-12-12"

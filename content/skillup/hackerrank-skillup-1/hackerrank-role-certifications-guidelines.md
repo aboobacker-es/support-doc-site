@@ -1,7 +1,6 @@
 ---
 title: "HackerRank Role Certifications Guidelines"
-slug: hackerrank-role-certifications-guidelines
-collection: skillup/hackerrank-skillup-1
+slug: /skillup/hackerrank-skillup-1/hackerrank-role-certifications-guidelines
 pylon_id: 6ca432ce-ece9-4a6a-a93e-63a1ffc2884b
 published_url: https://support.hackerrank.com/articles/9866041175-HackerRank-Role-Certifications-Guidelines
 last_edited: "2024-12-20"

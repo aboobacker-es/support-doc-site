@@ -1,7 +1,6 @@
 ---
 title: "Audit Logs in SkillUp"
-slug: audit-logs-in-skillup
-collection: skillup/hackerrank-skillup-1
+slug: /skillup/hackerrank-skillup-1/audit-logs-in-skillup
 pylon_id: 6e2be644-4fb7-4018-be9f-4874ce9b7885
 published_url: https://support.hackerrank.com/articles/2103106582-Audit-Logs-in-SkillUp
 last_edited: "2026-01-28"

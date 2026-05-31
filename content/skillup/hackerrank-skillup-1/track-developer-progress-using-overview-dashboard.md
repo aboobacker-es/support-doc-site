@@ -1,7 +1,6 @@
 ---
 title: "Track Developer Progress Using Overview Dashboard"
-slug: track-developer-progress-using-overview-dashboard
-collection: skillup/hackerrank-skillup-1
+slug: /skillup/hackerrank-skillup-1/track-developer-progress-using-overview-dashboard
 pylon_id: 9648c46c-5106-42c7-82cd-72a090294d03
 published_url: https://support.hackerrank.com/articles/5272020175-Track-Developer-Progress-Using-Overview-Dashboard
 last_edited: "2025-04-23"

@@ -1,7 +1,6 @@
 ---
 title: "Enabling Outcome Data and Public Link with Greenhouse"
-slug: enabling-outcome-data-and-public-link-with-greenhouse
-collection: integrations-1/applicant-tracking-systems/greenhouse
+slug: /integrations-1/applicant-tracking-systems/greenhouse/enabling-outcome-data-and-public-link-with-greenhouse
 pylon_id: 4a4f6174-29dd-48c1-bf81-813dd1c68a4e
 published_url: https://support.hackerrank.com/articles/3593554348-Enabling-Outcome-Data-and-Public-Link-with-Greenhouse
 last_edited: "2024-12-27"

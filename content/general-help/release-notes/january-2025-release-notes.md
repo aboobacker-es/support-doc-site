@@ -1,7 +1,6 @@
 ---
 title: "January 2025 Release Notes"
-slug: january-2025-release-notes
-collection: general-help/release-notes
+slug: /general-help/release-notes/january-2025-release-notes
 pylon_id: cf120325-373e-4d08-abac-905e4e6dea32
 published_url: https://support.hackerrank.com/articles/8074371720-January-2025-Release-Notes
 last_edited: "2025-10-08"

@@ -1,7 +1,6 @@
 ---
 title: "Create a Question"
-slug: creating-questions
-collection: library/hackerrank-questions-library
+slug: /library/hackerrank-questions-library/creating-questions
 pylon_id: 9ba862f2-fe27-4461-af4c-d2aebdc50f79
 published_url: https://support.hackerrank.com/articles/4894957291-Create-a-Question
 last_edited: "2026-03-30"

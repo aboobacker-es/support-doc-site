@@ -1,7 +1,6 @@
 ---
 title: "Support for Campus Events"
-slug: support-for-campus-events
-collection: general-help/campus/university-hiring
+slug: /general-help/campus/university-hiring/support-for-campus-events
 pylon_id: 4dbaff89-09d4-4379-955e-e723a5572efd
 published_url: https://support.hackerrank.com/articles/7220470055-Support-for-Campus-Events
 last_edited: "2025-06-30"

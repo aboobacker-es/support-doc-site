@@ -1,7 +1,6 @@
 ---
 title: "HackerRank AI Data Services FAQ"
-slug: hackerrank-ai-data-services-faq
-collection: general-help/hackerrank_ai_data_services
+slug: /general-help/hackerrank_ai_data_services/hackerrank-ai-data-services-faq
 pylon_id: 11375363-c489-4314-8205-c9de3cc6a10b
 published_url: https://support.hackerrank.com/articles/2212135172-HackerRank-AI-Data-Services-FAQ
 last_edited: "2025-05-11"

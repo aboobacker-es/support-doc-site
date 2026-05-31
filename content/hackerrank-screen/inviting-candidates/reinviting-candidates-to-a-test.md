@@ -1,7 +1,6 @@
 ---
 title: "Reinvite Candidates to a Test"
-slug: reinviting-candidates-to-a-test
-collection: hackerrank-screen/inviting-candidates
+slug: /hackerrank-screen/inviting-candidates/reinviting-candidates-to-a-test
 pylon_id: a7b4d9b2-f6b2-4b57-826b-30061839be41
 published_url: https://support.hackerrank.com/articles/1002936098-Reinvite-Candidates-to-a-Test
 last_edited: "2025-12-04"

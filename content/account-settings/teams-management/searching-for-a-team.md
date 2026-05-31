@@ -1,7 +1,6 @@
 ---
 title: "Searching for a Team"
-slug: searching-for-a-team
-collection: account-settings/teams-management
+slug: /account-settings/teams-management/searching-for-a-team
 pylon_id: 14645bd7-d943-4815-9a73-a989e2d9464f
 published_url: https://support.hackerrank.com/articles/8843222800-Searching-for-a-Team
 last_edited: "2024-12-12"

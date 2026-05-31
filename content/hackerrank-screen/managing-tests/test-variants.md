@@ -1,7 +1,6 @@
 ---
 title: "Create Test Variants"
-slug: test-variants
-collection: hackerrank-screen/managing-tests
+slug: /hackerrank-screen/managing-tests/test-variants
 pylon_id: 63522882-7ffe-47fa-8f40-57f96ef4c11d
 published_url: https://support.hackerrank.com/articles/7530103378-Create-Test-Variants
 last_edited: "2026-01-28"

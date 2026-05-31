@@ -1,7 +1,6 @@
 ---
 title: "Professional Hire"
-slug: professional-hire
-collection: general-help/evaluation-guides
+slug: /general-help/evaluation-guides/professional-hire
 pylon_id: ca55c9d5-87f5-4f7a-bbd2-486bd2ecde32
 published_url: https://support.hackerrank.com/articles/2625349560-Professional-Hire
 last_edited: "2024-12-20"

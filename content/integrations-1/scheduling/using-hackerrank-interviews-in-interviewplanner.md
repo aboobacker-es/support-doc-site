@@ -1,7 +1,6 @@
 ---
 title: "Using HackerRank Interviews in InterviewPlanner"
-slug: using-hackerrank-interviews-in-interviewplanner
-collection: integrations-1/scheduling
+slug: /integrations-1/scheduling/using-hackerrank-interviews-in-interviewplanner
 pylon_id: f5ee2cbc-125a-4e12-bfcf-f6f27829afc1
 published_url: https://support.hackerrank.com/articles/3675175160-Using-HackerRank-Interviews-in-InterviewPlanner
 last_edited: "2025-04-03"

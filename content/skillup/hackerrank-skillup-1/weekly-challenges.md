@@ -1,7 +1,6 @@
 ---
 title: "Weekly Challenges"
-slug: weekly-challenges
-collection: skillup/hackerrank-skillup-1
+slug: /skillup/hackerrank-skillup-1/weekly-challenges
 pylon_id: 0e1b2fde-b745-4cce-9046-1ba254cd688f
 published_url: https://support.hackerrank.com/articles/7992263058-Weekly-Challenges
 last_edited: "2026-01-28"

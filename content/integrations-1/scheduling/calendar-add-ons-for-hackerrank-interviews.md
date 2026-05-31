@@ -1,7 +1,6 @@
 ---
 title: "Calendar Add-ons for HackerRank Interviews"
-slug: calendar-add-ons-for-hackerrank-interviews
-collection: integrations-1/scheduling
+slug: /integrations-1/scheduling/calendar-add-ons-for-hackerrank-interviews
 pylon_id: 6e3c054c-6482-4f5c-9d89-6461b63545d6
 published_url: https://support.hackerrank.com/articles/3450462093-Calendar-Add-ons-for-HackerRank-Interviews
 last_edited: "2024-12-12"

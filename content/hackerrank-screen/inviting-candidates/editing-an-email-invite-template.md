@@ -1,7 +1,6 @@
 ---
 title: "Editing an Email Template"
-slug: editing-an-email-invite-template
-collection: hackerrank-screen/inviting-candidates
+slug: /hackerrank-screen/inviting-candidates/editing-an-email-invite-template
 pylon_id: 4cde3681-b6d4-483b-936e-5e3032c6ec57
 published_url: https://support.hackerrank.com/articles/7775986938-Editing-an-Email-Template
 last_edited: "2026-05-27"

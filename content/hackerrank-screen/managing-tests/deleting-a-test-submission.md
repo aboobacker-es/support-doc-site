@@ -1,7 +1,6 @@
 ---
 title: "Delete a Test Submission"
-slug: deleting-a-test-submission
-collection: hackerrank-screen/managing-tests
+slug: /hackerrank-screen/managing-tests/deleting-a-test-submission
 pylon_id: 95a925b2-1d7e-4fae-a5f8-b4716932528a
 published_url: https://support.hackerrank.com/articles/9556988565-Delete-a-Test-Submission
 last_edited: "2025-09-03"

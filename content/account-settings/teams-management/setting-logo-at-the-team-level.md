@@ -1,7 +1,6 @@
 ---
 title: "Set Team Logo and Sender Name"
-slug: setting-logo-at-the-team-level
-collection: account-settings/teams-management
+slug: /account-settings/teams-management/setting-logo-at-the-team-level
 pylon_id: 07654043-099c-4054-8c13-65176d8512cb
 published_url: https://support.hackerrank.com/articles/5319929416-Set-Team-Logo-and-Sender-Name
 last_edited: "2026-03-11"

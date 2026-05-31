@@ -1,7 +1,6 @@
 ---
 title: "View Test Question Insights"
-slug: question-insights
-collection: library/hackerrank-questions-library
+slug: /library/hackerrank-questions-library/question-insights
 pylon_id: f2a21f12-edf6-4cf2-9620-850bd5cdbea9
 published_url: https://support.hackerrank.com/articles/3255724462-View-Test-Question-Insights
 last_edited: "2026-01-27"

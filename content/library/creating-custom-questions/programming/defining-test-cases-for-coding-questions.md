@@ -1,7 +1,6 @@
 ---
 title: "Defining Test Cases for Coding Questions"
-slug: defining-test-cases-for-coding-questions
-collection: library/creating-custom-questions/programming
+slug: /library/creating-custom-questions/programming/defining-test-cases-for-coding-questions
 pylon_id: 6245cc65-bab9-4d87-8eff-9bf12bd27bb3
 published_url: https://support.hackerrank.com/articles/8626818013-Defining-Test-Cases-for-Coding-Questions
 last_edited: "2026-03-10"

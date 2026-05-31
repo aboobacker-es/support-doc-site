@@ -1,7 +1,6 @@
 ---
 title: "Sentence Completion Questions"
-slug: sentence-completion-questions
-collection: library/question-types/general-1
+slug: /library/question-types/general-1/sentence-completion-questions
 pylon_id: 8397b76f-cecc-4ab0-8d89-c21c686b695d
 published_url: https://support.hackerrank.com/articles/5866154232-Sentence-Completion-Questions
 last_edited: "2026-04-06"

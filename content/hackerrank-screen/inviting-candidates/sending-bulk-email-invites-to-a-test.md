@@ -1,7 +1,6 @@
 ---
 title: "Send Bulk Email Invites"
-slug: sending-bulk-email-invites-to-a-test
-collection: hackerrank-screen/inviting-candidates
+slug: /hackerrank-screen/inviting-candidates/sending-bulk-email-invites-to-a-test
 pylon_id: 5a9f0b30-5761-4b93-b374-09919000e7bd
 published_url: https://support.hackerrank.com/articles/7127221409-Send-Bulk-Email-Invites
 last_edited: "2025-09-17"

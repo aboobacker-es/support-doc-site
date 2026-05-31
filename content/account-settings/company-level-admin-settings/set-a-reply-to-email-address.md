@@ -1,7 +1,6 @@
 ---
 title: "Set a Reply-to Email Address"
-slug: set-a-reply-to-email-address
-collection: account-settings/company-level-admin-settings
+slug: /account-settings/company-level-admin-settings/set-a-reply-to-email-address
 pylon_id: 0214da88-e6ca-45ab-92c4-9a8189f64b29
 published_url: https://support.hackerrank.com/articles/1231466817-Set-a-Reply-to-Email-Address
 last_edited: "2025-05-02"

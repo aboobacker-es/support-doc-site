@@ -1,7 +1,6 @@
 ---
 title: "Evaluate Integrity Signals for Flagged Candidates at Scale in Proctor Mode"
-slug: interpreting-integrity-signals-at-scale-in-proctor-mode-tests
-collection: hackerrank-screen/test_integrity
+slug: /hackerrank-screen/test_integrity/interpreting-integrity-signals-at-scale-in-proctor-mode-tests
 pylon_id: 43c867ca-f1e2-403a-a649-a8f0cf1f955a
 published_url: https://support.hackerrank.com/articles/9728791902-Evaluate-Integrity-Signals-for-Flagged-Candidates-at-Scale-in-Proctor-Mode
 last_edited: "2026-01-28"

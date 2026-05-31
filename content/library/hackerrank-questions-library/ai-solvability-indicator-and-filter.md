@@ -1,7 +1,6 @@
 ---
 title: "AI Solvability Indicator and Filter"
-slug: ai-solvability-indicator-and-filter
-collection: library/hackerrank-questions-library
+slug: /library/hackerrank-questions-library/ai-solvability-indicator-and-filter
 pylon_id: 28f6c7e9-8fb1-4fe4-ae87-d71765814384
 published_url: https://support.hackerrank.com/articles/7394210877-AI-Solvability-Indicator-and-Filter
 last_edited: "2025-09-25"

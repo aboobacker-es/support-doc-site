@@ -1,7 +1,6 @@
 ---
 title: "Review Question Quality"
-slug: review-question-quality
-collection: library/hackerrank-questions-library
+slug: /library/hackerrank-questions-library/review-question-quality
 pylon_id: 132fa00f-0233-40be-98f7-5b39d0b88c2b
 published_url: https://support.hackerrank.com/articles/4691012356-Review-Question-Quality
 last_edited: "2025-05-12"

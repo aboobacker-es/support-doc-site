@@ -1,7 +1,6 @@
 ---
 title: "Create Custom Certifications"
-slug: create-custom-certifications
-collection: skillup/hackerrank-skillup-1
+slug: /skillup/hackerrank-skillup-1/create-custom-certifications
 pylon_id: 514a532d-c8ac-463e-8682-4bc710ad8f2a
 published_url: https://support.hackerrank.com/articles/9232804257-Create-Custom-Certifications
 last_edited: "2026-04-20"

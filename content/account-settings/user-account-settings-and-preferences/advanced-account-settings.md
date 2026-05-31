@@ -1,7 +1,6 @@
 ---
 title: "Advanced Account Settings"
-slug: advanced-account-settings
-collection: account-settings/user-account-settings-and-preferences
+slug: /account-settings/user-account-settings-and-preferences/advanced-account-settings
 pylon_id: dc6b2f84-536c-4718-b3d9-0287057509d9
 published_url: https://support.hackerrank.com/articles/9526242649-Advanced-Account-Settings
 last_edited: "2024-12-26"

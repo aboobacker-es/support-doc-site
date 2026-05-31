@@ -1,7 +1,6 @@
 ---
 title: "HTML/CSS/JavaScript Questions"
-slug: html/css/javascript-questions
-collection: library/question-types/programming-1
+slug: /library/question-types/programming-1/html-css-javascript-questions
 pylon_id: bfd40a5d-c508-4567-bc35-ba85aab62f35
 published_url: https://support.hackerrank.com/articles/7771245202-HTML/CSS/JavaScript-Questions
 last_edited: "2026-03-26"

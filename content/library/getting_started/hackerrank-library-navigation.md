@@ -1,7 +1,6 @@
 ---
 title: "Introduction to HackerRank Library"
-slug: hackerrank-library-navigation
-collection: library/getting_started
+slug: /library/getting_started/hackerrank-library-navigation
 pylon_id: 9be5d44e-f75b-401f-9905-e4f5037cbdde
 published_url: https://support.hackerrank.com/articles/5664166353-Introduction-to-HackerRank-Library
 last_edited: "2026-03-30"

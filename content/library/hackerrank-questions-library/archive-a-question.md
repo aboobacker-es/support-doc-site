@@ -1,7 +1,6 @@
 ---
 title: "Archive a Question"
-slug: archive-a-question
-collection: library/hackerrank-questions-library
+slug: /library/hackerrank-questions-library/archive-a-question
 pylon_id: 0f90541d-a5c0-42d3-9e16-4c361c6d367b
 published_url: https://support.hackerrank.com/articles/2040951869-Archive-a-Question
 last_edited: "2025-09-25"

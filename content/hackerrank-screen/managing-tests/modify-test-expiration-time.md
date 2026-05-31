@@ -1,7 +1,6 @@
 ---
 title: "Modify Test Expiration Time"
-slug: modify-test-expiration-time
-collection: hackerrank-screen/managing-tests
+slug: /hackerrank-screen/managing-tests/modify-test-expiration-time
 pylon_id: b76e9cb5-7696-4e2d-81e2-7b451eee6632
 published_url: https://support.hackerrank.com/articles/2979262079-Modify-Test-Expiration-Time
 last_edited: "2026-03-10"

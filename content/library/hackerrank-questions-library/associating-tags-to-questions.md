@@ -1,7 +1,6 @@
 ---
 title: "Associating Tags to Questions"
-slug: associating-tags-to-questions
-collection: library/hackerrank-questions-library
+slug: /library/hackerrank-questions-library/associating-tags-to-questions
 pylon_id: 328ce3de-84dd-44cc-8985-d57e02fc9d4e
 published_url: https://support.hackerrank.com/articles/9412060538-Associating-Tags-to-Questions
 last_edited: "2026-03-30"

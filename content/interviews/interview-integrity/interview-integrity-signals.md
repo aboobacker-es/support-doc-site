@@ -1,7 +1,6 @@
 ---
 title: "Interview Integrity Signals"
-slug: interview-integrity-signals
-collection: interviews/interview-integrity
+slug: /interviews/interview-integrity/interview-integrity-signals
 pylon_id: 2db64c3c-2898-449d-b4c8-efa2eb2b0cf7
 published_url: https://support.hackerrank.com/articles/5161582600-Interview-Integrity-Signals
 last_edited: "2026-04-22"

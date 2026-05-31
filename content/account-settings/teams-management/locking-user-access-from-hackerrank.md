@@ -1,7 +1,6 @@
 ---
 title: "Lock User Access"
-slug: locking-user-access-from-hackerrank
-collection: account-settings/teams-management
+slug: /account-settings/teams-management/locking-user-access-from-hackerrank
 pylon_id: 40ef79f8-25a6-4bef-acd2-e10fa49232c4
 published_url: https://support.hackerrank.com/articles/6534774997-Lock-User-Access
 last_edited: "2026-04-13"

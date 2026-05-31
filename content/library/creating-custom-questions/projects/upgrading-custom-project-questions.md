@@ -1,7 +1,6 @@
 ---
 title: "Upgrading Custom Project Questions"
-slug: upgrading-custom-project-questions
-collection: library/creating-custom-questions/projects
+slug: /library/creating-custom-questions/projects/upgrading-custom-project-questions
 pylon_id: 9b79979a-3b68-4944-afd9-afd0eae91d3d
 published_url: https://support.hackerrank.com/articles/7922341412-Upgrading-Custom-Project-Questions
 last_edited: "2024-12-15"

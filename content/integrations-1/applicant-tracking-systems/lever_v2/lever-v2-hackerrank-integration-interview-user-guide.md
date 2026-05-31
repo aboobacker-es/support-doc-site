@@ -1,7 +1,6 @@
 ---
 title: "Lever V2 - HackerRank Integration Interview User Guide"
-slug: lever-v2-hackerrank-integration-interview-user-guide
-collection: integrations-1/applicant-tracking-systems/lever_v2
+slug: /integrations-1/applicant-tracking-systems/lever_v2/lever-v2-hackerrank-integration-interview-user-guide
 pylon_id: 79697a88-c7e1-4e53-92f6-fd972fb79937
 published_url: https://support.hackerrank.com/articles/5269579148-Lever-V2---HackerRank-Integration-Interview-User-Guide
 last_edited: "2026-03-12"

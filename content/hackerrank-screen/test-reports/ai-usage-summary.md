@@ -1,7 +1,6 @@
 ---
 title: "AI Fluency Evaluation"
-slug: ai-usage-summary
-collection: hackerrank-screen/test-reports
+slug: /hackerrank-screen/test-reports/ai-usage-summary
 pylon_id: 5075d153-4ed1-4bf5-bea2-8fbdd0a4643f
 published_url: https://support.hackerrank.com/articles/1773201418-AI-Fluency-Evaluation
 last_edited: "2026-02-11"

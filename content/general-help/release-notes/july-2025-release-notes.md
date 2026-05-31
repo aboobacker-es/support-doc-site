@@ -1,7 +1,6 @@
 ---
 title: "July 2025 Release Notes"
-slug: july-2025-release-notes
-collection: general-help/release-notes
+slug: /general-help/release-notes/july-2025-release-notes
 pylon_id: 55e4df9b-91e4-44ea-8f79-578679937e09
 published_url: https://support.hackerrank.com/articles/3121307537-July-2025-Release-Notes
 last_edited: "2025-09-19"

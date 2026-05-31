@@ -1,7 +1,6 @@
 ---
 title: "HackerRank Maintenance Window Notification"
-slug: hackerrank-maintenance-window-notification
-collection: general-help/important-notifications
+slug: /general-help/important-notifications/hackerrank-maintenance-window-notification
 pylon_id: c4c407e2-e6b2-4b4c-9536-b098bb121bb6
 published_url: https://support.hackerrank.com/articles/2086891729-HackerRank-Maintenance-Window-Notification
 last_edited: "2026-03-18"
