@@ -1,1 +1,9 @@
-{ "label": "Account Settings", "position": 4, "link": { "type": "generated-index", "title": "Account Settings", "description": "Manage users, roles, teams, and company-level configuration." } }
+{
+  "label": "Settings",
+  "position": 7,
+  "link": {
+    "type": "generated-index",
+    "title": "Settings",
+    "description": ""
+  }
+}

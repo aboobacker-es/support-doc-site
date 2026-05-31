@@ -1,1 +1,9 @@
-{ "label": "Screen", "position": 1, "link": { "type": "generated-index", "title": "HackerRank Screen", "description": "Create and manage assessments, invite candidates, and review results." } }
+{
+  "label": "Screen",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "title": "Screen",
+    "description": ""
+  }
+}

@@ -1,1 +1,9 @@
-{ "label": "Chakra AI", "position": 8, "link": { "type": "generated-index", "title": "Chakra AI", "description": "AI-powered interview tooling and documentation guides." } }
+{
+  "label": "Chakra",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "title": "Chakra",
+    "description": ""
+  }
+}

@@ -1,1 +1,9 @@
-{ "label": "SkillUp", "position": 7, "link": { "type": "generated-index", "title": "SkillUp", "description": "Help developers grow with structured learning paths and assessments." } }
+{
+  "label": "SkillUp",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "title": "SkillUp",
+    "description": ""
+  }
+}
