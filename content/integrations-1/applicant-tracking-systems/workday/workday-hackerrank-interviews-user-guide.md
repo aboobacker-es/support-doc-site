@@ -11,7 +11,7 @@ HackerRank Interviews integrates with Workday to schedule Interviews to assess c
 
 This article describes the integration steps to schedule HackerRank Interviews with candidates from Workday, publish results from HackerRank Interviews to Workday, and Frequently Asked Questions[.](<https://support.hackerrank.com/hc/en-us/articles/24539497321107/preview/eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MjQ1Mzk0OTczMjExMDcsInJldmlzaW9uX2lkIjoiMDFISzdTMzA2SEpIRk1TSlRYRTAxVDJCWFgiLCJleHAiOjE3MDQyOTMwNjl9.0Aw9V_F9vvQT-_Mi7_g3pCTGyFdLS3U61EZLi31ETv4#3>)
 
-# Prerequisites
+## Prerequisites
 
 **In HackerRank for Work**| **In Workday**  
 ---|---  
@@ -27,7 +27,7 @@ This article describes the integration steps to schedule HackerRank Interviews w
 
   
   
-# Schedule Interviews on Workday
+## Schedule Interviews on Workday
 
   1. **Schedule the Interview** :
 
@@ -85,7 +85,7 @@ This article describes the integration steps to schedule HackerRank Interviews w
 ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046139357-?Expires=253370764800&Signature=aXV9VQprblQU7nZUfx8qifZ6fqusTRUyLHZM1S5kPwBktEe8HKAsXMQw6HGXI-~x7nYchtXjtFpXgKm6fqw6UEmYDhTOA5WrJBhaJk30f9pl7IRvMoneFobhrVPJbKeN6-4PjEw66j9oKX3a-bmt1ycrovRv-Z8o6qF1J7wola1UkY-pJ6Du2jTBf8FSfUMR8e-IzaEvIqolC9rXtHDMKtyeoS-HLdNPwjFHjB6jTaH5tc56UnWBH6rJ7ywGwGZ9UwMoZTuSnyNR-xroxX5EGEGMOMxcYE6EOyJDvG3RBWzSLNCaw3CgACWvmC58UYBVF5wTmZgc3FbSNPT4beyVMA__&Key-Pair-Id=K3NV4LZ47N8M46)
      * The Interview is scheduled for the candidate.
 
-# View the Interview Scorecard in Workday
+## View the Interview Scorecard in Workday
 
 After an interview ends, you can sync the interview scorecard from HackerRank to Workday and review the feedback in Workday.
 

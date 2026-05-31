@@ -9,7 +9,7 @@ is_published: true
 
 You can end a HackerRank interview at any time. You can choose to end the interview only for yourself or for all participants. If you end it only for yourself, the interview continues as long as other interviewers are present.
 
-# Ending an Interview
+## Ending an Interview
 
 To end an interview: 
 

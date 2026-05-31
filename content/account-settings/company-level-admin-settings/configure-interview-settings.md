@@ -9,11 +9,11 @@ is_published: true
 
 The Centralized**Interview Settings** page allows Company Admins to define and manage default settings for all interviews in the organization. 
 
-# Prerequisite
+## Prerequisite
 
 You must have **Admin** access to configure centralized interview settings..
 
-# Accessing centralized interview settings
+## Accessing centralized interview settings
 
 To access centralized interview settings:
 
@@ -25,7 +25,7 @@ To access centralized interview settings:
 
   4. Go to **Interview Settings** under the **Company** section.
 
-# Available interview settings
+## Available interview settings
 
 You can configure the following options in the **Interview Settings** section:
 

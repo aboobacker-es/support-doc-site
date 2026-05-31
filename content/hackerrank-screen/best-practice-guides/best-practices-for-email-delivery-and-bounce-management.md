@@ -9,7 +9,7 @@ is_published: true
 
 Reliable email delivery is essential for effective candidate communication and uninterrupted hiring workflows. This guide outlines the differences between soft and hard bounces and provides best practices to improve email deliverability.
 
-# Understanding email bounces
+## Understanding email bounces
 
 An email bounce occurs when a message fails to reach the recipient. Bounces are categorized as either soft or hard depending on whether the failure is temporary or permanent.
 
@@ -49,7 +49,7 @@ Common causes of hard bounces include:
 
 **Note** : Quarantined emails are not categorized as bounces.
 
-# Best practices to improve email deliverability
+## Best practices to improve email deliverability
 
 Follow these best practices to improve email deliverability:
 

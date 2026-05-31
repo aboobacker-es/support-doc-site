@@ -9,7 +9,7 @@ is_published: true
 
 This guide outlines how to use the Lever V2 - HackerRank integration to send HackerRank test invitations and review test results directly in Lever V2.
 
-# Prerequisites
+## Prerequisites
 
 Before you begin, ensure you meet the following requirements:
 
@@ -19,7 +19,7 @@ Before you begin, ensure you meet the following requirements:
 
   * The HackerRank integration with Lever V2 is complete. For more information, see [📄 Lever V2 - HackerRank Integration Guide](</articles/5647291926>).
 
-# Inviting candidates to a HackerRank test
+## Inviting candidates to a HackerRank test
 
 To invite candidates to a HackerRank test:
 
@@ -60,7 +60,7 @@ To invite candidates to a HackerRank test:
 
 Lever sends test invitations to the candidate. Lever displays the test invite status on the candidate profile and provides an option to send a reminder email.
 
-# Viewing test results in Lever
+## Viewing test results in Lever
 
 After a candidate completes a HackerRank test, Lever displays the results on the candidate profile.
 

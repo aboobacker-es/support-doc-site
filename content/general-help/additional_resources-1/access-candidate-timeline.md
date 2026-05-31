@@ -9,7 +9,7 @@ is_published: true
 
 The candidate timeline provides a chronological view of a candidate’s activity across the platform, including invites, attempts, and cancellations.
 
-# Accessing candidate timeline
+## Accessing candidate timeline
 
 To access a candidate’s timeline:
 

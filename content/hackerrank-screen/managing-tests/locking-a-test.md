@@ -21,11 +21,11 @@ When a test is locked, you cannot:
 
 **Note:** You cannot delete a locked test, but you can archive it.
 
-# Prerequisites
+## Prerequisites
 
 You must have an existing test in your HackerRank account.
 
-# Locking a test
+## Locking a test
 
 To lock a test:
 
@@ -44,7 +44,7 @@ To lock a test:
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1758779601537-image.png?Expires=253370764800&Signature=kFzkIeLLvqsATL97TsgPZKhBAkggcpsEcjYBQjwZlNTQpLOy9rLtAMyrqcEHoHJTCKz5CvvKyHfqFXHPMJLcXW0cySovnlO8ir~BUnHCe8VKwkcpYm7Mq7u29y18kTsK4hkgAcNVxJ0AqgiBTxRED9hRTghgu4UQilXOERDGtIjo-ETrPOt2b20rMLnLthfh~m0KKg9wuvlm8aI7gU3RZ0kjEWsKxYAZZDD~VN6911NZ1LzkGKUkSMtw6SVPuujud~q4cIO8Ke-ZUMD0VKhVP5FSeWmQPY9FTpGGVZIrAC83If1tznQwM34plFQkzyInIQjFHHTwOnXJT1p90lwK~Q__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-# Unlocking a test
+## Unlocking a test
 
 **Note:** To make changes to a locked test, you must first unlock it.
 

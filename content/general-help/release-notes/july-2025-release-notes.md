@@ -17,7 +17,7 @@ Finally, Engage gives you the tools to stand out in a noisy market: host AI-nati
 
 These updates are now live! Watch our [_webinar recording_](<https://hackerrank.northpass.com/c/3dd2b4faa80a300a9a909cf505d21a7e370038df>) to learn more.
 
-# **Screen**
+## **Screen**
 
 ## **Test Variants  ** 
 
@@ -61,7 +61,7 @@ The default test invite template now includes clearer instructions, an improved 
 
 ![update.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1753881142226-update.png?Expires=253370764800&Signature=Uc7HvNI7Ebe~tBYOjipFMSEmmFAurR5V6p7Zt3WBeeug5iH2SuEX9TYFef6xR~EQAKtSTYmbavmfN72WvOCP7qvSyY0uonNwM0vyCjo7fP~qcjbesc-rIPJh23GOjaTiqv57z~f5~PDjCE5GOhnmUivQ3gru8mhUhzKnQ-licXozIE0--mbUCD8uvpmLl04HoVOeM6Q-ccxhihMZkl~pBZj31RdVXO4LzE26xaj~jQuKQzG8KyVcnVJzC4KdyknxvvH8XrHyEYcOwOx11y2-ZijyCtiXyszl6P62yJ9i5jHR1yljp3A6inEXdG-5D06eBPXpTUupZMjlAICSgIDmog__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-# **Screen Features Available in the AI Add-on Package**
+## **Screen Features Available in the AI Add-on Package**
 
 The AI Add-on package includes advanced features that help you assess next-gen skills and maintain interview integrity in an AI-native world. It’s built to solve emerging challenges with the right level of depth and control. For more details, contact your account manager or email [_support@hackerrank.com_](<mailto:support@hackerrank.com>).
 
@@ -139,7 +139,7 @@ With this release, Proctor Mode is now generally available within the AI add-on 
 
 For more information, see [📄 Proctor Mode](</articles/5663779659>).
 
-# **Skills Platform**
+## **Skills Platform**
 
 ## **iOS Assessments  **
 
@@ -214,7 +214,7 @@ You are required to customize a class named `DataEncryption`, having the followi
 
   
   
-# **Developer Experience**
+## **Developer Experience**
 
 ## **New Candidate Site - Projects and Sentence Completion Questions**
 
@@ -305,7 +305,7 @@ Flutter| Flutter SDK: 3.3.10Node: 18.13.0Dart: 2.18.6DevTools: 2.15.0| Flutter S
 React Native| Node: 18.20.0npm: 10.5.0yarn: 1.22.19| Node: 22.16.0npm: 11.4.1yarn: 1.22.22  
 Custom| Ubuntu 22.04| Ubuntu 24.04  
   
-# **Interview**
+## **Interview**
 
 ## **Improvements to Whiteboard Experience**
 
@@ -351,7 +351,7 @@ A new real-time status widget gives you live visibility into candidate focus, sc
 
 For more information, see [📄 Interview Integrity Signals](</articles/5161582600>).
 
-# **Interview Features Available in the AI Add-on Package**
+## **Interview Features Available in the AI Add-on Package**
 
 The AI Add-on package includes advanced features that help you assess next-gen skills and maintain interview integrity in an AI-native world. It’s built to solve emerging challenges with the right level of depth and control. For more details, contact your account manager or email [support@hackerrank.com](<mailto:support@hackerrank.com>).
 
@@ -401,7 +401,7 @@ AI Assistant supports Frontend, Backend, Mobile, Full-Stack, and Code Repo quest
 
 For more information, see [📄 AI-Assisted Interviews](</articles/5821380141>).
 
-# **SkillUp**
+## **SkillUp**
 
 ## **New Learn Tracks for GenAI Skills**
 
@@ -459,7 +459,7 @@ You can now execute terminal commands and Jupyter notebooks directly within Skil
 
 ![Terminal.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1753200612869-Terminal.gif?Expires=253370764800&Signature=nvd6~q7P5Q2ujNIbWV7YQh6qjw7-Ra3847BTkAt3~30nS30HdAw1LCTCPkCnq2mqP~T7fNIClC~kX1l2U6CACwy28RWAPIoI~TkW-aiWdsKJGmWawhO7qbMZySDcQRFtXsPwaxwmmkrroV8MrNoFvloi7R8-eAqvZ543B5TtqcsFzR9kPouQEUqnnc9QKKqdn7N0lSiYqEiNRjKt7nCZOtGTisYwh2Z3s538BADy3KcqR72jtxTC1huy6zTVbFHcYgFPnUTEiYkNKWY4JOmabt5UIqgjmLhfcKtDeUTE7RyKBIXO1x0DrV~0qqKqAL2lU8l8qgx3f0uZhEKl8jZ7LQ__&Key-Pair-Id=K3NV4LZ47N8M46)![Jupyter.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1753200716674-Jupyter.gif?Expires=253370764800&Signature=GHMMtkeYJ5zf-Xgfz4swUFSuWv2HXNJjooBybHvyIhVXTwNkIYO8iPfeBwMpMG-fFrUQ4OTaB79BmrTEiBj5MJGqRn89F1nDrKpWqMpQeFhFar~h9WjMHRAYBjcnhBJWNwTmKXGu4-8h7XYw2pFHPW7rNNNuP1wnHHVuBBjCmLy6BNLVknfxuB5r00RO4MecjzTQ9S7NKpmpUZ9njmh7qJ4Bdg4itBlmJCbSE3fmk468tESIs0KQ9ooT8UVcPx5kJwTnvdFnErA5EV7Aamp~frnS~HmczFxBJtbAI7UJZhlfn51aImRczizpbGPT8udMdgldCJTmUn1WpfHk0uJBxw__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-# **Engage**
+## **Engage**
 
 ## **Generate Banner Images using AI**
 

@@ -17,7 +17,7 @@ Candidate Performance Benchmark helps you understand how candidates perform comp
 
 Benchmark supports both Library and Custom questions. It is updated periodically (yearly) to maintain stability while incorporating new results.
 
-# Key benefits
+## Key benefits
 
 Candidate Benchmark offers the following benefits:
 
@@ -27,7 +27,7 @@ Candidate Benchmark offers the following benefits:
 
   * **Data-driven decisions:** Make informed hiring choices by combining relative performance insights with traditional scoring
 
-# Viewing Benchmark data
+## Viewing Benchmark data
 
 To view Benchmark data:
 

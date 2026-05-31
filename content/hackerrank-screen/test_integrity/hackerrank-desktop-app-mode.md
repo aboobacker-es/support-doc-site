@@ -25,7 +25,7 @@ When you enable Desktop App Mode, the following integrity controls apply:
 
 Desktop App Mode includes all features available in [📄 Proctor Mode](</articles/5663779659>)and provides the highest level of integrity controls for administering tests on the HackerRank platform.
 
-# Enable HackerRank Desktop App Mode
+## Enable HackerRank Desktop App Mode
 
 HackerRank Desktop App Mode builds on the features of **Proctor Mode**. To use it in tests, first enable Proctor Mode at the **company level** , and then enable Desktop App Mode at the **test level**.
 
@@ -59,7 +59,7 @@ To enable HackerRank Desktop App Mode:
 
 **Note:** When HackerRank Desktop App Mode is enabled, **AI Plagiarism Detection** and **Image Analysis** are enabled by default.
 
-# How HackerRank Desktop App Mode works
+## How HackerRank Desktop App Mode works
 
 Desktop App Mode enforces integrity at every stage of the test session.
 

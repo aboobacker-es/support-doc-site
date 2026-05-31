@@ -9,7 +9,7 @@ is_published: true
 
 This article provides best practices for running group assessments in HackerRank Desktop App Mode, where multiple candidates take the assessment simultaneously at a shared physical location. Following these guidelines helps ensure a smooth, stable, and fair assessment experience for all candidates.
 
-# Prepare candidate systems in advance
+## Prepare candidate systems in advance
 
 Verify that each candidate system meets the minimum technical requirements before the assessment begins.
 
@@ -23,7 +23,7 @@ Verify that each candidate system meets the minimum technical requirements befor
 
   * **Processor** : Intel or Apple silicon (M1 or later)
 
-# Ensure a stable internet connection
+## Ensure a stable internet connection
 
 A reliable internet connection is critical when multiple candidates take an assessment simultaneously.
 
@@ -41,7 +41,7 @@ For example, if 100 candidates connect simultaneously, the required bandwidth is
 
 **Note:** Avoid using VPNs, proxies, or restricted corporate networks. These networks can interfere with test connectivity.
 
-# Set up webcams
+## Set up webcams
 
 Prepare webcams before the assessment starts to meet HackerRank Desktop App Mode requirements.
 
@@ -51,7 +51,7 @@ Prepare webcams before the assessment starts to meet HackerRank Desktop App Mode
 
   * Uninstall or disable any virtual camera software to prevent conflicts
 
-# Set up lighting
+## Set up lighting
 
 Proper lighting ensures clear webcam visibility throughout the assessment.
 
@@ -61,7 +61,7 @@ Proper lighting ensures clear webcam visibility throughout the assessment.
 
   * Avoid strong backlighting, such as bright windows or light sources behind the candidate
 
-# Prepare the physical environment
+## Prepare the physical environment
 
 A controlled physical environment helps minimize distractions and maintain assessment integrity.
 
@@ -71,7 +71,7 @@ A controlled physical environment helps minimize distractions and maintain asses
 
   * Ensure adequate spacing between candidates to maintain focus and assessment integrity
 
-# Complete pre-test setup
+## Complete pre-test setup
 
 Complete the following steps before the assessment begins:
 
@@ -99,7 +99,7 @@ Complete the following steps before the assessment begins:
 
   * If candidates take the test using a laptop, connect it to a power source to prevent interruptions.
 
-# Troubleshooting
+## Troubleshooting
 
 If the test window appears blank or unresponsive, ask candidates to refresh the screen:
 

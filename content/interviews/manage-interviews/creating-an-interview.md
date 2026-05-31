@@ -9,7 +9,7 @@ is_published: true
 
 As a recruiter, you can schedule an interview between candidates and interviewers. You can start an interview immediately or schedule an interview at a convenient time.
 
-# Starting an interview immediately
+## Starting an interview immediately
 
 to start an interview immediately:
 
@@ -35,7 +35,7 @@ The candidate can use the link to join the interview immediately.
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2Ff643bfc0-69cd-47d3-8336-944c4897bf80-1776770199682-image.png-94cead2d-1d1b-4bf0-9783-ed3fed7ca8c2?Expires=253370764800&Signature=hfiwdPFV6n22zcbrii5JHqvm4pDPY7Wc20ZLhhZTlTBDKCAr7SRtQW6nkl~DNgE-npZ7Hq45qIJdf8xTHUJLRRF2TitfAT~qIF1-Vi~yNqjppEkgsEkgzN-taHnNO-3bBHFz9xgMGPelmCuvSesHvM-8W5Bqq6NqkrZ0VLYOmJcb5Z9PCmzNPPkdsTpd6oKQ7KiBXhClW2YCws-aTHGkUmrHi7CB~HtVrhmbE0S2lm~ZlpBAAnOrIIp9XVUS0B-Z9Is9JsNcu5UXniGMPIB91IP1R0q5D-xgr03KzytOMQ3RGqvL6EFe-30WIuzHeu-sqXniXGJCE5zEVpQUV272Bw__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-# Scheduling an interview
+## Scheduling an interview
 
 To schedule an interview:
 
@@ -104,7 +104,7 @@ HackerRank sends email notifications to candidates and interviewers. The notific
 
 ![sample int.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1769544304214-sampleint.png?Expires=253370764800&Signature=PrF1Rww1caDrdcErt0OkSjOKlTZHyI0Eyv7fT6H1JL-bR-mh6Hqq7Ev3iNlrDBXX2QB6Sc-AcOuFytOZLVBmw4Pbzk3K5LhsRkQ5jbTOS091JHFJxq53~lR2UMOk8jED21Idv0sz7zxDKfQzzK2F~5UgDj9Q4Lolqu2dD8P6KKygBB4qtqiF9e2z966DAPT4DhnLEZGlUw1D8FvHH4GIFdOR1FLseuDmy7zwOFBJbuq00R77-GJNblHwqG1Fwd9d0UGM2ZJsfO1pfmWzeQ4iafT99pYWhTVrRuQDaQMXrJQT4W~kyLAMmr3u8sgpcq8G8A9tI299nT0u-WdtQkDMLA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-# Search and filter Interviews
+## Search and filter Interviews
 
 To search and filter Interviews: 
 
@@ -131,7 +131,7 @@ To search and filter Interviews:
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776770779933-image.png?Expires=253370764800&Signature=cHB7mWtZWz~zQCEudWHlXPaAfNQz8lsLqh0zZ0pY1KyoSVyxeFI~b-Yta3iOZSuefdlfTRm4gFFlO09463KQp0k9Z-y-gso8SZ2xyEJg8YXtDyL~SIe5brpbOU8d3D-m6qYQMspF3A7ga5EQhJdh5HQJdhO9keIICJJxZQDWDvgV3aKhbKAtd~QqEaTutYqkvY8Eur3xs6JHFRce94V1o32GyW8EpXOpsZOay1uNm5XjyIZgyZmx~pRnXkSM6wvxHYyPVq95XMwIeqqyH303bBnoCz-6qZJHqXRQteFt505ZjgChWw35qgGPcWEQsWHn-KQsiAs-0u4Vzm0yZVQ1cQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-# Join as an Interviewer
+## Join as an Interviewer
 
 Click the interview link or click **Start** next to the interview to open the interview platform.
 
@@ -153,7 +153,7 @@ After setup, when the candidate enters the interview lobby, you hear a notificat
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1758781330428-image.png?Expires=253370764800&Signature=srx2MyP~neT0S70apdBeqK9nA4LiXEJhj4Zi8HKSZFeEIJXSyWSnJ4oscrzLp0NxHWBS-x90RwDtlSjKonMHCbhKRabnqmb1E1DruJF2gVdto~oxpYz-7-EIlXasbJeZvelf9htZcR4oY919G~IDzoUpvhdn9bop1kbPC20c2TaSOp1HU9DQRSWt1AD9bn1WoJhYZgHjlRQY5qADiF2xiLsU3bEho1XEcpZG7JrMH1SZlAUJH64wfs44bm30LMAFAdWZphjbyWOlJkkZS~isqeu5m2tK045RGL4y3r9wdmB8ttz~EOit4popCYnhEL08hbFnZEmK4etHdlX7RjN6nw__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-# Candidate experience
+## Candidate experience
 
 When candidates join an interview, HackerRank guides them through the same setup process as interviewers. The setup verifies their system compatibility.
 

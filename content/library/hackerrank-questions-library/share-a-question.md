@@ -9,11 +9,11 @@ is_published: true
 
 You can share questions created by you and your team members in your organization. You can grant **Viewer** or **Editor** access, or transfer ownership to another team member.
 
-# Prerequisite
+## Prerequisite
 
 Your organization must have created at least one question.
 
-# Sharing a question
+## Sharing a question
 
 To share a question with another team member: 
 
@@ -44,7 +44,7 @@ To share a question with another team member:
 
 After you save the changes, the users or teams and their assigned roles appear below the search field.
 
-# Transferring ownership of a question
+## Transferring ownership of a question
 
 **Note:** You must share the question with the team member before you can transfer ownership.
 
@@ -61,7 +61,7 @@ To transfer ownership:
 
 After the ownership transfer, the role of the previous owner changes to **Editor**.
 
-# Removing access from a question
+## Removing access from a question
 
 You can revoke **Viewer** or **Editor** access to a question for another team member at any time.
 

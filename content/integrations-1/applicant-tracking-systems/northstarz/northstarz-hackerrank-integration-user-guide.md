@@ -25,7 +25,7 @@ Workflow for assessing candidates with the HackerRank–Northstarz integration:
 
   6. View the candidate’s performance report in Northstarz.
 
-# Adding HackerRank test to a job on Northstarz
+## Adding HackerRank test to a job on Northstarz
 
 To add HackerRank test to a job on Northstarz:
 
@@ -61,7 +61,7 @@ To add HackerRank test to a job on Northstarz:
 
 The **HackerRank Test** is now mapped to the newly created job. The selected **HackerRank Test** can be triggered for applicants for this job.
 
-# Sending HackerRank test invites from Northstarz
+## Sending HackerRank test invites from Northstarz
 
 To send HackerRank test invites from Northstarz:
 
@@ -99,7 +99,7 @@ After triggering the HackerRank Test:
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1756893535632-image.png?Expires=253370764800&Signature=nVnCUaSgP~5t7thxPYDYmOqU0fopUYSSN6WHHCm-wtMrR-EdtwPRGdfGdHtFk0nxWI8e6CLe-fKptb6HTFmD76~FSnBGCoHoDFUlwIQiUyYyUW0woiwCnwdxwpQsT0LQ~wF6G1lCeD~JWIdsx9hv7DKnCPTx4DpxYTGcqShrT4yVIZaLPUrrlTvV6gxpg5mzSf2fWU3gTzL46fGcoG3gVsfBW6OPaHz0izNWJaq8PNAT7TunmMX7yWKvN-etCqdo4KIYVg79HGa1THFCltwikfgHVheDzTBI4a~gGSQyQL~rEJDS96ZfWMIKO6qDNDgMpdVe97COnIZOSKjQTiLE3A__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-# Viewing a candidate test report on Northstarz
+## Viewing a candidate test report on Northstarz
 
 After a candidate completes an assessment, Northstarz displays the results on the candidate’s profile.
 

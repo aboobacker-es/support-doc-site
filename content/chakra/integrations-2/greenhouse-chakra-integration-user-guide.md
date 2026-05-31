@@ -9,7 +9,7 @@ is_published: true
 
 This guide outlines how to use the Greenhouse - HackerRank integration to schedule Chakra interviews and review interview results directly in Greenhouse.
 
-# Prerequisites
+## Prerequisites
 
 Before you begin, ensure you meet the following requirements:
 
@@ -19,7 +19,7 @@ Before you begin, ensure you meet the following requirements:
 
   * The HackerRank integration with Greenhouse is complete. For more information, see [📄 Greenhouse - HackerRank Integration Guide](</articles/1406188460>).
 
-# Adding an AI Interviewer stage in Greenhouse
+## Adding an AI Interviewer stage in Greenhouse
 
 Interview plans in Greenhouse consist of multiple stages, such as Application Review, Interview, and Offer. You can add an **AI Interviewer** stage to allow candidates to complete a HackerRank AI interview as part of the hiring process.
 
@@ -55,7 +55,7 @@ To add an AI Interviewer**** stage to a job interview plan in Greenhouse:
 
 **Tip:** Move the **AI Interviewer** stage to the appropriate position in the interview plan.
 
-# Scheduling an AI Interview from Greenhouse
+## Scheduling an AI Interview from Greenhouse
 
 **Note** :  Before you schedule an interview, ensure that the **AI Interviewer** stage is added to the job interview plan in Greenhouse. For more information, see [Adding HackerRank AI interview stage in Greenhouse](<https://support.hackerrank.com/articles/8491534135-greenhouse-chakra-integration-user-guide#adding-an-ai-interviewer-stage-in-greenhouse>).
 
@@ -77,7 +77,7 @@ In Chakra, the candidate appears with the status **Invited**.
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776789847643-image.png?Expires=253370764800&Signature=icyNnfx4LLYvJQq1G94Dogn~L5gwSbDSwiivR~atd0ORJsGYjAkQxoQd22uh7ZYuHh0A1PPsKlUUd1OOHHfr90DVq9WOiObgdxfQpNsyWBjsaX7nXGL7lPBn3etW6zw7KBBBFgXyY345S2aWtFl7qk7x81qRhfSfaANzmeqigJpNCF6MqAa~Cc5IbaZv5EGZG6Te2rPYE2umsoBfp1C6AU2sksgPy1EqWLokiLDzrarlbEyKz6epjbGntetNn6VBAybu8RssVMxFrjGWywFTetiVxxAixzR8m89F-R11v6Xob7BidrGrHKxRRPIwyBuIR7FybIIldHBADPa3p6HuKw__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-# Viewing interview results
+## Viewing interview results
 
 When a candidate completes an AI interview, Greenhouse displays the interview report in the candidate's profile.
 

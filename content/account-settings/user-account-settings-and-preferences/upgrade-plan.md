@@ -9,7 +9,7 @@ is_published: true
 
 You can upgrade your plan if your current subscription no longer meets your needs.
 
-# Upgrading plan
+## Upgrading plan
 
 To upgrade plan:
 

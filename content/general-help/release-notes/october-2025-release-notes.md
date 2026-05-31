@@ -17,7 +17,7 @@ Integrity continues to be the foundation of every assessment. The enhanced Proct
 
 And, to foster upskilling and help your teams become next-gen developers, the new AI Engineer Certification inside SkillUp helps them with a guided path to learning new skills in a modern way, all with the help of an AI tutor.
 
-# Screen
+## Screen
 
 ## Test-Level Invite Templates
 
@@ -111,7 +111,7 @@ Code reviews are now auto-scored against expert examples, showing how well candi
 
 For more information, see [📄 Advanced Evaluation](</articles/7098008997>), [📄 Automated Code Review Scoring](</articles/4740112925>).
 
-# Skills Platform
+## Skills Platform
 
 ## Playwright Support
 
@@ -162,7 +162,7 @@ Previously hard-to-understand questions have been rewritten to be clearer, more 
 
 ![image \(13\).png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1759489707499-image%252813%2529.png?Expires=253370764800&Signature=ZxYvyG5nYXUYQFzPl4GDNYucgqYNAJEps7lizYjIuz2mXy89Y95TGpA5JokLSev8sTEMg3OZFzOqqKFtWrnVmp2e1rNXDAvoCnVhmkcBGzykP0JG4qyr2~CzINcr7M3HGPsgBEJ~YX1UIhFsPXDqfpaH8ia5H1KF86faTGaGKxP~z2ycYiuM~SHO2bPLjeW3vmQVunuLo2xTyRmTnuaGU2QJj0rcazeUFhM4EZSN~SW4wc~h7ldXu8HPGMOpcjk9AqEmteLrdFwTlFHOXmiyR-9zFegaGmVTOgv3zes5TA0w7yFeYBuRJJzPMoYu26jS2jKaPXWTWS17PudltlnTXQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-# Developer Experience
+## Developer Experience
 
 ## New Candidate Site Expansion
 
@@ -208,7 +208,7 @@ Project-type questions now run on the latest VS Code v1.103.2, bringing new capa
 
 For more information, see [📄 Create Front-end, Back-end, Full-stack, and Mobile Questions](</articles/1570281449>).
 
-# Integrity
+## Integrity
 
 ## Revamped Test Integrity Settings
 
@@ -258,7 +258,7 @@ The App is built for today’s real-world assessments, where projects are comple
 
 For more information, see [📄 HackerRank Desktop App Mode](</articles/5973590014>).
 
-# Interview
+## Interview
 
 ## Enhancements to Scorecard Assist (AI Add-on)
 
@@ -332,13 +332,13 @@ You can now personalize the onboarding guidelines shown to candidates, adding cu
 
 For more information, see [📄 Centralized Interview Settings](</articles/9244658640>).
 
-# Data and Insights
+## Data and Insights
 
 ## Performance Improvements to Analytics Infrastructure
 
 We have optimized exports to ensure dramatically faster load times. In-product exports and dashboards that previously took 15+ seconds now complete in as little as 3 seconds.
 
-# Integrations
+## Integrations
 
 ## Lever-Interviews Integration
 
@@ -380,7 +380,7 @@ The Greenhouse integration has been updated to improve recruiter visibility and 
 
 ![sdsdsds.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1759490195808-sdsdsds.png?Expires=253370764800&Signature=CnCO1lHnGHgk5eBF67Z5gpsDvIXXZeN2OKeQ3D8I~Dv39zBCHfwFuJCW3QXtM~QMjGJdiXuiZOE10Fr0uooDlDTf~A-3aaI7KBOTTZtMga~zOQLwkPFColcW1rXO7tLpSdXIp0pOmm1v8j-vGG4dNOrv161sU5u9X5Gl0e-xaAJiTCys1YkXEQPX90y~DwTvzyd-cMA0fHT27AhiLfJLkWSKfEgeNmnXg11e10~LJxdXueke3o-qv~mRxTeqhjXwcFek724ftdohiGr-WHib8eTlAdAEN8hsq9-X23M4Nb8axR6vMN-KqxCBhf0Ht8WruZqAtCHeIIh5ixuw9NSshQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-# AI Interviewer (Limited Availability)
+## AI Interviewer (Limited Availability)
 
 ## Improvements to Problem-Solving Interviewer
 
@@ -400,7 +400,7 @@ Sign up for access to [_AI Interviewer_](<https://www.hackerrank.com/products/ai
 
 For more information, see [📄 Introduction to AI Interviewer](</articles/6908366644>), [📄 Set up an AI Interview](</articles/8041423965>), [📄 View Candidate Reports](</articles/6818900787>).
 
-# SkillUp
+## SkillUp
 
 ## Enterprise-ready Reporting APIs
 
@@ -430,7 +430,7 @@ The AI Engineer Certification is a guided pathway with lessons and challenges de
 
 ![AIEngineerCert.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1759312356946-AIEngineerCert.gif?Expires=253370764800&Signature=hRL9jR~UJJaED-6qvKifBrbmSy666HbAz~9BzbyVNzI5GCjxcsCvOXmWN10eXdLcU3MDRV4u7UDDWbs10YZO7xJlBs-Lm4tO0uiZu0ThoVK-5PJepiKQ~rqUOQ81mj4Tan1DW~NWPBwcHs3qC8NyIL6t0wn2Ac1Gfzm14KSBTawSz1T1yZ60kzOZh-dMIpMwYgYNUUUew-gNZ-AfNi2kYiFnMXd~w~DKxAdmJy5rGnCwX5FEeJBCj~jk1pvfOZ00VMispq5W1H3CYD5TEJMLwDuGj0EqJiJ9YAAVwbOclbrHErxgIBQNp-DusmWJXXAr13LMg6UwrpEZDVptfaH9rA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-# Developer Community
+## Developer Community
 
 ## Improvements to Mock Interview Experience
 

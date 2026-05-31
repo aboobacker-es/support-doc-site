@@ -15,7 +15,7 @@ HackerRank Tests is a coding assessment framework that automates the screening o
 
 For more information, see [📄 Create an Interview](</articles/8404005945>).
 
-# Import questions at the start of the Interview
+## Import questions at the start of the Interview
 
 If a candidate has completed a test before the interview, a dialog box appears at the start of the interview session. The dialog box prompts the interviewer to import the test and displays the candidate’s overall score. Interviewers can also view the full test report within the interview interface.
 
@@ -27,7 +27,7 @@ Once the test questions are imported into the interview, the candidate’s score
 
 This enables the interviewer to focus on questions the candidate did not perform well on and tailor the interview accordingly.
 
-# Import questions during the Interview
+## Import questions during the Interview
 
 You can import questions from the candidate’s test after the interview has started. To import a question:
 

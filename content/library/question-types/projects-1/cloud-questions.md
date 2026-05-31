@@ -23,7 +23,7 @@ HackerRank supports the following cloud question types:
 
 To use cloud questions, select them from the **Library** when you create a test or interview.
 
-# Scoring cloud questions
+## Scoring cloud questions
 
 HackerRank scores cloud questions automatically using predefined evaluation criteria.
 

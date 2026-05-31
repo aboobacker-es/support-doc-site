@@ -11,7 +11,7 @@ Prompt engineering questions assess a candidate’s ability to write structured 
 
 To use prompt engineering questions, select them from the **HackerRank Library** when creating a test or interview.
 
-# Scoring prompt engineering questions
+## Scoring prompt engineering questions
 
 Prompt engineering questions are scored automatically using preconfigured test cases. Each case compares the model's output to the expected output using exact text matching. 
 
@@ -50,7 +50,7 @@ The system calculates the final score as:
 
   * Mirror exact casing, punctuation, accents, spacing, and order.
 
-# FAQs
+## FAQs
 
 **Can a test case receive partial credit?**
 

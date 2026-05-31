@@ -15,7 +15,7 @@ HackerRank for Work allows you to extend the test duration for candidates in two
 
 This ensures that candidates have a fair opportunity to complete their tests, whether due to accessibility needs or unexpected technical issues.
 
-# Add Time Accommodation
+## Add Time Accommodation
 
 The **Add Time Accommodation** feature allows you to extend test duration either before or after sending candidate invites, as long as the candidate has not yet started the test.
 
@@ -81,7 +81,7 @@ To add time accommodation for specific candidates:
 
 ![Time Accommodation Visibility on Test Landing Page.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776439698486-TimeAccommodationVisibilityonTestLandingPage.gif?Expires=253370764800&Signature=TLW3pgXEhSrtZxrTBmakLBvL06ASR1u2cwyVl0BecIFo2wOACb9bB-1NuiIN46t~~Ss4xpicRl~aoZk162cizYPw035ZcAd~Vj0ZFKmtL4TMb4z-t-Vxl5gGSbY5fEl5m2kQntIXrbh1a5UKcoJUyyzq61~V9BAOl5AJYIShZnhiD2-OgdXqAMsM9yx25fRaZ6Mvha2ZOnfSr4HTlaLaaEPS1jwioAssEt8xEhNNxuAAb3o2wALlV12zaWrZm8o0hHqcSUfIS~lyBBT3kk~OtJ-BRNVsliKLKEtrHZfzjXPpmfpp6Al-drVkucSVsCsaW78ctNW5XOngUdbUw4vNtw__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-# Add extra time
+## Add extra time
 
 The test timer runs continuously and does not pause for technical issues. If a candidate loses time because of internet connectivity or other issues, you can add extra time during the test, after the candidate submits, or after the test ends.
 

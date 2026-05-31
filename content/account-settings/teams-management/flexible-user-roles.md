@@ -9,7 +9,7 @@ is_published: true
 
 HackerRank for Work enables administrators to manage user-level access using the Flexible User Roles feature. This feature provides granular control, allowing administrators to customize user entitlements based on organizational requirements. Flexible user roles help organizations improve productivity and efficiency while maintaining secure administrative oversight.
 
-# Key features
+## Key features
 
 The flexible user roles offer the following features:
 
@@ -19,13 +19,13 @@ The flexible user roles offer the following features:
 
   * **Adapt to change** : Adjust user entitlements easily as business processes evolve, allowing your organization to accommodate new requirements or role changes without operational disruption.
 
-# Entitlements
+## Entitlements
 
 Entitlements define the actions that users can perform within the platform. They control activities such as viewing, creating, updating, and deleting tests, interviews, and questions.
 
 **Note:** HackerRank offers four types of user roles. For more information about these roles and their default entitlements, see [_Types of User Roles_](<https://support.hackerrank.com/articles/9603546665>).
 
-# Accessing flexible roles 
+## Accessing flexible roles 
 
 To access flexible roles:
 
@@ -71,7 +71,7 @@ To customize entitlements for an individual user:
 
 **Note:** A user's entitlements are restricted by the maximum entitlements granted to their assigned user role. Users cannot exceed the limitations set for their role.
 
-# Available entitlements
+## Available entitlements
 
 The table below lists the entitlements available in HackerRank for Work, regardless of the user role.
 

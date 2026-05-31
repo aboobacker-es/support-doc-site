@@ -27,7 +27,7 @@ The Interview Integrity Signals supports the following question types:
 
   * Whiteboard
 
-# Enabling Interview Integrity Signals
+## Enabling Interview Integrity Signals
 
 To enable Interview Integrity Signals:
 
@@ -50,7 +50,7 @@ To enable Interview Integrity Signals:
 
   6. Click **Save**.
 
-# How it works
+## How it works
 
 During an interview, the system detects suspicious behavior such as multiple copy-paste actions or frequent window resizing, and groups these events into a comprehensive alert. This avoids distracting the interviewer with multiple notifications.
 
@@ -70,7 +70,7 @@ Interviewers can ask the candidate to share their screen for further review. If 
 
 ![Real-Time Interview Integrity Signals in the Timeline.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F3b20dda3-2d6f-42d2-b8aa-a90d27d6a086-1776591629751-Real-TimeInterviewIntegritySignalsintheTimeline.gif-81293a91-3b15-42d5-be5f-42068ce67a95?Expires=253370764800&Signature=IqVc73pW1uUDGMJMNaDWLjXRwLz0LRXG3fxJZfq1LhdgM35~DBUJdyCaJ7Hzxy02UXEJ-PEdMg0z0Kv0aQ5H4RMU7TgjTHZqFNQss8chpThgF4jGsWxMadXnpJ3OvmW7hjQOuS0o0F30gCQOrRjX4QT9ktgwrwjtNKHkOKyoDX9fZQSbXPj69aW3u2TybM3-3Yh33yYPweZj9Z2c1VHHbEr-xMr2jiIrRvIpZB9LrNiFT4LV4VTUlJEWxRQWTsbBzGkWKlZ-yK8OpL4EO51UaGK4UksXlu4d9wQLGpRn1bW3V71T36YvJecD9GYN6A8YZAH5o3Lo6so~h5cgJOIyVQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-# Types of suspicious signals
+## Types of suspicious signals
 
 The system groups the following types of suspicious signals into alerts:
 

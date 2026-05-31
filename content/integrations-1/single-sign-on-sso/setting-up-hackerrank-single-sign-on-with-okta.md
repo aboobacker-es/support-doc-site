@@ -15,7 +15,7 @@ For more information about SSO, see [📄 Getting Started with Single Sign-On](<
 
 **Note:** HackerRank accepts only the user’s email address for SSO. During setup, define the SAML assertion to send the email address. SSO fails if HackerRank receives any value other than an email address.
 
-# Prerequisites
+## Prerequisites
 
 Before you begin, ensure you meet the following requirements:
 
@@ -23,7 +23,7 @@ Before you begin, ensure you meet the following requirements:
 
   * You have access to the Okta Admin Console.
 
-# Setting up HackerRank Single Sign-On with Okta
+## Setting up HackerRank Single Sign-On with Okta
 
 To set up HackerRank single sign-On with Okta:
 

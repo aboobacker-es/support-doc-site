@@ -21,7 +21,7 @@ Code quality evaluation assesses how well the written code adheres to best pract
 
 In HackerRank tests, correctness is evaluated through automated test cases and quality assurance checks for functional specifications. Code quality evaluation may also involve highlighting potential issues in specific areas. Adding comments on issues or metrics can enhance assessments by providing insights into maintainability, efficiency, and overall code quality.
 
-# Key benefits
+## Key benefits
 
 Code quality evaluation highlights how advancements in AI are reshaping the role of engineering. Specifically, it highlights:
 
@@ -33,7 +33,7 @@ Code quality evaluation highlights how advancements in AI are reshaping the role
 
   * **Enterprise relevance:** Writing scalable, resilient code is essential for enterprise applications. This reflects a candidate’s readiness to tackle real-world challenges and contribute effectively to organizational goals.
 
-# Evaluation method
+## Evaluation method
 
 HackerRank provides a prompt listing specific rules and issues to the AI model along with the candidate’s code. The AI generates feedback on the code and organizes comments into different categories. Based on this feedback, the system uses a straightforward method to evaluate code quality.
 
@@ -53,11 +53,11 @@ HackerRank uses the time-debt method to create a grading system for code quality
 
   * **Not Available:** Grade is not provided for questions that are not supported for code quality grading.
 
-# Enabling code quality evaluation
+## Enabling code quality evaluation
 
 Turn on **Advanced Evaluation** to enable code quality evaluation for all tests. For more information, see [_Enable Advanced Evaluation_](<https://support.hackerrank.com/articles/7098008997-advanced-evaluation#enable-advanced-evaluation-6>).
 
-# Reviewing candidate results
+## Reviewing candidate results
 
 You can view each candidate’s code quality grade in the **Candidate List**. You can filter candidates by their code quality grade. 
 

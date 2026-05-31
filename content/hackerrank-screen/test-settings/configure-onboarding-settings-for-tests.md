@@ -9,11 +9,11 @@ is_published: true
 
 HackerRank allows you to configure the onboarding settings for a test to collect candidate details and display test instructions before the test begins. Most settings are optional and customizable to fit your hiring needs.
 
-# Prerequisites
+## Prerequisites
 
 You must have already created a test.
 
-# Configuring onboarding settings
+## Configuring onboarding settings
 
 To configure onboarding settings:
 

@@ -9,7 +9,7 @@ is_published: true
 
 This guide outlines how to use the Recruitee - HackerRank Integration to send HackerRank test invitations and review test results.
 
-# Prerequisites
+## Prerequisites
 
 Before you begin, ensure you meet the following requirements:
 
@@ -17,7 +17,7 @@ Before you begin, ensure you meet the following requirements:
 
   * The HackerRank integration with Recruitee is complete. For more information, see [📄 Recruitee - HackerRank Integration Guide](</articles/1039021982>).
 
-# Inviting candidates to a**** HackerRank test
+## Inviting candidates to a**** HackerRank test
 
 To invite candidates to a HackerRank test:
 
@@ -44,7 +44,7 @@ After you send the test, the candidate profile displays a HackerRank badge.
 
 ![3.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1770227090803-3.png?Expires=253370764800&Signature=bqRCCY8YmGw2rNbGtkyWwnd8hmkrc-cIZ1riGr0i5cQoHab4scCLX65zgJHfGxcz9Sc1n-PxNaamSydBkczGDjM~upH9AgHOnvfnZAlmmZEk9vqMND2u0PMMlUdPLoUm2Ui6ExWRpW8TAR45E1suJ-5XBMQnmwSHaAnojRJ0bsvetbD6Voo4qR~VcFpD22zNkwG8vTpBr2tZNFhymJ3HscydKwCvJC146DEPnO-MIDXFoRcxE0YMX-4rBYJOGZuWfAWwp2Pb4Vak07sgMOIX0EAXktJtitc7BQbaseGB8QCBG7mXNEClxHwpSnddYKeeOAh6WbKuwemMYUbq55vnbQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-# Viewing test results
+## Viewing test results
 
 When the candidate completes the test, the evaluation score appears on the profile.
 

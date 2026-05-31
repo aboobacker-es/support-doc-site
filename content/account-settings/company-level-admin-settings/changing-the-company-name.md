@@ -9,11 +9,11 @@ is_published: true
 
 You can update the company name and the sender name that appear in candidate invitation emails.
 
-# Prerequisite
+## Prerequisite
 
 You must have Company Admin access.
 
-# Updating the company name and sender name
+## Updating the company name and sender name
 
 To update the company name and sender name:
 

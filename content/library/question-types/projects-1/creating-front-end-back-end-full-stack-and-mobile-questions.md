@@ -13,7 +13,7 @@ Each project question provides a complete integrated development environment (ID
 
 For more information on the supported environments, see [📄 Execution Environment](</articles/6693750503>).
 
-# Key benefits
+## Key benefits
 
 HackerRank provides the following benefits for front-end, back-end, full-stack, mobile, and QA engineer project question types:
 
@@ -47,7 +47,7 @@ HackerRank provides the following benefits for front-end, back-end, full-stack, 
 
     * Measures the capability to assess and improve code quality.
 
-# Creating front-end, back-end, full-stack, mobile, and QA engineer questions
+## Creating front-end, back-end, full-stack, mobile, and QA engineer questions
 
 To create a Front-end, Back-end, Full-stack, or Mobile question:
 
@@ -184,13 +184,13 @@ Hard| 100 Points| 45-60 Minutes
 
 The question appears under **My Company** questions in the HackerRank Library.
 
-# Candidate experience
+## Candidate experience
 
 When a question loads, the IDE automatically starts the installation process. The candidates can click on **Run** to run the application.
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1772689454105-image.png?Expires=253370764800&Signature=b~DCLNo6LTNiTSqWCsbGqZ1SPSzVQ9os4kKriM6c5StBzytUD0-Zfb98RojTHwtfT8gSj29R~Y5bPCxrJ091tQGqDI7nJwqMkDng4LIT3mRxmhqxeoISuonQG03yo3heJCOdh9s9fmjDGBvEK4D8Hdlzlbi06hQtrShhLNLE9uJ3dl3700zwRtlAZhW1QCzEvyy3T2mbg1n1jAj4dTNkQzNewAQbDXHWKemvVMbfq-OkoJQtaY3AW2WxwqD0IC~Q0L97KC06-QWvaALFJdxmdK9MLKJRAAphmAVXIzOe2o-iCVOjMW6zKbV0JVMNuDB-LnL5s8oYb1QgSv6GOWO2ew__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-# Scoring front-end, back-end, full-stack, mobile, and QA engineer questions in tests
+## Scoring front-end, back-end, full-stack, mobile, and QA engineer questions in tests
 
 HackerRank project questions support automated, manual, and custom scoring methods to evaluate candidate performance in realistic development environments. 
 

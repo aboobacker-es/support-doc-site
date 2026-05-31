@@ -9,7 +9,7 @@ is_published: true
 
 This guide outlines how to use the Greenhouse–HackerRank integration to send HackerRank test invitations and review test results directly in Greenhouse.
 
-# Prerequisites
+## Prerequisites
 
 Before you begin, ensure you meet the following requirements:
 
@@ -17,7 +17,7 @@ Before you begin, ensure you meet the following requirements:
 
   * The HackerRank integration with Greenhouse is complete. For more information, see [📄 Greenhouse - HackerRank Integration Guide](</articles/1406188460>).
 
-# Adding HackerRank assessment stage in Greenhouse
+## Adding HackerRank assessment stage in Greenhouse
 
 Interview plans in Greenhouse consist of multiple stages, such as Application Review, Interview, and Offer. You can add a **HackerRank Assessment** stage to allow candidates to complete a HackerRank test as part of the hiring process.
 
@@ -48,7 +48,7 @@ To add **HackerRank Assessment** stage to a job interview plan in Greenhouse:
 
   * Move the **HackerRank Assessment** stage to the appropriate position in the interview plan.
 
-# Sending HackerRank test invite to a candidate
+## Sending HackerRank test invite to a candidate
 
 **Note:** Before you send a test invite:
 
@@ -88,7 +88,7 @@ To send a HackerRank test invite to a candidate:
 
 Greenhouse sends the HackerRank test invitation email to the candidate.
 
-# Sending bulk HackerRank test invites to candidates
+## Sending bulk HackerRank test invites to candidates
 
 You can send HackerRank test invites to multiple candidates at once by using **Bulk Actions** in Greenhouse.
 
@@ -134,7 +134,7 @@ To send bulk test invites:
 
 Greenhouse sends the test invitation email to all selected candidates.
 
-# Viewing candidate test results
+## Viewing candidate test results
 
 When a candidate completes a HackerRank test, Greenhouse displays the test results in the candidate's profile.
 
@@ -180,7 +180,7 @@ To view the candidate’s test results:
 
 **Note:** Click **Download kit as PDF** to download the Interview Kit.
 
-# Viewing updated scores in Greenhouse
+## Viewing updated scores in Greenhouse
 
 When a recruiter updates a candidate’s test score in the HackerRank for Work account, Greenhouse adds a note to the candidate’s **Activity Feed**.
 

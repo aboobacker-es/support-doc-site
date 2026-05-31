@@ -9,7 +9,7 @@ is_published: true
 
 HackerRank for Work allows you to create questions based on your hiring requirements. You can create questions from the **Library** or while creating or editing a test.
 
-# Creating a question from the Library
+## Creating a question from the Library
 
 You can use the following links to view steps for creating different types of questions from the Library:
 
@@ -43,7 +43,7 @@ You can use the following links to view steps for creating different types of qu
 
   * [Creating a File Upload question](<https://support.hackerrank.com/articles/3284451474-file-upload-question#creating-a-file-upload-question>)
 
-# Creating a question while editing a test
+## Creating a question while editing a test
 
 To create a question directly from a test:
 

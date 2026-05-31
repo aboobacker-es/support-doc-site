@@ -17,7 +17,7 @@ These questions assess the candidate’s ability to:
 
   * Implement logic and interactivity using JavaScript
 
-# Creating an HTML/CSS/JavaScript question
+## Creating an HTML/CSS/JavaScript question
 
 To create an HTML/CSS/JavaScript question:
 
@@ -86,13 +86,13 @@ Candidates can edit the provided code stub. If you do not want them to modify a 
 
 The question appears under **My Company** questions in the HackerRank Library.
 
-# Candidate experience
+## Candidate experience
 
 The candidate writes HTML, CSS, and JavaScript code based on the prompt and renders the solution directly in the browser. The live preview allows the candidate to verify layout, styling, and functionality before submission.
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1772444019542-image.png?Expires=253370764800&Signature=vndgs~h1KKs~Zj8VXcS8RxUf5Mf4TMot0s3T9B64z-xMc6EAG2xAL0Bj2AhP2-OsuKzZDExk-WzkYpOg3p7Eyi66adqga65nmcjjLbm2z0gsUV6IMDihcZ8U6mnyNe52QcNHdfVP8DGF8Lv50YDh4azCQ2IKk1WhxoXsglb7hFhKKbcLtxwB6QMgoHe2-DN3KZ90uDifQuuUifv7pp-F0Id5jE8lZhnEYsX-ovIrPESTLSaVrDOmnv1DUqpdrCdzoR7aw0PJLWd-rTLEixwApRn89x~x9WjPgPtkgmKFY7OlhwtBi0PFcD19xKKruSAUsMnH-8RUnNaa-QMv2BTdXg__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-# Scoring an HTML/CSS/JavaScript question in tests
+## Scoring an HTML/CSS/JavaScript question in tests
 
 HTML/CSS/JavaScript questions require manual evaluation because assessment focuses on visual output.
 

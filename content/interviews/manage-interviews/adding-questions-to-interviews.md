@@ -9,11 +9,11 @@ is_published: true
 
 You can add existing questions from the HackerRank Library, your company library, or by creating custom questions during an interview session.
 
-# Prerequisite
+## Prerequisite
 
 You must have joined an interview session.
 
-# Adding questions to an interview
+## Adding questions to an interview
 
 You can add questions to an interview using any of the following methods:
 

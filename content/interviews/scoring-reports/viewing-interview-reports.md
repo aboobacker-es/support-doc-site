@@ -9,7 +9,7 @@ is_published: true
 
 The interview report provides a detailed view of candidate performance. It helps interviewers and hiring managers to review responses and make informed hiring decisions.
 
-# Accessing interview report 
+## Accessing interview report 
 
 To access an interview report:
 
@@ -21,7 +21,7 @@ To access an interview report:
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776829544158-image.png?Expires=253370764800&Signature=fqWkWGeGRBij0-O9rr4ix71lgSttcmyxZ4XxX8qYhi36n4YiwQLTCDepxaH7JsapZSFZjlIWeHmPPJaa9P3jv~iNn1CjIVlvKZfYrp1BdRlqLtivhOqRau3j8b9aC~8QeyyTEb4V-WbXRPwfyUYK3aTeIbq9up3o8xuiFuMf0cAwf1mg97OEK4g-tmdmUCxVxuDgikDNTNFfxnuvmQ0JiLYSWuF64AQHtjHsyDlYc70p-aY72a0xZPeFRyGXSyW~L3~qLb5eQxbrkYcBXinTnZDNlDPxYpia24yeiT6cI3CWzoijAh~xXLvAHuMx3meINCmds9YLveCUld4x2ObPIg__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-# Interview report components
+## Interview report components
 
 The interview report includes the following components:
 

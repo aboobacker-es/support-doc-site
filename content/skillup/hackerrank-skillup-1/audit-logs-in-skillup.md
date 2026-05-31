@@ -19,7 +19,7 @@ Audit logs capture key events performed within SkillUp, including:
 
 The information included in an audit log varies based on the request and the selected time period.
 
-# How to request audit logs
+## How to request audit logs
 
 To request audit logs, contact the SkillUp Support team at [skillup-support@hackerrank.com](<mailto:skillup-support@hackerrank.com>).
 

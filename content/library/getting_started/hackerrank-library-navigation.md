@@ -13,7 +13,7 @@ The HackerRank Library provides ready-to-use questions for tests and interviews.
 
   * Questions created by you and other team members in your organization.
 
-# Accessing the Library
+## Accessing the Library
 
 To access the library:
 
@@ -33,7 +33,7 @@ Each question includes details such as the title, description, difficulty level,
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1758775704681-image.png?Expires=253370764800&Signature=gjq~4Gb2K9mV-~xosiLO75gKGUrAVeaNfU0OQ~P99gT1uGm12pCP9yaq6Hr4pqw7~0M1aKEbTGlYgUJBwnIyV7oKGk6Qbsa9pStP9I0vGY1HS5pwobOiNdqwuQ~VZYt4f0KB15BPAITJ3fDOfzde32MKAlR7yg3Ilh--nlmwFtOJdHwQUpC3GfYGTyKPJxp8VVg~FWHpTy7lhPysgexv9kllj5QM4hqWiDkqlLfFRXQkBD4SrYu~06-0o7oKr7K1nxSvW6821wHnCie1Vi9AceUMD2pkrmdG0CpGFSGwOG84AAGuwvbXujloMbyg~eyV7CR7w9a554r6zP7Q6R2U6g__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-# Question sources
+## Question sources
 
 Use the **Library** dropdown to select the source of questions:
 
@@ -94,7 +94,7 @@ Share with your organization| ❌ No| ✅ Yes
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1758775914499-image.png?Expires=253370764800&Signature=GT-7wTHsBORTjEgl14jmIxIirE19UqPBFmbeBi0ty8uIOu-NYZWYOmSKratzW-gqt2eU2AgluxVOUKHar6IiHXroU9fsAR9vSsRY4JiRn4aZpDW3pNC6FMqf8LJRKrT3qxBnwNtuquD-ilqXAWb6Ol4rLta9lYOGn9Z1OkR~1qs3jkf6~pwq8XwlczdC~jNJGnrxdGIhrMQTXZVu9lei2QqmEnmkTwehsKgyzXieTyMA-eB~iaeHM8TLOpbJPE65XCOH-5iHQj-8dbTbdJXG6ztq~GPhz-kj0cDrh4PCwxNCKILDq4xrl7q22mCDUf979WVm-KXLLVs5mAt-m6E8xg__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-# Searching, sorting, and filtering questions
+## Searching, sorting, and filtering questions
 
 You can search, filter, and sort questions to quickly find and manage the ones you need.
 
@@ -162,7 +162,7 @@ You can search, filter, and sort questions to quickly find and manage the ones y
 
   * You can export test and interview questions from the Library to a CSV file. For more information, see [📄 Export Questions](</articles/9028620307>).
 
-# Related topics
+## Related topics
 
   * [📄 Question Types in HackerRank](</articles/2354192461>)
 

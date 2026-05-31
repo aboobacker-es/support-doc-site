@@ -9,11 +9,11 @@ is_published: true
 
 HackerRank allows you to transfer ownership of all resources, such as tests and questions, from one user to another. Transferring ownership ensures that no critical content is lost during user transitions.
 
-# Prerequisite
+## Prerequisite
 
 You must have Company Admin access.
 
-# Transferring resource ownership
+## Transferring resource ownership
 
 To transfer ownership of all resources:
 

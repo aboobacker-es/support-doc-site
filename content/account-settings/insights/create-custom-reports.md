@@ -15,7 +15,7 @@ The Custom Reports feature is available to:
 
   * Any user with access to the **Insights** tab on the HackerRank platform.
 
-# Key features
+## Key features
 
 Custom Reports offer the following features:
 
@@ -49,7 +49,7 @@ Custom Reports offer the following features:
 
   * **Shared admin access:** All admin users can view, edit, and re-download saved reports, which helps streamline collaboration.
 
-# Creating a custom report
+## Creating a custom report
 
 To create a custom report:
 
@@ -115,7 +115,7 @@ To create a custom report:
 
   10. Click **Export** to download the complete report as an Excel file.
 
-# Available functional objects
+## Available functional objects
 
 When creating a custom report, you can choose from the following objects:
 

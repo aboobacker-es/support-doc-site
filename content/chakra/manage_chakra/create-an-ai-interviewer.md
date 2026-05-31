@@ -9,7 +9,7 @@ is_published: true
 
 You can use Chakra to create an AI interviewer based on a job role or job description. Chakra analyzes your input and generates a structured interview plan that you can review and refine.
 
-# Creating an AI interviewer
+## Creating an AI interviewer
 
 To create an AI interviewer:
 
@@ -87,7 +87,7 @@ To invite candidates to the Interview, see [📄 Invite Candidates to an AI Inte
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1770795054316-image.png?Expires=253370764800&Signature=hXubvHn8y0ZOAu9r3yj~RuOzQLu-~l0CVOgkCxp~Xi~cxkt6JtsVzqc6mIcao5g~wGLnagVzngSt1zyaXjhfdGrpjzr02gWwH0bAkyeOCIncUK4VxBA~WVNsNH4z4cF~2OLNaw~NkUa5eOZD0Il75I2wIX-8L0PfOxmlbECGYQk5XOx0-vpJJ32a-OxRg54USlLD5g371t0iryQ3xlB~YCs4SvfRp1jlU6YVqMc5ssnQUyiSYYKe4AMYAOvcSJG3y73wXiHCay7sxRRF~Fy0pkxCH0~fRcfAjouBe-yliMe8502WAquc502cNzIN2Fyk45PMXyY1wPhWpAV2XMemtw__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-# Editing an AI Interviewer
+## Editing an AI Interviewer
 
 To edit an AI Interviewer:
 

@@ -9,7 +9,7 @@ is_published: true
 
 This guide describes how to configure the Workday integration for HackerRank Interviews.
 
-# Prerequisites
+## Prerequisites
 
 Before you begin, ensure you meet the following requirements:
 
@@ -23,7 +23,7 @@ Before you begin, ensure you meet the following requirements:
 
   3. Download and install Workday Studio on your computer. For more information, see [Installation Guide](<https://community.workday.com/node/11810>).
 
-# Configure Workday Studio
+## Configure Workday Studio
 
 Configuring Workday Studio involves three steps:
 
@@ -99,7 +99,7 @@ URL| The URL of the connection.![](https://assets.usepylon.com/e6a58e21-be80-477
 
   5. Click **Finish**.
 
-# Configure Workday Tenant
+## Configure Workday Tenant
 
 **Important:** You must have access to the domain **Security: Security Configuration** to perform the steps in this section.
 

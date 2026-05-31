@@ -21,7 +21,7 @@ You can access questions from two sources in the Library dropdown:
 
 You can clone questions from both sources.
 
-# Cloning a question
+## Cloning a question
 
 To clone a question:
 

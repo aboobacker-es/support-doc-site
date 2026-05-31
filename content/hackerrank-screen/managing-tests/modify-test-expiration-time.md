@@ -17,11 +17,11 @@ Candidates can attempt the test only during the active period. After the test ex
 
   * You cannot invite new candidates.
 
-# Prerequisite
+## Prerequisite
 
 You must have created a test.
 
-# Modifying test expiration time
+## Modifying test expiration time
 
 To modify the test expiration time:
 

@@ -9,11 +9,11 @@ is_published: true
 
 Custom Certifications let you convert a HackerRank for Work test into a SkillUp certification experience. This allows you to create certifications that align with your organization’s learning and skill validation requirements.
 
-# Prerequisite
+## Prerequisite
 
 You have created a test in your HackerRank for Work account.
 
-# Creating custom certifications
+## Creating custom certifications
 
 To create custom certifications:
 

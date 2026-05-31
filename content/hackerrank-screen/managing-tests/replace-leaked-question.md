@@ -20,7 +20,7 @@ When you click the warning icon, the following options appear:
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1762412810551-image.png?Expires=253370764800&Signature=TQAxwnVSKw3iAXuUF57LrcG7cvZozv11teyKYgReL0F-uPT5zfFrnWge4VzPo87q0JaQU~NDpjVuNRFzhnINvZSTP4CntzdSWF1EAm3EwJ~jJcK4lsNkfR6H7xdqETbW8hx~tKc0LHzb-kCpiciMvRw9fzU64gE64WqDs0-A49HTgh7pRowI9Zu-oQmM78J-QCKRA08l9U03gbNBOG8yyZszLjpDo3x71yAZohbD621isScDYmphVAlub9HTzkVMA1XBJeK~Ct7CIJSEbbK3T0Y~fJ5XkdCF43OPGcEDDzM~Ntgodcjm3CZwCiHi8cvfUCF8lEMNBDUJ4nbL6Gc1kw__&Key-Pair-Id=K3NV4LZ47N8M46)
   * **Replace** : Replace the leaked question with a suitable alternative from the Library.
 
-# Replacing a leaked question
+## Replacing a leaked question
 
 To replace a leaked question:
 

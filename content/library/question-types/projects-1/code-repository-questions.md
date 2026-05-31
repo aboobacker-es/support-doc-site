@@ -11,7 +11,7 @@ Code Repository lets you create multiple questions from a single repository. Eac
 
 The AI agent helps throughout the setup flow by analyzing the uploaded repository, summarizing its structure, suggesting setup details, and assisting with question creation.
 
-# Key benefits
+## Key benefits
 
 Code repository questions offer the following benefits:
 
@@ -21,7 +21,7 @@ Code repository questions offer the following benefits:
 
   * **Use AI-assisted setup and creation:** Let the AI Assistant analyze the repository, summarize content, suggest setup commands, and generate tasks.
 
-# Code Repository artifacts
+## Code Repository artifacts
 
 A Code Repository artifact is the shared base used across multiple questions.
 
@@ -45,7 +45,7 @@ The following elements can change for each question:
 
   * Interviewer guidelines
 
-# Creating a Code Repository question
+## Creating a Code Repository question
 
 To create a Code Repository question:
 
@@ -140,7 +140,7 @@ You can click **View in Library** to open the question or click **Create another
 
 ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776834064393-pasted-image-11.png?Expires=253370764800&Signature=OqrfG9rM4x7i1hO9owA6DgXbSStEBV8ZmypKMYSyQIeCxrA7cJHPalIWKdZ0TbeMSwjc-Pdq79bgSsWu6RILoAixh3ttS9GF~mRui2jNe47nI7rgAhL7LmKteojaGojRFCI7D~gOdZRL3M1ZkatTz2NTV~Eu0kPy5aEIYzCENHnySUD~3dUtWgLI7L3SSUD-U7kQkQqG0m7UOqvcr~J2B5jlmP19e~ibXYLMSXqXXlkp-vyJMOa3DdyjmLFlOaDG2ZUi8EAPICgrTD3icbbsLW3I-5NaKTYmge0d7czbeJzz~TMkuQw0oAJNkvJs48HdABsZMrE8N1RYatBgnjt9Lg__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-# Adding questions to an existing Code Repository
+## Adding questions to an existing Code Repository
 
 To add a question to an existing code repository:
 
@@ -153,7 +153,7 @@ To add a question to an existing code repository:
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776834656557-image.png?Expires=253370764800&Signature=sm9c3QjawgMMQSCGZ2mieY8pHvP31MEcWYMGtIVXjkAMM2Iz1OEgcY7VOHhzclWRczSHGX9PueNf-MUQWfIxheaeuvYF0OWxaNh2os95FM0BUy8Bc4ERDlWiV7dFzKvNxvEoihxOLxowcRSG0vDQNXoxWfvOK2ob-AOSZKwsBIXWEG9B7uCWv1Pnx7XlGE4KaYNSCjjFukOt86FZrldmRb56qQfDeQhvhk6BSqRkqB5ST-0Bpj~JGQrS90xhkK--sJFZl9fJj1Yo0RgzNLxEGa~fOy~9CspktsO0oMelwURALxl5Mj7CniTU73OWuLyp2YoZVlKwE7wif2fzkcnMhw__&Key-Pair-Id=K3NV4LZ47N8M46)
   4. Follow the steps in [Creating a Code Repository question](<https://support.hackerrank.com/articles/1900882930-code-repository-questions#creating-a-code-repository-question>) to create a new task.
 
-# Editing an existing Code Repository question
+## Editing an existing Code Repository question
 
 To edit an existing Code Repository question:
 
@@ -168,7 +168,7 @@ To edit an existing Code Repository question:
 
   5. Click **Publish** to validate and save your changes.
 
-# Frequently Asked Questions
+## Frequently Asked Questions
 
 **Why does validation take time?**
 

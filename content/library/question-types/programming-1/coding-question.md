@@ -11,7 +11,7 @@ Coding questions allow you to assess a candidate’s problem-solving skills in s
 
 Coding questions support more than [35](<https://support.hackerrank.com/articles/6693750503-execution-environment>) programming languages.
 
-# Creating a coding question
+## Creating a coding question
 
 To create a coding question:
 
@@ -202,7 +202,7 @@ Use this step to upload solutions and define test cases for the question.
 
 The question appears under **My Company** questions in the HackerRank Library.
 
-# Quality review
+## Quality review
 
 Quality review helps you evaluate and improve the quality of a coding question before you use it in a test or interview.
 
@@ -258,13 +258,13 @@ Add at least two tags, including:
 
 Add concept-specific tags when relevant.
 
-# Candidate experience
+## Candidate experience
 
 The candidate can attempt the question in the editor and click **Run** to run the test cases.
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1772438463159-image.png?Expires=253370764800&Signature=gH2JwkLCFZ8l2OoUbOFlPQpYcLueX-FF1fn~-T8LurpMbXDsM6Wr4T83KElyojdaDzmwtYQZlCqIuoZqbNOFebgqhvR-DuyFDIdhOuzlShezPpsnz0msJ2mYIcVYvVcdzOOdMk9evKKJJO6DL8wEFajWHrJmrzeOo-uV~rGgGs-l-RnU4KVPZ8l2YGgftjy7~Zr2ZPnH2mnVB9tSa78~QpJqhmUz6QJ0N4EEG41xnYdKBKtU6B6XZzfzMhEhCNtrfixQU7kPtY~yDetWLZnuf3vB7VgTrxhyeNt6~iDJjEDGC3bM7vM9yAfcpgAZ8SMQ1y3BFdhWy7ofTvQ1pUI7nA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-# Scoring a coding question in tests
+## Scoring a coding question in tests
 
 HackerRank evaluates coding questions using predefined test cases that measure correctness and efficiency. Each test case includes defined input, expected output, and execution conditions. The system executes the submitted code against all test cases and calculates the score automatically.
 

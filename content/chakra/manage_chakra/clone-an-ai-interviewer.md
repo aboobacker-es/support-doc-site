@@ -9,11 +9,11 @@ is_published: true
 
 Clone an AI interviewer to create a copy of an existing interviewer, including its prompts and sections. You can use the cloned version to adapt the setup for a different role without creating a new interviewer from scratch.
 
-# Prerequisite
+## Prerequisite
 
 Your organization must have created at least one AI interviewer.
 
-# Cloning an AI interviewer
+## Cloning an AI interviewer
 
 To clone an AI interviewer:
 

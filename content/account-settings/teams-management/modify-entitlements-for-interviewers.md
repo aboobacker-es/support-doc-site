@@ -9,11 +9,11 @@ is_published: true
 
 You can modify interviewer entitlements to control access to tests, interviews, questions, and candidates.
 
-# Prerequisite
+## Prerequisite
 
 You must have created a team.
 
-# Modifying entitlements for interviewers
+## Modifying entitlements for interviewers
 
 To modify entitlements for interviewers in a team:
 
@@ -29,7 +29,7 @@ To modify entitlements for interviewers in a team:
 ![interview entitlement.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1773209163006-interviewentitlement.png?Expires=253370764800&Signature=irYJGvOMZfMxkypULqDxP~BExNo~k6vDPQEboIYcOLNReIdDsCj3Szb-E0UY531ktraW4RqXMKXMMjbNfsQqzO42Dl28ZAujHM6Nwl3ZHDZ7c6FqIIRjqrmqebi38aD6~ZmDYD0c8--F0XFCNxKbKg1AjuthUlxapk~QSMh4hJV1d4i-rRSJ~THazBqoVlTgQHjAWMqnjVl8PWMkWwzvfngs0tKlzYEGdOsM4WApbfZrX20Jq3nd5vYgbsjjfrYSeJtUt39cf9mbyo6nJtPu04hTonI~YOIPaViTGCGDlQrj2T-PGPaEd~W8emJpCFObZwvbr-FLlNJXGAEm4Yn5kw__&Key-Pair-Id=K3NV4LZ47N8M46)
   5. Review and update the entitlements as needed.
 
-# Available interviewer entitlements
+## Available interviewer entitlements
 
 You can manage the following entitlement categories for interviewers:
 

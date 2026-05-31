@@ -15,7 +15,7 @@ DevOps questions allow you to assess a candidate’s proficiency with Linux thro
 
   * Running command-line tools such as `grep`
 
-# Key benefits
+## Key benefits
 
 HackerRank provides the following benefits for DevOps question types:
 
@@ -43,7 +43,7 @@ HackerRank provides the following benefits for DevOps question types:
 
       * Test creators do not need to perform any manual setup.
 
-# Creating a DevOps question
+## Creating a DevOps question
 
 To create a DevOps question:
 
@@ -138,13 +138,13 @@ Hard| 100 Points| 45-60 Minutes
 
 The question appears under **My Company** questions in the HackerRank Library.
 
-# Candidate experience
+## Candidate experience
 
 Candidates can use the terminal to perform the tasks described in the question.
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1771231528456-image.png?Expires=253370764800&Signature=cPgCCdEEuiTiACHm0~pRaL8BCXvUVAIj~~mLuEqOkHuY6CwB3SVwGSJMWiHxkbyFV5f3~ooJ29hWP5pqy8t5LZTY4btwcOto~bMG-ApGPJVPUtON99B7KE14m7sE11Xx~HLVeU~NAK1fp097b5eOi1b~g122socaTLguh9vDkSc50KZn6ySSDl~8WZLUjiu~6Ss77p2il54lH5r9hIecUf2zMQqqW~EZxpzS~i6-bPDcB9IRBpkAhFrbmV6BQb~NRRgqaTbQwYTl37RhnblxGCg4iT2~22GbL0hHCpzuLP-rF4tqBPrry7KJJ0arBYttw-rOY-QEgus0nUIVTlHKMw__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-# Scoring a DevOps question in tests
+## Scoring a DevOps question in tests
 
 DevOps questions use automatic evaluation. The platform runs a Bash scoring script to validate tasks and assign scores.
 

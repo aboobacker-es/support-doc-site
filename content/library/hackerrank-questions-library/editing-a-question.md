@@ -11,11 +11,11 @@ You can edit questions in your personal library that appear under the **My compa
 
 **Note:** You can edit only the questions in your company library. HackerRank library questions are not editable.
 
-# Prerequisites
+## Prerequisites
 
 The question must exist in your personal library, and you must have permission to edit it.
 
-# Editing a question 
+## Editing a question 
 
 To edit a question in your company library:
 

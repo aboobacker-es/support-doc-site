@@ -9,11 +9,11 @@ is_published: true
 
 You can customize question settings in a test to manage programming language access, question display options, and candidate experience for test cases and project questions.
 
-# Prerequisites
+## Prerequisites
 
 You must have already created a test.
 
-# Modifying question settings
+## Modifying question settings
 
 To modify the question settings of a test:
 

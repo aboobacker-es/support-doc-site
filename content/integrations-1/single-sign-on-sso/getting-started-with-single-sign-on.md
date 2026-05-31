@@ -9,13 +9,13 @@ is_published: true
 
 **Single Sign-On (SSO)** is an authentication process that allows users to access multiple applications with a single set of login credentials. HackerRank for Work supports SSO to provide a seamless login experience and is particularly suited for larger teams. This integration simplifies access management by reducing the need to handle multiple credentials.
 
-# Prerequisites
+## Prerequisites
 
   * You must have **Company Admin** access.
 
   * Your organization has an Enterprise plan with HackerRank.
 
-# Steps to enable SSO
+## Steps to enable SSO
 
   1. **Access SSO Settings** : Navigate to the top right-hand side of the landing page, click on the down arrow under profile, and select **Settings** , followed by **Single Sign-On**.
 
@@ -41,7 +41,7 @@ is_published: true
 
 ![2024-09-04_12-34-00.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1735004457388-33046957727379-00ff24ff-6911-4f36-9d2f-9ab12ce2ac9b?Expires=253370764800&Signature=hR1P0NKbVj9VG2lZfFgw0a2njq6nCB46P8VTi73QYa7ri6~f1--kjzNLPzX89MV6dP3E4~VH-tdbchUBGXebevu5Zi57SMjcR7--KJ1DczpThl35zVI5s-Q1OaEsOMo~u~IoV8riIX5rr5~FvlmSV4HlG9D2QI2saowp9wFnz1DbwfKEn5nZsXt7REr-OpFRS6mp1Ad~Cu7rhmZx2pcdmxjRnCLW3jmJEqaOJz-qKWU-TIS1wIGcTrPaxvx3qiLqEnzeHguRU04vDR7SYW3WdN6RQ~~mn~A9zhKO86qWXHzxX534YjiyNRFqxY8DXGJzaGcAULWubWH31lF5-o6ajg__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-# SSO endpoints
+## SSO endpoints
 
   * Entity ID (Metadata URL):  
 `https://www.hackerrank.com/x/api/v1/sso/saml/[company_unique_id]/metadata`
@@ -61,7 +61,7 @@ For example, if your company's unique ID is `fj0iolfc03n`:
 
   * ACS URL: `https://www.hackerrank.com/x/api/v1/sso/saml/fj0iolfc03n/acs`
 
-# Updating certificates
+## Updating certificates
 
 Your IdP metadata includes a security certificate. When a certificate expires, upload a new metadata file to the [HackerRank SSO Page](<https://www.hackerrank.com/work/settings/sso>).
 

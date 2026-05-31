@@ -9,7 +9,7 @@ is_published: true
 
 Use email communication to engage eligible candidates to improve participation on the day of your event.
 
-# Set up email sequences
+## Set up email sequences
 
 You can customize the recommended emails to align with your brand tone and communication strategy.
 
@@ -49,7 +49,7 @@ Once the emails are sent, you can view performance metrics such as Sent, Opened,
 
 ![engagenumbers.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760520973911-engagenumbers.gif?Expires=253370764800&Signature=bSa7m~dh1BqeDVvkjrFZHXbCkz3DGU2MhzIHx78WEWwojMsajlxSg0rWfCXr4N-pV6Au3X2rvfuTj4FsMSIZz2~j9LhjjHCbgjzfVc3vlz-QamokKbABDCkhkoWNMxWQBCojGPutpGHeQoJFMvA3LYUZBDPLk9Gquq-cq7tAWknXHw7MFnJ0oWWVFl2apjoa-734dg9euPkt3xkQeQql8FFoFe-gJ7oJ37D5~DNkGj~E8qlzHLaQccZSvxpflvqmVlNA~iOUT2q4yXe1EHUeMfQ~OES7~YhDDQVRm8sgmyDCn5LRloXOKmN7U1pRb0IvwZ49hsPrrA6xbCp3fh1kgQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-# Set up broadcast emails
+## Set up broadcast emails
 
 Use broadcast emails to send timely updates such as reminders or nudges after the event begins.
 

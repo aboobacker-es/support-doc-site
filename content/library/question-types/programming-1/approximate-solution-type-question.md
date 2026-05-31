@@ -12,7 +12,7 @@ Approximate Solution questions allow you to assess a candidate’s ability to so
 For example, consider a question that asks for a list of five prime numbers less than 100. There are 25 prime numbers in this range, so a candidate can submit any combination of five prime numbers and still receive a correct result. In the custom checker, you can also assign partial credit. For example, if a candidate lists three prime numbers and two composite numbers, you can award three points out of five.  
 Unlike the binary pass-or-fail scoring used for coding questions, a custom checker lets you apply your own logic and assign partial scores for more accurate evaluation.
 
-# Creating an approximate solution question
+## Creating an approximate solution question
 
 To create an approximate solution question:
 
@@ -186,7 +186,7 @@ For more information on the custom checker, see [📄 Custom Checker in Approxim
 
 The question appears under **My Company** questions in the HackerRank Library.
 
-# Scoring an approximate solution question in tests
+## Scoring an approximate solution question in tests
 
 Approximate Solution questions use automatic scoring.
 

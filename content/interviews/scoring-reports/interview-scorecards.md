@@ -9,7 +9,7 @@ is_published: true
 
 The interviewer scorecard is a private scorecard for interviewers to manually evaluate candidate skills during an interview. Each scorecard lists predefined skills based on the candidate’s role and provides structured input fields for feedback.
 
-# Accessing interview scorecards
+## Accessing interview scorecards
 
 To access the interview scorecards:
 
@@ -36,7 +36,7 @@ To access the interview scorecards:
 
   * Click **Delete Scorecard** to remove the scorecard permanently.
 
-# Custom scorecards
+## Custom scorecards
 
 Custom scorecards provide a structured approach to candidate evaluation, reducing subjectivity and improving hiring consistency. It helps interviewers assess candidates using clear, role-specific criteria.
 
@@ -198,7 +198,7 @@ To assign Scorecard during interview setup:
 
 **Note:** If you select a template during interview setup, HackerRank automatically adds the scorecard from that template. If you do not select a template, the interview uses the scorecard you select manually. If you do not select any scorecard, HackerRank uses the default scorecard.
 
-# Using the scorecard during an interview
+## Using the scorecard during an interview
 
 To access and complete the scorecard during an interview:
 
@@ -223,7 +223,7 @@ To access and complete the scorecard during an interview:
 
 After the interview, the scorecard appears in the candidate’s **Interview Report**.
 
-# View scorecard in Interview Report
+## View scorecard in Interview Report
 
 To view the scorecard in the Interview Report:
 

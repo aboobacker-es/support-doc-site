@@ -9,7 +9,7 @@ is_published: true
 
 The **Billing** section in HackerRank for Work allows administrators to update payment methods and billing information, and download invoices.
 
-# Updating credit card information
+## Updating credit card information
 
 You can update your payment method to prevent service disruptions caused by expired or outdated card details.
 
@@ -37,7 +37,7 @@ To update your credit card:
 
 **Note:** All payment information is securely processed via Stripe.
 
-# Updating billing address
+## Updating billing address
 
 Ensure your billing address is accurate to maintain proper invoicing and tax records.
 
@@ -67,7 +67,7 @@ To update your billing address:
 
   6. Click **Save** to confirm.
 
-# Downloading an invoice
+## Downloading an invoice
 
 You can download invoices for accounting and recordkeeping purposes.
 

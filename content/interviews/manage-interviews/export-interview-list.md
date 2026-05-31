@@ -9,11 +9,11 @@ is_published: true
 
 You can download the interview list as a `.csv` file to view, share, or analyze interview data offline.
 
-# Prerequisite
+## Prerequisite
 
 You have created at least one interview. For more information, see [📄 Create an Interview](</articles/8404005945>).
 
-# Exporting interview list
+## Exporting interview list
 
 To export the interview list:
 

@@ -10,7 +10,7 @@ is_published: true
 HackerRank integrates with Greenhouse to streamline the candidate screening process for recruiters.  
 This guide explains how to integrate Greenhouse with HackerRank for Work, allowing you to send tests, schedule interviews, and view results seamlessly.
 
-# Prerequisites
+## Prerequisites
 
 Before you begin, ensure you meet the following requirements:
 
@@ -20,7 +20,7 @@ Before you begin, ensure you meet the following requirements:
 
   * Your HackerRank login email address matches the email address associated with your Greenhouse account.
 
-# Integrating Greenhouse with HackerRank
+## Integrating Greenhouse with HackerRank
 
 To integrate Greenhouse with HackerRank:
 
@@ -243,7 +243,7 @@ To add a user:
 
   5. Ask the user to follow Step 2: Add the HackerRank API token in Greenhouse to add the API key to their Greenhouse account.
 
-# Glossary
+## Glossary
 
   * **Harvest API:** Greenhouse’s data-sharing interface that connects partner applications such as HackerRank.
 
@@ -251,7 +251,7 @@ To add a user:
 
   * **API Token:** A secure key that allows Greenhouse to recognize and authenticate HackerRank’s connection request.
 
-# Frequently Asked Questions (FAQs)
+## Frequently Asked Questions (FAQs)
 
 **Why is the Greenhouse Integration page not showing in my HackerRank account?**
 

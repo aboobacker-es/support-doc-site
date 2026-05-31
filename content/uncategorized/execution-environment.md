@@ -9,7 +9,7 @@ is_published: true
 
 HackerRank provides a comprehensive execution environment that supports multiple programming languages and frameworks, allowing you to run and evaluate your code efficiently.
 
-# Coding and Database
+## Coding and Database
 
 HackerRank supports multithreading in major programming languages. The total CPU time includes execution across all threads. The maximum allowed size for a code submission is **50 KB**.
 
@@ -84,7 +84,7 @@ scalaz-core_2.12@7.3.0-M27, cats-macros_2.12@2.0.0, cats-kernel_2.12@2.0.0, cats
 **Whitespace**|   N/A|  N/A| N/A | N/A | N/A   
 **Brainf88k**|  bf|  N/A| N/A | N/A | N/A   
   
-# Front-End, Back-End, Full Stack, Mobile, Data Science and DevOps
+## Front-End, Back-End, Full Stack, Mobile, Data Science and DevOps
 
 HackerRank runs submissions on an Ubuntu LTS instance with common packages preinstalled, including `zip`, `rar`, `unrar` , `vim`, `iputils-ping` and `net-tools` (`netstat`, `ifconfig`).
 

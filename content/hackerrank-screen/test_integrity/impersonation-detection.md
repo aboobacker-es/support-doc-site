@@ -19,7 +19,7 @@ HackerRank helps detect impersonation during a test and offers the following fea
 
   * Webcam Switch Detection
 
-# Photo Identification
+## Photo Identification
 
 The Photo Identification feature in **Test Integrity** settings is disabled by default for all the tests.
 
@@ -53,7 +53,7 @@ To view the photo:
 
   4. Expand the **Photo ID** section to view the candidate’s photo.
 
-# Image Proctoring
+## Image Proctoring
 
 The **Image Proctoring** feature captures images of candidates at one-minute intervals during the test. By default, this feature is disabled. This feature within the **Test Integrity** settings is disabled by default for all the tests to monitor suspicious activity during the test. 
 
@@ -79,7 +79,7 @@ To view the **Image Proctoring** results:
 
   * Expand the **Proctor** section.
 
-# Multiple Monitor Detection
+## Multiple Monitor Detection
 
 You can detect if an external monitor is connected to the candidate's device during an assessment. This can help identify potential cheating, as the use of multiple monitors can be a significant factor in decision-making.
 
@@ -99,7 +99,7 @@ An additional column, **Max Number of Monitors Detected** , will appear in the C
 
 **Note:** To view the details in the CSV, you must enable the report [setting](<https://support.hackerrank.com/hc/en-us/articles/15120087394451-Report-Settings#accessing-report-settings>) for **Max Monitor Detected**. 
 
-# Webcam Switch Detection
+## Webcam Switch Detection
 
 The proctoring mechanism automatically detects if a candidate switches their webcam during an ongoing test. This feature helps recruiters and hiring managers identify potential suspicious activity and allows for further investigation into why the webcam was changed mid-test. 
 
@@ -109,7 +109,7 @@ Review the information under the **Timeline** tab within a candidate test report
 
 **Feature that uses AI to detect impersonation:**
 
-# Image Analysis
+## Image Analysis
 
 The **Image Analysis** feature categorizes captured images during **Image Proctoring** based on flagged activity. Each flagged category displays up to five images for a quick review of suspicious activity. The **Image Analysis** feature is disabled by default under the**Test Integrity** section.
 

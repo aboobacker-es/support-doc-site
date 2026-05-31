@@ -9,7 +9,7 @@ is_published: true
 
 This guide outlines how to use the Eightfold - HackerRank integration to send HackerRank test invitations and review test results directly in Eightfold.
 
-# Prerequisites
+## Prerequisites
 
 Before you begin, ensure you meet the following requirements:
 
@@ -17,7 +17,7 @@ Before you begin, ensure you meet the following requirements:
 
   * The HackerRank integration with Eightfold is complete. For more information, see [📄 Eightfold - HackerRank Integration Guide](</articles/2732992835>).
 
-# Inviting a candidate to a HackerRank test
+## Inviting a candidate to a HackerRank test
 
 You can move a candidate to a stage where you can send a HackerRank test as part of the hiring process.
 
@@ -60,7 +60,7 @@ To invite a candidate to a HackerRank test:
 
 Eightfold sends the test invitation email to the candidate. 
 
-# Viewing a candidate’s test results
+## Viewing a candidate’s test results
 
 When a candidate completes a HackerRank test, Eightfold displays the test results in the candidate's profile.
 

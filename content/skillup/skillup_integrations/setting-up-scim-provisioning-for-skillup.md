@@ -11,7 +11,7 @@ SkillUp supports automated user provisioning through SCIM. This integration allo
 
 With SCIM, user accounts in SkillUp are automatically synced with your organization’s directory, ensuring user data remains current and consistent.
 
-# Prerequisites
+## Prerequisites
 
 Before you configure SCIM provisioning, ensure that:
 
@@ -19,14 +19,14 @@ Before you configure SCIM provisioning, ensure that:
 
   * You have generated a **SCIM Access Key** in your HackerRank for Work account. For more information, see [_Generating an API Key from HackerRank_](<https://support.hackerrank.com/articles/3939437783-setting-up-scim-provisioning-with-okta#generating-an-api-key-from-hackerrank-18>) section.
 
-# SCIM endpoint and authentication details
+## SCIM endpoint and authentication details
 
 **Item**| **Value**  
 ---|---  
 **Base URL**| `https://services.hackerrank.com/scim/v2`  
 **Users Resource Path**| `/Users`  
   
-# Supported SCIM operations
+## Supported SCIM operations
 
 **Operation**| **HTTP Method**| **Endpoint**| **Description**  
 ---|---|---|---  
@@ -36,7 +36,7 @@ Retrieve Single User| `GET`| `/Users/{id}`| Retrieves details of a specific user
 Update User| `PUT` or `PATCH`| `/Users/{id}`| Updates user attributes  
 Deactivate User| `DELETE`| `/Users/{id}`| Deactivates a user in SkillUp  
   
-# SCIM user schema 
+## SCIM user schema 
 
 Sample SCIM user object:
     
@@ -62,7 +62,7 @@ Sample SCIM user object:
     }
     
 
-# SkillUp-specific attributes
+## SkillUp-specific attributes
 
 **Attribute**| **Type**| **Required**| **Description**  
 ---|---|---|---  

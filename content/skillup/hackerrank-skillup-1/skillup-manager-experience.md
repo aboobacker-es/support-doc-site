@@ -9,7 +9,7 @@ is_published: true
 
 Managers in your organization can use the SkillUp platform to upskill themselves and their teams. With a manager license, they can access the **SkillUp Manager Portal** to develop new skills, earn certifications, and track their team’s progress simultaneously.
 
-# Manager Learning
+## Manager Learning
 
 ## Home
 
@@ -37,7 +37,7 @@ Completing learning paths can earn you industry-recognized certifications. Displ
 
 ![Figma 2024-10-25 17.15.37.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046483485-?Expires=253370764800&Signature=VGHnWMCPQTMvBrCiVH0Zd9ZhMdiCtwJh4RujxzhpUFezPIG7kNfLsRr61v8bX3ftubBoJkByjsebXdd02FZ9pzHRzzQyuccYbZQDojiCdnSwzbT-CwnrhgXfk3ODJMWQrdU44Vaex3ZSgGQgP2jo252IedNo52-hkEScWJSnkui22e9lJ~z7~PCdsjwrSQJ-No3Xg-qHQm11MxTh3Zr40wnAocs3TjQOlZ~e4b9Qsm8O1LPRe6pSQk5zfMATKGdGw1nHnEqeynBKL~VAOmcpuXHbANKdiT07xLVqc03IzjzA5LZzNYD7xjHwCGxyQFrnixsbZq-KUWbeL63FiVgoUQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-# Tracking Team Progress
+## Tracking Team Progress
 
 ## My Team Dashboard
 

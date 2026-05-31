@@ -19,7 +19,7 @@ Weekly Challenges support the following objectives:
 
 **Note:** A new challenge releases every week. Challenges and leaderboards reset every Tuesday at 6:00 PM UTC. 
 
-# Accessing weekly challenges
+## Accessing weekly challenges
 
 To access the weekly challenge: 
 
@@ -31,7 +31,7 @@ To access the weekly challenge:
 
 The banner displays the remaining time to attempt the challenge, along with the current and previous week leaderboards.
 
-# Leaderboard
+## Leaderboard
 
 Each weekly challenge includes a leaderboard that ranks participants within the same organization.
 
@@ -47,7 +47,7 @@ Leaderboards allow users to:
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1769525915891-image.png?Expires=253370764800&Signature=hlizgIT~Ii8nn~m1ggeHH3JWmMKUx~QjU5bixfdjLEalebfITUEPbr9qehoOePpd1DSi4kxo95BBM1tPb1ZsIQlrRPiqr87JDElfFa4l6JkxaJz2~xEOHRpI4gfnR~jIC-rnzjnEL9XlqtbT-4C-lUugorym0uzVbRCOlNKOO4I2ywVUOcnBLR1S2mAa9FXp4gQfw-pNf5MoJqE-iLiY4oG7QJ9l-aQnGf8rtA1ezZ2tvQd7UE9EorMJdgJ5hlqtmoENyJO8cSmXWZumFBnQeePRMpvkbSwtp7bHjn51b8gs-~3eHKLMoFswArWVdOugpK~qRkqhbHuBMiDrW7CqyQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-# Evaluating weekly challenges
+## Evaluating weekly challenges
 
 Weekly Challenges use token efficiency to evaluate submissions.
 
@@ -59,7 +59,7 @@ _Total score = Input tokens (prompt) + Output tokens (generated code)_
 
   * Each user can submit once per weekly challenge
 
-# Available weekly challenges
+## Available weekly challenges
 
 HackerRank currently offers the Weekly Prompt Engineering Challenge.
 

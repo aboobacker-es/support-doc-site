@@ -11,7 +11,7 @@ This feature is part of the AI Add-on. For more information, see [📄 Advanced 
 
 AI Fluency measures how effectively candidates use AI assistants during assessments. 
 
-# Key benefits
+## Key benefits
 
 AI Fluency Evaluation provides the following benefits:
 
@@ -29,7 +29,7 @@ AI Fluency Evaluation provides the following benefits:
 
   * Projects
 
-# How AI Fluency works
+## How AI Fluency works
 
 AI Fluency uses large language models (LLMs) and standard rubrics to evaluate behavioral patterns in candidate-AI interactions.
 
@@ -55,7 +55,7 @@ AI Fluency assigns one of the following grades based on how candidates interact 
 
 **Note:** The evaluation applies the same standards to all candidates, regardless of experience level.
 
-# Enabling AI Fluency evaluation
+## Enabling AI Fluency evaluation
 
 To enable AI Fluency:
 
@@ -65,7 +65,7 @@ To enable AI Fluency:
 
   2. Enable **Proctor Mode** in the test-level settings. For more information, see [_Enable Proctor Mode_](<https://support.hackerrank.com/articles/5663779659-proctor-mode#enable-proctor-mode>).
 
-# Viewing AI Fluency results
+## Viewing AI Fluency results
 
 AI Fluency results appear in both the **Summary Report** and the **Detailed Report**.
 
@@ -122,7 +122,7 @@ For each dimension, select **Ref** to view excerpts from the candidate–AI inte
 
   * The scoring methodology considers question difficulty and type to ensure a fair assessment across problems and complexity levels.
 
-# Frequently Asked Question (FAQ)
+## Frequently Asked Question (FAQ)
 
 **Is AI Fluency available for every test?**
 

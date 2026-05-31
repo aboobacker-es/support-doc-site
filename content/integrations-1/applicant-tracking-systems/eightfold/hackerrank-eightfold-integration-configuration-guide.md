@@ -11,7 +11,7 @@ HackerRank integrates with Eightfold to let you invite candidates to HackerRank 
 
 This guide explains how to integrate Eightfold with HackerRank for Work.
 
-# Prerequisites
+## Prerequisites
 
 Before you begin, ensure you meet the following requirements:
 
@@ -19,7 +19,7 @@ Before you begin, ensure you meet the following requirements:
 
   * Your organization has an active Enterprise plan with HackerRank.
 
-# Integrating Eightfold with HackerRank
+## Integrating Eightfold with HackerRank
 
 To integrate Eightfold with HackerRank:
 

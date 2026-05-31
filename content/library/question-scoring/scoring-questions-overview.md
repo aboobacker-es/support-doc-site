@@ -13,7 +13,7 @@ HackerRank supports two evaluation methods for questions in a test, based on the
 
   * **Manual evaluation** : You can review candidate responses and assign scores manually.
 
-# Evaluation methods by question type
+## Evaluation methods by question type
 
 The table below lists the evaluation method for each question type and provides links to related documentation.
 

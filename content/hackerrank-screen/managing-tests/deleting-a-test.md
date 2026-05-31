@@ -11,13 +11,13 @@ You can delete a test when you no longer need it. Deleting a test permanently re
 
 **Tip:** If you want to retain the test and its reports but hide it from the active test list, consider archiving the test instead. You can restore archived tests at any time. For more information, see [📄 Archive a Test](</articles/8415416322>).
 
-# Prerequisites
+## Prerequisites
 
   * You must have an existing test in your HackerRank account.
 
   * You must have the required permissions to delete a test.
 
-# Deleting a test
+## Deleting a test
 
 To delete a test:
 

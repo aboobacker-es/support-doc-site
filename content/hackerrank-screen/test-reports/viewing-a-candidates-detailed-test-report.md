@@ -11,11 +11,11 @@ HackerRank for Work provides Detailed Test reports that help you review your can
 
 Based on the Question type, the Detailed test report includes specific options to view, playback, compile, render, compare, and download the candidate's answer or solution. With these capabilities in the report, you can conduct a detailed evaluation of the answers, change scores, and record your feedback.
 
-# Prerequisite
+## Prerequisite
 
   * You must have at least one test attempt by the candidate.  
 
-# Viewing Detailed Reports 
+## Viewing Detailed Reports 
 
   1. Navigate to **Tests** and select the required Test.
 
@@ -23,7 +23,7 @@ Based on the Question type, the Detailed test report includes specific options t
 
   3. Click **View detailed**  from the **Questions**  section on the Candidate's Summary tab to open the detailed reports. You can also click on the individual questions to open a detailed report for that specific question.
 
-# Key Features of a Detailed Report
+## Key Features of a Detailed Report
 
   * Upon clicking on**View Detailed,** you will be taken to the **Detailed Report** page, where your selected question from the candidate’s test will be loaded along with their answer in full-screen mode.
 

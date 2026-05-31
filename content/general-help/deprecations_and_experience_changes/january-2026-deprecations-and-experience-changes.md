@@ -9,7 +9,7 @@ is_published: true
 
 HackerRank periodically deprecates features and experiences to improve reliability, reduce complexity, and deliver the best version of the platform.
 
-# April 2026
+## April 2026
 
 The following changes will be effective April 22, 2026.
 
@@ -49,7 +49,7 @@ This change removes duplicate functionality and provides a more consistent, reli
 
 The phone call feature in interviews is being deprecated. Interviewers and candidates can continue using the built-in audio and video capabilities for communication.
 
-# January 2026
+## January 2026
 
 The following changes will be effective January 28, 2026.
 

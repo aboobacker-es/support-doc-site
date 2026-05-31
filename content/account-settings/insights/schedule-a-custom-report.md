@@ -9,13 +9,13 @@ is_published: true
 
 HackerRank allows you to schedule custom reports to run automatically at defined intervals. The system generates the report and sends it to selected recipients by email.
 
-# Prerequisite
+## Prerequisite
 
   * A custom report is created in HackerRank for Work.
 
   * You have access to the report (created by you or shared within your company).
 
-# Scheduling a custom report
+## Scheduling a custom report
 
 To schedule a custom report:
 
@@ -51,7 +51,7 @@ The platform saves the schedule and sends the report to the selected recipients 
 
 **Note:** You can create only one schedule per report.
 
-# Editing a custom report schedule
+## Editing a custom report schedule
 
 To edit a custom report schedule:
 
@@ -69,7 +69,7 @@ To edit a custom report schedule:
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776765072916-image.png?Expires=253370764800&Signature=aE8SFiY7OBkEF-lDNkKpWAuR8gOj2ryCg73h0M1kFxge2b5MZcm04gMoYwMW-dzwsOGnN~Myjx8WKxYV4i0wVBqNcTzxyp4khm-1CnhGsHRs-fvJVBrk89y1qjl6LXKweFHqXB78XCgLXGRz9h7PRg5Z-gNhVUT0Dybx4Vo3dP~H3aaaS1CtH9r2YhpDLHfX1DXHWDxguGQhN73jTsZO8IVqRq2f170vSk-eUN3OSd~W1GnMG45oPwDe5fXpUZ3EVEEDvH34OJAgSaB-PVMTrwomHWdhIqINBj18iyInKAagRV3jaIP5-krV3B5k58ail2yi1OQTEH~Ahww~a4F~DA__&Key-Pair-Id=K3NV4LZ47N8M46)
   6. Click **Save Schedule**.
 
-# Deleting a custom report schedule
+## Deleting a custom report schedule
 
 To delete a custom report schedule:
 

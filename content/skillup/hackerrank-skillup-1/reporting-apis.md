@@ -11,14 +11,14 @@ SkillUp’s Reporting APIs allow you to programmatically extract skill signals, 
 
 **Note:** Only administrators can generate credentials to access these APIs.
 
-# Available endpoints
+## Available endpoints
 
 **Endpoint**| **Description**  
 ---|---  
 Credentials API| Returns a list of all available badges and certifications in SkillUp.  
 Users API| Returns user data, including learning progress, badges, and certifications achieved.  
   
-# Configuring reporting APIs‬
+## Configuring reporting APIs‬
 
 SkillUp APIs use the **OAuth 2.0 Client Credentials** flow for secure access. Only authorized systems can request and retrieve reporting information.
 
@@ -118,7 +118,7 @@ Include the token in the Authorization header of your request.
     curl -X GET https://www.hackerrank.com/skillup/api/v2/credentials \
     -H "Authorization: Bearer <access_token>"
 
-# Error handling
+## Error handling
 
 **Status Code**| **Error**| **Description**  
 ---|---|---  
@@ -127,7 +127,7 @@ Include the token in the Authorization header of your request.
 403| Forbidden| Token lacks required permissions  
 429| Too Many Requests| Too many requests made in a short time  
   
-# Best practices
+## Best practices
 
   * Store credentials securely. Never expose client credentials in client-side code.
 
@@ -135,7 +135,7 @@ Include the token in the Authorization header of your request.
 
   * Request a new token before the current one expires.
 
-# Rate limits
+## Rate limits
 
 **Request Type**| **Limit**  
 ---|---  

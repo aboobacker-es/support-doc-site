@@ -9,7 +9,7 @@ is_published: true
 
 You can create a test in HackerRank to assess candidates for specific skills, experience levels, or job roles. Depending on your selection, HackerRank recommends relevant questions or allows you to build the test from scratch.
 
-# Creating a Test
+## Creating a Test
 
 To create a test:
 
@@ -114,7 +114,7 @@ To create a custom test:
 
   4. Click **Publish** to make the test available to candidates.
 
-# Additional test actions
+## Additional test actions
 
 ## Move a test to draft
 

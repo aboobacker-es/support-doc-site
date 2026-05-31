@@ -7,11 +7,11 @@ last_edited: "2026-05-27"
 is_published: true
 ---
 
-# Overview
+## Overview
 
 The below diagram describes the workflow of the BrassRing and HackerRank Interviews integration for recruiters. Recruiters will move a candidate into a custom HackerRank Interview status. Upon entering this status, BrassRing will dispatch a payload to HackerRank via the Candidate Export API. HackerRank will then generate a new Interview URL and Scheduling link and respond back to BrassRing. The Recruiter can use the Interview URL directly in their own scheduling tool. Optionally, they can access the scheduling link to set up a date and time within HackerRank. HackerRank will then send out the calendar invitation automatically. After the Interview has occurred, a link to the Interview report will be sent back to BrassRing via the Form Import API.
 
-# Integration Steps
+## Integration Steps
 
 The integration involves a 3-step process:
 

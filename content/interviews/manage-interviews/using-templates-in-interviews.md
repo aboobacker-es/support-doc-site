@@ -11,7 +11,7 @@ You can use and manage templates during an interview.
 
 **Note:** If you selected a template when creating the interview, it loads automatically when the interview opens. If you did not select a template, the default interview screen appears. For more information, see [📄 Create an Interview](</articles/8404005945>).
 
-# Opening a template during an interview
+## Opening a template during an interview
 
 To open a template during an Interview:
 
@@ -26,7 +26,7 @@ To open a template during an Interview:
 
      * Select **Use** for the specific question to add only that question.
 
-# Manage templates during an interview
+## Manage templates during an interview
 
 You can update templates directly from the interview interface.
 

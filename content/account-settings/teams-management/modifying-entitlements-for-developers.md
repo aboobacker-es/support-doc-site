@@ -9,11 +9,11 @@ is_published: true
 
 You can modify developer entitlements to control access to tests, interviews, questions, and candidates.
 
-# Prerequisite
+## Prerequisite
 
 You must have created a team.
 
-# Modifying entitlements for developers
+## Modifying entitlements for developers
 
 To modify entitlements for developers in a team:
 
@@ -29,7 +29,7 @@ To modify entitlements for developers in a team:
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1769504726488-image.png?Expires=253370764800&Signature=TbCj5Hcu~1I2TlTpY~ho3uJidRj~SDlFfbFQVQ8IaFsIWAxebtkan1W0Jcp6v67uM4grEoC~lN2S4lY5htd9neO25lBsKwWurAp8~AmaGrYRVGtVtcqq2n4XJIy7I9wdYc8AH-5aDJnNcdR7dt-jRn3y7EoyQ5-L6yXBUsoUCHDLmqqis2vKEV-zrJIX73vWc7LTAaukG-MNe80Kux12rBTh2kJ3lrdxIAtaKTOSdSlK59-c-ybhBVz9KbqIUd1zB5O-cS7~DyhCT2tTqp5vBMDp-5X7n9LwCa9XziP0mBycGYiasTMpWWjPL7ehKkG3YZTRv12Z2sjWhVTTkOe-Hg__&Key-Pair-Id=K3NV4LZ47N8M46)
   5. Review and update the entitlements as needed.
 
-# Available developer entitlements
+## Available developer entitlements
 
 You can manage the following entitlement categories for developers:
 

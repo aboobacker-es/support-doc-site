@@ -19,7 +19,7 @@ A Team Admin can:
 
 **Note:** Only Company Admins can add new users to the platform. For more information, see [📄 Invite a New User](</articles/9482219268>).
 
-# Prerequisites
+## Prerequisites
 
 Before you begin, ensure you meet the following requirements:
 
@@ -27,7 +27,7 @@ Before you begin, ensure you meet the following requirements:
 
   * The user is already a member of the team. For more information, see [📄 Inviting an Existing User to a Team](</articles/2203617737>).
 
-# Granting Team Admin access
+## Granting Team Admin access
 
 To grant Team Admin access:
 

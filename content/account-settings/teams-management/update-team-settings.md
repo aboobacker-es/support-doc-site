@@ -9,11 +9,11 @@ is_published: true
 
 HackerRank allows you to modify team settings for an existing team, such as the team name, region, and department.
 
-# Prerequisite
+## Prerequisite
 
 You must have Company Admin or Team Admin access.
 
-# Updating team settings
+## Updating team settings
 
 To update team settings:
 

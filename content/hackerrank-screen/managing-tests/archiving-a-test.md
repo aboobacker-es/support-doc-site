@@ -9,11 +9,11 @@ is_published: true
 
 Archiving a test helps you manage your test library by moving unused tests out of the **Active Tests** tab. An archived test is no longer available for inviting candidates or publishing. You can restore an archived test at any time.
 
-# Prerequisites
+## Prerequisites
 
 You must have an existing test in your HackerRank account.
 
-# Archiving a test
+## Archiving a test
 
 To archive a test:
 
@@ -35,7 +35,7 @@ To archive a test:
   
 The test moves to the **Archived Tests** list.
 
-# Restoring an archived test
+## Restoring an archived test
 
 To restore an archived test: 
 

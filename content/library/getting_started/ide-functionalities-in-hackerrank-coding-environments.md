@@ -9,7 +9,7 @@ is_published: true
 
 HackerRank coding environments provide IDE features that improve code editing, navigation, debugging, and developer productivity across Front-end, Back-end, Full-stack, Mobile, QA Engineer, and Generative AI question types.
 
-# Supported IDE functionalities
+## Supported IDE functionalities
 
   * **Syntax Highlighting:** Applies colors and styles to code elements based on language grammar. It helps users quickly identify keywords, variables, strings, comments, functions, and other code elements.
 

@@ -11,11 +11,11 @@ Email templates in HackerRank allow you to standardize and streamline candidate 
 
 For example, create one email template for campus hiring and another for lateral hiring. Save each template separately and select the appropriate one when you send invitations.
 
-# Prerequisite
+## Prerequisite
 
 You must have a published test in your HackerRank for Work account. 
 
-# Creating a custom email template
+## Creating a custom email template
 
 To create a custom email template:
 
@@ -71,7 +71,7 @@ We hope you enjoy the challenge and look forward to receiving your results!
 **Test Expiration Date:  ****To begin, please click the “Start Challenge” button below.** We wish you the best and hope you enjoy completing our challenge!  
 ---  
   
-# Editing a custom email template
+## Editing a custom email template
 
 To edit a custom email template:
 
@@ -91,7 +91,7 @@ To edit a custom email template:
 
   7. Click **Save**.
 
-# Using a custom email template
+## Using a custom email template
 
 To use a custom email template that you have created:
 
@@ -115,7 +115,7 @@ The label **In use** appears next to the template currently applied to the invit
 
 **Note:** To configure an invite email at the test level, see [📄 Configure Email Settings for Tests](</articles/2564162886>).
 
-# Using a shared email template
+## Using a shared email template
 
 To use a shared email template:
 
@@ -132,7 +132,7 @@ To use a shared email template:
 
   6. Click **Use this Template**. The selected template appears in the test invite.
 
-# Setting a default email template
+## Setting a default email template
 
 You can set one of your templates as the default for all email invites. When you set a default template, the email editor on the **Send Test Invites** page automatically loads it when you click **Invite** for a test
 
@@ -152,7 +152,7 @@ To set a default template:
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1758792811366-image.png?Expires=253370764800&Signature=m-O1LerAhyTEed9GauAUQuA1VcLRT2qNNw8NpeMC-jpNFoOH67H2tNF5thehaKwZOLIKYX4XikohTClq2LEK6~WZhp5ujn8pAadBnuq8yCH1YnMys6UAetruDTjKmz0Z2K6BjR3IMn2w7B6Xt1fQRAx3xpCB7TURt5MU0cmJvGrh5EuYOPXOmw4jqechQtq6ybLF4hk9V-py~TjWZscfh236q8RoxdcT7BDU-nUH4ucwiLcnrcDgr0vq4FE~0Gf2VBy7tpyYh1PkTpGU2XVcunylvngcxSM3cHoXRmb9Idq2Dn9-apJC80GUg0a1yNO1nbier4K755ME53GReNMt6Q__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-# Deleting a custom email template
+## Deleting a custom email template
 
 You can delete an email template if it is no longer in use.
 

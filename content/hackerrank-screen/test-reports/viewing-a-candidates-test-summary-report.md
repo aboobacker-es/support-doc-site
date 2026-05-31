@@ -29,7 +29,7 @@ To return to the old Summary Report, click the **Switch to old view** icon.
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760364335801-image.png?Expires=253370764800&Signature=qbeqZ10hSqnBdzMv3r5M9M0p~KCG6tWLBpnmx1pAsoQ0Zqsc-5mzA0RA-aFCWNr4d~0wsZVVBhRF5nAQKz7sxeD~LmoYpeD4h9tkH8byQXewnL6rnGXhcpRq9jyuOO01icGtLnd71K3~0dAHI2AqnmiTFKy8AzqRbM6jp9-A6xNi2IjZ5Ad~PbYe-~w~NdKXQo~QrbwxNE1V0wJDGZZVPsBf1qVwjvraFva2jt6-23xiKwEqWZU9xR-je1W5K6UEfl9y1TnGZIt7EFqMl4V1lj-xEGmtglvjYkQKpSd72dOuSnpEAjxU4rksOFh1a0UFYt29iTGH51HHSFzXKNe8XA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-# Summary Report comparison
+## Summary Report comparison
 
 The table below provides a comparison of the old Summary Report and the new Summary Report.
 
@@ -46,7 +46,7 @@ Session Replay (When Proctor Mode is enabled)| ❌| ✅
 Attempt Activity (For tests without Proctor Mode)| ✅| ✅  
 Assessment and Candidate Details| ✅| ✅  
   
-# Accessing the Summary Report
+## Accessing the Summary Report
 
   1. Log in to your **HackerRank for Work** account using your credentials.
 
@@ -59,7 +59,7 @@ Assessment and Candidate Details| ✅| ✅
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760453711320-image.png?Expires=253370764800&Signature=rDjxTnN3rM2nEHJU2XbieaGW4eXbNtLR-io1yiLFp6Mq-BKTU4GykzeZz2OaTs7Tu8tgcXLNJyiqbI8N6BgXGDbU0qmyJuJ7M8SbBGmzEKn5ouaW4slTfUSjvf3ImUUI0AZxwnAjHpezb98ShlTWB1q9Sbcw2PPGagZQQq9x2t0Vxc5Wbo-yMi3lR0migSGaDFwU6RHkgkB-WrUnsmz42sDGTnHMQlxp9Erfd7ksMTjMjfPq1sc8dvrm6Es0rSPkdRfBckLCgHcO2HDJiVA8V8rJyVYExeerFcVoAc6y3ehR7Z1Qay7ObxHZUjKrDBxxtfGo4HfZoHDGZWyE5y-8QA__&Key-Pair-Id=K3NV4LZ47N8M46)
   5. Select a candidate’s name to view the Summary Report.
 
-# Old Summary Report
+## Old Summary Report
 
 The old Summary Report provides detailed insights into candidate performance and test efficiency. It helps you to assess a candidate's suitability for a role.
 
@@ -120,7 +120,7 @@ The question requires manual evaluation.| ![25.png](https://assets.usepylon.com/
 
   * Open it in a new tab using the **New Tab** icon.
 
-# New Summary Report
+## New Summary Report
 
 The New Summary Report provides enhanced performance analytics, AI insights, and improved integrity tracking. It offers deeper visibility into candidate behavior, performance, and code quality, helping you make informed, data-driven hiring decisions.
 

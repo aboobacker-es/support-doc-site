@@ -13,7 +13,7 @@ You can use Zapier to automate HackerRank assessment workflows. This guide expla
 
   * Receive and store assessment results. 
 
-# Prerequisites
+## Prerequisites
 
 Before you begin, ensure you meet the following requirements:
 
@@ -21,7 +21,7 @@ Before you begin, ensure you meet the following requirements:
 
   * The HackerRank integration with Zapier is complete. For more information, see [📄 Zapier - HackerRank Integration Guide](</articles/9883166979>).
 
-# Configuring Zaps for HackerRank assessments 
+## Configuring Zaps for HackerRank assessments 
 
 A Zap is an automated workflow that connects two or more applications to perform tasks without manual intervention.
 
@@ -248,7 +248,7 @@ Complete the Zap created in **Step 1** to store assessment results from HackerRa
 
 Your HackerRank assessment Zap automation is now complete.
 
-# Sending assessment invites
+## Sending assessment invites
 
 After you have configured the Zaps for HackerRank assessment, you can send assessment invites to candidates.
 
@@ -284,7 +284,7 @@ To send assessment invites to candidates:
 
 Zapier sends HackerRank assessment invites to candidates based on the on the data you enter.
 
-# Viewing assessment results
+## Viewing assessment results
 
 When a candidate completes an assessment, the results are automatically added to the **Assessment results** table.
 

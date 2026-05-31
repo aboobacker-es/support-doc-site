@@ -9,7 +9,7 @@ is_published: true
 
 This guide outlines how to use the Greenhouse - HackerRank integration to schedule HackerRank interviews and review interview results directly in Greenhouse.
 
-# Prerequisites
+## Prerequisites
 
 Before you begin, ensure you meet the following requirements:
 
@@ -17,7 +17,7 @@ Before you begin, ensure you meet the following requirements:
 
   * The HackerRank integration with Greenhouse is complete. For more information, see [📄 Greenhouse - HackerRank Integration Guide](</articles/1406188460>).
 
-# Adding HackerRank interview stage in Greenhouse
+## Adding HackerRank interview stage in Greenhouse
 
 You can add a HackerRank Interview stage to include HackerRank Interviews in your hiring process.
 
@@ -42,7 +42,7 @@ To add **HackerRank Interview** stage to a job interview plan in Greenhouse:
 
   7. Click **Add**. Greenhouse adds the HackerRank Interview stage to the interview plan.
 
-# Scheduling HackerRank Interview 
+## Scheduling HackerRank Interview 
 
 **Note:** Before you schedule an interview, ensure that the HackerRank Interview stage is added to the job interview plan in Greenhouse. For more information, see [Adding HackerRank interview stage in Greenhouse](<https://support.hackerrank.com/articles/8806262569-greenhouse---hackerrank-integration-interviews-user-guide#adding-hackerrank-interview-stage-in-greenhouse>).
 
@@ -97,7 +97,7 @@ Greenhouse generates the HackerRank interview link and displays it under **Inter
 
 Greenhouse sends the interview invitations to the candidate and interviewers.
 
-# Viewing Interview Results
+## Viewing Interview Results
 
 After interviewers complete the scorecard in HackerRank and click **Sync to Greenhouse** , the interview report link appears in the candidate’s profile in Greenhouse. For more information about using the interview scorecard in HackerRank, see[ Using the scorecard during an interview](<https://support.hackerrank.com/articles/9842091173-interview-scorecards#using-the-scorecard-during-an-interview>).
 

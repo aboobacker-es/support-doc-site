@@ -9,7 +9,7 @@ is_published: true
 
 This article provides FAQs and troubleshooting steps for common issues encountered while enabling and using the integration.
 
-# API Token and Access
+## API Token and Access
 
 **Why can't I view the API keys in my HackerRank for Work account?**
 
@@ -53,7 +53,7 @@ You must log in to Greenhouse with the same email address to:
 
   * Log in to HackerRank interview and conduct interviews with Greenhouse candidates.
 
-# Tests and Interviews
+## Tests and Interviews
 
 **Why do I receive an error when generating a HackerRank interview link in Greenhouse?**
 
@@ -115,7 +115,7 @@ In **HackerRank for Work** , ensure that your user account belongs to the Test o
 
 No. To view the candidate’s submission, log in to **HackerRank for Work** and open the candidate’s detailed Test report.
 
-# Common Troubleshooting
+## Common Troubleshooting
 
 If you encounter issues with the integration, try the following steps:
 

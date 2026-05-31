@@ -43,7 +43,7 @@ After you save the changes, the users or teams and their assigned roles appear b
 
 **Note:** Any teams the test owner is a part of automatically have access to the test.
 
-# Frequently Asked Questions (FAQs)
+## Frequently Asked Questions (FAQs)
 
 **Can I disable automated team-based sharing?**
 

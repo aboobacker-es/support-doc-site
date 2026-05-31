@@ -9,11 +9,11 @@ is_published: true
 
 Archive a question when it is no longer in use but you want to keep it for future reference. You can archive only questions created by you or your team members in your organization.
 
-# Prerequisite
+## Prerequisite
 
 Your organization must have created at least one question.
 
-# Archiving a question
+## Archiving a question
 
 To archive a question:
 
@@ -37,7 +37,7 @@ To archive a question:
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1758776730528-image.png?Expires=253370764800&Signature=qAzajR6Vz80kciDlo7E6GLE3GqEzXC6BLIFdAfdHZosy1BNATMp5GULybB0JaZDBV5vjhres0UjQBbzbj9aiIiDydDBuDw6OBk~HPwEykvWVCQuKgQjvf1RT-B9NogI5ivu5KjEAweu~XlYMOvFLuj~khrlA0CMD5jHs1uhFYtd7RAQmBzt3B~3Ew-9bYL9pRdlPVXOEDlXxBvpWyCz7z2rMvyl8X4yGiF7RP3L0fM1jni30P8y4cxUzy3ehnPlVysVWDjr3IbvB1MI~A03weDwA9tzmK3EWuWuUrQ898M7O4CW7biY5iK0Vl-JDwEStyd-rzYXXzypVyvEW6ZxtnA__&Key-Pair-Id=K3NV4LZ47N8M46)
   * To view archived questions, select the **Filter** icon, choose **Archived > Show Archived Questions Only**. To clear archived questions, select **Clear Archived**.
 
-# Unarchiving a question
+## Unarchiving a question
 
 You can restore archived questions if you need to use them again.
 

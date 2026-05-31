@@ -13,7 +13,7 @@ You can use the downloaded reports to share with external evaluators or recruite
 
 **Note:** You can download test reports only for candidates who have completed the test.
 
-# PDF test reports
+## PDF test reports
 
 You can download individual PDF reports for each candidate. Each PDF report replicates the detailed test report and includes the following information:
 
@@ -47,11 +47,11 @@ If you use the new version of the summary report, the PDF also includes:
 
 **Note:** Although the PDF report includes the candidate's detailed answers to the questions, use the Detailed Report view in HackerRank for a thorough evaluation. The detailed report provides features such as **c** ode playback, compilation, rendering, and download.
 
-# Excel test reports
+## Excel test reports
 
 The Excel test report contains the performance report for all candidates in a single file. You can customize the report in [Report Settings](<https://hackerrank-knowledge-base.help.usepylon.com/articles/5213013268-report-settings#accessing-report-settings-1>) to choose which candidate performance data to include when downloading it in Excel format.
 
-# Downloading test reports
+## Downloading test reports
 
 To download test reports in PDF or Excel format:
 

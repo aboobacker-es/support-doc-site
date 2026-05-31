@@ -9,11 +9,11 @@ is_published: true
 
 You can download a HackerRank test as a PDF to share or review offline. 
 
-# Prerequisites
+## Prerequisites
 
 You must have an existing test in your HackerRank account.
 
-# Downloading test as PDF
+## Downloading test as PDF
 
 To download the test as a PDF: 
 

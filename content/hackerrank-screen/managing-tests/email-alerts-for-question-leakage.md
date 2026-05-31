@@ -9,7 +9,7 @@ is_published: true
 
 Email alerts for question leakage help you quickly identify and respond to leaked questions, maintaining the integrity and reliability of your hiring process.
 
-# Key benefits
+## Key benefits
 
 Email alerts provide the following benefits:
 
@@ -17,7 +17,7 @@ Email alerts provide the following benefits:
 
   * **Easy leakage management:** Use the direct link in each email alert to open the affected test and replace the leaked question immediately.
 
-# Enabling email alerts
+## Enabling email alerts
 
 You can enable email alerts for leaked questions at the company level, user level, or test level.
 
@@ -92,7 +92,7 @@ To enable email alerts for a specific test:
 
 **Note:** For more information on leaked questions, see [📄 Managing Leaked Questions](</articles/8820947031>).
 
-# Receiving and responding to email alerts
+## Receiving and responding to email alerts
 
 After you enable alerts, test editors receive an email that includes:
 

@@ -13,7 +13,7 @@ As campus hiring scales up, this release strengthens assessment integrity so you
 
 To accelerate screening, Chakra, our AI interviewer, continues to evolve with improved reporting and new ATS integrations. Faster, more structured interview analysis and quantitative scoring help teams compare candidates and identify top talent with richer insight into both technical ability and AI fluency.
 
-# Screen
+## Screen
 
 ## AI Assistant for Data Science Questions (AI Add-On)
 
@@ -237,7 +237,7 @@ For more information, see [Answer Cloud Questions](<https://candidatesupport.hac
 
 The `project_files_instructions.md` file is no longer included in the project questions in the library. This file previously provided instructions about read-only files and appeared when the question loaded. This change simplifies the workspace and reduces unnecessary distractions during the assessment.
 
-# Interview
+## Interview
 
 ## Interview-Level Controls for AI Assistant (AI Add-On)
 
@@ -307,7 +307,7 @@ VIM mode, a keyboard-driven editing mode, is now supported for project-based int
 
 For more information, see [📄 Configure Interview Settings](</articles/6563947154>).
 
-# Platform
+## Platform
 
 ## New Candidate Search Experience
 
@@ -423,7 +423,7 @@ Web Development| Spring Boot| Code Repository| 36
 Web Development| Go| Code Repository| 36  
 Web Development| Flask| Code Repository| 29  
   
-# Chakra (AI Interviewer)
+## Chakra (AI Interviewer)
 
 ## Dictation Support for Interview Creation
 
@@ -493,7 +493,7 @@ Chakra now supports integrations with Greenhouse and Ashby, allowing you to mana
 
 For more information, see [📄 Greenhouse - Chakra Integration User Guide](</articles/8491534135>) and [📄 Ashby - Chakra Integration User Guide](</articles/8472393759>).
 
-# SkillUp
+## SkillUp
 
 ## Custom Certifications from HackerRank Tests 
 
@@ -511,7 +511,7 @@ You can now view past certification attempts and track performance across attemp
 
 For more information, see [Certification Attempt History](<https://support.hackerrank.com/articles/9473085715-skillup-manager-experience#certification-attempt-history>).
 
-# Community
+## Community
 
 ## AI-Powered Mock Interviews
 
@@ -537,7 +537,7 @@ Simulates AI-focused interview rounds. You can practice how to apply AI in real-
 
 For more information, see [Introduction to Mock Interview](<https://help.hackerrank.com/articles/8988753946-introduction-to-mock-interview>), [Technical Screen Mock Interview](<https://help.hackerrank.com/articles/5671120169-technical-screen-mock-interview>), [System Design Mock Interview](<https://help.hackerrank.com/articles/8813699799-take-a-system-design-mock-interview>), [Behavioural Mock Interview](<https://help.hackerrank.com/articles/5174727491-behavioural-mock-interview>), and [AI Fluency Mock Interview](<https://help.hackerrank.com/articles/3796809491-ai-fluency-mock-interview>).
 
-# Deprecations and Experience Changes
+## Deprecations and Experience Changes
 
 ## Engage
 

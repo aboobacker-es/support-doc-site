@@ -9,11 +9,11 @@ is_published: true
 
 You can create teams in HackerRank to match your company structure. Members of a team can view all tests, interviews, and other resources created within that team.
 
-# Prerequisite
+## Prerequisite
 
 You must have Company Admin access.
 
-# Creating a team
+## Creating a team
 
 To create a team:
 

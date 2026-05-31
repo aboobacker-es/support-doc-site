@@ -9,7 +9,7 @@ is_published: true
 
 The HackerRank platform will undergo a scheduled database upgrade during our regular maintenance window. This upgrade helps maintain platform reliability and performance.
 
-# Maintenance schedule
+## Maintenance schedule
 
   * **Date:** Saturday, April 18, 2026
 
@@ -17,13 +17,13 @@ The HackerRank platform will undergo a scheduled database upgrade during our reg
 
   * **Duration:** 1 hour
 
-# Impact
+## Impact
 
   * The HackerRank platform will be inaccessible for approximately one hour.
 
   * All platform services will resume immediately after the maintenance window.
 
-# Required actions
+## Required actions
 
 Ensure that no candidate tests, interview sessions, or other platform activities are scheduled during the maintenance window.
 
@@ -35,7 +35,7 @@ If you already have activities scheduled during this time, reschedule them outsi
 
   * To reschedule an interview, see [Reschedule an interview](<https://support.hackerrank.com/articles/2342466364-rescheduling-an-interview>).
 
-# Frequently Asked Questions
+## Frequently Asked Questions
 
 **How does this impact assessments?**
 
@@ -63,7 +63,7 @@ You can update the expiration date for any test invites set to expire on April 1
 
   * To extend invite expiry for specific candidates in a test, see [Set an expiry date](<https://support.hackerrank.com/articles/6027855406-inviting-candidates-to-a-test#set-an-expiry-date>).
 
-# Need support?
+## Need support?
 
   * Visit the [HackerRank Status](<https://status.hackerrank.com/>) page for real-time updates during the maintenance window.
 

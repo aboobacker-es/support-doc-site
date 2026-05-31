@@ -13,13 +13,13 @@ Optimality Evaluation enables hiring teams to assess whether a candidate’s sol
 
 This feature evaluates the performance and scalability of candidate code, aligning test evaluations closer to real-world engineering expectations.
 
-# How it works
+## How it works
 
 When you enable **Advanced Evaluation** at the company level, **Optimality Evaluation** automatically applies to supported Coding questions. The system analyzes the candidate’s solution to determine its time and space complexity.
 
 **Note:** The candidate experience remains unchanged. Candidates take the test as usual.
 
-# Set up Optimality Evaluation
+## Set up Optimality Evaluation
 
 To set up Optimality Evaluation:
 
@@ -38,7 +38,7 @@ To set up Optimality Evaluation:
 
 Once configured, **Optimality Evaluation** automatically applies to the question when used in a test with **Advanced Evaluation** enabled.
 
-# View Optimality insights in reports
+## View Optimality insights in reports
 
 Optimality insights appear in candidate test reports.
 
@@ -61,7 +61,7 @@ The **Detailed Report** includes an **Optimality** section for each coding quest
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1753698827548-image.png?Expires=253370764800&Signature=H2aYw8B8tD66sDmgeOSgxoS4cjD331dKsjutuTp9HZAp3Lc4YuxXGjtGjQBVzPA2NsK5vLR264ZsdNjkVqEUc~9pEY9hYnhKD-l07ud6GNVLxmCfuTYaqNYOGRkoM6zo~~spRuRIO3jyWXo3CxF3Dr3awcuYVX6SGZ94ApLoMFbl~ub9JvYKTL7M4Z0pOzBBnP4KIG1NA9OOrOW4YxKnwkJTM5ZjZvOeAOcya6KLKCnCCHRtzG5tOyRZdQ6W6QsICqAChs1wo6UQ2FEWxqLDG4o~Jl6acZ86hqAhxb8n-PK7MfHmyjOT49qm5RjSUrxnOEI-XJus6BkmzcQjrboRSA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-# Frequently Asked Questions (FAQs)
+## Frequently Asked Questions (FAQs)
 
 **Which question types support Optimality Evaluation?**
 

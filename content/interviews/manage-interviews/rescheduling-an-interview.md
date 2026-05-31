@@ -9,11 +9,11 @@ is_published: true
 
 You can reschedule an interview to a different time. When you reschedule, HackerRank automatically sends email notifications to the candidate and interviewers with the updated time.
 
-# Prerequisites
+## Prerequisites
 
 You must have created and scheduled an interview that has not yet been conducted.
 
-# Rescheduling  an Interview
+## Rescheduling  an Interview
 
 To reschedule an interview: 
 

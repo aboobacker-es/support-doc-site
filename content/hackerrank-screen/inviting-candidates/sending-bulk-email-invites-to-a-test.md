@@ -31,7 +31,7 @@ For example, `Evan Brown<evanbrown@gmail.com>`, `Nancy Smith<nancysmith@gmail.co
 
 **Note:** If you include candidate names in the CSV file, you can personalize invitations by using the Candidate Name placeholder. The system automatically replaces the placeholder with the candidate’s name from your file.
 
-# Sending bulk email invites
+## Sending bulk email invites
 
 To send bulk email invites:
 
@@ -63,7 +63,7 @@ To send bulk email invites:
 
   * Do not use emojis in the subject line of your email invitations.
 
-# Troubleshooting bulk invite errors
+## Troubleshooting bulk invite errors
 
 When you upload a CSV file, the system automatically validates the entries. If the file contains invalid invitations, an error message appears.
 

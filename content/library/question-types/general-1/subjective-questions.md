@@ -9,7 +9,7 @@ is_published: true
 
 Subjective questions allow you to ask candidates open-ended questions. You can provide a prompt, and candidates can respond in their own words.
 
-# Creating a subjective question
+## Creating a subjective question
 
 To create a subjective question:
 
@@ -52,12 +52,12 @@ To create a subjective question:
 
 The question appears under **My Company** questions in the HackerRank Library.
 
-# Candidate experience
+## Candidate experience
 
 The question appears on the left side, and the candidate can enter the answer in the editor on the right side.
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1772515606343-image.png?Expires=253370764800&Signature=Bnhx1JEeWuacY5MzE0peityEKIgq0CmsnDUZZ1oOaWyDVZMzosr9BQK9NS3qG9ktn7RTqEzAx4O3DKV3H86Q1Cmh4Z8V0pn~Ldd6jsftQzEJ2spNdzrWDhHmNu6s9UvskyZ-RVW85ssHrTwx~MsxdiAmoZ0czG~Ima6uRihFO80bUQKHvGVUGY7Gp8UgkjNUPFhiL-9~hwkNsMyMQRI2eo4LkPneDIjbtYNFfYwzr2NStXH-A1p~Xox~mqqVtkYcb6dq68vB-YDuPg1SP4rxqiWbHX9sbWJndnV4r6gOgC4mUlW0WByb7AcHW5Z~9ktVF0fshRzeeOaFxdj8GTJ~AA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-# Scoring subjective questions in tests
+## Scoring subjective questions in tests
 
 Subjective questions require manual scoring. You can review the candidate’s answer in the candidate report and assign a score. For more information, see [📄 Manual Scoring for General Question Types](</articles/2056253220>).

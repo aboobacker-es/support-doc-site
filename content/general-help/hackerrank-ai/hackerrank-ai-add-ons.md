@@ -9,7 +9,7 @@ is_published: true
 
 **Experience the Power of AI in Hiring**
 
-# See What’s Included
+## See What’s Included
 
 ## Integrity features
 

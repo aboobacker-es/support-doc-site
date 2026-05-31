@@ -17,7 +17,7 @@ HackerRank does not participate in hiring decisions. The HackerRank team is not 
 
 HackerRank redirects all such requests to your recruiter or hiring team to ensure your organization retains full decision control.
 
-# Prepare candidates for success
+## Prepare candidates for success
 
 A great candidate experience begins before the test or interview starts. Share the following resources with candidates before the test or interview to help them prepare:
 
@@ -39,7 +39,7 @@ These resources provide essential setup instructions to optimize performance, in
 
 Encouraging candidates to review these resources beforehand helps prevent most technical issues and ensures a focused, disruption-free experience.
 
-# How HackerRank manages candidate support
+## How HackerRank manages candidate support
 
 HackerRank follows these key practices:
 
@@ -58,7 +58,7 @@ HackerRank follows these key practices:
     * **Content validation:** HackerRank Content team periodically reviews test feedback from candidates on custom questions, validates reported issues, and provides recommendations or guidance for necessary changes.  
 These findings are shared with the Customer Account Manager (CAM), who communicates them to the designated point of contact (POC) from your company.
 
-# Recommended candidate support workflow
+## Recommended candidate support workflow
 
 ![image \(35\).png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1763729543776-image%252835%2529.png?Expires=253370764800&Signature=mBIfeYw2PAbSGIHbxNSJkkWQTLX4H5NzjfRwkdimR8mH02o2cGHirBgaCHHVjDR2WiC3mP81EdEYUC3c-MhOB1XY6tWx41myh9SGm68tSjcqcsdUMJT2WtumfsrZZLsYQ5bxKNx6jt1Ak1ZZ9BgnyyVuKeqt2-92GJEAbIYj4GJawFOsmuNXNyA-e-MdVHc8Cw8xcezTDAEZFeOe2SdyUljPuGfcy5k79ok~DF7a68LgtijryLc6T2ZyikpmK4lxbcA51R8CRLTTo8cub-mCFmxozRJ67jQ-Ffk~gwXEVRXy4QXnr2-SzGRNvSmdRsZ~3zCfD5wAyslSH17ZFwCMUQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 

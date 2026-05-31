@@ -9,11 +9,11 @@ is_published: true
 
 You can customize the HackerRank Interview environment to suit your workflow during a live interview.
 
-# Prerequisite
+## Prerequisite
 
 You must be in an active interview session.
 
-# Configuring interview settings
+## Configuring interview settings
 
 To configure Interview settings:
 

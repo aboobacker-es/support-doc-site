@@ -9,7 +9,7 @@ is_published: true
 
 You can cancel your subscription if you no longer wish to use HackerRank for Work.
 
-# Cancelling subscription
+## Cancelling subscription
 
 To cancel your subscription:
 

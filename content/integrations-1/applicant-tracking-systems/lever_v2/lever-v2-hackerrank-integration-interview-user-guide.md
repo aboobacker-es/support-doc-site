@@ -9,7 +9,7 @@ is_published: true
 
 This guide outlines how to use the Lever V2 - HackerRank Integration to schedule HackerRank interviews and review interview feedback directly in Lever.
 
-# Prerequisites
+## Prerequisites
 
 Before you begin, ensure you meet the following requirements:
 
@@ -19,7 +19,7 @@ Before you begin, ensure you meet the following requirements:
 
   * The HackerRank integration with Lever V2 is complete. For more information, see [📄 Lever V2 - HackerRank Integration Guide](</articles/5647291926>).
 
-# Scheduling a HackerRank interview from Lever
+## Scheduling a HackerRank interview from Lever
 
 To schedule a HackerRank interview from Lever:
 
@@ -72,7 +72,7 @@ To schedule a HackerRank interview from Lever:
 
 Lever sends interview invitations to the candidate and interviewers. Lever also creates the HackerRank interview link and displays it on the right side of the candidate profile.
 
-# Viewing Interview feedback in Lever
+## Viewing Interview feedback in Lever
 
 After interviewers complete the scorecard in HackerRank and click **Sync to Lever V2** , Lever displays the feedback in the candidate profile. For more information about using the interview scorecard in HackerRank, see [Using the scorecard during an interview](<https://support.hackerrank.com/articles/9842091173-interview-scorecards#using-the-scorecard-during-an-interview>).
 

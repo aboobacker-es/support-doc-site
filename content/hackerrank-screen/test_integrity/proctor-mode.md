@@ -21,7 +21,7 @@ With Proctor Mode, you can:
 
   * Review a smart, human-like test report that highlights integrity issues through a clear summary and an in-depth session replay with labeled screenshots and flagged events.
 
-# Enable Proctor Mode
+## Enable Proctor Mode
 
 To use Proctor Mode in tests, you must enable it at both the **Company** level and the **Test** level.
 
@@ -55,7 +55,7 @@ To enable Proctor Mode:
 
 **Note:** When Proctor Mode is enabled, **AI Plagiarism Detection** and**Image Analysis** are enabled by default. You can disable Image Analysis, but HackerRank recommends enabling it for full session integrity.
 
-# Proctor Mode compatibility
+## Proctor Mode compatibility
 
 Proctor Mode compatibility includes the following:
 
@@ -65,7 +65,7 @@ Proctor Mode compatibility includes the following:
 
   * **Locked setting:** After you publish a test and candidates start attempting it, you cannot disable Proctor Mode. To conduct the test without Proctor Mode, clone the original test and invite candidates to the new test.
 
-# How Proctor Mode works
+## How Proctor Mode works
 
 Proctor Mode replicates the stages of live proctoring through automated workflows before, during, and after the test session.
 

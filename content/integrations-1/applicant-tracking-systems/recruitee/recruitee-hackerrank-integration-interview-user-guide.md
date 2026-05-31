@@ -9,7 +9,7 @@ is_published: true
 
 This guide outlines how to use the Recruitee - HackerRank Integration to send HackerRank interview invitations and review interview results.
 
-# Prerequisites
+## Prerequisites
 
 Before you begin, ensure you meet the following requirements:
 
@@ -17,7 +17,7 @@ Before you begin, ensure you meet the following requirements:
 
   * The HackerRank integration with Recruitee is complete. For more information, see [📄 Recruitee - HackerRank Integration Guide](</articles/1039021982>).
 
-# Inviting candidates to a HackerRank interview
+## Inviting candidates to a HackerRank interview
 
 To invite candidates to a HackerRank interview:
 
@@ -46,7 +46,7 @@ After you schedule the interview, the candidate profile displays a HackerRank ba
 
 ![3.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1770228933118-3.png?Expires=253370764800&Signature=DrQeX3Ots95ocnj6suwMe7VvSQFw~1CGedWrW-nwGAp0jl9FmwLwAkovCOlADwmgQpMLVevOU0DTTXMpsCAYd-sQ4LRPme0nVwsmj5za8mKXu9PDt~WQ0HYtlNO2W1ERT1JFY-zezHRctqrljbGOx~L6IOc9woSIMm2PoDhRTtuFAy34XTPV4rvt~l4epdAOC4fbLQYu9tBJAoxA0DYP1wJHDjN~rBC8EMth0xIeNCKNKwd9Hs6ZjynARtMsNopgHTE11L7SA7IcAuaIZnxj8TwszdbZZF~pITBxbk-QW3ARn9LhCKj~KuVgWgn3kZvWBNLUqphLT9g78--1CvuR5A__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-# Viewing interview results
+## Viewing interview results
 
 When the candidate completes the interview, the badge updates with a check mark.
 

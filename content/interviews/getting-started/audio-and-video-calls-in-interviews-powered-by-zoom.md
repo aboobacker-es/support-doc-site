@@ -9,7 +9,7 @@ is_published: true
 
 HackerRank Interviews include built-in audio and video calling features that allow interviewers and candidates to communicate seamlessly. By integrating with Zoom, HackerRank ensures a smooth and uninterrupted interview experience.
 
-# Prerequisites
+## Prerequisites
 
 Ensure the following domains are not blocked in your organization’s network to enable Zoom-powered calls:
 
@@ -23,7 +23,7 @@ For more information, see [📄 Safelist/Allowlist URLs and IP Addresses for Hac
 
 **Note:** This feature is supported on the latest versions of Google Chrome, Microsoft Edge, and Mozilla Firefox. For the best performance, use the most up-to-date version of these browsers.
 
-# Key benefits 
+## Key benefits 
 
 Zoom integration in HackerRank Interviews offers the following benefits:
 
@@ -37,7 +37,7 @@ Zoom integration in HackerRank Interviews offers the following benefits:
 
   * Calls automatically reconnect if the network drops and is restored within two minutes.
 
-# Screen sharing during interviews
+## Screen sharing during interviews
 
 Interviewers and candidates can share their screens during interviews to improve collaboration and communication. Screen sharing allows real-time interaction and visibility when reviewing designs, code, documents, and other relevant materials. This feature works without additional plugins or software installations. 
 
@@ -47,7 +47,7 @@ Interviewers and candidates can share their screens during interviews to improve
 
 **Note:** Screen sharing is available only after you start a video call.
 
-# Customize the video layout
+## Customize the video layout
 
 You can customize the video layout in HackerRank Interviews based on your preference. The following configurations are supported:
 
@@ -63,7 +63,7 @@ You can customize the video layout in HackerRank Interviews based on your prefer
 
   * **Pop-out View:** Opens the video call in a separate browser tab, useful when using multiple monitors.
 
-# Verify system compatibility
+## Verify system compatibility
 
 To verify system compatibility:
 

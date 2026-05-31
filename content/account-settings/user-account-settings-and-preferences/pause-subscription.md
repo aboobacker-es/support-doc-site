@@ -9,11 +9,11 @@ is_published: true
 
 HackerRank allows you to pause your subscription to temporarily stop billing while retaining your data and settings. The subscription resumes automatically after the selected duration, or you can resume it at any time.
 
-# Prerequisite
+## Prerequisite
 
 You have an active monthly subscription.
 
-# Pausing subscription
+## Pausing subscription
 
 To pause your subscription:
 
@@ -45,7 +45,7 @@ To pause your subscription:
 
 The platform pauses your subscription and displays a confirmation message.
 
-# Resuming subscription
+## Resuming subscription
 
 You can resume your subscription at any time before the scheduled resume date.
 

@@ -9,7 +9,7 @@ is_published: true
 
 You can use the **Automatic Tab Locking and Hiding** feature to help candidates stay focused during an interview. This feature ensures that only the active tab is visible to the candidate, allowing you to control the interview flow.
 
-# Key benefits
+## Key benefits
 
 The **Automatic Tab Locking and Hiding** feature offers the following benefits:
 
@@ -19,7 +19,7 @@ The **Automatic Tab Locking and Hiding** feature offers the following benefits:
 
 **Note:** The **Automatic Tab Locking and Hiding feature** is disabled by default.
 
-# Enable automatic tab lock and hide 
+## Enable automatic tab lock and hide 
 
 To enable automatic tab lock and hide:
 
@@ -38,7 +38,7 @@ To enable automatic tab lock and hide:
 
 When enabled, this setting applies to all interviews in the account.
 
-# Interviewer experience
+## Interviewer experience
 
 After you enable the **Automatic Tab Locking and Hiding** feature and open an interview, the system locks all tabs added before or during the interview by default. The system hides these locked tabs from the candidate.
 
@@ -48,7 +48,7 @@ To make a tab visible to the candidate, click **Unlock**.
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1758765159522-image.png?Expires=253370764800&Signature=KFsJGvPl5pn76EW9xUld20t8ChmmzspVggtv~oyXDfM2VLnmfga9wXrwGIf8q03kbaZSlQWKRhX3I7fv-PODjWIfLajKgeV6G1jUVLrnOkifiz2wf6CK7IhIwnt7734MPRtcs09EQ7pwMK4diZTorb07S6aLj~lu~Dsy8XG9A2TZSg9Pt7NFR8PVywkLq-eAtk0DwexgYanBLcm1Fy3inFFW5xdaJCE6uTyxFzMLKQZ-UmmwPpC2x6Y7u0c2VRGmDdkmaCv1SBrVEXwo~S7inOZyDcRICtBPkABrzp-cshrb2l0ij4Ge2McHb8bTwsE8caZTxkNPIz4o-LpmLeIT2g__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-# Candidate experience 
+## Candidate experience 
 
 When a candidate joins the interview, they see a blank screen until the interviewer unlocks a tab.
 

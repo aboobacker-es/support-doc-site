@@ -9,7 +9,7 @@ is_published: true
 
 The candidates list in the test interface provides a centralized view of all invited candidates and their test statuses. It helps you track candidate progress, review reports, and manage invitations in one place.
 
-# Viewing the candidates list
+## Viewing the candidates list
 
 To view the list of invited candidates for a specific test:
 

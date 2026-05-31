@@ -11,7 +11,7 @@ A File Upload question allows you to create tasks that require candidates to sub
 
 Candidates respond by uploading a file, and the system generates a download link for you to review their submission.
 
-# Creating a file upload question
+## Creating a file upload question
 
 To create a file upload question: 
 
@@ -54,12 +54,12 @@ To create a file upload question:
 
 The question appears under **My Company** questions in the HackerRank Library.
 
-# Candidate experience
+## Candidate experience
 
 Candidates select **Add file** to upload their submission. The file size must not exceed 50 MB. Candidates can upload one file only. To upload multiple files, candidates must compress them into a ZIP file.
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1769675647102-image.png?Expires=253370764800&Signature=mDmoigNLEFCkYYtx47HM1IgF0y8Id73cj1kNbYHKwkOYPC4pBkgS5MSA7uW0JYn~hhnX~jhIawvyBJNpzdfLYVFnI9GEaHWpsGIVK2N0PFEDXqB10HiSsEUTQd-FnoVmjrKOoOfWIybYANA6B0Daz4QHS6MTYeD4eB5C149Y1jFb1YE9IdZDxz9PIEp7vsb7P1NZ~6slRdDqKmgcISMEtbwFv84iwI~lze3p4K84MrBTuDjx07PgpPtRA7lH6xPRdGffQXEgmK6eoHZAh1hsS78dSMmHRSRadaXqsrqnprY16PKDmxJJP8HRyRyMafMWb6XliOSOw9HVjx6tk0V1Aw__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-# Scoring file upload questions in tests
+## Scoring file upload questions in tests
 
 File Upload questions require manual scoring. For more information, see [📄 Manual Scoring for General Questions](</articles/2056253220>).

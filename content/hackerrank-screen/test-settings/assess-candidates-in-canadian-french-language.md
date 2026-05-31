@@ -9,7 +9,7 @@ is_published: true
 
 HackerRank enables test administrators to configure the candidate-facing language for assessments. This setting determines the language displayed in the candidate’s emails, login screen, and test environment. You can select **English** or **Canadian French** when sending tests.
 
-# Enabling Canadian French for a test
+## Enabling Canadian French for a test
 
 To enable Canadian French as the candidate-facing language for a test: 
 
@@ -54,7 +54,7 @@ To enable Canadian French as the candidate-facing language for a test:
 
 For more information about inviting candidates to a test, see [📄 Invite Candidates to a Test](</articles/6027855406>).
 
-# Candidate experience
+## Candidate experience
 
   * **Invite email:** The subject line, body text, call-to-action button, and footer displayed in Canadian French.
 

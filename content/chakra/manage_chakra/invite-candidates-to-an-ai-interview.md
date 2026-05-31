@@ -11,11 +11,11 @@ Chakra allows recruiters to invite candidates to an AI interview through an inte
 
 You can share the link directly with candidates or distribute it through supported channels such as email, your ATS, or your careers page.
 
-# Prerequisite
+## Prerequisite
 
 You must have created an AI interview in Chakra. For more information, see [📄 Create an AI Interviewer](</articles/8041423965>).
 
-# Inviting candidates to an AI interview
+## Inviting candidates to an AI interview
 
 To invite candidates to an AI interview in Chakra:
 
@@ -35,7 +35,7 @@ To invite candidates to an AI interview in Chakra:
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1770795290727-image.png?Expires=253370764800&Signature=AVb76oNiE7Lc02uGkPLsR9jBkqDTLraQ137hIzvtcGUZFved2eb5GSBtrUjwojCI-xDRp04gdsTAHWBraCIiA~UamQGjJQP42AR-8rvTn9swfsRz7U~mhELTfF0Gi80lP9WlFflMm-M8qCUWxDpdfaxSLV3JnjWyRUrFMZzbBuj~0X2Svy9YZxYdYwZHYcgznJzIJmQLkmf6Pq0pD-MkAmpuVAJcBGteiznsIykQJypnZ~QxC~SSPsTj5DXFUNbQQoXZSupI4Y38LgdvtucmbClm64S-uyWuEzyLFILVOetKVLdRvD5~aTskDlXxnFbZcBSjxOVA2P7aY7FNXabzWQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-# Candidate experience
+## Candidate experience
 
 When candidates click the interview link, the system directs them to the interview page. Before the interview starts, candidates can enter the required details and grant permission for webcam, microphone, screen sharing, and multiple-monitor detection. 
 

@@ -7,13 +7,13 @@ last_edited: "2024-12-27"
 is_published: true
 ---
 
-# Overview
+## Overview
 
 HackerRank Interviews integrates with Lever to facilitate a seamless hiring process for companies. The Interview is an efficient tool for recruiters and technical managers to conduct interactive coding interviews with candidates located remotely. The integration with interview allows Lever users to directly start or schedule coding interviews with their candidates.
 
 This article provides you with detailed steps to integrate **Lever** with **HackerRank Interview**. To know how to use the integration and schedule interviews from Lever, see[📄 Scheduling HackerRank Interviews with Candidates in Lever](</docs/3147b674-5cbb-4bde-9528-7699bb64b1a7/articles/fc9d0106-d188-4c6e-9b5f-f9c66d3a6909>).
 
-# Lever - HackerRank Interview Integration
+## Lever - HackerRank Interview Integration
 
 ## **Prerequisites**
 

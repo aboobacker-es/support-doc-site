@@ -9,7 +9,7 @@ is_published: true
 
 Chakra is an AI-powered interviewer that conducts fully autonomous interviews for technical and non-technical roles. It mirrors the structure and rigor of real-world interviews. It delivers consistent and unbiased candidate evaluations and supports high-volume hiring without compromising interview quality or integrity.
 
-# Key features 
+## Key features 
 
 Chakra offers the following benefits: 
 
@@ -23,7 +23,7 @@ Chakra offers the following benefits:
 
   * **Reduced interviewer effort:** Eliminate the need for live interviewers. Chakra adapts questions in real time and generates detailed candidate reports, allowing hiring teams to focus on review and decision-making instead of conducting interviews.
 
-# How-to guides
+## How-to guides
 
 The following articles will help you get started with Chakra:
 

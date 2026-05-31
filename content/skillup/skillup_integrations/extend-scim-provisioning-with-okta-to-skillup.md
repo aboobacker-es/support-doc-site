@@ -15,11 +15,11 @@ If your organization already uses [SCIM provisioning with Okta for HackerRank fo
 
 This article explains how to extend your HackerRank for Work–Okta integration to manage SkillUp users.
 
-# Prerequisites
+## Prerequisites
 
 Ensure that **SAML-based SSO** is already configured in HackerRank for Work. For more information, see [📄 Configure Single Sign-On (SSO) for SkillUp](</articles/7581923631>).
 
-# Updating attribute mappings for SkillUp
+## Updating attribute mappings for SkillUp
 
 To extend your existing HackerRank for Work–Okta integration to manage SkillUp users:
 
@@ -68,7 +68,7 @@ Admin| `admin`
 
   * To exclude a user from SkillUp provisioning, leave all SkillUp-specific attributes (`manager_email`, `job_title`, `skillup_role`) blank.
 
-# How SCIM provisioning works
+## How SCIM provisioning works
 
 After you update the attribute mappings, Okta automatically provisions SkillUp users using the same SCIM configuration as HackerRank for Work.
 

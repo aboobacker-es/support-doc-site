@@ -9,11 +9,11 @@ is_published: true
 
 You can update the company logo that appears in candidate invitation emails and across your HackerRank for Work account.
 
-# Prerequisite
+## Prerequisite
 
 You must have Company Admin access.
 
-# Updating the company logo
+## Updating the company logo
 
 To update the logo for your company account:
 

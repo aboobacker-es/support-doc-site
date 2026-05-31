@@ -9,7 +9,7 @@ is_published: true
 
 The **User Management** section provides access to all users within your organization. You can view, add, and manage user accounts based on assigned roles and permissions.
 
-# Accessing User Management
+## Accessing User Management
 
 To access user management:
 
@@ -27,7 +27,7 @@ The **Admin Panel** interface appears.
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760452291658-image.png?Expires=253370764800&Signature=Kl1IKizuJU7dkUQDcZ1ww8rIKm2h9uC6rFafopru7zkT1B9Gd6up1Kl9FhUPUH7H5~j9rkCQjERPvyCaBINrpBZFqkxq34Jz-sjkVL0mErDovcnep6d8qSGpKeeyP8gETdNACpUF5d2UMWBYQV34LyEVg8kVGvKYwJWPwgdlnonJ5vJjzsX6fUS0lXe0bnVaTnPRYbh4AlF1PKC422SPc1~MbkGGRkX5DnvvS6yt3t7APX8GEa9ZcD4REkmbTOjFBi-~wGH7b-JHZ22JkpisJcTzruAYr~n1h8OtSvOWxI7yMDpdOMIoN5PbX-Fq6BCvIQgLztgDzVhlxzD2LXIM6A__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-# Adding a new user
+## Adding a new user
 
 To add a new user:
 
@@ -76,7 +76,7 @@ To add a new user:
 
      * **Upload CSV** : Upload a CSV file to add users in bulk. 
 
-# Edit user details
+## Edit user details
 
 To edit user details:
 
@@ -90,7 +90,7 @@ To edit user details:
 ![image \(3\).png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760452421510-image%25283%2529.png?Expires=253370764800&Signature=A0nlLFK6-XEZGvkyuHB5568eLfE83WHnLjpjSWmivLP0reG01TfiHZ-03gvXNHuX8N3blfiQy2cnRipDXNicyFittWayIobK~iFn2sTWJvOCDZPld8ujAJRqvAROaKUgmoVdfXs-ZhcgNceSI22QD4LFrwTUifuzvQA8xhhzQ3yM6zw3tHY2ETKUFX0W0VGfc2gfCAK5NJB6PTfbxEjJYDTcADLdZgF-WJwH6KpI2iRHQ9UCtqGM6pqUFEnVajICizL4iHsDn7v08vq0r~HF0UtptxIWRURaRcX4U8rJO5BQ51qcNGziBqu5-O~20wVE~3kMnWNoJ0VOqUIn35pn5Q__&Key-Pair-Id=K3NV4LZ47N8M46)
   4. Click **Save**.
 
-# Deactivating a user
+## Deactivating a user
 
 To deactivate a user:
 
@@ -108,7 +108,7 @@ A confirmation pop-up appears, and the user’s status changes to **Deactivated*
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760452534090-image.png?Expires=253370764800&Signature=UlXYsZM3X-wfJ245bS~v991M22pIglx1ubwIpPako6~es0sPleEONK25J1kwFxgdOBXBIql8awzmRXEnhiNIRWJH9eE3G6khgauMSRQBC9MKN7XrAAhOwJ2E3LaMDeSIPliaVopJTZjKnBFJcN3VevD5xm6RIcoFadMSgMwxKKdKCkGqRkhyPTVytfxjYDQlFKl6Ip8VDW0NrxRjGlHAieJRMVzuw4fcGyBaxAajofzzsOvEKovPiQWhlWRdEKCKJbNv~a~uZyjQROzee9MsULkIWCjYpqqUxDq6NsYA2IHdy9btW2dsRcVI-hflLrOQ9sMXY5vgrmy81RKylx8E5A__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-# Reactivating a user
+## Reactivating a user
 
 To reactivate a user:
 

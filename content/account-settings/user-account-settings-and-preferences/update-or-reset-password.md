@@ -9,7 +9,7 @@ is_published: true
 
 You can change your password at any time to keep your account secure. Use a combination of letters, numbers, and special characters for added security.
 
-# Updating password
+## Updating password
 
 To update a password:
 
@@ -26,7 +26,7 @@ To update a password:
 
 **Note:** If you forget your current password, use the **Forgot Password** option on the login page to reset it.
 
-# Resetting password
+## Resetting password
 
 To reset a forgotten password:
 

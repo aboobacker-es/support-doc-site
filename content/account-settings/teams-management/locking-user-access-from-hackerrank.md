@@ -9,11 +9,11 @@ is_published: true
 
 HackerRank for Work lets you lock user access to prevent users from accessing the platform. You can lock individual users or multiple users.
 
-# Prerequisite
+## Prerequisite
 
 You have **Team Admin** or **Company Admin** access.
 
-# Locking user access
+## Locking user access
 
 To lock user access:
 
@@ -43,7 +43,7 @@ Locked users cannot log in and see an error message if they attempt to access th
 
 **Note:** If a user belongs to only one team, [removing the user](<https://support.hackerrank.com/articles/2203617737-manage-team-members#removing-a-team-member>) from that team or [deleting the team](<https://support.hackerrank.com/articles/2181136239-deleting-a-team>) locks the user. 
 
-# Unlocking user access
+## Unlocking user access
 
 You can unlock a user account to restore access to the platform at any time.
 

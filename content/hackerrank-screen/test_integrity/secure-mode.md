@@ -19,7 +19,7 @@ When you enable Secure Mode, the following integrity controls apply:
 
   * **Multiple monitor check:** Detects the use of multiple monitors and allows candidates to continue only if a single monitor is in use.
 
-# Enable Secure Mode
+## Enable Secure Mode
 
 To enable Secure Mode:
 
@@ -36,7 +36,7 @@ To enable Secure Mode:
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F5c4066e7-c94d-44e3-8c6e-bd3441ebbf90-1760279839644-image.png-41f9cb42-ed06-4087-a43a-e8de0ed11791?Expires=253370764800&Signature=UePJsbnTqEY3AcrabWzzsvlUIxzKu3Au~qPDpKFFKIN8Fo2Y10KDnm-EJ85wEcoTiTUTRjO6s5YVpbTfGaUrKrPHUAHXQnkLlkJ6A5ZJc0JC-0U9j5YPUpCslwgFC8uziBKTBu-S0cZPlWJbR39WpL9zVtj~NfQLsT6TRx4~zlEnzDXelq~11Ax0b2hVhfVdU6wxvg-3l6mPmvovvNA~qjhhQqKqQFqOKEWOmuQX4ytteji7L2luuQOqqonadFQVeplqQKV3fu8piwmz2cmMGHPcJ3NhLP1ksx9ZaoiCiXqVZ0D0l093S-i3SmEvlxMrbAxkEqRXL5xd8H3muZkfTg__&Key-Pair-Id=K3NV4LZ47N8M46)
   5. Click **Save Changes**.
 
-# How Secure Mode works
+## How Secure Mode works
 
 Secure Mode applies integrity controls at every stage of the test session.
 

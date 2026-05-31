@@ -9,7 +9,7 @@ is_published: true
 
 When you create questions or answer tests, you may encounter errors caused by blocked domains. The HackerRank platform notifies you of blocked domains in the IDE and identifies the ones you must safelist to ensure seamless interaction across various features.
 
-# Affected areas
+## Affected areas
 
 The IDE displays the notification for the blocked domains in the following areas:
 
@@ -34,7 +34,7 @@ The notification displays the blocked domains, making it easy to determine which
 
 The notification displays the blocked domains, making it easy to determine which ones you must safelist for uninterrupted access and functionality in the IDE.
 
-# Allowlist URLs
+## Allowlist URLs
 
 The table below lists the URLs and endpoints you must safelist to ensure proper connection with HackerRank for Work.
 
@@ -81,7 +81,7 @@ The table below lists the URLs and endpoints you must safelist to ensure proper 
 [www.googletagmanager.com](<http://www.googletagmanager.com>)  
 [www.googletagmanager.com](<http://www.googletagmanager.com>)  
   
-# Allowlist IP addresses
+## Allowlist IP addresses
 
 Add the following IP addresses to your allowlist:
 

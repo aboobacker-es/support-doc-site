@@ -9,13 +9,13 @@ is_published: true
 
 SSO allows members of your organization to securely access SkillUp using their existing corporate credentials, eliminating the need for separate login details.
 
-# Prerequisites
+## Prerequisites
 
   * You must have Company Admin access in your HackerRank for Work account.
 
   * Your organization must use a SAML 2.0-compliant Identity Provider (IdP), such as Okta, Azure AD, or OneLogin.
 
-# Configuring SSO for SkillUp
+## Configuring SSO for SkillUp
 
 SkillUp uses the same SSO configuration as HackerRank for Work. To enable SSO for SkillUp, you must first configure it in your HackerRank for Work account. 
 

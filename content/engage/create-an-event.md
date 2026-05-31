@@ -9,7 +9,7 @@ is_published: true
 
 Engage streamlines the process of creating events by using AI to generate key assets such as microsites, email events, and coding challenges tailored to your hiring goals. 
 
-# Creating an event
+## Creating an event
 
 To create an event:
 
@@ -32,7 +32,7 @@ To create an event:
 
 ![Screenshot 2025-09-24 at 7.21.17 PM.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760520446219-Screenshot2025-09-24at7.21.17PM.png?Expires=253370764800&Signature=pQ135UQ2J6T4RwiW4rTZIAU2Mey9TXb9jlE0P~ItwTBgyWMO3i6n0cbOIzUGw6cru3iW6vBP8oW40wnhuQRU90-~YzaiQJ388uPxMrz1VBp7W~ewdBq4haFgnPw2oj5Ggv8M6RWVdKfnKAotdecjMagB2G4uIctMMiAdccUYPrgKeF7cCFO3Dx9WGM5mK6K7Wwen23lJztXEhranyFq~OdlHDuXdbyG5rHVj-8tir6AloCHURz-sy9Gp7Uv0yETbX-zYdYjZ2YaS2Y0wdEf0m27e-41ssVuC91QWDgXO4MwlLMwrSgFhMUzlx4x9RRBw5ifxi9AZMMZepQbOreQB1Q__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-# Configure event settings
+## Configure event settings
 
 After creating an event, configure the settings to ensure that participation types accurate. On the event homepage, click **Settings**.
 

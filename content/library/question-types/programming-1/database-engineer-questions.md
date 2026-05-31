@@ -9,7 +9,7 @@ is_published: true
 
 Database questions allow you to assess a candidate’s ability to work with SQL and Database Management Systems (DBMS). These questions measure skills such as writing queries, retrieving data, and managing database structures.
 
-# Creating a database question
+## Creating a database question
 
 To create a database question:
 
@@ -129,13 +129,13 @@ Candidates can choose any of the selected databases to solve the question.
 
 The question appears under **My Company** questions in the HackerRank Library.
 
-# Candidate experience
+## Candidate experience
 
 The candidate can view the question on the left-hand side and enter the query on the right-hand side.
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1769680393034-image.png?Expires=253370764800&Signature=XlC9H90FLREiDhOE~StyCLWDfUcBcKZgkI9qScUE9d2F4NAvxsuEx1IuaSgcx3hqVHYgKudKNdbeNnOI9YLuoILqE0GRedEw3m3HGC6di87sDU2VPLXvjHaxwSVlXRHZaWenk-S5uWOJdAax2vP0gh~9pBlXF12eA3ZOf1cJ447e4nYQlJFs1xCBgk96OQLUOSTxreY6Pdn79YqJpjZFPP8AgbVzdN5aNkzi22MYJd-yJjn7Cle8kllpABSG0AsxYgZOBqc1IS1pPUKDzA37HTwMAd2K-Gf4r1OxP6sQ5AdbuR2MV68TzDuw8jSOxNZFk~Jh4n3FWNJd0VIJLiHe4w__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-# Scoring a database question in tests
+## Scoring a database question in tests
 
 HackerRank scores Database questions automatically by comparing the candidate’s query result with the expected output.
 

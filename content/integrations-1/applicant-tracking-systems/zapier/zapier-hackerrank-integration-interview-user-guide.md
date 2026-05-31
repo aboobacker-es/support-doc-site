@@ -13,7 +13,7 @@ You can use Zapier to automate HackerRank interview workflows. This guide explai
 
   * Receive and store interview results.
 
-# Prerequisites
+## Prerequisites
 
 Before you begin, ensure you meet the following requirements:
 
@@ -21,7 +21,7 @@ Before you begin, ensure you meet the following requirements:
 
   * The HackerRank integration with Zapier is complete. For more information, see [📄 Zapier - HackerRank Integration Guide](</articles/9883166979>).
 
-# Configuring Zaps for HackerRank interviews 
+## Configuring Zaps for HackerRank interviews 
 
 A Zap is an automated workflow that connects two or more applications to perform tasks without manual intervention.
 
@@ -243,7 +243,7 @@ Complete the Zap created in **Step 1** to store interview results from HackerRan
 
 Your HackerRank interview Zap automation is now complete.
 
-# Sending interview invites
+## Sending interview invites
 
 After you have configured the Zaps for HackerRank interview, you can send interview invites to candidates.
 
@@ -276,7 +276,7 @@ To send interview invites to candidates:
 
 Zapier sends HackerRank interview invites to candidates based on the data you enter.
 
-# Viewing interview results
+## Viewing interview results
 
 When a candidate completes an interview, the results are automatically added to the **Interview results** table.
 

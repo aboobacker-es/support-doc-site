@@ -9,13 +9,13 @@ is_published: true
 
 You can set the logo and sender name for each team. The logo and sender name appear in all candidate invitation emails sent by users in that team.
 
-# Prerequisites
+## Prerequisites
 
   * You must have created a team.
 
   * You must have admin access to manage teams.
 
-# Set a logo at the team Level
+## Set a logo at the team Level
 
 To set a logo at the team level:
 
@@ -38,7 +38,7 @@ To set a logo at the team level:
 
 Your changes apply immediately.
 
-# Set a sender name at the team level
+## Set a sender name at the team level
 
 To set a sender name at the team level:
 

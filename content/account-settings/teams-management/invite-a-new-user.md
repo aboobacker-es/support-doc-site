@@ -11,11 +11,11 @@ You can invite new users to HackerRank for Work account and assign roles and tea
 
 **Note** : To add an existing user to a team, see [📄 Inviting an Existing User to a Team](</articles/2203617737>).
 
-# Prerequisite
+## Prerequisite
 
 You must have Company Admin access.
 
-# Inviting a new user
+## Inviting a new user
 
 To invite a new user:
 

@@ -9,7 +9,7 @@ is_published: true
 
 Proctor Mode helps test administrators quickly identify potential integrity issues in online assessments. [Proctor mode reports](<https://support.hackerrank.com/articles/5663779659-proctor-mode#after-the-test-generate-post-test-integrity-report-26>) are easy to review for individual sessions, but become inefficient and challenging when evaluating candidate attempts at scale.
 
-# Evaluating Integrity Signals for flagged candidates at scale
+## Evaluating Integrity Signals for flagged candidates at scale
 
 To evaluate Integrity Signal for flagged candidates at scale in Proctor Mode:
 

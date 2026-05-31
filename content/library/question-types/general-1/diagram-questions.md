@@ -9,7 +9,7 @@ is_published: true
 
 Diagram questions aim to assess a candidate's skills in creating class diagrams, architecture diagrams, workflow diagrams, and circuit diagrams. The candidates can create simple or complex diagrams as required and the examiners can view them to evaluate.
 
-# Creating Diagram questions
+## Creating Diagram questions
 
 To create a diagram question:
 
@@ -60,10 +60,10 @@ Hard| 100 Points| 45-60 Minutes
 
 The question appears under **My Company** questions in the HackerRank Library.
 
-# Candidate view
+## Candidate view
 
 In the HackerRank Test, when candidates view the question, they will see the [draw.io](<http://draw.io>) editor with the options to create and format their diagrammatic representations, as shown below. The left pane displays only those shape categories permitted to answer the question.
 
-# Scoring Diagram questions
+## Scoring Diagram questions
 
 Diagram questions are scored manually. For more information on manual scoring, see [📄 Manual Scoring for General Questions](</articles/2056253220>).

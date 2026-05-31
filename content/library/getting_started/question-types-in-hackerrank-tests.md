@@ -9,7 +9,7 @@ is_published: true
 
 HackerRank Tests support multiple question types that help you evaluate different skills in a single assessment or interview. You can add questions from the HackerRank Library or create custom questions based on your hiring requirements.
 
-# Supported question types
+## Supported question types
 
 HackerRank supports the following question types:
 

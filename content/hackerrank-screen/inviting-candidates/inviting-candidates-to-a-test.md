@@ -11,11 +11,11 @@ HackerRank for Work allows recruiters to invite candidates to take a test. Test 
 
 **Note:** You must have a Recruiter license to invite candidates. Hiring managers must request their recruiters to send invitations to the candidates.
 
-# Prerequisites
+## Prerequisites
 
 You must have created and published the test for which you want to invite candidates.
 
-# Inviting candidates to a test
+## Inviting candidates to a test
 
 To invite candidates to a test:
 

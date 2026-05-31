@@ -11,7 +11,7 @@ The Zapier-HackerRank integration lets you connect HackerRank with Zapier to aut
 
 This integration enables non-technical users to create no-code automations that sync HackerRank events, such as assessments and interviews, with third-party tools such as Airtable.
 
-# Prerequisites
+## Prerequisites
 
 Before you begin, ensure you meet the following requirements:
 
@@ -19,7 +19,7 @@ Before you begin, ensure you meet the following requirements:
 
   * Your organization has an active Enterprise plan with HackerRank.
 
-# Integrating Zapier with HackerRank
+## Integrating Zapier with HackerRank
 
 To integrate Zapier with HackerRank:
 

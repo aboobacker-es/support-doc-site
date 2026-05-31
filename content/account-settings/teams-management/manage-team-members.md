@@ -9,11 +9,11 @@ is_published: true
 
 HackerRank allows you to manage team members to control access and permissions. You can add or remove team members and update team member roles.
 
-# Prerequisite
+## Prerequisite
 
 You must have Company Admin or Team Admin access.
 
-# Managing team members
+## Managing team members
 
 To manage team members:
 

@@ -9,13 +9,13 @@ is_published: true
 
 HackerRank integrates with ModernLoop to create HackerRank interview sessions for candidates. You can add the HackerRank API key (Token key) to ModernLoop to generate HackerRank links.
 
-# Prerequisites
+## Prerequisites
 
   * You must have admin access to HackerRank
 
   * You must have admin access to ModernLoop
 
-# Integrating ModernLoop with HackerRank
+## Integrating ModernLoop with HackerRank
 
 To integrate ModernLoop with HackerRank:
 
@@ -62,7 +62,7 @@ To integrate ModernLoop with HackerRank:
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1757501038229-image.png?Expires=253370764800&Signature=scTTP8hW1EZgjr8qH7P-NXnhtEqbTcVoPb99fCe1F9hRlzJgAS55wLtYGl19mfei-6xZDOGTYoDo8GhrXcMuXTU7SAPKB7lVbddyOuM5Omq7fEBNQNguSUyyHGqhdWmcJ5MEt-PI3BepFn5mxSgq1ED28Ysi56yVDSMY~vSi03oF6BjSe7XE7awKRj17Vq-ekHgsKK56R2VxvF318j4VVdbn0VxKS-JjPTj4mlD-T9nTKkIq9Vky~Jqx65JZ1zJRJ0A4zOmrt65eB3JfsnuFW~K9xt69ubLeif6mOnyPQRHfPuOUlaOYqmwU-7wzlKlT6RH6DXpezEdy20FoixxOvw__&Key-Pair-Id=K3NV4LZ47N8M46)
   6. Click **Save**.
 
-# Using HackerRank integration
+## Using HackerRank integration
 
 To use HackerRank Integration:
 

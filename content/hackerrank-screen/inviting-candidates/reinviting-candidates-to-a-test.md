@@ -11,13 +11,13 @@ If a candidate experiences an issue such as a power outage or loss of internet c
 
 **Note:** When you reinvite a candidate, their previous report is automatically deleted. To recover a deleted report, contact [support@hackerrank.com](<mailto:support@hackerrank.com>).
 
-# Prerequisites
+## Prerequisites
 
   * The candidate must have already been invited to or attempted the test.
 
   * You must have a Recruiter license to reinvite candidates. 
 
-# Reinviting candidates to a test
+## Reinviting candidates to a test
 
 To reinvite a candidate to a test:
 

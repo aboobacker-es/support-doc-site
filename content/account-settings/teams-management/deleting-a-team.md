@@ -9,11 +9,11 @@ is_published: true
 
 HackerRank allows you to delete an existing team.
 
-# Prerequisite
+## Prerequisite
 
 You must have Company Admin or Team Admin access.
 
-# Deleting a team
+## Deleting a team
 
 To delete a team:
 

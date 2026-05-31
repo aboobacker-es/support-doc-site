@@ -11,11 +11,11 @@ If you want a candidate to reattempt a test, you can delete the candidate’s te
 
 **Note:** It is recommended that you do not delete a candidate test submitted if the test is in progress.
 
-# Prerequisites
+## Prerequisites
 
 You must have a test submitted by at least one candidate in your HackerRank for Work account.
 
-# Deleting a test submission
+## Deleting a test submission
 
 To delete a test submission: 
 

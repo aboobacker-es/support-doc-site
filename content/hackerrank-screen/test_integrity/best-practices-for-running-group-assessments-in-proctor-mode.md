@@ -9,7 +9,7 @@ is_published: true
 
 This article provides best practices for running group assessments in Proctor Mode, where multiple candidates take the assessment simultaneously at a shared physical location. Following these guidelines helps ensure a smooth, stable, and fair assessment experience for all candidates.
 
-# Prepare candidate systems in advance
+## Prepare candidate systems in advance
 
 Verify that each candidate system meets the minimum technical requirements before the assessment begins.
 
@@ -17,7 +17,7 @@ Verify that each candidate system meets the minimum technical requirements befor
 
   * **Operating system:** Updated with the latest system and security updates
 
-# Ensure a stable internet connection
+## Ensure a stable internet connection
 
 A reliable internet connection is critical when multiple candidates take an assessment simultaneously.
 
@@ -33,7 +33,7 @@ For example, if 100 candidates connect simultaneously, the required bandwidth is
 
 `5 Mbps × (100 ÷ 2) = 250 Mbps`
 
-# Use supported web browsers
+## Use supported web browsers
 
 Using supported browsers helps prevent compatibility issues and ensures consistent performance.
 
@@ -41,7 +41,7 @@ Using supported browsers helps prevent compatibility issues and ensures consiste
 
   * Do not use unsupported or outdated browsers
 
-# Manage browser extensions
+## Manage browser extensions
 
 Browser extensions can interfere with the assessment experience and Proctor Mode checks.
 
@@ -49,7 +49,7 @@ Browser extensions can interfere with the assessment experience and Proctor Mode
 
   * Ask candidates to use **Incognito** or **Private** mode to prevent extensions from running during the assessment
 
-# Optimize the test environment on each system
+## Optimize the test environment on each system
 
 Reduce system load and distractions before the assessment starts.
 
@@ -61,7 +61,7 @@ Ask candidates to:
 
   * Refresh the browser page if the assessment becomes slow or unresponsive
 
-# Set up webcams
+## Set up webcams
 
 Prepare webcams before the assessment starts to meet Proctor Mode requirements.
 
@@ -71,7 +71,7 @@ Prepare webcams before the assessment starts to meet Proctor Mode requirements.
 
   * Uninstall any virtual camera software to prevent conflicts
 
-# Set up lighting
+## Set up lighting
 
 Proper lighting ensures clear webcam visibility throughout the assessment.
 
@@ -81,7 +81,7 @@ Proper lighting ensures clear webcam visibility throughout the assessment.
 
   * Avoid strong backlighting, such as bright windows or light sources behind the candidate
 
-# Prepare the physical environment
+## Prepare the physical environment
 
 A controlled physical environment helps minimize distractions and maintain assessment integrity.
 

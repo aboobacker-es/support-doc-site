@@ -9,11 +9,11 @@ is_published: true
 
 Sections help you organize test questions by topic or skill. You can also include code repositories as separate sections to assess real-world development skills. You can set time limits for each section and control how questions appear to candidates. You can configure multiple sections in a test to create a more focused and adaptive assessment experience.
 
-# Prerequisite
+## Prerequisite
 
 You must have created a test in your HackerRank account.
 
-# Add a section to a test
+## Add a section to a test
 
 To add a new section:
 
@@ -201,7 +201,7 @@ To remove a question in a section:
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1758792083573-image.png?Expires=253370764800&Signature=gM~paaeMcJgB7a37EL0ig-Q93ad4GS-kUPgDUyWfv3qNUnLEURF3y4EQspcivVIsQg-vdxGmiRbwof8L6isqvcQd8gb2IQrMetxZsBwOttFiBss3w2gSZc~z0TJUeX-NgaBg1WGwzpzPU6CjU7nC2Gy~4qaI9S~ibtdxo7SQU8r1kN~yRxSKX~R6ByOMDh24EzeNvNVeTmjW8X~E1BlE7lqrUj-TovmyUia4JXlVkw-0sgsTUY4ZFioAOhs-y02osQ3Ta9sYgUmdqWpHBfIqJeAn4wiWUTC32v3wVe2eMxK1FzbXans6YkUYiJgSR2FhyrjOR58hOCyEgEKAbbtPfQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-# Add a code repository section to a test
+## Add a code repository section to a test
 
 Code repository section allow you to assess a candidate’s ability to work with real-world codebases. Each repository includes the following task types that you can choose from:
 

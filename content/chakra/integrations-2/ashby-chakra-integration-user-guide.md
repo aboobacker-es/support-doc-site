@@ -9,7 +9,7 @@ is_published: true
 
 This guide outlines how to use the Ashby - HackerRank integration to schedule Chakra interviews and review interview results directly in Greenhouse.
 
-# Prerequisites
+## Prerequisites
 
 Before you begin, ensure you meet the following requirements:
 
@@ -19,7 +19,7 @@ Before you begin, ensure you meet the following requirements:
 
   * The HackerRank integration with Greenhouse is complete. For more information, see [📄 Ashby - HackerRank Integration Configuration Guide](</articles/4146164514>).
 
-# Adding an AI Interviewer activity in Ashby
+## Adding an AI Interviewer activity in Ashby
 
 To add an AI Interviewer activity to a stage in the job interview plan:
 
@@ -51,7 +51,7 @@ To add an AI Interviewer activity to a stage in the job interview plan:
 
 Ashby adds the AI Interviewer activity to the selected stage.
 
-# Scheduling HackerRank AI Interview from Ashby
+## Scheduling HackerRank AI Interview from Ashby
 
 **Note** : Before you schedule an interview, ensure that the **AI Interviewer** activity is added to a stage in the job interview plan in Ashby. For more information, see [Adding HackerRank AI Interviewer activity in Ashby](<https://support.hackerrank.com/articles/8472393759-ashby-chakra-integration-user-guide#adding-an-ai-interviewer-activity-in-ashby>).
 
@@ -74,7 +74,7 @@ In Chakra, the candidate appears with the status **Invited.**
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776786202644-image.png?Expires=253370764800&Signature=DXEDlcAmegQ455E4EsLljqTejpp~jN3MDAYVNrbisAS~ipbgBHsU9kIYqSOrueGCpvHrP7DsB0dkPHiDVX4B5uP9P7foSLqi8vZ7gc6GNbhwbSKXFiGc9~tX-AV8DYa1Jnrb5l-vL3YDRyCY0TCoa00IOZokjn80~2F~kXDD3bHSw739J1lwu~5Ou5cR-Jg-rtBYrsnbp4-9gDMJCjhBiedfFc0Gv4SGN81nhUxHtsvscGm2lRbRqfyuLiCgRUMHabw8gnPJnNNxn5fbambwWauQHBF9yahP0D1-c5QvhulUec-O8iKuGkdT7hF6ZEUrsxXRDcn~HitwFXraxnUHyw__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-# Viewing Interview results
+## Viewing Interview results
 
 When a candidate completes an AI interview, Ashby displays the interview report in the candidate's profile.
 

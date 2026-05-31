@@ -9,7 +9,7 @@ is_published: true
 
 A question is considered leaked if it appears in publicly accessible search results and matches a HackerRank Library or customer-created question both structurally and semantically.
 
-# Detecting leaked questions
+## Detecting leaked questions
 
 HackerRank uses a leak detection algorithm that automatically searches at regular intervals to identify leaked questions from the leak-protected skill sets in your tests. 
 
@@ -39,7 +39,7 @@ The system:
 
     * Fullstack
 
-# Reporting leaked questions
+## Reporting leaked questions
 
 If you find a HackerRank Library or your company question that appears online, you can manually report it.
 
@@ -63,7 +63,7 @@ To report a leaked question:
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1762409305928-image.png?Expires=253370764800&Signature=C86bCU0lEEoDsM8NKd1D~87FYlMaysG5PdT~rPD6aDOG1mLzQjA2sumuQsXYayMcWy5l7q4SfeyHfGI1YD9Z1hWbcgLt30gOZDxuA8uw4mME5BYLTiFG5biaDdUsUaIQ3PF6F6v5AknCALlICq5opQOP8BibPwkempsbgIsD14R6TowHWpgqj7jp-dJAw49DcO9QtQVnnboWwN33qaG0Hajo6MkHykXNG2JkrJZlU6~tOa8BJYQjso8WfVPqrpauqFCCAw1wEiQOPAQU88hbMuAlgYL3M4mFb9ITgVxx5mrfI0A5vt3o1lyc0Kf3NYrHOnkvU~Y~v1PtNlfdd32yPg__&Key-Pair-Id=K3NV4LZ47N8M46)
   8. Click **Submit**. A success message appears.
 
-# Viewing leaked questions in library
+## Viewing leaked questions in library
 
 By default, HackerRank hides leaked questions from the Library.
 
@@ -82,7 +82,7 @@ To view leaked questions:
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1762409623753-image.png?Expires=253370764800&Signature=JiGdxD0ajc~a6yBamxML4lIxaM7GEpViifR2A85apNKfF-x~b5Tk~o3X3-emhwkLQMz4tzV3cnbFITSBnL~pR2tuyFhtvM6VpDFyD9-9gVriAn9MoBKo7m~jA6Z-olFVkP5dkHVtkEoDFvldvuWimUl1G4riQdw4TRLekcjpdoOTyy~xDpz3XxCoBKpQNbd6MHsEyQCOle5ntqlW~00oqZkpL9o-YAsfESfer6X27WrBi9pjxaKUI-8f0EAnC5kFmUtaI-CoU9H5jAQKFvLBNflQgrCHdWCNYh857bTStbofsEsRN8iudK-IdCgl2mHlqksELlZlT1ydu7MEshnEoQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-# Viewing tests with leaked questions
+## Viewing tests with leaked questions
 
 You can identify tests that contain one or more leaked questions directly from the test listing page, including tests in the draft stage.
 
@@ -101,7 +101,7 @@ To view tests with leaked questions:
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1769346402823-image.png?Expires=253370764800&Signature=dA0-YbWuzuroIbYVaA8ZrNjHgEJzg2rQOEfLciBO0MWEdlrVtjviqalf-emQGsFvjro3aiygnvNyMhL5ouImCIxCdr~1-hAxXu7KIMJ6jCR7GoP5gCLgIUj9I8Y1Vv6xE~PMA1kQ24f31DrO6yO5L~lgfKgKVZiXy1MZLGLyCf2K-5Zeh2Et~OWQ5Num2buV1rf9Yt5Fq~dWGWJZ-Ff9lpEezamrI8~8x3tgeR9b2HzWzjX5rjJVMEF4y0G6WT8yEWxajbNrzRNNP6VUqcIchiW2oFiqvsZg40rc9VqYoaP53AN6fUdJ6fOdJp7eeBR4WoEI00WtjBONSmrKeHhKTA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-# Handling leaked questions
+## Handling leaked questions
 
 Take the following actions to maintain test integrity and minimize exposure:
 
@@ -113,7 +113,7 @@ Take the following actions to maintain test integrity and minimize exposure:
 
   * **Adjust scoring for completed tests** : For completed tests, disregard the leaked question during evaluation to ensure fairness.
 
-# Leak mitigation and takedown actions
+## Leak mitigation and takedown actions
 
 To maintain content integrity, HackerRank takes the following measures:
 

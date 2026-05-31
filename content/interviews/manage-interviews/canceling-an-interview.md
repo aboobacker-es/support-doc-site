@@ -9,11 +9,11 @@ is_published: true
 
 You can delete a scheduled HackerRank Interview at any time. When you delete an interview, HackerRank automatically sends email notifications to the candidate and all interviewers.
 
-# Prerequisites
+## Prerequisites
 
 You must have already created and scheduled an interview.
 
-# Deleting an Interview
+## Deleting an Interview
 
 To delete a scheduled interview:
 

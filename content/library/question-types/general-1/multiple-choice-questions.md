@@ -9,7 +9,7 @@ is_published: true
 
 Multiple Choice Questions (MCQs) allow candidates to select one or more correct answers from a list of options. The system evaluates responses automatically based on the answer key defined for the question.
 
-# Creating a Multiple Choice question
+## Creating a Multiple Choice question
 
 To create a multiple choice question:
 
@@ -131,13 +131,13 @@ D| Text| Answer option D
 E ... Z| Text| Additional answer options  
 Images | Images| Images associated with the question (supported in XLSX format only)  
   
-# Candidate experience
+## Candidate experience
 
 The question appears on the left side. The candidate can attempt the question and select the answer(s) of their choice.
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1771491793816-image.png?Expires=253370764800&Signature=OUb57TgybOIHwEUWcCu2EEiffWLFiA7J6sWxjRN9~riKNRujTUpsqK5-x9DtxMcI8cI6NlG93atBTNF-Mim0JXJ7FrAzNucoOxsUqsRJKsbV-UqGJ~fZ3TdK0rqfNyyHzdOKZUXi6UVr37Z~F-j4t3TNQslf8yZUnLzsbg-d8sOQuQOtF-zvWia17IzKrOsyhEglmVDOlp76FSGKgG2tGc17JTV8VnxgUl4UB5fVffB1PvilWhog~uKQ0FsRXoimV9O-OtUsjznc~tlUW2P3Jw1cFxLT~8bKCVcEG1s0Tapj3udAdealiceKby84gYD-~CB~0Fhm4p-2mJZ9~wbNqQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-# Scoring Multiple Choice questions in tests
+## Scoring Multiple Choice questions in tests
 
 HackerRank automatically evaluates MCQs. You can configure scoring at:
 

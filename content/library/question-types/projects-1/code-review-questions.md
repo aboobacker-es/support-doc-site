@@ -9,7 +9,7 @@ is_published: true
 
 Code Review questions assess a candidate's ability to review and critique existing code, mirroring real-world engineering workflows. These questions are suitable for senior-level candidates who have industry experience, mentor others, or regularly participate in code reviews.
 
-# Creating a Code Review question
+## Creating a Code Review question
 
 To create a Code Review question: 
 
@@ -101,7 +101,7 @@ To customize the grading rubric:
 
 The question appears under **My Company** questions in the HackerRank Library.
 
-# Candidate experience
+## Candidate experience
 
 During the test, candidates review the provided code and leave inline comments directly in the code. They use these comments to:
 
@@ -115,7 +115,7 @@ The system uses these comments as the basis for automated evaluation.
 
 ![candidate exp code review.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1765965451065-candidateexpcodereview.png?Expires=253370764800&Signature=kByGCTo~k68ZhV~3-wPSV4Y6Wzs9gD5PdfpaHo3a21DJ4iqBBVQ27ZJxVjuUnZmpnpq-GIzt-M~7evqNQZd2OYmIbjaTRikLTYBEzBnzNBX0xWl3F-vzruAQLrPY6NF2RPiV60JKilsRmmw9dqyI2a3FlONOEoi1uGMCnXR-lx9Kvh7SKU4pKjK5PT1DX8nSc-I6g5FNXd3Et11Zf7fP7dwQrgCXPe4MS85UBxtsxzv8-iMoaDAfgLmWVBBpnMj-EWPyYfH72SxQEPcORKB~Wo79BwlgymKQKFusVJ6swq9YUEQN5udOV1tGgyM6lbvLvcsphIr-xuTlPm0b1LXHxA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-# Scoring a Code Review question in tests
+## Scoring a Code Review question in tests
 
 You can score Code Review questions in two ways:
 

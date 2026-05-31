@@ -9,7 +9,7 @@ is_published: true
 
 HackerRank integrates with [Kula.ai](<http://Kula.ai>), an AI-powered recruitment automation platform that enables teams to efficiently engage and convert top talent. This integration allows Kula.ai users to automatically create HackerRank assessments and manage candidate evaluation workflows seamlessly.
 
-# Prerequisites
+## Prerequisites
 
   * You must have admin access to your HackerRank for Work account.
 
@@ -17,7 +17,7 @@ HackerRank integrates with [Kula.ai](<http://Kula.ai>), an AI-powered recruitmen
 
   * Assistance from the Kula.ai Support Team, who activate the integration on their end.
 
-# Integrating Kula.ai with HackerRank
+## Integrating Kula.ai with HackerRank
 
 To integrate Kula.ai with HackerRank:
 
@@ -57,7 +57,7 @@ To integrate Kula.ai with HackerRank:
 
   2. Once setup is complete, generate HackerRank test links directly within your Kula.ai recruitment workflows.
 
-# Managing integration
+## Managing integration
 
 You can manage the integration at any time from HackerRank. 
 

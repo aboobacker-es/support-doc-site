@@ -9,11 +9,11 @@ is_published: true
 
 HackerRank allows you to configure role allocation limits for an existing team to control how many users you assign to each role.
 
-# Prerequisite
+## Prerequisite
 
 You must have Company Admin or Team Admin access.
 
-# Updating a team role allocation limit
+## Updating a team role allocation limit
 
 To update a team role allocation limit:
 

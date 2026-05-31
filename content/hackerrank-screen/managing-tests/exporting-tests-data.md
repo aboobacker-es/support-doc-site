@@ -9,11 +9,11 @@ is_published: true
 
 You can export test-level data as a CSV file that includes test details, test settings, attempt statistics, and more.
 
-# Prerequisites
+## Prerequisites
 
 You must have existing test(s) in your HackerRank account.
 
-# Exporting tests data
+## Exporting tests data
 
 To export tests data: 
 

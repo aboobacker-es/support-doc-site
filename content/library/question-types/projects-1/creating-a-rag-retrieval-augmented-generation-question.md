@@ -21,7 +21,7 @@ Use the Generative AI questions to evaluate how candidates:
 
 **Note:** HackerRank currently supports Generative AI questions in the **Retrieval-Augmented Generation (RAG)** environment.
 
-# Creating a Generative AI question
+## Creating a Generative AI question
 
 To create a Generative AI question:
 
@@ -207,13 +207,13 @@ Hard| 100 Points| 45-60 Minutes
 
 The question appears under **My Company** questions in the HackerRank Library.
 
-# Candidate experience
+## Candidate experience
 
 When a question loads, the IDE automatically starts the installation process. The candidates can click on **Run** to run the application.
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1772618306646-image.png?Expires=253370764800&Signature=dzBHgohxHLt8oWcCYysIWe2brDfEU6ui-J6~~nfbgqQs2NokCZGf5g3tRvtNOatdTkPox0X1R-RjQO9m9P9bkQNc0Y2zqK60PGUZkSjLXKEcoyGl3fwyOgidmsNhkJetCGoWO-ylbQlRYEVYs9zHuMz39bvPpNuTwiamrMSnNKDriJwUF5c61Tyw98RnjsyiZSEYM6pMBwNsdt4PjglJ5~7NweqQMpSr8bpsgE6h7SW3aTO5mh6rDK0zgyZDjSMHVSWqRHNHq0ls3a0YPgXW0M9zTmtnmv~95OKBGTV5hhCmeXsNHpZeOV3pR1Em7YbdVmJ~6cKwA-2Gms~oOhE6NA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-# Scoring a Generative AI question in tests
+## Scoring a Generative AI question in tests
 
 Generative AI questions support both automatic and manual scoring to evaluate candidate performance in realistic development environments.
 

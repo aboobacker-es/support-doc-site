@@ -9,7 +9,7 @@ is_published: true
 
 Interview templates help hiring managers and interviewers maintain consistency across interviews. A template ensures that every candidate for a specific role receives the same set of questions and is evaluated using the same criteria.
 
-# Creating an interview template
+## Creating an interview template
 
 To create an interview template: 
 
@@ -82,7 +82,7 @@ To create a new scorecard for the template:
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1765780852342-image.png?Expires=253370764800&Signature=u-wITYoBC3S9MH4ozWyv5uISm2S7jpg2xiyD5TbafgGJC5tGYdey~8hphj7ecNn9V-2Mg1Yg7wYRUG3nfcUr0FTkjgtEkMnLfB7sWFlEI99ug5SUyg~YJeCK-ZF4w0~evYBEhxYbo6Vr66cmo0cpBs8wqJxzdq6w67a173C6VjISUfVq9jjLbp1Nsn2vumrWn5O7NZ~g4HNUgS2CW7~oI6y4CUe9FQDtWugbEJBL2ntDHulXGcSdjFBJCNJ3ilW4dEAnnqbD~KZgF7a1ZY0cdIUcJiVM2sHp8jz4kj7M4hCD2uMlS7Z6sXGrbg7~e3oMKA2huUWoHyQDpNig1YaVlA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-# Sharing an interview template
+## Sharing an interview template
 
 You can share a template with all users, specific teams, or individual users.
 
@@ -113,7 +113,7 @@ To share a template:
 
   * Template owners and company admins can change the owner or delete the template.
 
-# Removing user access from an interview template
+## Removing user access from an interview template
 
 You can remove access for any user or team from an interview template.
 
@@ -130,7 +130,7 @@ To remove access:
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1765781160662-image.png?Expires=253370764800&Signature=Dk-OcQWDytgdzRN58xPc8OliMza3q4-WN~AnLtedF3A83OcR2pZoatwOn~qKr4WHD3O6KvYHZh1ReSBrVLIZI~AKl2lCLNNWb5ANR6zWATa-wpbV8p5EPMPl8dMZbJ06tjZrMdaVd6jn7E~nFXzYIiUz~TPeixGzMgqS7wiQSLP7QXYr0V1x2cyP3agnhe2fEB5KCej7x-GgDp-xFUGv6zHYXDxVSevxGeLE1sa662WuxgQcTbCE12b4QpMOweAeWRKI~E4MTdRxHxan8fjMDbSzTbYgL1GYPs~dsUAV54nUULa5Vw7pWrR-M5zaCNBomI~JhteUSJDw1Z2MSXDL4Q__&Key-Pair-Id=K3NV4LZ47N8M46)
   5. Click **Confirm** in the confirmation dialog box.
 
-# Renaming an interview template
+## Renaming an interview template
 
 To rename a template: 
 
@@ -143,7 +143,7 @@ To rename a template:
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1765782664562-image.png?Expires=253370764800&Signature=sV7G5Csbj~hjZss3SWE-PwIJcKgzLOEjfJB3oz9JHa~XtnqFFpqMXsUXy-USMhvx77ZFUq2uq3cL8j~TBhaZYmORotdxKvPkUZDw2zcoqxudQp9qHUS6rjNZVLtGQ9DdljaNVcKBvuADkiFEVfYRjl4-BKZxYfcx1D3a5NP5rrUpS30pqDKiYHBnYl6Qeq2gIoynaE6IeqIaEl9dEJV7SDwsOFeNaUBbyqlxuuN6fZwWFP2QdZr2v9NOVn0PfmuYS~9h-8KW84mOx6wuEcoi2X~z2ZK-9z67~D-5mVq1V2eEcT8aE5pJGTxlGInHqiVFPM45zOs1ioxKLbl3CPE0RA__&Key-Pair-Id=K3NV4LZ47N8M46)
   4. Enter the new name and press **Enter**. A success message appears.
 
-# Deleting an interview template 
+## Deleting an interview template 
 
 To delete a template:
 
@@ -154,7 +154,7 @@ To delete a template:
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1765782158883-image.png?Expires=253370764800&Signature=mmkt8qquPflFMy9X-8Ut~ecQ9kjSpmsjKkx53ZiJ7tELrZ6WvmLI5oSHRf98p11hBqNEubKfkgSjVzC99ewwTnP82C~9fvBBrBLP-tcZT67u2vs6E5yi~J4J3vef5aU4qUVJeSCdVes6Bk7amsFqw0kdNqkyCaZTr1aN2JvvYNRNzHRX~mR9x0QJeRUug1l4YuN4C2kIk3L0mdSLqn3kihHu2Ccnv4jZq7adeqjDGzeWoTxAal5GrH~UL6j0fmfkehwAbLZNYw-mrsS6fH8i8X3YnSIf2iUW9IRijWJHZwpDU2270KNzJjBbwT~s0sgM9V~RwpCi~pyJMP1fu6YZew__&Key-Pair-Id=K3NV4LZ47N8M46)
   3. Click **Delete** in the confirmation dialog.
 
-# Frequently Asked Questions (FAQ)
+## Frequently Asked Questions (FAQ)
 
 **Who can share an interview template?**
 

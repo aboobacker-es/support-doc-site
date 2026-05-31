@@ -9,7 +9,7 @@ is_published: true
 
 HackerRank offers multiple integrity modes and add-on features to help you maintain the right balance between rule enforcement, candidate experience, and compliance.
 
-# Test Integrity Modes
+## Test Integrity Modes
 
 You can select from the following integrity modes based on your assessment requirements.
 
@@ -32,7 +32,7 @@ HackerRank Desktop App Mode includes all Proctor Mode capabilities and adds oper
 
 For more information, see [📄 HackerRank Desktop App Mode](</articles/5973590014>).
 
-# Additional integrity features
+## Additional integrity features
 
 You can enable additional integrity features to strengthen test monitoring and candidate verification.
 
@@ -62,7 +62,7 @@ This feature requires candidates to capture their image before starting the test
 
 For more information, see [Photo Identification](<https://support.hackerrank.com/articles/7825915809-impersonation-detection#photo-identification-3>).
 
-# Built-in integrity features
+## Built-in integrity features
 
 HackerRank provides basic integrity features by default. These features require no additional setup.
 

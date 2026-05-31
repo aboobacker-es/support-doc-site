@@ -9,11 +9,11 @@ is_published: true
 
 You can modify recruiter entitlements to control access to tests, interviews, questions, and candidates.
 
-# Prerequisite
+## Prerequisite
 
 You must have created a team.
 
-# Modify entitlements for recruiters
+## Modify entitlements for recruiters
 
 To modify entitlements for recruiters in a team:
 
@@ -29,7 +29,7 @@ To modify entitlements for recruiters in a team:
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1769504100912-image.png?Expires=253370764800&Signature=D9mGEfqiCY0fEO9PNg6zaTFK5lUpxZe0ei7P3s~9nQxEWb6RqWT050iEq0X-4Caavl5bgL3FiFAM11GIgFqYebj0jOaClfTyPOMYlpnWINvuw7cpwDV7gL8fJE1Hqnqgv8bTJI5ixpt6TtBz4XjCOet~BBysQVobil~Fhb6vpFuzvxdqJdg3w87jzwrJ2WHzGN7cl-n~HvM6SjoGLHKBzAhYVOUjdtYsJiSpgy-KHzRxaRc6SpFgX7DqIEj9oZ97BQJaV~obG-n5DBLBW8TKW3~gzetrlDLa-y6w9C9dYK~b60WVXb76cApLgI8-5yEnWZfX0IMqGMEjTALeCu7zQQ__&Key-Pair-Id=K3NV4LZ47N8M46)
   5. Review and update the entitlements as needed.
 
-# Available recruiter entitlements
+## Available recruiter entitlements
 
 You can manage the following entitlement categories for recruiters:
 

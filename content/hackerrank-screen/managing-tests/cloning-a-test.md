@@ -17,11 +17,11 @@ After cloning, you can modify the cloned test by adding or removing questions or
 
   * Cloning a test does not create separate copies of the questions. Each test uses a single master copy of every question. When you edit a question, you update the master copy. Any test that includes that question, including the cloned test, shows the updated version
 
-# Prerequisites
+## Prerequisites
 
   * You must have an existing test in your HackerRank account.
 
-# Cloning a test
+## Cloning a test
 
 To clone a test:
 

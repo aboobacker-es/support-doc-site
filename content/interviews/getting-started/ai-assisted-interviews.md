@@ -33,7 +33,7 @@ Interviewers can evaluate not just problem-solving skills, but also how effectiv
 
   * Code Repository
 
-# Key benefits
+## Key benefits
 
 AI-Assisted Interviews offer signal-rich insights by enabling the following:
 
@@ -43,7 +43,7 @@ AI-Assisted Interviews offer signal-rich insights by enabling the following:
 
   * **Post-interview transparency** : Provides a complete chat transcript for interviewers to review and use when making informed hiring decisions.
 
-# Enable AI Assistant for interviews
+## Enable AI Assistant for interviews
 
 You can enable the AI Assistant for candidates at the company level and control how it applies to interviews.
 
@@ -87,7 +87,7 @@ To enable the AI Assistant for a specific interview:
 
 For more information, see [📄 Create an Interview](</articles/8404005945>).
 
-# Disable AI Assistant for a specific question
+## Disable AI Assistant for a specific question
 
 You can disable the AI Assistant for specific questions if you do not want candidates to use it.
 
@@ -101,7 +101,7 @@ To disable the AI Assistant for a specific question:
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1f825e46-1420-46ea-a6ba-889f14ec5276-1753699070957-image.png-983d962a-88a0-444f-b725-fdb20b60a6a8?Expires=253370764800&Signature=dp~O0HAliHRN5-lP9mDHLEf-ibcuUD-flYoWsxWL5l0zFygOt8Fl-SZtn7JxzSBc-2ek6~78rldWB1Ymx9b1QN7SJ299rReMsGhJE3ohfjDqE43U3sTx8LDfnOB~JyioOydrm2RbycnshhJwGr8O10LUZNhWa63w~od02BCcUaayQTO-IfxKm8FH3YWGHub2Oxid5LJBPNYjbV-Gx45Rt0p0F6aAMHAEtxp~Lw3lc3~yd~wJXcskr8bdgAoBNcAe6tZ4yNaZDvclcf0tJsJCUGTLI1Owv2T5ZTVQaNxa3kIcjWPBsCifY01-lMcqXOriOuSA8zjSXRQZ3QgCH4ISAQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-# Candidate experience
+## Candidate experience
 
 When you enable the AI Assistant for a supported question, candidates can interact with it in the following ways:
 
@@ -143,7 +143,7 @@ Model Switching| Not Available| Available
   
 For Coding questions, both guarded and unguarded modes support only the chat interface.
 
-# Interviewer experience
+## Interviewer experience
 
 During an interview, the interviewer can monitor the candidate’s interaction with the AI Assistant in real time.
 
@@ -161,7 +161,7 @@ This visibility helps interviewers understand what changes occur, why they occur
 
 The interviewer can disable the AI Assistant for specific questions, if needed. They can ask the candidate to explain their AI interactions to better understand their problem-solving approach.
 
-# Post-interview report
+## Post-interview report
 
 After the interview, the candidate report includes a detailed **Chat Transcript** , which provides a complete record of the conversation between the candidate and the AI Assistant.
 
@@ -169,7 +169,7 @@ After the interview, the candidate report includes a detailed **Chat Transcript*
 
 These insights offer transparency into the candidate’s support-seeking behavior, coding independence, and AI fluency—key factors in evaluating developer readiness.
 
-# Frequently Asked Questions (FAQ)
+## Frequently Asked Questions (FAQ)
 
 **Which question types support the AI Assistant in interviews?**
 

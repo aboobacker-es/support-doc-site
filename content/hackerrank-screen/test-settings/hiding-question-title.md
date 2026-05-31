@@ -11,7 +11,7 @@ You can enhance test integrity by hiding question titles from candidates during 
 
 **Note:** The Hide Question Title feature is disabled by default. You must manually enable it for each test.
 
-# Enabling Hide Question Title
+## Enabling Hide Question Title
 
 To enable Hide Question Title:
 
@@ -30,7 +30,7 @@ To enable Hide Question Title:
 
 **Note:** The changes apply to all questions in the test.
 
-# Candidate experience
+## Candidate experience
 
 When you hide question titles:
 

@@ -19,7 +19,7 @@ With this integration, you can:
 
 **Note:** This version replaces the [📄 Lever HackerRank Integration](</articles/1538275190>)and removes the need for manual webhook configurations or redirect-based setup.
 
-# Prerequisites
+## Prerequisites
 
 Before you begin, ensure you meet the following requirements:
 
@@ -31,7 +31,7 @@ Before you begin, ensure you meet the following requirements:
 
   * Your organization has an active Enterprise plan with HackerRank.
 
-# Integrating Lever V2 for HackerRank tests
+## Integrating Lever V2 for HackerRank tests
 
 To integrate Lever V2 with HackerRank for tests:
 
@@ -73,7 +73,7 @@ This step authorizes Lever to connect with your HackerRank account.
 
 Your Lever account is now integrated with HackerRank to schedule tests.
 
-# Integrating Lever V2 for HackerRank interviews
+## Integrating Lever V2 for HackerRank interviews
 
 To integrate Lever V2 with HackerRank for interviews:
 

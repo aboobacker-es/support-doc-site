@@ -9,7 +9,7 @@ is_published: true
 
 Proctor Mode generates Summary Report, Session Replay, and Detailed Report to help you assess candidate behavior and overall test integrity. This article explains how to interpret these reports and review common integrity issues.
 
-# Reporting views in Proctor Mode
+## Reporting views in Proctor Mode
 
 Proctor Mode offers three reporting views. Each view provides a different level of visibility into a candidate’s test activity and helps you evaluate potential integrity concerns.
 
@@ -43,7 +43,7 @@ Session Replay provides a timeline-based, video-style view of the test session. 
 
 The Detailed Report offers an in-depth view of how the candidate performed on each question. You can use this report to investigate a candidate’s performance at a granular level and to review integrity issues, especially when a candidate is flagged for code similarity.
 
-# Workflow for reviewing integrity issues
+## Workflow for reviewing integrity issues
 
 Follow these steps to evaluate integrity issues in a candidate’s test session.
 

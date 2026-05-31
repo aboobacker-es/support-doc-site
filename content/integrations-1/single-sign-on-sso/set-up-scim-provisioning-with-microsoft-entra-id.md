@@ -9,7 +9,7 @@ is_published: true
 
 HackerRank supports SCIM provisioning to automatically manage users and teams from Microsoft Entra ID.
 
-# Key features
+## Key features
 
 SCIM provisioning with Microsoft Entra ID supports the following:
 
@@ -23,7 +23,7 @@ SCIM provisioning with Microsoft Entra ID supports the following:
 
   * **Silent provisioning** : Provisions users without sending welcome or activation emails.
 
-# Prerequisites
+## Prerequisites
 
 Before you begin, ensure you meet the following requirements:
 
@@ -33,7 +33,7 @@ Before you begin, ensure you meet the following requirements:
 
   * You have configured SAML-based SSO for your organization.
 
-# Setting up SCIM provisioning with Microsoft Entra ID
+## Setting up SCIM provisioning with Microsoft Entra ID
 
 To set up SCIM provisioning with Microsoft Entra ID:
 
@@ -239,7 +239,7 @@ Verify that users and teams are created and active in HackerRank.
 
      * Users are assigned as team members.
 
-# Troubleshooting
+## Troubleshooting
 
 Use the following guidance to resolve common provisioning issues.
 

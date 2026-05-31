@@ -13,7 +13,7 @@ When you retrieve candidate data using the HackerRank API, the JSON response inc
 
   * `ats_state`
 
-# Status
+## Status
 
 The `status` field represents the state of the candidate’s test attempt.
 
@@ -44,7 +44,7 @@ These values represent intermediate processing stages, such as:
 
 Transient values are not part of the API contract and may change without notice. Do not build downstream logic that depends on them.
 
-# ATS state
+## ATS state
 
 The `ats_state` field represents the candidate’s stage in the recruitment workflow.
 

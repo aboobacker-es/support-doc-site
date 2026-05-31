@@ -13,7 +13,7 @@ You can use the report to review recommendations, interview responses, integrity
 
 **Note:** You can view AI Interview reports only for candidates who complete the interview.
 
-# Viewing candidate report
+## Viewing candidate report
 
 To access candidate reports:
 
@@ -41,7 +41,7 @@ To access candidate reports:
 
   5. Select a candidate's name to open the candidate report.
 
-# Candidate report components
+## Candidate report components
 
 The candidate report includes the following components:
 

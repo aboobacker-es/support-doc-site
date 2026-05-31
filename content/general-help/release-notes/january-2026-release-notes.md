@@ -15,7 +15,7 @@ Integrity is central to this release. New detection signals, including object de
 
 Alongside integrity, improvements to AI-assisted evaluation, code quality grading, and reporting provide deeper insight into how candidates structure solutions and iterate over time. To support teams beyond hiring, SkillUp expands guided learning with an AI Engineer Certification and a weekly Prompt Engineering Challenge, helping developers build modern skills with confidence.
 
-# Screen
+## Screen
 
 ## Test Variant Updates
 
@@ -151,7 +151,7 @@ You can now create Code Repository questions with built-in AI guidance, making c
 
 ![AI-Assisted Question Creation for Code Repos \(Limited Availability with AI Add-on\).gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1768924182526-AI-AssistedQuestionCreationforCodeRepos%2528LimitedAvailabilitywithAIAdd-on%2529.gif?Expires=253370764800&Signature=cNrNJ8L6sV0f-02C6qHjgMvFz11HxOFzafpyZ5vSE~qjonG3izFQE3aB56bzzjA68JBrRffB4Zv4vTiEXYAInH6Eao3jTXrIrJhG51~QyVIbjcLGId~1OfMHf2rmJsqhTvskowb56yw~ph4~2H6NlpSQSY8nV-1r9FgXDS-5kUr8bNNNdfSTKJYr1gse-OndIe87uUWLZu-PDJW-JrQx7HZl5W1-lHDDcE9q04lSKzi2doVZnrr~hPSTUE~6QvTu0UqL18nJEEyAWAHJDFGfxDWK3wIa9pU-~mJlNyv4kG8GUhSccNKorgst-w81dCP9EYnLDdcoz0EN-pYCINP60g__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-# Skills Platform
+## Skills Platform
 
 ## Library Improvements
 
@@ -194,7 +194,7 @@ Web Development| Cypress| Projects| 5
 Web Development| Selenium| Projects| 5  
 Web Development| MERN, React+Django, React+SpringBoot| Code Repo| 3  
   
-# Developer Experience
+## Developer Experience
 
 ## Completed Rollout of New Candidate Site
 
@@ -245,7 +245,7 @@ You’ll see an improved AI Assistant experience across tests and interviews, wi
 
 For more information, see [📄 AI-Assisted Tests](</articles/1152916770>), [📄 AI-Assisted Interviews](</articles/5821380141>), [AI Assistant in Tests](<https://candidatesupport.hackerrank.com/articles/7634558376-ai-assistant-in-tests>), [AI Assistant in Interviews](<https://candidatesupport.hackerrank.com/articles/6665907643-ai-assistant-in-interviews>). 
 
-# Integrity
+## Integrity
 
 ## Object Detection in Webcam Feed (AI Add-on)
 
@@ -321,7 +321,7 @@ Code playback captures candidate activity more accurately, even if the session i
 
 AI Add-on customers can now switch between Secure Mode and Proctor Mode on any test, even those with existing candidate attempts. Once updated, new attempts will follow the selected mode, giving you flexibility to change your proctoring strategy without disrupting existing data. Both modes are compatible with Chrome and Edge, so there's no change to browser requirements for candidates.
 
-# Interview
+## Interview
 
 ## Sample Interview Link for Code Repo Questions
 
@@ -367,7 +367,7 @@ _This feature will be available as part of a phased rollout._
 
 For more information [📄 AI-Assisted Interviews](</articles/5821380141>), [AI Assistant in Interviews](<https://candidatesupport.hackerrank.com/articles/6665907643-ai-assistant-in-interviews>).
 
-# Data and Insights
+## Data and Insights
 
 ## Performance Improvements to Insights Dashboards and Exports
 
@@ -383,7 +383,7 @@ Custom Reports provide a powerful way to access, analyze, and share your HackerR
 
 For more information, see [📄 Custom Reports](</articles/7355624862>).
 
-# Integrations
+## Integrations
 
 ## Integration with Zapier
 
@@ -403,7 +403,7 @@ Deeper analysis and full integrity context remain available in the HackerRank as
 
 ![Integrity Signals across ATS Integrations.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1768981617042-IntegritySignalsacrossATSIntegrations.gif?Expires=253370764800&Signature=FQzhuwzhMVnCKEpJRrBiWO1uCaGjOIP4tz0KVBvzv0AaFi1tlZ1dYnOnxDZaJdc7HqUi39lK7J4PBbQji2AnlKk9MTcL5xqrUpS1xee6yNXOxgB6vhp2899DmVQ0KXeKTbBHfm3KtAD3yh3Z9Q6O66P6XiymLnRVYGre0PdGPso8YAqaBqyFzqXEUm9JWh5~DD76eWkd8fZvPhMslocodDvq8UOa5017A1nldMqSHE0iTQn3ovTIDChvHXnDvwc8T7XdBgJjel01tT2WOw7ZrLgBII~ktEMOdaEB7sOaIhs8TRYNbH9pSrCYTotH7gJRclIzhRWSpeGuh3KhmKXdcg__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-# SkillUp
+## SkillUp
 
 ## Weekly Prompt Engineering Challenge
 
@@ -429,7 +429,7 @@ The AI Engineer Certification is a guided pathway with lessons and challenges de
 
 For more information, see [📄 Roles and Skills in SkillUp](</articles/1506621765>).
 
-# Deprecations and Experience Changes
+## Deprecations and Experience Changes
 
 The following changes will be effective January 28th, 2026.
 
