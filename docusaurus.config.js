@@ -63,7 +63,7 @@ const config = {
         respectPrefersColorScheme: true,
       },
       navbar: {
-        title: '',
+        title: 'Docs',
         logo: {
           alt: 'HackerRank Logo',
           src: 'img/logo.svg',
