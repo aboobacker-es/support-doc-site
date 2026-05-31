@@ -3,7 +3,7 @@ const { themes: prismThemes } = require('prism-react-renderer');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'HackerRank Help Center',
+  title: 'HackerRank Docs',
   tagline: 'Documentation, guides, and resources for HackerRank products.',
   favicon: 'img/favicon.ico',
   url: 'http://localhost:3000',
