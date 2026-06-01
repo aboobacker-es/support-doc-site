@@ -53,7 +53,9 @@ To enable Proctor Mode:
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760279073731-image.png?Expires=253370764800&Signature=hTlWAetXhcR~KXneVidb9AqyyLRC8-j~DSpK869QtRm5s4~y-dSxqG0-15F7nB8S7Ne7S6h0z8PIl~sARQSqC7HSx-QoryHwJrDausUXgKkix56H~w1mT0BdDXkUzrXfTx7Ih4egC1JSOT5w3eyyA3NewDwh7inHIzH57AXwqBk1gGBCLVBJsqHgp1up5FhnXmCBQUDDDvOPxbjGdy-Sk5NPMWsXLQW5N0uY~a9DRAfQBsDEKjZ5iDCjjTt4fSBhh8~nUJdW0GY-1146Rqeb6SLxmi0NKu8ERtwInV72ERu4jp4UN9~0kAdzuw0vHiVm7SSGaAbwsMZuOqd0IcdaFQ__&Key-Pair-Id=K3NV4LZ47N8M46)
   5. Click **Save Changes**.
 
-**Note:** When Proctor Mode is enabled, **AI Plagiarism Detection** and**Image Analysis** are enabled by default. You can disable Image Analysis, but HackerRank recommends enabling it for full session integrity.
+:::note
+When Proctor Mode is enabled, **AI Plagiarism Detection** and**Image Analysis** are enabled by default. You can disable Image Analysis, but HackerRank recommends enabling it for full session integrity.
+:::
 
 ## Proctor Mode compatibility
 
@@ -173,11 +175,11 @@ The **Session Replay** for these tests includes all the features available for *
 
   * Displays a synchronized timeline with webcam images.
 
-**Note:**
+:::note
+* Proctor Mode uses **Screenshot Analysis** to examine captured images.
 
-  * Proctor Mode uses **Screenshot Analysis** to examine captured images.
-
-  * For more information on how to review integrity issues in Proctor Mode, see [📄 Review Integrity Issues in Proctor Mode](</articles/9607697321>).
+* For more information on how to review integrity issues in Proctor Mode, see [📄 Review Integrity Issues in Proctor Mode](</articles/9607697321>).
+:::
 
 #### Screenshot analysis
 

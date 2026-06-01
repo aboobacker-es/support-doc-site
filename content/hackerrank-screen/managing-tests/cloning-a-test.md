@@ -11,11 +11,11 @@ Cloning a test allows you to create a new test with the same questions and setti
 
 After cloning, you can modify the cloned test by adding or removing questions or updating the test settings.
 
-**Note:**  
+:::note
+* If the original test does not have a defined **job role** and **experience level** , you must add them before you can clone it.
 
-  * If the original test does not have a defined **job role** and **experience level** , you must add them before you can clone it.
-
-  * Cloning a test does not create separate copies of the questions. Each test uses a single master copy of every question. When you edit a question, you update the master copy. Any test that includes that question, including the cloned test, shows the updated version
+* Cloning a test does not create separate copies of the questions. Each test uses a single master copy of every question. When you edit a question, you update the master copy. Any test that includes that question, including the cloned test, shows the updated version
+:::
 
 ## Prerequisites
 
@@ -43,7 +43,9 @@ To clone a test:
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1758780122526-image.png?Expires=253370764800&Signature=Zr611e~60V-xPFXFRSUafMQlx7HMlkrV7YSzjfvVYLYGNhuSDKhXYYXGfpxi~AmuWpV3iRKDxZe9cMlgozeMPtbkDFODwDu9yGc8-2BG~4wO872zrRz5U1mpuxkZ7atr9hOd9N16w8Zgct89IaPCgKd5p3MIqjsspx3yJ5xIJy8t6c9mdf1t78EBsRhSaPMbpB1Odu~q6tcSpATfYOeExsoBSjs~3RDBux6iZ6DQxXvwPUFMuRxTK1FM5jglV62r7xt3xmNz-hZfEJsDNAg3F9m9uyPmjwwux5FZ5V7XsFW7vObaRz9H9eeOV236FXPtC7gkPUkWkO8SORXYevAvbA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-**Note** : The cloned test name follows this format: **Original Test Name (Duplicate)**
+:::note
+The cloned test name follows this format: **Original Test Name (Duplicate)**
+:::
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1756359662921-image.png?Expires=253370764800&Signature=q6szW2LDsu~i~EFQz6WWhRhK1B0P2XmabRsOT9b0g-fsNnqGnPQy0656CMp4dc4q0phDZHg4Mx~JJVJzYMds~sCkivugN2ejRz3TQT5m2-QXPFh5grl5fDQ07mTAMMSqwElnfonP~GFIpjPHGlygcyiS93avRS19TxRxCftB2Ld1a7EjtAK0EJ42PhQ8MyOwJJhq2Ig7l8~rOkHrkAWzDaNdnkXXhvC8Z74dDGHe1T3e~ji5rgBzx7-xrfh8HKfukRY~GR6HpJ0~Nr0gbeiQxvsfJeo6giXLZgEKdFsUMCfaZ-DtSJdj~L4Ty3LAjCsi7YtGwmm-G2KnbKBcLkz66w__&Key-Pair-Id=K3NV4LZ47N8M46)
 

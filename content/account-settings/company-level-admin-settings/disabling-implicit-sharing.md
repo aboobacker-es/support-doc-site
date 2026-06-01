@@ -11,7 +11,9 @@ The updated sharing controls enable you to disable automated team-based sharing 
 
 This feature provides enhanced control over access management. It allows creators to selectively share tests and questions with individuals or teams rather than relying on automatic team-based sharing, ensuring greater precision and flexibility in managing permissions.
 
-**Important** : Enabling this feature is irreversible. Use this option carefully to avoid unintended access changes.
+:::warning
+Enabling this feature is irreversible. Use this option carefully to avoid unintended access changes.
+:::
 
 For additional details, refer to:
 

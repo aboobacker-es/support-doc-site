@@ -31,7 +31,9 @@ To invite candidates to an AI interview in Chakra:
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1770795281468-image.png?Expires=253370764800&Signature=S5y1Z2pwqz6lMxFfb2Z9DK5CnIgBsDbifphfBG~45Egs062BBCVo7pJ1LR2yORvpcbEEFBijddvvH1cvXkyORwkPn8MeYrbioTd8B0N-R4ZpIFfaiQWE4PF~wfCoM3bvZUSBegcX8tQLCpoAwqaLQJz65QB8pGYDZz7amgQ~wWyQLK~~7nufLShcUelJrp9PyRSSyjncxlSMYMorOcuDaTaO83oZu1ksAy4cVAjr2mCP57So0ccyuhVXEfvww0en4X9BcBaqRHTchaAopNHPbOjUtz45Y~CLYMOJcPOoH7PiUtUS7RUq-ATcb9ZUetJnYH2zHT59qMNIupoKeokzmQ__&Key-Pair-Id=K3NV4LZ47N8M46)
   5. Share the copied link with candidates (For example, through email, your ATS, or your careers page).
 
-**Note:** You can also copy the interview link from the **Overview** page after you open the interviewer.
+:::note
+You can also copy the interview link from the **Overview** page after you open the interviewer.
+:::
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1770795290727-image.png?Expires=253370764800&Signature=AVb76oNiE7Lc02uGkPLsR9jBkqDTLraQ137hIzvtcGUZFved2eb5GSBtrUjwojCI-xDRp04gdsTAHWBraCIiA~UamQGjJQP42AR-8rvTn9swfsRz7U~mhELTfF0Gi80lP9WlFflMm-M8qCUWxDpdfaxSLV3JnjWyRUrFMZzbBuj~0X2Svy9YZxYdYwZHYcgznJzIJmQLkmf6Pq0pD-MkAmpuVAJcBGteiznsIykQJypnZ~QxC~SSPsTj5DXFUNbQQoXZSupI4Y38LgdvtucmbClm64S-uyWuEzyLFILVOetKVLdRvD5~aTskDlXxnFbZcBSjxOVA2P7aY7FNXabzWQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 

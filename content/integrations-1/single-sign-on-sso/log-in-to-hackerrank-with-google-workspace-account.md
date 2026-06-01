@@ -11,7 +11,9 @@ HackerRank integrates with Google for Work to facilitate an easy and seamless re
 
 As a part of this workflow, HackerRank users who have a Google for Work account can seamlessly log in to HackerRank without having to go through multiple steps of authenticating themselves into their HackerRank account. For example, remembering passwords, going through password managers, and so on. This results in a hassle-free interview scheduling experience saving you a lot of time and effort.
 
-**Note** : If your company uses SSO, you can configure Google Workspace as your SSO provider through SAML. For more information on SAML, see [📄 SAML 2.0 Single Sign-on (SSO) ](</articles/4516079405>).
+:::note
+If your company uses SSO, you can configure Google Workspace as your SSO provider through SAML. For more information on SAML, see [📄 SAML 2.0 Single Sign-on (SSO) ](</articles/4516079405>).
+:::
 
 ## Prerequisites
 

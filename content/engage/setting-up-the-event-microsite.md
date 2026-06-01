@@ -49,15 +49,15 @@ Use the **Content** tab to add or modify microsite sections:
 
     4. Click the green submit arrow button to generate the banner. The AI generates a customized banner that includes your event name.
 
-**Note:**
+:::note
+* You can regenerate the banner image up to five times to explore alternate versions.
 
-       * You can regenerate the banner image up to five times to explore alternate versions.
+* If you prefer to use your own banner image, select **Upload Image** to add a banner image.
 
-       * If you prefer to use your own banner image, select **Upload Image** to add a banner image.
+* Reorder or hide sections to match your event flow.
 
-  * Reorder or hide sections to match your event flow.
-
-  * Click **\+ Add new section** to include new section and choose a layout to present text, images, or videos based on your event needs.
+* Click **\+ Add new section** to include new section and choose a layout to present text, images, or videos based on your event needs.
+:::
 
 ![Screenshot 2025-09-24 at 7.31.43 PM.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760519953595-Screenshot2025-09-24at7.31.43PM.png?Expires=253370764800&Signature=MfOybgdo2Ul5cVrvit7Eedk985j~cxuz4uoDsSGHTpCYyz~Z3zWOewZgi5P93fapo6zU0NjvrREzBjZVp2JkwP8WW32dFaJGtGz3CQPiC8IVowHDEnaLkwnx1tUtiGYAYu23cPic5axjvbs7E6jZbWYxgfM8eXltzloLDIkHbNw-Eqnp9Iv-YfzvINlfyapXuEN7Y4OYdzScRpVxezb~mMGU-r5hx7zYJQh6LzNGNyJa~zlDpfGe5bj~wFMRpSZrZZSRBDnJ45Y1PqPLmSfjQoGRWBwraqV~AA0emoIcy0gbuvtim7PYK3G7oAVAvGiJEKm7KBhGoPTtpTZfgFZCDg__&Key-Pair-Id=K3NV4LZ47N8M46)
   * In the **Event Timeline** section:
@@ -95,7 +95,9 @@ In the **Registration** tab:
 
   * Automatically categorize candidates into **eligible** and **non-eligible** groups based on the criteria you set.
 
-**Note:** After you publish the microsite, you cannot edit the **Eligibility Criteria** , **Participation Type** , or **Registration Form Fields**.
+:::note
+After you publish the microsite, you cannot edit the **Eligibility Criteria** , **Participation Type** , or **Registration Form Fields**.
+:::
 
 ### Steps 5: Publish microsite
 

@@ -31,7 +31,9 @@ To create test variants:
 
 The system converts the existing test into **Variant 1** and opens **Variant 2** , where you can start creating the second version. To add more variants, select the **+** icon next to the tabs.
 
-**Note:** A variant-based test requires at least two variants.
+:::note
+A variant-based test requires at least two variants.
+:::
 
 ## Renaming a variant
 
@@ -67,7 +69,9 @@ To add questions or sections:
 
   5. Click **Add** to include them in the variant.
 
-**Note:** You can also add skill-based questions or reuse existing sections directly from the empty variant screen using the **Add New Skill Bundle** or **Add from Other Variants** buttons.
+:::note
+You can also add skill-based questions or reuse existing sections directly from the empty variant screen using the **Add New Skill Bundle** or **Add from Other Variants** buttons.
+:::
 
 ![ime3.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1753882583647-ime3.png?Expires=253370764800&Signature=lX7jBr03R3535lkj1KxZNinn6WiAoftPBHobajcIkEf6Iy07YVNCvMCULIQGufJ-cqyGl1kTI0M9zUUBVXJeiwXRZgOh-PL0Rsu7TCnDb-qSvCQBFlvKD26SxpShXZsXKtQ7XExMdY55Qh3xPCxRSyd2letTYip9zoGaV0XXFPBZJ1accUyttCVqlpLkceECe-ddJ1VODCs60-bLaMWdkK-KSeVLigQM28SR~yYBIp3hancheCg4nDaVodMFLYN7n-ub3JVyyJh8xyBQmMkJgk73QGv66nGuWOr9lQ60vW~O9DRjvcrtrKnIgykV-y6EIKKk5zIEc7OsbQ2iOQmaZQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
@@ -85,7 +89,9 @@ A confirmation dialog appears. If the variant is mapped to a candidate option, t
 
   3. Click **Delete Variant** to confirm.
 
-**Note:** You cannot delete a variant if only two variants exist. A test requires at least two variants. To proceed, manually remove the sections from the variant instead.
+:::note
+You cannot delete a variant if only two variants exist. A test requires at least two variants. To proceed, manually remove the sections from the variant instead.
+:::
 
 To remove a section from a test variant:
 
@@ -115,7 +121,9 @@ To configure logic:
 
 After you configure routing logic, publishing becomes enabled.
 
-**Note:** Variants without logic will not be visible to any candidate until you add logic. 
+:::note
+Variants without logic will not be visible to any candidate until you add logic.
+:::
 
 ## Evaluating test variants
 
@@ -123,7 +131,9 @@ After a candidate completes their assigned variant, go to the **Candidates** tab
 
 Use the **Candidate Option** filter to filter candidates by variant.
 
-**Note:** For variant-based tests, you can add extra time at the section level for candidates. For more information, see [Adding extra time in variant-based tests](<https://support.hackerrank.com/articles/4811403281-adding-extra-time-for-candidates#adding-extra-time-in-variant-based-tests>).
+:::note
+For variant-based tests, you can add extra time at the section level for candidates. For more information, see [Adding extra time in variant-based tests](<https://support.hackerrank.com/articles/4811403281-adding-extra-time-for-candidates#adding-extra-time-in-variant-based-tests>).
+:::
 
 ## Additional note
 

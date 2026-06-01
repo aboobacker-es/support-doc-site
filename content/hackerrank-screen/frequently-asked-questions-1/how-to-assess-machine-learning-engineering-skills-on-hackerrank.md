@@ -11,7 +11,9 @@ is_published: true
 
 This article talks about the HackerRank enabled capabilities to assess Machine Learning Engineering skills. **Machine learning engineers** are responsible for creating programs and algorithms that enable machines to take actions without being directed by combining software engineering and data analysis. At HackerRank, Machine Learning Engineering skills can be assessed through our pre-designed and custom-built tests with important skills such as Python, Applied Mathematics, Statistics, PyTorch, and TensorFlow. 
 
-**Note:** Before we proceed, please visit [here](<https://www.hackerrank.com/skills-directory>) to learn more about how we define the core competencies of the skills listed above. 
+:::note
+Before we proceed, please visit [here](<https://www.hackerrank.com/skills-directory>) to learn more about how we define the core competencies of the skills listed above.
+:::
 
 Using HackerRank’s Machine Learning Engineer Role, both theoretical and practical knowledge of the associated skills are tested. 
 
@@ -32,4 +34,6 @@ Multiple-choice questions [MCQs], in general, assess conceptual knowledge and un
 
 Some examples of [Applied Mathematics and Statistics multiple-choice questions in our library ](<https://www.hackerrank.com/work/library/hackerrank?copyscrape=true&skill_ids=191ea408ad9b%2C625b7711440e>)are as below.![image3.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046720634-?Expires=253370764800&Signature=sMMz338BasSmJhKkLBUbF~9dxb7FscrrNHAM3CY9w7RiKOcJTZIp6l0jxCniyA2eR6r78TDfQYdsWy8m3r-24I2OroWE6m~4uBz3qx7uDgJt49Z~di3JqC4BzThMLFPR9tA7Acga~X~iDLIjceS-PEvI7ucmfinnRsYMeSSdPBqDMzQ3UEVvW3YO93fmkcFlauykGRV1Duxf1B~ZnZ1Kp0Y5Qg8B0jPPUaLd8xck4etIPV16bSbZK7wxYUr~qOWKTfoKvB9Tx3E563YuC5lhJ8pXKeAaGwifTpEFqievTMJ5euhoVK7UnShOONAx2CMnyFbsq3dUIezZmSAdjL~9dQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-**Note****:** Validated by our [HackerRank's Skills Advisory Council](<https://www.hackerrank.com/skills-directory/skills-advisory-council>), we also provide the [HackerRank Skills Directory](<https://www.hackerrank.com/skills-directory>) which clearly defines the competencies that can be leveraged while assessing candidates for the Machine Learning Engineering role. Please see the key competencies for the Skills listed above, on our Skills Directory [here](<https://www.hackerrank.com/skills-directory>).
+:::note
+**:** Validated by our [HackerRank's Skills Advisory Council](<https://www.hackerrank.com/skills-directory/skills-advisory-council>), we also provide the [HackerRank Skills Directory](<https://www.hackerrank.com/skills-directory>) which clearly defines the competencies that can be leveraged while assessing candidates for the Machine Learning Engineering role. Please see the key competencies for the Skills listed above, on our Skills Directory [here](<https://www.hackerrank.com/skills-directory>).
+:::

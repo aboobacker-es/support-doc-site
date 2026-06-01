@@ -23,7 +23,9 @@ You can enable email alerts for leaked questions at the company level, user leve
 
 ### Enabling email alerts for all company tests
 
-**Note:** You must have admin access to configure company-level settings. 
+:::note
+You must have admin access to configure company-level settings.
+:::
 
 To enable email alerts for all company tests:
 
@@ -90,7 +92,9 @@ To enable email alerts for a specific test:
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1a133f64-14e1-4aa5-ad8b-c537ccbf30b4-1759989548649-image.png-815b1de4-c9ed-47ae-ae1c-d711cc8b240c?Expires=253370764800&Signature=rgzookErY7s4405wMadn9TUpIOjkWv-ehMR9OwUNzHNO-l0RlJAI9tR8pK1E0fSYrgBbfxzrpbccPYWEtIXdfZt9-lq5-bSvD2iK45NjNGyxseKFCth8U1iwdHzOYbkcUweHool466XIjHTakVa22jeK9TVFFgFnwdsDE0vA6Yow2IIUq7ZZDpziW7aEeyPBckrGxHMy9B78AsDl7OvQYW0NMJ1g8kxCk5wxnKCCWci-ZDLarbG6uFC40Hsv3-KwwtcQ89ef~050-jQSDALKnXpbCAeUwJ9j6mW6ZKmFeWs-abLF8yuRI-6h72vQIAyrZZHsWLpOC3Nxn5Mmzu5cRA__&Key-Pair-Id=K3NV4LZ47N8M46)
   7. Click **Save Changes**.
 
-**Note:** For more information on leaked questions, see [📄 Managing Leaked Questions](</articles/8820947031>).
+:::note
+For more information on leaked questions, see [📄 Managing Leaked Questions](</articles/8820947031>).
+:::
 
 ## Receiving and responding to email alerts
 
@@ -100,7 +104,9 @@ After you enable alerts, test editors receive an email that includes:
 
   * Direct calls to action (CTAs) to manage each affected test.
 
-**Note:** The list can include two types of leakages:
+:::note
+The list can include two types of leakages:
+:::
 
   * Questions that were not leakage-protected and got leaked (marked without a shield icon).
 

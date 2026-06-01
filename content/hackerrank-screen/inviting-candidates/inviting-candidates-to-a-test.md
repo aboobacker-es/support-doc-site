@@ -9,7 +9,9 @@ is_published: true
 
 HackerRank for Work allows recruiters to invite candidates to take a test. Test invitations are sent via email, including a link to the test and other necessary details. You can customize your email invitations and save them as templates. 
 
-**Note:** You must have a Recruiter license to invite candidates. Hiring managers must request their recruiters to send invitations to the candidates.
+:::note
+You must have a Recruiter license to invite candidates. Hiring managers must request their recruiters to send invitations to the candidates.
+:::
 
 ## Prerequisites
 
@@ -35,17 +37,23 @@ To invite candidates to a test:
 
      * **Names and email addresses:** Evan Brown <[evanbrown@gmail.com](<mailto:evanbrown@gmail.com>)>, Ethan <[ethanv@gmail.com](<mailto:ethanv@gmail.com>)>, Nancy Smith <[nancysmith@outlook.com](<mailto:nancysmith@outlook.com>)>
 
-**Note:** Refer to[📄 Send Bulk Email Invites](</articles/7127221409>)to invite many candidates to a test at once using a CSV file
+:::note
+Refer to[📄 Send Bulk Email Invites](</articles/7127221409>)to invite many candidates to a test at once using a CSV file
+:::
 
   6. Edit the subject line if necessary. By default, the test name appears as the subject.
 
-**Note:** You can also include emojis in the subject line.
+:::note
+You can also include emojis in the subject line.
+:::
 
   7. Customize the email body as needed. Use the formatting options to add bullet points, numbered lists, or other elements.
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1746783438273-image.png?Expires=253370764800&Signature=qW0zI1r-tzR4Lh~RKKOSm2-Uui6kLEBfZ9X9~TMMhGt846wJ2WQe6wL1Ji-j3xWJJcdYCmBrtpzazK7IMh0djb1vo00sOOAgogDs220MQLrRVZsFhkqPQSihOESYsJVZvEQUpZU1nJzj6LQrIMfC5U6~iJejGz6cwcIx7YLRy3wftg6QZqkbhlUR7mV8C3Wq39RCjlgbNg4PO8cfX4D0no3b7nRmth8sEMt0OoHEdGpF4ROX2WML7otxkjsehvAQjd45dkjTA~2i05YaJgBpl03jlESqJFMLquGZfNdsimmaKnQpobteS6-by~a5-DGH65HgDxtdZVVDq0PZ~J9S3g__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-**Note:** You can save the email as a template or use an existing template. For more information, see [📄 Using a Custom Email Template](</articles/6675460135>) _._
+:::note
+You can save the email as a template or use an existing template. For more information, see [📄 Using a Custom Email Template](</articles/6675460135>) _._
+:::
 
   8. Click the **+** icon to insert placeholders for the **Candidate Name** and **Recruiter Name**.
 
@@ -75,11 +83,11 @@ To invite candidates to a test:
 
   11. Click **Send Invites**.
 
-**Note:  **
+:::note
+* For more information about email invitation best practices, see [📄 Best Practices for Email Delivery and Bounce Management](</articles/1258426835>) _._
 
-  * For more information about email invitation best practices, see [📄 Best Practices for Email Delivery and Bounce Management](</articles/1258426835>) _._
-
-  * You can invite a candidate to a test from the **Active Tests** tab by clicking the invite icon next to the test title.
+* You can invite a candidate to a test from the **Active Tests** tab by clicking the invite icon next to the test title.
+:::
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1758612410511-image.png?Expires=253370764800&Signature=DH2xRtb7xF5GplpvfIARxOLYkpEyJ42gjRGhqUq0LMFZWW40nBZAPznssKbb-sqBq01zBR-FFI8pkka8WbF5hHhfkVlYCdkGnTi-GZRRDKlNXegGk~39bU11S6sgDTyXzdrfP2ua9CDYj-gYrJ9okEXfS8EUnOOkMRQBMdsQnLjDnCdtTLB7TaNqP01Mg74dMqM2yCphWSU4Jy7Dnj30ddH9JMQ6CeCsqd2whO1sS3MRR2r55NOGoD9cDchSWBI3ajly1j6eGMLwYTPjmol1cPzWS3gZYEYS8NxBLQ-akUC-pH9As-~B-gnkpc~twlnqodJf9bPta7DH-mBgLL5vFw__&Key-Pair-Id=K3NV4LZ47N8M46)
 
@@ -103,7 +111,9 @@ The selected expiry date appears.
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1758612586423-image.png?Expires=253370764800&Signature=C0yG2uq5FcGuTOKxujta3rb24ei762V7sAq8W1h64sQ7bL2WheTEKW0U2u-z4lDRs19F~bLkXO0jDn-Epfqe3Z7gnA~U4WDw6BrUeq2Hwar5YJi1Id99fvtAuB36WEBLMpxeWbfrdHL5atw1HBCs2-c3t8InRjIvuhCAgtfeqz4MBcteylu0Qj-7Ko5NcrNwtiNkAaKhgUae9PE6ScLZ0Pk-QD3s6QGd0ZlgdAl0E~JYe3o7vZRHv3HiafZDGMtzBhQcATJ7q-42R0IzdzGXpq-3ZWT8j4Ean~rzZ9C~BNDUm~yuiayan3n44eCgFSukFs5W~bt-Qm2H2rOGq2V21A__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-**Note:** By default, the **Expiry** option is set to **Never** , and the invitation does not expire.
+:::note
+By default, the **Expiry** option is set to **Never** , and the invitation does not expire.
+:::
 
 ### Send reminders
 
@@ -133,7 +143,9 @@ To set a reminder:
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1758612179243-image.png?Expires=253370764800&Signature=jcaMxJlVdQMhgGAfDyFGIO-dGhTqMLPjOyqZmRgUWG3VkiXFY1tCXiHf2aLaBpfxtefQIkhDsE2TGp8APfV6yXAZDxrb5M4AYcTObguHBgFpGAOxRnc9CURD3YvBpwUMwd25IjoMffMqZOq1eHP3bvgnBnn-gVySVM5Nr4ibhb4zrzhbHitk5aoDDBRCamU3X6osh9XEH1qhT2EdJjfDX79s4rMxM4t5875NIVAVE~qOnkQYx2KuLrJqwcoVswfTS7rBAsqulJF8CJa86z3fqF4qADROAwSTeYd8SHR429XUmRrBBXG~NkzAfv~Ru7jfVmFfuKCR3uJSnY4yIPZL6w__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-**Note:** Reminder emails are only sent to candidates who have not started the Test. Reminders can be scheduled only if the invitation expires more than one day from today.
+:::note
+Reminder emails are only sent to candidates who have not started the Test. Reminders can be scheduled only if the invitation expires more than one day from today.
+:::
 
 ### Add time accommodation
 
@@ -157,6 +169,8 @@ To configure the settings:
 
      * **Include start/end dates in email:** Display the test start and expiry details in the email.
 
-**Note:** **Include test link in email,** and **include start/end dates in email** are selected by default.
+:::note
+**Include test link in email,** and **include start/end dates in email** are selected by default.
+:::
 
   3. Enter tags to associate with the candidate under **Add Tags**. Tags help to search and filter candidates.

@@ -59,7 +59,9 @@ A unique API Key is displayed.
 ![integ_interview_planner2.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046901316-?Expires=253370764800&Signature=A1tceNI77iDHvUZI~33z~8Gb1HYbs3tD4HyaPvNneHGtIlVm~bGfIKEgL7GJYzR~2f52p3DW9k1alz-U8joh0GEbQyawKCw9UGI2cQlNZb3tTLKC1mWZt-9BtwdvK6Wzclp96wUiAUzatnQgJU0-taMj8dXjRPFeLQ-Jpf-OJ5T8gbcTYRln754l3naPxLOXYwsxYTCkKew2oWsZi73PgCuGSTf9j16fTlqkUmQ7DVGL2tlQf8jIscwRbIzd91DZI3b95yNW7kOuAo9z7XG4byPkOMpR50-NYkAzWSowFAfCLJDDnROfq4RTl-Nwb2H8kwxYSferiX495MZjWCsdjg__&Key-Pair-Id=K3NV4LZ47N8M46)
   6. Copy this key. You will need to add this key to the Greenhouse account to establish the integration.
 
-**Note** : Ensure to store the API key safely. Once the popup is closed, you cannot retrieve the key again.
+:::note
+Ensure to store the API key safely. Once the popup is closed, you cannot retrieve the key again.
+:::
 
 #### **Adding the API Key in InterviewPlanner**  
 

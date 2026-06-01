@@ -42,13 +42,13 @@ The system calculates the final score as:
 
 **Final score** =**Weight per test case** ×**Test case status**
 
-**Tips:**
+:::tip
+* Make outputs deterministic and format-locked.
 
-  * Make outputs deterministic and format-locked.
+* Return only the requested output.
 
-  * Return only the requested output.
-
-  * Mirror exact casing, punctuation, accents, spacing, and order.
+* Mirror exact casing, punctuation, accents, spacing, and order.
+:::
 
 ## FAQs
 

@@ -23,7 +23,9 @@ HackerRank Interviews can be used to hire for roles at all levels but are especi
 
      * Ensure candidates are recommended to try out a [Sample Interview](<https://click.pstmrk.it/2sm/www.hackerrank.com%2Fpaper%2Finterview%2Fcandidate/ih_I-DgN/EDcI/lCCPqkY_bx/aHJ3LWludGVydmlldy1zY2hlZHVsZWQ>) to help prepare for their upcoming interview.
 
-**Note:** We recommend accessing the interview link using an incognito window or a browser not logged in to a HackerRank account.
+:::note
+We recommend accessing the interview link using an incognito window or a browser not logged in to a HackerRank account.
+:::
 
      * Whiteboard sessions and conversations during interviews are recommended to put candidates at ease. 
 

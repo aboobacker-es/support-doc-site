@@ -29,12 +29,12 @@ You can log in to HackerRank through Azure AD. Create, update, and deactivate us
 
     * Logout URL: <https://www.hackerrank.com/x/api/v1/sso/saml/YOURSSOUNIQUEID/logout>
 
-**Note:**  
-
-  * The Sign-on URL must remain blank during configuration.  
+:::note
+* The Sign-on URL must remain blank during configuration.  
 Entering a value in this field may cause authentication errors
 
-  * HackerRank accepts only the user's email address. HackerRank SSO fails if it receives anything other than an email address.
+* HackerRank accepts only the user's email address. HackerRank SSO fails if it receives anything other than an email address.
+:::
 
 ## Configuring the SSO on Azure
 
@@ -82,7 +82,9 @@ The SSO integration can be tested in two ways:
 
   * Clicking **Enable SSO  **and test the single sign-on from the Azure Portal.
 
-**Note** : For the second way of testing on the Azure Portal, ensure that you do not close the SSO page while testing. In case the setup is not successful, you can disable SSO on the same page.
+:::note
+For the second way of testing on the Azure Portal, ensure that you do not close the SSO page while testing. In case the setup is not successful, you can disable SSO on the same page.
+:::
 
 ![Azure_AD_SSO_Configuration_image_9.jpg](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046356674-?Expires=253370764800&Signature=XUzdcmsT5Qm9bS-uVr8cwKV5RgE1AJS6ABKl3HGdkt4Uq8jYd2KGzbTkOZeShN0PsBdJ~znQ8tIp8U04O~nzSekm1IEwiDEvLtL1q-Qk-5-u3PtHZQP~bvhrkEc1Irpg2A5xNY3tzfz4GWJMDSrJ53xMKdY3TZgo~OWsmr~-QWBESweoXZIA4PcPGukTPeD17~zWwP8xcuZ9ejYEVmnAdelKtx~6SPyjpTVWvVw-hJaNogjWAp~Ytme1FuE-Xi4qqz4Zg1IHG~etUhv0cgDsGjSUhd8OIMQ30Sl57Yc5hwmZPku74-mvVVCgsLgovOGpqneKMGxtI5mS78ATrESM4g__&Key-Pair-Id=K3NV4LZ47N8M46)
 

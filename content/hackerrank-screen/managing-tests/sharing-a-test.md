@@ -41,7 +41,9 @@ To grant test access to users or teams:
 
 After you save the changes, the users or teams and their assigned roles appear below the search field.
 
-**Note:** Any teams the test owner is a part of automatically have access to the test.
+:::note
+Any teams the test owner is a part of automatically have access to the test.
+:::
 
 ## Frequently Asked Questions (FAQs)
 

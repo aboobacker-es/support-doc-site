@@ -38,8 +38,8 @@ To configure a reply-to email address:
 
 A verification email is sent to the provided address. Open the email and select the verification link to confirm the address. Once verified, all candidate replies will be directed to the configured email address.
 
-**Note:  **
+:::note
+* If you do not receive the verification email, click **Resend Email** to send another verification link.
 
-  * If you do not receive the verification email, click **Resend Email** to send another verification link.
-
-  * If a reply-to email address is not configured, candidate responses are sent to the respective individual recruiter’s email address.
+* If a reply-to email address is not configured, candidate responses are sent to the respective individual recruiter’s email address.
+:::

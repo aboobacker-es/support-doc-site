@@ -24,7 +24,9 @@ To update a password:
 ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F55ee842c-fdde-4918-9abb-4a053d087171-AD_4nXfyJOIHOnvkVSgXXBqhsdFnT6LN3wryYnXK4Y2cZ7qNSAZfLinXoGN_Et-bEuDectdxaaFs3E7qioSfucv3h5uWsJmQiKxOCmWRFIfpQPcz3iVUuNVNPtThSmMLCFTmfRdRI6yVlw-ce56bd32-37ed-4f71-a6b5-9d370c3cb5ae?Expires=253370764800&Signature=h4SBkIredvcCW22jR~Rw9nvm3fiXT-dAfwhMHKpA57C~pILUoCQZWDwL4YIkWYI9itXvJJTmB9D5KwzXhUdQQiQZKkPB5g7jZWcdjcB4kngxvBtfxRuz8twCVEqV~oM3vSuhmFwva-Q~jkoLXTJem5IkAqqKDjG7xYNKot7qKriUtlOFtq~Biz7vUPTxYWzNGKVPwLB2kVoz79UtimZZMUYYe0p2Y9OoOsL12ZVT~KIqtLS1TNncGRePtaeiTsLGoFhTwNuVHiFI3UGC-is8~f-Dqv1YgYy9z~pnlW8~DP7dTjKYM8KmXjXm8suLzQPHktAUfngqmXdzSaQJ2sPdZw__&Key-Pair-Id=K3NV4LZ47N8M46)
   5. Click **Save**.
 
-**Note:** If you forget your current password, use the **Forgot Password** option on the login page to reset it.
+:::note
+If you forget your current password, use the **Forgot Password** option on the login page to reset it.
+:::
 
 ## Resetting password
 

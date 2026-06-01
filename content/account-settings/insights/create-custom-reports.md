@@ -69,7 +69,9 @@ To create a custom report:
 
      2. Click the **plus (+)** icon next to the relevant field to add it to the report.
 
-**Note:** Use the tooltips (ⓘ) beside each field to view its description, or refer to the Available Functional Objects section below to see all fields and their descriptions.
+:::note
+Use the tooltips (ⓘ) beside each field to view its description, or refer to the Available Functional Objects section below to see all fields and their descriptions.
+:::
 
   6. Preview the data in the right-hand panel. The preview table displays up to 20 rows.
 

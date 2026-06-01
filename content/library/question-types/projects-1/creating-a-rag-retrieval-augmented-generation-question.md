@@ -19,7 +19,9 @@ Use the Generative AI questions to evaluate how candidates:
 
   * Evaluate and optimize generated outputs
 
-**Note:** HackerRank currently supports Generative AI questions in the **Retrieval-Augmented Generation (RAG)** environment.
+:::note
+HackerRank currently supports Generative AI questions in the **Retrieval-Augmented Generation (RAG)** environment.
+:::
 
 ## Creating a Generative AI question
 
@@ -56,19 +58,23 @@ The Generative AI question creation workflow opens with the following three step
 
      * **Clone from GitHub:** Clone the project from your Git repository by providing the repository link. If the repository is private, the IDE requests permission to connect with the GitHub repository using a one-time access token.
 
-**Note:** HackerRank does not store your GitHub credentials.
+:::note
+HackerRank does not store your GitHub credentials.
+:::
 
      * **Use Sample Project:** Select a sample project to build your question.
 
-**Note:** Do not use sample projects in tests as they are not designed to evaluate candidate skills.
+:::note
+Do not use sample projects in tests as they are not designed to evaluate candidate skills.
+:::
 
   2. Configure debugger support after selecting a project. The project root folder stores all files at the root level, which simplifies setup. When you enable the debugger, it automatically appears in the candidate’s environment, removing the need for manual configuration.
 
   3. Click **Next**.
 
-**Note:  **
-
-  * Monitor the **Network Indicator** in the IDE to ensure a stable connection while you create the question. Click the expand icon to view in fullscreen mode.
+:::note
+* Monitor the **Network Indicator** in the IDE to ensure a stable connection while you create the question. Click the expand icon to view in fullscreen mode.
+:::
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1772617782223-image.png?Expires=253370764800&Signature=TDh4tEBUgaah1McCDIr7SqrcGtP7eA8nIqfnL-TiuYDZptNAbm-HT8-e-cEhSkSqkokjRB0CuNB-2OkEu1hRqoX8sd2L5HFVAmDk1W2~-UzdLQQG3kpBmpYGMyGBzFwdLnElbcTRLrc9PE9mWB~yLXMlh5cN2d0fMRxArXcxgQe1k4SEdHDGJUORD9QqsmbWOmyYY-6nNP-LeS0V2LPq96LXwYDoV6XlwzdJb~X5HUWrE8tyIu3hcifeiwAJob1CU59peS~ewMRnC~QiMMULVM4od6gHJ4Yjj2LHNqskGfYDzpYoammO1ZGEmfieloyaUSOkDvss-hAPhFJSwtfaCQ__&Key-Pair-Id=K3NV4LZ47N8M46)
   * If your project includes any blacklisted domains, the IDE notifies you automatically. Click **View Blocked Domains** to see the list of blocked domain URLs.
@@ -97,42 +103,44 @@ You can:
 
        * Upload a **.sql** file to initialize or modify a database.
 
-**Note:**  
-
+:::note
 **Data source limits and constraints**
 
-  * File size and storage limits
+* File size and storage limits
 
-    * Upload files or databases up to 500 MB or up to the effective token capacity, whichever limit applies first.
+* Upload files or databases up to 500 MB or up to the effective token capacity, whichever limit applies first.
 
-    * The system validates non-text files based only on file size.
+* The system validates non-text files based only on file size.
 
-    * The platform stores all uploaded files in a dedicated data folder and automatically adds them to `.gitignore` .
+* The platform stores all uploaded files in a dedicated data folder and automatically adds them to `.gitignore` .
 
-  * Token usage limits
+* Token usage limits
 
-    * After each upload, the system displays the token count and applicable limits.
+* After each upload, the system displays the token count and applicable limits.
 
-    * Large embeddings from files or databases may trigger rate limiting.
+* Large embeddings from files or databases may trigger rate limiting.
 
-  * Request limits
+* Request limits
 
-    * Send up to 30 requests per minute.
+* Send up to 30 requests per minute.
 
-    * Process up to 3,000 tokens per minute for standard requests.
+* Process up to 3,000 tokens per minute for standard requests.
 
-    * Process up to 30,000 tokens per minute for embedding models.
+* Process up to 30,000 tokens per minute for embedding models.
 
-    * Run up to five parallel requests.
+* Run up to five parallel requests.
 
-  2. Configure the IDE project commands for**Install** , **Run,** and **Test**.
+2. Configure the IDE project commands for**Install** , **Run,** and **Test**.
+:::
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1772617876419-image.png?Expires=253370764800&Signature=cx2TEEwYlMDGEuIkUi6Z9MLg8v9shLYkNROzfaasZ8As9PHyl6-y6zuCmmA87mUCjjJxwQY18zOTrQoSBEPSi~5mMdx0ENjMkjCWviFt1BbCifoyz-tG4sOZdtCYKI4lyIWMW-4yKopKzZm3ZjRHVnllEe5X9FfCcUend4F9ElUIQQHGE8SPia4hPWNHFGmnf9h3JQRTs4FihN7rSUIa6JfZsjIepcBxNoj4yn92nYwjucf2SPHbR-6hRPq41Mu1OqUZt1mY32P1N7AMMFZjnbZR4zyzV77Z3~bEwlp0qowGHwV8uHUUcH82chEkHQKvY043fVLMWXXkHD6cCJ-7Fg__&Key-Pair-Id=K3NV4LZ47N8M46)
   3. Add**Default open files** that appear when candidates open the IDE.
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1772617893514-image.png?Expires=253370764800&Signature=f8N1uCNJu3MO2NAXj8Dn~1s-5w6jh7-60LmeTUZGNAtoFVoKDhvnZqji7GLJRChsTL0TzMTQzNBIdOuXlSj88mH3Lewh2M7eORFscroDhbX8nY90ipjJeO2naB-W9fHGhN01vOJOk0~aLuKO419T8MDN6OxFbgvLXQt2bpcbr8k-c9B-9xnWuB2gPsmcXNJDsOyZqIhOIldgov~gTbT9UkfEvH0rtXjoNlLasRdZvX9lwzN5Z-4x-w2MGU~ZqVqTk5fsidPF7WiaZHg07fvfQgJkQQ6wIHV6mWCrByYh7XDRtHGNZ8ljI6QSbGi5jDRNcQjtJ1y0x2TLbZv2wl0xaQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-**Note:** You can add multiple files that open by default when candidates work on the project. You must add at least one file.
+:::note
+You can add multiple files that open by default when candidates work on the project. You must add at least one file.
+:::
 
   4. (Optional) Add **Read-only files** that candidates cannot modify. For example, test cases or README files.
 
@@ -165,7 +173,9 @@ For more information about scoring, see [Scoring a Generative AI Question in tes
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1772618057702-image.png?Expires=253370764800&Signature=ns2G~-rE2H10cSP3qowst5I8B4pWqNUhQ1IPmiVB0o09Dj5fBQLuBLeV-8Avvq4HCFDMgPlGwk3s9Fdt~xo4sr45~tXyALxGH4gtlczW0bXqgbpsQD0xa6GQ923syoFX35xX2DbP565jGfXVzAqO~EFJIEwTpM30YLV7RWDBbhWtNKLtrKjPCOr45B5WGovVEE6gU7WALZ3M7QpKIjty8rDllls5hd-i5eKnzPZUPJ2vDTx3XXq285UlTygYAWsJAlvo3yv8qoAQyU-wUEw2i3YTlp7e4KFGCt~LkzfiCl8Ay130bb6HYmaDae3uYdnSufv7ey-3KbEil7ydGmuTgg__&Key-Pair-Id=K3NV4LZ47N8M46)![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1772618074661-image.png?Expires=253370764800&Signature=sMyzC5v3qoQDpWx3hja4oFhJ4k-JLsbEu5vXhlsOEd-NECsIsDeZ-upnRbehqnnotnDtDBKXdhDNS7m815IcJ8tnzp5IFRVxdBUlq~clAUJaQJJuQ0Mkuih76rtrgcZGDVBNfSrvXBB65iteDUXDkd~hT~LuvsV08mezv57EPISi4xBfA7VJdGEbEE-4ELbTIkkyy86jjPKhj-HVa5Tclr1sIM0Sa1WYA3NHudiX3E-yrjjPeEHtiv9xgQcrlTTW2LHdxv86-cscspXtHrHmptDtORr3qz3LkiCY7ukIxyom5zkVGxQvekI62UzHL976COAXRhKIT6g~M5eq8udkfQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-**Note:** Click **Revert** to revert to the last validation state.
+:::note
+Click **Revert** to revert to the last validation state.
+:::
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1772618088645-image.png?Expires=253370764800&Signature=nSVYqdDd2ZO6BRzKx4zcqBpMTopx-6MrTy1TsFwNlqTr-QH4EMxMk9b7UzQPc8iYQhyegRa5UUM7LP0IOn~f9kCSDFtoDcSMCFDvGkQzFiGARndsxsrxl1A3Edxi4EDnPlUtvYwZOkxUJXj0dv5p9Qz2D08JBLQpGJXgNajvBHlInCzAVXu-H8dKNibPS7x54opvDS23vmNVOin~lor3jZsqaBryO4GvjE0BWBYC9H6~TxYhvPR7a1tGI9jIiAlSk~kIeC-808AIw2mNOBiYBUHTxs4ZoHqYrvo4dFK-A1Bx4Rq9XX4M7hCUwoaHpxLCHEyQgx0jNg2iER~kDtr2rw__&Key-Pair-Id=K3NV4LZ47N8M46)
 
@@ -199,7 +209,9 @@ Hard| 100 Points| 45-60 Minutes
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1772618692852-image.png?Expires=253370764800&Signature=vWODccpDh8GNZkbPCV5jTKE4kEVPqcv1-OXies~7fetWpt~2KslAS5JoaHWN7-sfHrgOYgRcpeKOPM871QMu-OvyRDRduFH-RlmL3HQ9YzxLhxQs4tt7kwByA97mKahxMJgA2b8VcjP-GCb1dOE~kQnfDkGH8tENPQKCc1kt5wv9UPRiD6KkeTFEPe70Qrp9LHsid2vwjMjPjom3jnwwZ8yPWUhxtebyQH00M0xYfiMs6EKXatORokkFadGFzZhMbNu761Be~~t~9qoLw4UhfnPaD8WqcAT8yndHtw8cGXcKiNxKbc8KSV8MUmBkqYE4QzogTxknLMdj1U4DXL9sCQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-**Note:** Click **Try question** to view how the question appears to candidates.
+:::note
+Click **Try question** to view how the question appears to candidates.
+:::
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1772618135754-image.png?Expires=253370764800&Signature=XMvPpcRKPNXud364fWgdwx5KdX8fic04L-M5DSpPakL8jVD9K6cMUGepp8yWXEmGzyjerM0DPMWfCN0Sse5wsff3e-kSuTMGECL2f~ubqPq8xXceoSbLZta4vgGmctb9MlXdTeXCc8HPCJ24MptMZ0mZRivVEKmtuCK--VIZzHZArqwDLjmUsIk0U~LqHO9XTD67Y2-HLApfBiuJXzWcwj1zfTkvW4y1wJ6wlU3Q6H31bGptmfSk00eFw71YQ0x3~YgApdihDqWD5oujv4r3B2xYMO-tQi-agqXeJWQmKMgfQznKVXiyygxz47QvvRAiIPtRc28sQuwRFwQ5DjE6PA__&Key-Pair-Id=K3NV4LZ47N8M46)
 

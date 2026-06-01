@@ -45,7 +45,9 @@ The following provisioning features are supported:
 
     * Users are silently provisioned through Okta, which indicates that new users will not receive Welcome or Activation emails.
 
-**Note:**   HackerRank accepts only the user's email address. In the setup, the user defines the SAML assertion with the necessary data. HackerRank SSO fails if it receives anything other than an email address.
+:::note
+HackerRank accepts only the user's email address. In the setup, the user defines the SAML assertion with the necessary data. HackerRank SSO fails if it receives anything other than an email address.
+:::
 
 ## Prerequisites
 
@@ -275,11 +277,11 @@ If you already have an existing instance of HackerRank, follow these steps to mi
 
   17. You can now deactivate or delete your previous HackerRank app instance and use the new HackerRank app you added.
 
-**Note:**
+:::note
+* If you were using SAML as the sign-on mode for your previous HackerRank app instance, you will need to set up SAML on your new HackerRank app instance in Okta (recommended) or maintain the previous HackerRank app instance to ensure that the SAML functionality continues to work.
 
-  * If you were using SAML as the sign-on mode for your previous HackerRank app instance, you will need to set up SAML on your new HackerRank app instance in Okta (recommended) or maintain the previous HackerRank app instance to ensure that the SAML functionality continues to work.
-
-  * If you were using your previous HackerRank app as a profile master for certain Okta attributes, you must set your new HackerRank app as the profile master for the same attributes. 
+* If you were using your previous HackerRank app as a profile master for certain Okta attributes, you must set your new HackerRank app as the profile master for the same attributes. 
+:::
 
 ### Push Groups
 
@@ -287,7 +289,9 @@ To have access to tests and candidate reports, it is a best practice for users t
 
 Follow these steps to assign your users to a team within HackerRank for Work.
 
-**Warning** : Users must be provisioned to the application using Assignments for Push Groups to work. Group names must be unique and have not been created on HackerRank.
+:::warning
+Users must be provisioned to the application using Assignments for Push Groups to work. Group names must be unique and have not been created on HackerRank.
+:::
 
   1. Click the **Push Groups** tab in the HackerRank for Work application on Okta.
 

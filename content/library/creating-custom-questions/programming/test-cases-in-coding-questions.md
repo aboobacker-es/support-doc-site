@@ -47,7 +47,9 @@ Hidden test cases evaluate candidates on diverse edge cases without revealing in
 
   * Hidden test cases validate the solution’s correctness under corner conditions, such as empty or long strings.
 
-**Tip** : You can disable the output visibility for hidden test cases via the Questions tab in the test settings. However, enabling output is recommended for an improved debugging experience.
+:::tip
+You can disable the output visibility for hidden test cases via the Questions tab in the test settings. However, enabling output is recommended for an improved debugging experience.
+:::
 
 ## Creating a New Test Case
 

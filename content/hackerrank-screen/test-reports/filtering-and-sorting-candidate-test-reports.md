@@ -27,7 +27,9 @@ You can use various filters to search and view relevant reports. You can filter 
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1737351323781-image.png?Expires=253370764800&Signature=KCXTYcEubH7YyaWmNJ~9p4cKnb7UfYqJiJs2w268eYUKgu7DR8DWaZFM~~N7rgQSehX~oEfzGyac~b2zcDxZIqCdbcZbAqmSmpPpbo0cWNCp3bmMz~Jnw7I7nd6SWO1jMU22dCGpLEnrTbmEgzoBgl1YpYoYzahQgR5Z-Z4ao2DY2zO3yuHCB1jkn4RIDGUI7Wt21~zHXrZBc3N17ySJlCd-SnU~DUI6h3wubdmV8NBGreSD0QOBBMNOHpmpt1x1ChuFADBwxnySxwzCaicvWUA9oiLrg4y58Aoi5rwSUcv0idvldBhjG78ga7bptdtX1uZXvYrPlfrs96krghJBiQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-**Note** : The report list automatically refreshes to display the appropriate data when you enter or select any of the filters.
+:::note
+The report list automatically refreshes to display the appropriate data when you enter or select any of the filters.
+:::
 
 The available default filters are:
 

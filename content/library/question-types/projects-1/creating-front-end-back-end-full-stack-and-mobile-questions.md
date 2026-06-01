@@ -83,20 +83,24 @@ The question creation workflow opens with the following three steps.
 
   * **Clone from GitHub:** Clone the project from your Git repository by providing the repository link. If the repository is private, the IDE requests permission to connect with the GitHub repository using a one-time access token. 
 
-**Note:** HackerRank does not store your GitHub credentials.
+:::note
+HackerRank does not store your GitHub credentials.
+:::
 
   * **Use a sample project:** Select a sample project to build your question.
 
-**Note:  **Do not use sample projects in tests as they are not designed to evaluate candidate skills.
+:::note
+Do not use sample projects in tests as they are not designed to evaluate candidate skills.
+:::
 
   2. Configure debugger support after selecting a project. The project root folder stores all files at the root level, which simplifies setup. When you enable the debugger, it automatically appears in the candidate’s environment, removing the need for manual configuration.
 
 ![VS Code IDE Upgrade.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760248183279-VSCodeIDEUpgrade.gif?Expires=253370764800&Signature=XIwHbky39UWWFI3VQCwjp--dtKT-V9bWpRu0rRTFCAJktDuskOgzIwU4nBr~PwPZiH5Yw5G9ey-sHj4Z0zXpg~6v3FvAE43LEO8NegOKGqJVABdovmPTVRPrCeZzVRvpExh0alIcRgcHvd6bAW2EI0uE7iDmm93WRnMNxGhUeKxZMw561GguYC1p9eN93sm5GcQ-7Eq6dWOQ8k3knI822kGfbvULAhqxIY1Es0A0EO1gEXLWa9fgixMKZPU-ml2NPi7G-teHVQqEwun734pu-Vj5ThQVSa2zas4s8hFUjjIo75jpNLV9hGb17mC58iXJMID-~EZH8s30fL17mrUqpQ__&Key-Pair-Id=K3NV4LZ47N8M46)
   3. Click **Next**.
 
-**Note:  **
-
-  * Monitor the **Network Indicator** in the IDE to ensure a stable connection while you create a project question. Click the expand icon to view in fullscreen mode. For support, click the help icon.
+:::note
+* Monitor the **Network Indicator** in the IDE to ensure a stable connection while you create a project question. Click the expand icon to view in fullscreen mode. For support, click the help icon.
+:::
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760284430677-image.png?Expires=253370764800&Signature=EAHzm72jyBVnz2SogUltq8YvktinR-6ZvhU1KtT8nQrBmrjyQhGqtsYnc8b2GWbzf9lUmiK3cyQElV4c2gV4j6k~2HfK-V3T2yVNtUXnzXZIkzk~weigzpIdnk7npvR5r0KNZvpl~5x96lG-7MLcwTE-QdJrDq0Xdc20kIWZR36xAiJ5WJs-ZgguO8Lz51rwvrobWaxFb8P50o6azqHWvAq5JYw~UGNrMuGcx37xSPklO7pswddR1DTBnJGCsQgxv-EEzID1KVHFMykjJkcu5RBghgEKF5UORG71ECq5gId61vriVNQPWvzXQDT442lZ-5DhchU7elSauQID-9EEww__&Key-Pair-Id=K3NV4LZ47N8M46)
   * If your project includes any blacklisted domains, the IDE notifies you automatically. Click **View Blocked Domains** to see the list of blocked domain URLs.
@@ -112,7 +116,9 @@ The question creation workflow opens with the following three steps.
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760248588444-image.png?Expires=253370764800&Signature=cAaSTgX9TjkEZVAdu3~~djH6ZtX2WFI6F1pN8BYSM2iEUiT6DgbX9FPz2bpHMejX1wLpjwxugg3x05ldb3wBOtH4iNZulpT8BOKhVdjIDN7pafxbCp1MUhOm3oOQ54yZXUHc2g60b5XkfXCsHBfmuZAS9qA4IDklBXuv~K6PWjTfGm4FEPe6VZNQkiVaBySbaHtlVmRKw7vH-Ew6YmY8yV5Tp32I-2xlDUezDwf3O2H~EiIqyEeOdMbpWJtByHfpmvrPNl-LpocXUbfy3ylFpmnpl2iFGeOdgPXME5IB~tz7BzKmSI1DmLOGqmLG84qdUc8UIGHM0L5yX47n-rF-yg__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-**Note:** You can add multiple files that open by default when candidates work on the project. You must add at least one file.
+:::note
+You can add multiple files that open by default when candidates work on the project. You must add at least one file.
+:::
 
   3. (Optional) Add **Read-only files** that candidates cannot modify. For example, test cases or README files.
 
@@ -146,7 +152,9 @@ For more information about scoring, see [Scoring front-end, back-end, full-stack
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760248883896-image.png?Expires=253370764800&Signature=SMZovQyFDOInWR~pYwG6slgvzDlyNXX~wrYuZUzHYWUYvaLhK-aacOcMluNXpuxidFLS7pLLrywexi5T~3qWA0AKki3IGdEuqQbD9xvth4yUA~or-sKb1-~z6kZW5NjDIJ6M~7BPM3Rc7i2xxgfaqF6g4jyKgduYj73RULtKdhKGqBuQ-EpaivRusR~19oW~sL7ODn-dZ-ZwJW~R2brcTgt9ljXaXZxA2Usw8mTJYMYqdlTrd8vuQcmvM1snPUfR67A-b6IESZcwidGXEuQPaZTbPSwtuPdIUF8TscHJtdWfV6cg66RhpaHm5chwtGutBkM4KDuq7CQ~V~YjYlojsw__&Key-Pair-Id=K3NV4LZ47N8M46)![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760248898335-image.png?Expires=253370764800&Signature=s70hLdJY1ffDRYqrhTLP822~ZKJnkQY-2AHwHXo6Sht81MlnqIUuo1zFtazGxsHlbhmlt3afHX6TXiPpOxlCKxHYLYPoW6cZ2m7Tdo9vH~kN1f3ulhKY3dv~jaKcJvaGmm5nw0eZRzrpmbPTVDJFHAZw3zJKp4gRpGahKcqIQ84J4yIhFA0lfelf3W-e0afW4RNWuGZZxzfvPVUikLEM5Jo2Z2hmHe1OQOWLoHQdlSFiW2AnoZ5FTH7RIUpfYqZQXFaegyQLNTGkvxAkFURr2yhz0jJvKQa31bLnBvK2nlMxMfLkXhpIKvltfhq4IFmzYMBZqrk7SFXBCnYcsCqqBw__&Key-Pair-Id=K3NV4LZ47N8M46)
   3. Click **Next**. 
 
-**Note:** Click **Revert** to revert to the last validation state.
+:::note
+Click **Revert** to revert to the last validation state.
+:::
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760248858880-image.png?Expires=253370764800&Signature=nhTA-SPvxSycF~QocaOisXqKGolj2xOJm~We9aGcOnAr4A38ue9XdvAuHcILkfM3RS1Ej64wdZ7ERnqiKhXR5wXnhDbYFP2PzQV0MhxVisnRRZ~CDlpu0gZZYOoRMN4KFRR-YDnKqFdU9L-F8IR8zRwfL4WEq6fcGtneSfaFiphROOZpyo5qNtA4BA38CKJNEgMEbByehlZ05VXT2out1ryQqVHq1TPPetqb7DvAYNJmSRwNsY-dY4CB3i-b8VuvWcVEiS02qcltdf1pgIMsMleTkHot3vSTBFZvnRSi8Y6rncc8XZ~oCINC39U4F4gilvwmerRAnHoltrBCrMbldg__&Key-Pair-Id=K3NV4LZ47N8M46)
 

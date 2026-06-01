@@ -131,8 +131,8 @@ You can manage the following entitlement categories for interviewers:
 
   * Allow Bulk Exports
 
-**Note:  **
+:::note
+* All sub-fields can be toggled on and off based on your requirements
 
-  * All sub-fields can be toggled on and off based on your requirements
-
-  * To learn more about the entitlements, see[ Available entitlements](<https://support.hackerrank.com/articles/3929488044-flexible-user-roles#available-entitlements>).
+* To learn more about the entitlements, see[ Available entitlements](<https://support.hackerrank.com/articles/3929488044-flexible-user-roles#available-entitlements>).
+:::

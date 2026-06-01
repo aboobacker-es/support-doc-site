@@ -63,4 +63,6 @@ To create a question directly from a test:
 
   6. Click **Create Question**. The platform opens the question creation flow in the Library. You can select a question type and complete the required details. For more information, see [Creating a question from the Library](<https://support.hackerrank.com/articles/4894957291-creating-questions#creating-a-question-from-the-library>).
 
-**Note:** All questions you create are saved in the **My Company** Library.
+:::note
+All questions you create are saved in the **My Company** Library.
+:::

@@ -53,4 +53,6 @@ What are the other troubleshooting tips for any issues encountered with the inte
 
   * While sending invites from InterviewPlanner, ensure that the candidate profile has a valid email address.
 
-**Note** :  For more information about admin permissions and user activation, refer to the articles, [Company Admin Permissions](<https://support.hackerrank.com/articles/9603546665-types-of-user-roles#company-admin-2>), and[📄 Activating a Team Member](</docs/3147b674-5cbb-4bde-9528-7699bb64b1a7/articles/4885f8e4-7cf0-4f0c-8396-b753351f94e2>)
+:::note
+For more information about admin permissions and user activation, refer to the articles, [Company Admin Permissions](<https://support.hackerrank.com/articles/9603546665-types-of-user-roles#company-admin-2>), and[📄 Activating a Team Member](</docs/3147b674-5cbb-4bde-9528-7699bb64b1a7/articles/4885f8e4-7cf0-4f0c-8396-b753351f94e2>)
+:::

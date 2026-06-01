@@ -31,4 +31,6 @@ When the internet connection is unstable for any of the participants in the inte
 
 If any of the participants in the interview loses their internet while the interview is still on they get a message, as below, on their screen.**![NoNetwork_Notification.jpg](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046640326-?Expires=253370764800&Signature=oiZVymdDpOTlXvElCznArySfp3U1N5cOSPafeVjO342zi947p0GCD1nFkxPwUe3taolQe871Hw5eo8GJ5Gm6c7-~7btLNWX0axfao~J7A~dZcQAcYX61L7vIztcuGrbwwWd6rO4rsoUAKGk35cfHjjXUrFgP2fPuozNIXltkeX~4W52arWBxmvrx8YfveW3z3FxYETVcmAMLqm4cZeYr4EoRTS7fJPnHnKgfOCFhAVwORPiwXPEht95Fef6kljB0CSprFdJEN0hQoabrFszPSdgISH8wPEv-FiwXa7gvoAZJUnvAyYAoD74yOb4sNfNonzH~Ggb21i0g6GFrkyKh1w__&Key-Pair-Id=K3NV4LZ47N8M46)**
 
-**Note** : These notifications are only visible to the person who is facing the problem with their internet connection, while the others in the interview can monitor each other's network strength via signal bars on the top right corner.
+:::note
+These notifications are only visible to the person who is facing the problem with their internet connection, while the others in the interview can monitor each other's network strength via signal bars on the top right corner.
+:::

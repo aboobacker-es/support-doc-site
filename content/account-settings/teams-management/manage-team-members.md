@@ -62,8 +62,8 @@ To remove a team member from the team:
 
 ![delete team member.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2Fbcbd56db-b067-4ae5-ae43-e5806fa06742-1772518418701-deleteteammember.png-4bfa9117-f1f4-447d-bde8-e1bd08163c6b?Expires=253370764800&Signature=DeOy4vQU~3zlXEfYmxq4GtEJ4DmIzHxPqgiiSl6NXLBqK3Ii7vdO9imwIJINn2s75jbgddKn4A0u5BjHXjgxVW5l8T86FAGU105W3ZEXcd0Dtm9NLW-oS3o7rhu3KG4tQZ201Ta6L0CTOyJPhKp90dAjucK80dvib1uEEqbLJe4YN9MHqZZ~hGYrg35pNEkHItR5O6btEm7M4QpKzngse-AD~MhzAkKOzGfB85M0uX5AgWfMWyrtK9Oyo8IDGUed~spn-MRJ~kEMg9FV7zbMpAqkxagbj2NSOwQAOKmwtmi3DTM2hg24a9DaPB2cEiXfHlPFGy9vE4Zy~Ai7PDY22w__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-**Note:**  
+:::note
+* To update the team role allocation limit, see [📄 Update Team Role Allocation Limit](</articles/5385128303>). 
 
-  * To update the team role allocation limit, see [📄 Update Team Role Allocation Limit](</articles/5385128303>). 
-
-  * To update the team settings, see [📄 Update Team Settings](</articles/3481284381>).
+* To update the team settings, see [📄 Update Team Settings](</articles/3481284381>).
+:::

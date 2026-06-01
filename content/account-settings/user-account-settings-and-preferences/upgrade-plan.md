@@ -24,7 +24,9 @@ To upgrade plan:
 
   5. Follow the prompts to complete the upgrade.
 
-**Note:**  Plan upgrades take effect immediately, and charges are prorated accordingly.
+:::note
+Plan upgrades take effect immediately, and charges are prorated accordingly.
+:::
 
 You can also upgrade your plan from the **Billing** page by clicking **View Other Plans** under **Current Plan**.
 

@@ -83,7 +83,9 @@ Use the exported file to filter and analyze candidates based on suspicious activ
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1761738542431-image.png?Expires=253370764800&Signature=Lh6Iok8gAy-Y4cexCgQU58Pgqm1IsU7EH7HiGwjn8R~sVndUmXY-ZIl0xHt6aNZo1BECi8FJmU7DUWpyYcU0~RIiGqTfqT3K7oszn0KkqCrYTkDeeVdlLYCdBeVPm6XZLpWsxkvA9sn6FviU~6~XalN~jhrggFYd9kAb6GF3SH35PtAJ6lj0MCTGoAueRUD9HJ~KWrmTsP1QZDOEFnUp27eA-5qq1BK5~iXdzM~FC4o1YUbbRMVa9McYs1EZCj8tXwQDlNf1AY3~Geufbmt8HnUFXmakn~ra-zCBGh2FKGOyv1X1eU5ThgqAvFsCjv3Hmh9kqgd~HzzN~z9IdPYl9Q__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-**Note:** Ignore multiple-face violation flags if the test takes place in a setting where multiple faces are expected (for example, invigilated university exam halls)
+:::note
+Ignore multiple-face violation flags if the test takes place in a setting where multiple faces are expected (for example, invigilated university exam halls)
+:::
 
   4. **Integrity Summary:** Review the **Integrity Summary** column for tools detected in the screenshots taken during the test. Common tools include:
 

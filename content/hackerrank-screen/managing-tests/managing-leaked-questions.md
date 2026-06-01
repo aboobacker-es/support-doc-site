@@ -23,21 +23,21 @@ The system:
 
   * Flags any question that meets or exceeds the defined matching score threshold.
 
-**Note:**  
+:::note
+* Although the leak detection algorithm is highly accurate, HackerRank recommends that you conduct your own validation before taking action on flagged content.
 
-  * Although the leak detection algorithm is highly accurate, HackerRank recommends that you conduct your own validation before taking action on flagged content.
+* Leak detection currently applies to the following question types:
 
-  * Leak detection currently applies to the following question types:
+* Coding
 
-    * Coding
+* Approximate Solution
 
-    * Approximate Solution
+* Database
 
-    * Database
+* DevOps
 
-    * DevOps
-
-    * Fullstack
+* Fullstack
+:::
 
 ## Reporting leaked questions
 

@@ -15,7 +15,9 @@ To create an event:
 
   1. Log in to your **Engage** account using your credentials.
 
-**Note:** If you are a new user, complete the onboarding flow to learn how Engage supports your hiring goals. On the final onboarding screen, click **Create Event** , or click **Skip for now** to proceed directly.
+:::note
+If you are a new user, complete the onboarding flow to learn how Engage supports your hiring goals. On the final onboarding screen, click **Create Event** , or click **Skip for now** to proceed directly.
+:::
 
   2. Go to the **Events** tab.
 
@@ -58,6 +60,8 @@ Tailor the invitation and reminder emails to match your brand voice and tone.
 
 Use the built-in editor to personalize emails with dynamic placeholders such as candidate name or company name.
 
-**Tip:** Use the **Send Preview Email** to verify how the email appears to recipients. The preview is sent to the email address associated with your Engage account.
+:::tip
+Use the **Send Preview Email** to verify how the email appears to recipients. The preview is sent to the email address associated with your Engage account.
+:::
 
 After finalizing your edits, click **Save** to apply changes.

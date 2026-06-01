@@ -31,7 +31,9 @@ You must configure Zaps to automate the following HackerRank interview workflows
 
   * Receive and store interview results
 
-**Important Note:** This guide uses **Zapier Tables** to demonstrate how to configure and test Zap workflows. Zapier also supports many other apps as data sources or destinations, including spreadsheets and collaboration tools. You can replace Zapier Tables with any compatible Zapier-supported app based on your integration needs.
+:::warning
+This guide uses **Zapier Tables** to demonstrate how to configure and test Zap workflows. Zapier also supports many other apps as data sources or destinations, including spreadsheets and collaboration tools. You can replace Zapier Tables with any compatible Zapier-supported app based on your integration needs.
+:::
 
 **Step 1: Generate a webhook URL to receive assessment results**
 
@@ -69,7 +71,9 @@ This step is used only to generate a webhook URL that HackerRank uses to send as
 
 ![12.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1769493012305-12.png?Expires=253370764800&Signature=gPMPYo4zwgaBWuiE4zXcikWLvMhSRXcNwj~8X8CcdUJPYg1k4EoaPdmufmiXyX8L0cEpzdUM2SOijpy13kf7QBebOuFwaWoARV06~aj-cMZFV3G7KhNLNKx0uKclJ7FFgww9a2SnSYaQqOn2NKC24hPV9ef78KwUispazcZ994F5jRGYFiGVbeUdprDsa8BTFZ589ojRCnRwj4mpPk0dr3D-nW~RxRnj6PrI9clW5hDo1OjtjB7pq-FfRyg7fX~-6xz4dFKMOUegLCwdTICpV2CbWY8Mp~ENtF0aDT3cI~mmIY-vskD0qofkUiv2f15h33pPtjpEUKQpVTSl24clYQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-**Note** : You need this Webhook URL in **Step 2: Create a table to trigger interview invites.**
+:::note
+You need this Webhook URL in **Step 2: Create a table to trigger interview invites.**
+:::
 
 **Step 2: Create a table to trigger interview invites**
 
@@ -84,7 +88,9 @@ Create a table that Zapier uses to send HackerRank interview invites.
 
 ![8.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1769498917372-8.png?Expires=253370764800&Signature=UNG3JZNgPfavAi5zYdoLpgMVrijHlbjRrKoZ0eGOaMtdDe-XuCVQDtF0X7eVEi-dMOXm3mvyUCoSg6A1B8fbe9j1fkXl-S-bus6MJ94YmpJc9cwKJsvwQFVpIlwiWSoZ7RCS~t5lTfhQTTJuv9zzboiDCEmB6BJyRe6bdUs~PFc3Vy7fN6mIEieY2WdCO-jLhXxqzIUF6-AMB2BTFnSsgpVCJMRMJF56hhwFRdHUs7DPBB1ycOz7dbsF30FS5vNRfufP7fXug6ugaom2LRQM3yCHtYUczNDKisM4oIbGHCmNk0SdGmuHMHsfuS8mWaPVEzS2o5GDhpJEqzD8PEGgHQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-**Note:** If you already have data, select **Import data** to upload a CSV file or import data from another platform, or select **Use a template** to start from an existing template. 
+:::note
+If you already have data, select **Import data** to upload a CSV file or import data from another platform, or select **Use a template** to start from an existing template.
+:::
 
   4. In the **Create a new table** dialog: 
 
@@ -182,7 +188,9 @@ Create a table to store candidate interview results sent from HackerRank.
 
   3. Select**Blank table**.
 
-**Note:** If you already have data, select **Import data** to upload a CSV file or import data from another platform, or select **Use a template** to start from an existing template.
+:::note
+If you already have data, select **Import data** to upload a CSV file or import data from another platform, or select **Use a template** to start from an existing template.
+:::
 
   4. In the **Create a new table** dialog:
 
@@ -194,7 +202,9 @@ Create a table to store candidate interview results sent from HackerRank.
 
   5. Click **Add fields** and add the fields you want to store from the HackerRank interview report (for example, candidate name, score, or test status). Refer to the [HackerRank sample interview report](<https://drive.google.com/file/d/1lB29Bmnr11Zve2DzGWPmGCAY2OKZp3I2/view?usp=sharing>) to identify the available result fields. Select the appropriate field type for each field (for example, Text, Number, or Checkbox).
 
-**Note:** Zapier Tables is one option to store interview results from HackerRank. You can also store results in apps such as Google Sheets or Slack, depending on your workflow needs.
+:::note
+Zapier Tables is one option to store interview results from HackerRank. You can also store results in apps such as Google Sheets or Slack, depending on your workflow needs.
+:::
 
 **Step 5: Complete a sample HackerRank interview**
 

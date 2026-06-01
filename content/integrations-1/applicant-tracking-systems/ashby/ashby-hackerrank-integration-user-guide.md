@@ -84,7 +84,9 @@ Once the candidate completes the assessment, HackerRank sends their HackerRank t
 
     * HackerRank Completed - Failed
 
-**Note:** For a particular coding challenge in HackerRank, if the cut-off score is set, and if a candidate crosses the cut-off value, their status gets updated to **HackerRank Completed - Qualified** in Ashby. Similarly, if candidates fail to cross the cut-off, their assessment status gets updated to **HackerRank Completed - Failed**. For all the other cases where the hiring manager’s evaluation is required, the status gets updated to **HackerRank Completed - Evaluation Required**.
+:::note
+For a particular coding challenge in HackerRank, if the cut-off score is set, and if a candidate crosses the cut-off value, their status gets updated to **HackerRank Completed - Qualified** in Ashby. Similarly, if candidates fail to cross the cut-off, their assessment status gets updated to **HackerRank Completed - Failed**. For all the other cases where the hiring manager’s evaluation is required, the status gets updated to **HackerRank Completed - Evaluation Required**.
+:::
 
   * Recruiters can click on the Report URL from Ashby and access the candidate’s report hosted on HackerRank.
 

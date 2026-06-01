@@ -13,7 +13,9 @@ If you are unable to start a test because of your cookie settings, you can try t
 
   2. Configure the cookie settings on our current browser
 
-**Note:**  HackerRank uses cookies only for authentication. We never use them for tracking or advertising. You can revert your cookie settings after you complete your test.
+:::note
+HackerRank uses cookies only for authentication. We never use them for tracking or advertising. You can revert your cookie settings after you complete your test.
+:::
 
 If you choose to configure the cookie settings for your browser, you might find the following information useful:
 

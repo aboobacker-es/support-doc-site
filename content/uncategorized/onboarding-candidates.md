@@ -33,7 +33,9 @@ Refer to the following articles to learn how to invite candidates.
 
 [📄 Using a Custom Email Template](</docs/3147b674-5cbb-4bde-9528-7699bb64b1a7/articles/a3b102f1-7751-4c3d-aa27-c33451bb81c7>)
 
-**Note:** Ensure you provide the correct Time and Date in the invitation mail. Incorrect details can cause confusion among candidates. 
+:::note
+Ensure you provide the correct Time and Date in the invitation mail. Incorrect details can cause confusion among candidates.
+:::
 
 ## Invitation Templates
 

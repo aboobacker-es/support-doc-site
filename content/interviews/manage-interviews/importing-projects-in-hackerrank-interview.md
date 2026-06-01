@@ -11,7 +11,9 @@ is_published: true
 
 You can now import Project questions (Front-End, Back-End, Full-Stack) inside a HackerRank interview. With this feature, interviewers can assess candidates on skills such as React, Angular, Node, and so on, during live interviews. This article will walk you through the steps to import projects in HackerRank Interview.
 
-**Note:** This experience is valid only for Front-end, Back-end, and Full Stack questions. Refer to the [Importing Data Science Projects in the HackerRank Interview](<https://support.hackerrank.com/hc/en-us/articles/360056646493-Importing-Data-Science-Projects-in-HackerRank-Interview>) article for Data Science project questions.
+:::note
+This experience is valid only for Front-end, Back-end, and Full Stack questions. Refer to the [Importing Data Science Projects in the HackerRank Interview](<https://support.hackerrank.com/hc/en-us/articles/360056646493-Importing-Data-Science-Projects-in-HackerRank-Interview>) article for Data Science project questions.
+:::
 
 ## Steps to Import from Library
 

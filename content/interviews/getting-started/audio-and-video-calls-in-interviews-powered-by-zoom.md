@@ -21,7 +21,9 @@ Ensure the following domains are not blocked in your organization’s network to
 
 For more information, see [📄 Safelist/Allowlist URLs and IP Addresses for HackerRank](</articles/6769658535>).
 
-**Note:** This feature is supported on the latest versions of Google Chrome, Microsoft Edge, and Mozilla Firefox. For the best performance, use the most up-to-date version of these browsers.
+:::note
+This feature is supported on the latest versions of Google Chrome, Microsoft Edge, and Mozilla Firefox. For the best performance, use the most up-to-date version of these browsers.
+:::
 
 ## Key benefits 
 
@@ -43,9 +45,13 @@ Interviewers and candidates can share their screens during interviews to improve
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760189433814-image.png?Expires=253370764800&Signature=WZu-5WEXLbWYwAy7qte7y5bVYGwJhGwRLs86hXfj1ovmQMIHV05lgXId6t64-s487dOVppsHHkIcX7Eyv4OwPaFHGGyC8QlCPcap8ghiqaDA8u~WcAqrQaCBNa~XCzN3H2fVCRdwBmnkv-SgGhYY0UwZUughbfhE9Z9XZg1tvwnoRPAWpgjmMiKO2MdWZ97IIekHY~CAHFO~iijg5RQ~Iw0GTRMWdRncgfuxwg1bck3qKF~X2CEVaQYmdTCynRgp0rjldmqTSqZ5859eNIrOh7FzHqvzqTlApmz5nhn1hKRqDYuiBoPdFFpitmAzTxfZ4ruHfwb97~CPk0pcSkkUNA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-**Tip:  **Ask the candidate to share their entire screen rather than a single application window for better evaluation.
+:::tip
+Ask the candidate to share their entire screen rather than a single application window for better evaluation.
+:::
 
-**Note:** Screen sharing is available only after you start a video call.
+:::note
+Screen sharing is available only after you start a video call.
+:::
 
 ## Customize the video layout
 

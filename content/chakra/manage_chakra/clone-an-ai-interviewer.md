@@ -32,7 +32,9 @@ To clone an AI interviewer:
 
 Chakra creates a copy of the AI interviewer and opens it in a new window. 
 
-**Note** : The cloned test name follows this format: **Original Test Name (Clone)**.
+:::note
+The cloned test name follows this format: **Original Test Name (Clone)**.
+:::
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F6aff777d-fab3-4df7-a09a-64b32f67133a-1776246235819-image.png-58bab108-b4c4-4059-95ed-47a68f67c18c?Expires=253370764800&Signature=JUP1l4yE6oQtICw6s64P5CiDN5Z0VzUEsZfiSCXDFChrcKslATF92pXS~HVL4wrvoLop9U0Rsaqxlix5iOVjiMqzR4PPqsIg8Pfwb-DbZ2DeK1TUvwCLNgp6LicHmfgElWG-XOyjBKZvrswdtShGK0mQkUziqKsGxYsDzTgXS1trVX2bpw4cwjSSJYj8wIUTSGxlnQCvfwagjO7~FY45LR20TOHzu4zXOzCHLI3BLl78~H73WLecQtLe29Z0zI6WbOlEN-j2fxBR7vraoD0hHURxO2PqsF9f4C6u5OyQDL2d9Au0Kq0LLM-xnel45PMcJoa~nyJ0j8HkukOtSKwbsA__&Key-Pair-Id=K3NV4LZ47N8M46)
 

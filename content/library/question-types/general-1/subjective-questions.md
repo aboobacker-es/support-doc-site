@@ -30,7 +30,9 @@ To create a subjective question:
 
      2. Describe the problem in the **Problem description** field. You can use the formatting menu to format the text or to include elements such as tables or images.
 
-**Note:** Click **See candidate preview** to view how the question appears to candidates.
+:::note
+Click **See candidate preview** to view how the question appears to candidates.
+:::
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1772515502734-image.png?Expires=253370764800&Signature=kT1~WDMgZD2B06JIV9QksJW1d4bC5V-zR98g9riwL5N1GYJBkRMhZLAXvUoAGyw4u9iOqWumi0iwfe0WmjGx5XvUf04OrhaWrDSlZcRZC4bUi4B6P~mUNfh4KSRjZ-ifyzn8wkZBlDv4ng7zBIHQjBU2VpxDQuFktsOzP1en4er1kh3VkOFhRfrRkbVvDJrvdWq7h10t5PccktMQnhmNZCTUayOV0imiehrbfSKkzUGGU7NRo08Q~jawZkPJhnd7mHBEBB0QYVF-2hvKPclN~CvRO9siYgbq65Dgp6aH97-t3CrUczcJmf~AzHAGXMMB8O1kTgE8XsbD6vYDGlSvTA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
@@ -48,7 +50,9 @@ To create a subjective question:
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1772514954481-image.png?Expires=253370764800&Signature=BVdOmcsmhCFelKp9rgFn9RLaLmPbJIpXOeOV87Vgcr6FsIR0~fxXOB3~-MkJFil8Nh5iBJtTx6oYScDOxbzKSHYZtX2LAV6QxjEljFv6Gz0~HITxqiDH2ZM-aYp2dsPJG1kxx47cEcMtru-iNxMo56ZMbC9HY06mpKpKcAnzSZkbfsH18eBU60ckQFqgIBEfon30tJRZy8uoVlLKLqxwNrA~lvh2wmfUWLWcGlC0vPKr8yAzivlokxAZN1mmjh85SoWVisru9SQg1oM2y7-O0jZ7joMdcnB99DWZH9IcttfDNTEIXH5ipfTZVtx4caM2KZlVqY6EzU82PhjtBuMQFg__&Key-Pair-Id=K3NV4LZ47N8M46)
   8. Click **Save question**.
 
-**Note:** Click **Save & Create Another** to create another question.
+:::note
+Click **Save & Create Another** to create another question.
+:::
 
 The question appears under **My Company** questions in the HackerRank Library.
 

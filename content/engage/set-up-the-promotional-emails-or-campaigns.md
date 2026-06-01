@@ -27,7 +27,9 @@ The **Email Sequences** tab displays all candidate-facing emails, including the 
 ![engageenhance.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760520920417-engageenhance.gif?Expires=253370764800&Signature=mD7LgTfRd7DDGVgBG2YBnaIwKDoNrVEOJcwgC7kf7viodDmRvqGM9lyPikP0H780GtlB3JuUi2NJcvjMKmCt-pq26CBaOrWIW444mx4vbX3H-pyogH5ro10GQtzrXFLu6~KoEvmk9k6nR7XjAlNQiE4tPWI072D2jZmK49BPqvUz~mTZR7UgOiAcPGRITYrr2XHP4ixYJWtn8-dE-tkcMm3fD5E94Tf1yp0STs4TtALMsOTikk2ymtORczU9KNC9TOy0yf5uwlyYe5mdQ3OoaFgS7TtWGQ0I4ppGySNnP9otMvjR~8ljXDbxpOBUxQtFmiZoZVRgNKN78oReuJnSzw__&Key-Pair-Id=K3NV4LZ47N8M46)
      * For Engagement Emails, a **Review Required** label appears if edits are pending. You must review and update the content.
 
-**Note:** You are required to review only the Engagement Emails. The other emails use a standard template and are optional to edit.
+:::note
+You are required to review only the Engagement Emails. The other emails use a standard template and are optional to edit.
+:::
 
   5. Click **Save** to apply your changes.
 
@@ -39,7 +41,9 @@ After you save all engagement emails, a confirmation dialog appears.
 
   * Click **Save & Start** to begin sending engagement emails immediately.
 
-**Note:** You must publish the microsite to activate the engagement sequence.
+:::note
+You must publish the microsite to activate the engagement sequence.
+:::
 
   * Click**I'll Send Later** to save the sequence as a draft or if the microsite remains unpublished.
 

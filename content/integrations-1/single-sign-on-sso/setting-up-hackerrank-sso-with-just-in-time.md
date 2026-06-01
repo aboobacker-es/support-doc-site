@@ -25,7 +25,9 @@ The following steps describe how JIT provisioning functions in HackerRank:
 
   1. **User initiates login:** The user navigates to HackerRank and selects the SSO login option.
 
-**Note:** JIT provisioning runs only during SSO login. If users log in without SSO, HackerRank does not create user accounts automatically.
+:::note
+JIT provisioning runs only during SSO login. If users log in without SSO, HackerRank does not create user accounts automatically.
+:::
 
   2. **Identity verification:** The login request is redirected to the organization’s Identity Provider (IdP), where the user enters their corporate credentials.
 
@@ -58,7 +60,9 @@ To enable JIT provisioning:
 
   5. Click**Save & Enable**
 
-**Note:** Ensure that your IdP sends the following attributes in the SAML assertion:
+:::note
+Ensure that your IdP sends the following attributes in the SAML assertion:
+:::
 
   * `email`
 

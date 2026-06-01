@@ -66,7 +66,9 @@ To know more about how to integrate the Jazz ATS with HackerRank, you can reach 
 
   * You can log in as a **Recruiter-type**  user to HackerRank for Work to create and design Tests.
 
-**Tip** : Refer to the [Teams Management](<https://support.hackerrank.com/collections/8854641529-teams-management>) section of the Knowledgebase to learn about the different types of users and permissions in HackerRank for Work.
+:::tip
+Refer to the [Teams Management](<https://support.hackerrank.com/collections/8854641529-teams-management>) section of the Knowledgebase to learn about the different types of users and permissions in HackerRank for Work.
+:::
 
 ### Generating the API Key/Token
 
@@ -89,6 +91,8 @@ A unique API Key is displayed.
 ![integ_jazz2.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047207371-?Expires=253370764800&Signature=SnFFCNK9ZWWKacNp6GSs2d5S5Z04V-mFExcajmSr5nal8xAGnr2AOe2uy3F6P8uqpkB7KkYRsQG8lH7bddtPmSpM~Modt2tp2iX09sg712OpgJ8dSO7H2pvpatS81Vg1DL~qO3i7rNoSvg5GYWUXxo6jZMoVJOYRbVa2~1h6jvEEgToCPom7KvZU9X8nelfGLSHgrpe9Y9nY1i2nbSKKoZv7Wyp0dYmml4ACFVz6A1gGhcHROzheUT7rzYFHgO1OO-tdJ8OLOwYJj3V~5biMS2Y6MEUjq1X73TEuQbwAxjxtnIo9aK9Ak8Ac0j6IkD7BYJyoWIEUIdjNiqK7q4s-bw__&Key-Pair-Id=K3NV4LZ47N8M46)
   6. Copy this key. You will need to add this key to the JazzHR account to establish the integration.
 
-**Note** : Ensure to store the API key safely. Once the popup is closed, you cannot retrieve the key again.
+:::note
+Ensure to store the API key safely. Once the popup is closed, you cannot retrieve the key again.
+:::
 
 To know the further steps required for integration, refer to the documentation on [Jazz support](<https://help.jazzhr.com/s/article/Setting-up-HackerRank-Integration>).

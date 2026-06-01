@@ -147,7 +147,9 @@ These enhancements help you build richer, more data-driven evaluations directly 
 
 You can now create Code Repository questions with built-in AI guidance, making creation fast and self-serve. This update is designed to support custom code repositories, allowing you to generate realistic feature or bug-fix challenges directly from uploaded repositories or markdown projects. The AI analyzes the codebase to suggest relevant skills, difficulty level, and tech stack. You can then review, validate, and publish tasks directly to your content library.
 
-**Note:** This feature is available to a limited set of users. Please contact your account manager or reach out to [support@hackerrank.com](<mailto:support@hackerrank.com>) to request access.
+:::note
+This feature is available to a limited set of users. Please contact your account manager or reach out to [support@hackerrank.com](<mailto:support@hackerrank.com>) to request access.
+:::
 
 ![AI-Assisted Question Creation for Code Repos \(Limited Availability with AI Add-on\).gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1768924182526-AI-AssistedQuestionCreationforCodeRepos%2528LimitedAvailabilitywithAIAdd-on%2529.gif?Expires=253370764800&Signature=cNrNJ8L6sV0f-02C6qHjgMvFz11HxOFzafpyZ5vSE~qjonG3izFQE3aB56bzzjA68JBrRffB4Zv4vTiEXYAInH6Eao3jTXrIrJhG51~QyVIbjcLGId~1OfMHf2rmJsqhTvskowb56yw~ph4~2H6NlpSQSY8nV-1r9FgXDS-5kUr8bNNNdfSTKJYr1gse-OndIe87uUWLZu-PDJW-JrQx7HZl5W1-lHDDcE9q04lSKzi2doVZnrr~hPSTUE~6QvTu0UqL18nJEEyAWAHJDFGfxDWK3wIa9pU-~mJlNyv4kG8GUhSccNKorgst-w81dCP9EYnLDdcoz0EN-pYCINP60g__&Key-Pair-Id=K3NV4LZ47N8M46)
 

@@ -32,4 +32,6 @@ To update the logo for your company account:
 
   7. Review the preview and confirm your changes. Your new company logo updates immediately.
 
-**Note:** If the user who sends the invitation belongs to a single team and that team has a logo set, HackerRank uses the team logo for all invitations. For more information, see [📄 Set Team Logo and Sender Name](</articles/5319929416>).
+:::note
+If the user who sends the invitation belongs to a single team and that team has a logo set, HackerRank uses the team logo for all invitations. For more information, see [📄 Set Team Logo and Sender Name](</articles/5319929416>).
+:::

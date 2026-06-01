@@ -51,7 +51,9 @@ The interviewer role provides limited access and focuses on the interview proces
 
   * View candidate reports shared with them.
 
-**Note:** Interviewers do not have access to tests.
+:::note
+Interviewers do not have access to tests.
+:::
 
 ## Recruiter
 

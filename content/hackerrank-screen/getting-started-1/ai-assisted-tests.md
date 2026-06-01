@@ -17,7 +17,9 @@ The AI Assistant operates in the following modes:
 
   * **Guarded (Default)** : Provides help with syntax, platform navigation, and conceptual guidance but does not generate complete solutions.
 
-**Note:** Contact your account manager to change the default setting or to learn more about the available modes.
+:::note
+Contact your account manager to change the default setting or to learn more about the available modes.
+:::
 
 The AI Assistant currently supports the following question types:
 

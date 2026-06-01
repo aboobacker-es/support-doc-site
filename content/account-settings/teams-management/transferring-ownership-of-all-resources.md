@@ -38,4 +38,6 @@ To transfer ownership of all resources:
 
      2. Click **Confirm**. A success message appears.
 
-**Note:** You can transfer ownership of test resources to a **Developer** or **Recruiter** , but not to an **Interviewer** , as Interviewers do not have access to test resources.
+:::note
+You can transfer ownership of test resources to a **Developer** or **Recruiter** , but not to an **Interviewer** , as Interviewers do not have access to test resources.
+:::

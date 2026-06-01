@@ -43,7 +43,9 @@ message| [str] Assign test-case message. This message is visible to the problem 
 
   3. **Message:** This is a customizable message that can be used to convey a message regarding a test case result, e.g., “Failed because the cutoff was not reached."
 
-**Note:** Please don’t print anything to STDOUT in the run_custom_checker function. 
+:::note
+Please don’t print anything to STDOUT in the run_custom_checker function.
+:::
 
 ### Custom-Checker for list of 5 prime numbers under 100 
     

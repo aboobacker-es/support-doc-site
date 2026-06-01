@@ -129,7 +129,9 @@ Select the implementation project .zip file provided by the partner.
 
 ![Generate_OAuth_Tokens.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047173548-?Expires=253370764800&Signature=jcoGByIVkKDoOyi1D2gXhmvjK3Zu8lAQU0~m5qkQNOS8x1Fh1ZqodGOa8pyuiCf42N4c17qmHfhqTwEOfqoSVVgyFfuTxOlTRTa-MbQko9hFVBllwx7YktYs~iB2zY2dnMsbFMmimlDKcb4jgMMgQ1AJo0Z0FA8WJXzV-pfmhryARrPuLmrEx6Kc1YPbzgrGXflCURMiJX1CJhCm2GUR8GOICFotWjJ1WyPuzWxeJ7CPEAT7y3RWmSwpbETKg6omxI4V79mTZJXE7pCNj98IHkAD9pvNrSHUr0uNzGmLQvuIDQzwh9et7A7nVaO1OfXGP3cg2ajm~XTE-IGvjULfMA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-**Note:** The **Client ID** and **Client Secret** are separate values. They look very similar but are not interchangeable and usually differ by only a few characters.
+:::note
+The **Client ID** and **Client Secret** are separate values. They look very similar but are not interchangeable and usually differ by only a few characters.
+:::
 
      * Copy each token and store it safely. Once you close the modal, your tokens will be encrypted and you will not be able to see them again.
 

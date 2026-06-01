@@ -27,7 +27,9 @@ You can adjust email notification preferences for your HackerRank account by fol
 
     * Enable notifications only if a candidate's score exceeds the cutoff score.
 
-**Tip** : Specify the cutoff score in a test's **Advanced Setting**. For details, refer to the Modifying Score Settings for Tests article.
+:::tip
+Specify the cutoff score in a test's **Advanced Setting**. For details, refer to the Modifying Score Settings for Tests article.
+:::
 
 #### Configuring Interview Notifications
 

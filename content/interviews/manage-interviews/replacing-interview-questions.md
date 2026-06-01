@@ -32,4 +32,6 @@ _Accessing the HackerRank library to choose an alternate question_
 
 **![image1.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046793254-?Expires=253370764800&Signature=GPcmiNymXSyn2WyCU-8nqSrOYNbCo62urNQYhxz35VHRWVClGhPaj3GURGUfBmTTWQEWhibrsN9qoOvI9cVtwoS7x7BnC0Tlvptis5LPpt3V6gKO2W-OaMxH6GDszwejPiGEBnppmiOF5L3f74liRI0RlNMClkW1-CE8z06NALaFifGxD4UmezLyajovzPzzjn8fsEZ-KnCC~5C~JTpwNqUyoj2IgFw40O1tojyc2~aI-DUzo6Um2B8CZLnF8sm-iZSZc4QraobMwC1KBs7UuEIdzycI8u3kumco0VK7zPY~gDFJz9DwcGCcpj7fW2pxnYtvPbJhgZqsMwTygvkvMg__&Key-Pair-Id=K3NV4LZ47N8M46)******
 
-**Tip** : You can search the questions by relevant tag names or question names in the relevant search windows.
+:::tip
+You can search the questions by relevant tag names or question names in the relevant search windows.
+:::

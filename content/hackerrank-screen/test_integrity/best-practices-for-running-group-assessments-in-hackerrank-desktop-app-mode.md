@@ -39,7 +39,9 @@ For example, if 100 candidates connect simultaneously, the required bandwidth is
 
 `5 Mbps × (100 ÷ 2) = 250 Mbps `
 
-**Note:** Avoid using VPNs, proxies, or restricted corporate networks. These networks can interfere with test connectivity.
+:::note
+Avoid using VPNs, proxies, or restricted corporate networks. These networks can interfere with test connectivity.
+:::
 
 ## Set up webcams
 
@@ -93,11 +95,11 @@ Complete the following steps before the assessment begins:
 
   4. Close all other applications before launching the HackerRank Desktop App.
 
-**Note:**  
+:::note
+* Ask candidates to take a sample test to familiarize themselves with the environment. The sample test link appears in the test invitation email or instructions.
 
-  * Ask candidates to take a sample test to familiarize themselves with the environment. The sample test link appears in the test invitation email or instructions.
-
-  * If candidates take the test using a laptop, connect it to a power source to prevent interruptions.
+* If candidates take the test using a laptop, connect it to a power source to prevent interruptions.
+:::
 
 ## Troubleshooting
 
@@ -107,8 +109,8 @@ If the test window appears blank or unresponsive, ask candidates to refresh the 
 
   * **Windows** : Ctrl + R
 
-**Note:**
+:::note
+* For more information on downloading, installing, and launching your test using the HackerRank Desktop App, see [Attempting Tests Using the HackerRank Desktop App](<https://candidatesupport.hackerrank.com/articles/5105545533-attempting-tests-using-hackerrank-desktop-app>).
 
-  * For more information on downloading, installing, and launching your test using the HackerRank Desktop App, see [Attempting Tests Using the HackerRank Desktop App](<https://candidatesupport.hackerrank.com/articles/5105545533-attempting-tests-using-hackerrank-desktop-app>).
-
-  * If you experience any issues during the assessment, contact [support@hackerrank.com](<mailto:support@hackerrank.com>).
+* If you experience any issues during the assessment, contact [support@hackerrank.com](<mailto:support@hackerrank.com>).
+:::

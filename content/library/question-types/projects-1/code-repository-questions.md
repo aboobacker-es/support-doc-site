@@ -67,7 +67,9 @@ To create a Code Repository question:
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776834390729-image.png?Expires=253370764800&Signature=uD4f7VJ-rPqUlc0ho8ph46mXgZyzU64SJfOJ2hD6v~kr68eIgU9mE6TrOvaiu79TIH60UCut93aCMl8tq~P30XsghNsSn9mCUTIf7PUQipfH6irTP0GNt~WF5OGC2JRcGggH71VWWPu14T4LlvF3lCjcfZaEBQANcIkYUDM2LYMu6AvlGp7IwL1gPnUgTCB-RX5LZpiGhCusyDbEFY0d4pyEpaO4PBw9S0Yddq-RopWeaW6MfFSjb43RFCeBjrai8WEnyQBXfjlO8v~6yflnvK8HRHDT-M90SW4Q2eUsSouUKQf~1COkldUYwp0zLXmhbG2N7qjLwBf1Qu2szp6qfA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-**Note** : The ZIP file size must not exceed 5 MB.
+:::note
+The ZIP file size must not exceed 5 MB.
+:::
 
   7. Wait for the AI Assistant to analyze the repository and generate a summary.
 
@@ -84,7 +86,9 @@ To create a Code Repository question:
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776834426244-image.png?Expires=253370764800&Signature=GhIN5mQcGrmkJog0JBf9Obdtu~h2ag1q1c-G8inswvuSmNDa18MjBkYm7L4foDr5Zt609TI9EpdhC9XHlZdmyPwQzrFEEtlwNsIslKKxpNhikPaHOyCw-R4xEoUEa8JLdoUg0XEAMFk9NRjg1Za6~sp-D~MwEoSiYexZiiD0k9FJBeBUgYC0Y995eqROe6RQ9Ot~9wXyuUUi8v87d9ZGDB0stZYA7e2JNvRrSZNhq97sQ8dWZ0DjWurnueY5HJVtJieQuMdonNYDevsImNO7Su-4pIBeU0sy4xKZiTY4LnqX4eT7eB5pHs~dzeEqNWz0E7XG3P6CgxpTkzAMlAyP-w__&Key-Pair-Id=K3NV4LZ47N8M46)
         * If the repository includes a README file, the platform may extract commands from it.
 
-**Note** : You can add custom port labels in the `hackerrank.yml` using the `ports_settings` field. For example, assign clear names to ports such as 8000 and 3000 to display them as Frontend and Backend.
+:::note
+You can add custom port labels in the `hackerrank.yml` using the `ports_settings` field. For example, assign clear names to ports such as 8000 and 3000 to display them as Frontend and Backend.
+:::
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1777874986413-image.png?Expires=253370764800&Signature=Wi5IaChC4~DIEWuCOTnkTlihZRueF7J5NkJjx3TI1ZBTcFv~Ui0U3SSsddRq3I1s8RSNdXXg4N1mHfhE~r6dr~0g6VsIimnglNu~JRAt~MHqFP0CxOFLj4tjV4HnsxjMVzpz37KVgPFQa7xiX9MDeIfFvy88s6eQd6Xxh66OHm5zrPQ-VTMAnUtNN4P-oE7z8pZ5DvtMf0uQ6qtzKiFbCjFk1AKxBiPFpeEqn49kgQHKno8uOJKZRAXFMZWoSU62rGUW5Ih5kcsnTFG7SNCu7HyQlbF46S~BZIxpcXwW3OYot2Xukgea1vfFIaFXO03vwxdoU2OFGDBTmQj1oHTR8g__&Key-Pair-Id=K3NV4LZ47N8M46)
 
@@ -136,7 +140,9 @@ After successful validation, the platform saves the question.
 
 You can click **View in Library** to open the question or click **Create another task** to add another question from the same repository.
 
-**Note:** Click the settings icon in the upper-right corner of the repository to update the repository name and description.
+:::note
+Click the settings icon in the upper-right corner of the repository to update the repository name and description.
+:::
 
 ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776834064393-pasted-image-11.png?Expires=253370764800&Signature=OqrfG9rM4x7i1hO9owA6DgXbSStEBV8ZmypKMYSyQIeCxrA7cJHPalIWKdZ0TbeMSwjc-Pdq79bgSsWu6RILoAixh3ttS9GF~mRui2jNe47nI7rgAhL7LmKteojaGojRFCI7D~gOdZRL3M1ZkatTz2NTV~Eu0kPy5aEIYzCENHnySUD~3dUtWgLI7L3SSUD-U7kQkQqG0m7UOqvcr~J2B5jlmP19e~ibXYLMSXqXXlkp-vyJMOa3DdyjmLFlOaDG2ZUi8EAPICgrTD3icbbsLW3I-5NaKTYmge0d7czbeJzz~TMkuQw0oAJNkvJs48HdABsZMrE8N1RYatBgnjt9Lg__&Key-Pair-Id=K3NV4LZ47N8M46)
 

@@ -23,7 +23,9 @@ The flexible user roles offer the following features:
 
 Entitlements define the actions that users can perform within the platform. They control activities such as viewing, creating, updating, and deleting tests, interviews, and questions.
 
-**Note:** HackerRank offers four types of user roles. For more information about these roles and their default entitlements, see [_Types of User Roles_](<https://support.hackerrank.com/articles/9603546665>).
+:::note
+HackerRank offers four types of user roles. For more information about these roles and their default entitlements, see [_Types of User Roles_](<https://support.hackerrank.com/articles/9603546665>).
+:::
 
 ## Accessing flexible roles 
 
@@ -69,7 +71,9 @@ To customize entitlements for an individual user:
 
 ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2Fe80f916f-c509-4303-afb8-3c967eb923d3-AD_4nXcEJAip0XEOyeHt4Z87utmBnTz8yzXyCYT7ep_Th4CZdjZ319n-hl-C7bxloUuGDNt2VtVXmlgOuh6JDwbAj04GZk52T5krHNT-zntGXfpOfoaB_gDsv9dPa4_9Rq4Mxi0BrtQO-2e3478f1-f2ad-401a-91f4-99cfddf78972?Expires=253370764800&Signature=JEnyHuMY6HpbZ4uAZs1obc4D1D6RbEZh3pY9UYE0RaF4~YyWlWa5VZv-6oNkfwPPi43jApf3794dlchxIzvPzoOBtJDNDGK9RSB4MTqNWyXOvxe2WkF535-eA2dNjkRgIw5UlfCG403~dZFStn30O-Vme7d5ttaoC5lSr6DHPKeCdLzkGw5juEZ-FdRPGzflxUB~Xtn97cVwvEnrnNbu0tZqN7trXygFCvTyRPCuBpo0CYAQ3OwEwHeX8Ewe-WlJiXl6R8qeLd0a8-t8GK4krY7hlYlpINo1qoZuiDtj4P0dK17xud9cbHykqJF~tlljeIU1Yja-t7LbuZEt7EkR3Q__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-**Note:** A user's entitlements are restricted by the maximum entitlements granted to their assigned user role. Users cannot exceed the limitations set for their role.
+:::note
+A user's entitlements are restricted by the maximum entitlements granted to their assigned user role. Users cannot exceed the limitations set for their role.
+:::
 
 ## Available entitlements
 

@@ -67,7 +67,9 @@ After you enable the scorecard sync, all interviewer's scorecards will show up i
 
 _How Scorecard shows up in Lever_
 
-**Note:** You will need to have the[📄 Lever - HackerRank Interview Integration](</docs/3147b674-5cbb-4bde-9528-7699bb64b1a7/articles/7466b721-da33-48b1-b42b-af228aacfe00>)set up to enable the scorecards.
+:::note
+You will need to have the[📄 Lever - HackerRank Interview Integration](</docs/3147b674-5cbb-4bde-9528-7699bb64b1a7/articles/7466b721-da33-48b1-b42b-af228aacfe00>)set up to enable the scorecards.
+:::
 
 You can recommend the following articles to your candidates to help them familiarize themselves with HackerRank Interview before an interview. 
 

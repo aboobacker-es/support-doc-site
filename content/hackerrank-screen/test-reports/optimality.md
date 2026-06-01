@@ -17,7 +17,9 @@ This feature evaluates the performance and scalability of candidate code, aligni
 
 When you enable **Advanced Evaluation** at the company level, **Optimality Evaluation** automatically applies to supported Coding questions. The system analyzes the candidate’s solution to determine its time and space complexity.
 
-**Note:** The candidate experience remains unchanged. Candidates take the test as usual.
+:::note
+The candidate experience remains unchanged. Candidates take the test as usual.
+:::
 
 ## Set up Optimality Evaluation
 
@@ -34,7 +36,9 @@ To set up Optimality Evaluation:
 
      * **Space complexity:** insert expected complexity
 
-**Note** : HackerRank Library questions already include this configuration by default.
+:::note
+HackerRank Library questions already include this configuration by default.
+:::
 
 Once configured, **Optimality Evaluation** automatically applies to the question when used in a test with **Advanced Evaluation** enabled.
 

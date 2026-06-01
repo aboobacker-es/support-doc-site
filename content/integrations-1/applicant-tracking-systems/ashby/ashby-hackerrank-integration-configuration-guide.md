@@ -66,7 +66,9 @@ A unique API Key is displayed.
 ![api_token.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046526481-?Expires=253370764800&Signature=RAR~K66xfg3UGGiKPJsV4S6WHwxUaYoOZv~-a3qtcYMJ4envUhGNUKGQwql2jSHWeCpLsRSTW1ng~iNWhYlD0TutUsQVYOu-2JqGnT9Qc5k2IYMOgIE29SJG7na6iqz-ojyrXGllJxuDlvVDqrU-Vjyb0GO5~0PdvMlgKGJ4wD9nv8Ci~CuZ2d2dRDdSL5g0wu1szwi9IMxUyjn-VyBAlv-DTk4SAZE~8uy3WaG5JRDeJxppmwfOMiioL0LC7RYq89Oui0yXI9uqmtfzUg93ThWuYJlQPW5H9bsl6phwYN4qFHlUGDt7RIQbbrAwI~5Zb1t1kfvEquFoSaR7IzVqiw__&Key-Pair-Id=K3NV4LZ47N8M46)
   6. Copy this key. You will need to add this key to the Ashby account to establish the integration.
 
-**Note** : Ensure to store the API key safely. Once the popup is closed, you cannot retrieve the key again.
+:::note
+Ensure to store the API key safely. Once the popup is closed, you cannot retrieve the key again.
+:::
 
 ### **Adding the API Key in Ashby**
 
@@ -95,7 +97,9 @@ A unique API Key is displayed.
 
 ![active_integration.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046528845-?Expires=253370764800&Signature=XAGF8mfb~r-7W2I2BdJK~gAAA2DO61unRtRbPpXXE1c5ijgODSeGp3lzP57vzY9gJ78MnN5CC9AtYvjqElbHZ1wejUrm9tiNmrEXW72dn0K-A0gF9UtwTIYNVfUk8LGcxaeXN5PV~dDWKpOJ04VeJvO8OWu~FP54qoggmECA7O9tywyhaYpQ00y9Mc-JH9Tt8EvkXtLAI5G0dp4bNM9xdbUWd034n5XXoHYbuUpAJTAFE0eY4POIFuT0sqQ69uhj-OFy6IZPTIXabTKzbo6z3OD6cZLCW9JdAsY6hyn4yxk4Nineh6tN~BI0RcaAyHUPP4yqtsN74xjxILElmLZxeA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-**Note:** The email ID that you have used with your Ashby account should be the same as the email ID associated with your HackerRank account for the integration to work seamlessly.
+:::note
+The email ID that you have used with your Ashby account should be the same as the email ID associated with your HackerRank account for the integration to work seamlessly.
+:::
 
 Related Articles:
 

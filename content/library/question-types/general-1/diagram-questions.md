@@ -31,7 +31,9 @@ To create a diagram question:
      1. Enter the **Question name.**
 
      2. Describe the problem in the **Problem description** field.  
-**Note:** After you have entered **Problem details** , you can click **See candidate preview** to preview the question created. 
+:::note
+After you have entered **Problem details** , you can click **See candidate preview** to preview the question created.
+:::
 
   2. Enter **Question properties** :
 

@@ -38,7 +38,9 @@ The approximate solution question creation workflow opens with the following fiv
 
      2. Describe the problem in the **Problem description** field. You can use the formatting menu to format the text or to include elements such as tables or images.
 
-**Note:** Click **See candidate preview** to view how the question appears to candidates. 
+:::note
+Click **See candidate preview** to view how the question appears to candidates.
+:::
 
   2. In the **Question properties** section:
 
@@ -69,13 +71,13 @@ Select the **Other languages** checkbox to include all other languages.
 
   2. Click **Next**.
 
-**Note:**
+:::note
+* Click **Select all** to enable all languages.
 
-     * Click **Select all** to enable all languages.
+* Click **Clear all** to remove all selections.
 
-     * Click **Clear all** to remove all selections.
-
-     * Use the search bar to find a specific language.
+* Use the search bar to find a specific language.
+:::
 
 ### Step 3: Code Stubs
 
@@ -94,7 +96,9 @@ Define the function signature and generate code stubs for supported languages.
 
      2. Enter the **Parameter Name**.
 
-**Note:** Click the **✕** icon to remove a parameter.
+:::note
+Click the **✕** icon to remove a parameter.
+:::
 
   4. Click **Generate code**.
 

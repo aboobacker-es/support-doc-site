@@ -11,11 +11,11 @@ A smooth, fair, and professional assessment experience strengthens your employer
 
 This guide explains how to prepare candidates for success, manage candidate support, and handle candidate issues efficiently and fairly.
 
-**Important Note:  **
-
+:::warning
 HackerRank does not participate in hiring decisions. The HackerRank team is not authorized to share test results, reschedule assessments or interviews, grant testing accommodations, or modify your hiring workflow.
 
 HackerRank redirects all such requests to your recruiter or hiring team to ensure your organization retains full decision control.
+:::
 
 ## Prepare candidates for success
 
@@ -25,7 +25,9 @@ A great candidate experience begins before the test or interview starts. Share t
 
   * [Getting Started with Interviews](<https://candidatesupport.hackerrank.com/collections/5664360688-before>)
 
-**Note:** Share the [Attempting Tests Using the HackerRank Desktop App](<https://candidatesupport.hackerrank.com/articles/5105545533-attempting-tests-using-hackerrank-desktop-appp>) article with candidates who take tests using the HackerRank Desktop App.
+:::note
+Share the [Attempting Tests Using the HackerRank Desktop App](<https://candidatesupport.hackerrank.com/articles/5105545533-attempting-tests-using-hackerrank-desktop-appp>) article with candidates who take tests using the HackerRank Desktop App.
+:::
 
 These resources provide essential setup instructions to optimize performance, including:
 
@@ -47,7 +49,9 @@ HackerRank follows these key practices:
 
   * **Review escalated issues:** The Support team reviews candidate tickets that report basic technical issues and test administration inquiries in real time, but investigates deeper issues only when your recruiter or hiring team escalates them.
 
-**Note:** When candidates contact HackerRank Support directly, the team assists with troubleshooting and records any technical findings that may indicate a broader platform issue. HackerRank Support does not provide real-time responses to all candidates tickets.
+:::note
+When candidates contact HackerRank Support directly, the team assists with troubleshooting and records any technical findings that may indicate a broader platform issue. HackerRank Support does not provide real-time responses to all candidates tickets.
+:::
 
   * **Maintain data privacy and integrity:** HackerRank does not notify the recruiter or hiring teams about individual candidate issues to maintain the privacy and integrity of the candidates. The Support team cannot verify a candidate’s identity or confirm their association with your hiring process because test invitations can be forwarded or reused.
 
@@ -80,4 +84,6 @@ To provide a consistent and fair candidate experience:
 
 Following this workflow helps ensure a fair, efficient, and privacy-compliant candidate experience.
 
-**Note:** HackerRank recommends re-inviting the candidate to retake the test or interview if their experience was disrupted.
+:::note
+HackerRank recommends re-inviting the candidate to retake the test or interview if their experience was disrupted.
+:::

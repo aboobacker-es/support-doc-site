@@ -13,7 +13,9 @@ HackerRank offers robust APIs to automate test administration and result retriev
 
 Each enterprise user with a **HackerRank for Work** account can use our APIs to generate a personal access token. These APIs help automate repetitive tasks, such as administering tests and fetching results.
 
-**Note** : This token is not intended to support ATS integrations. To obtain API keys for integrations with ATS platforms like Breezy, Lever, Greenhouse, or Jobvite, refer to the **ATS Integration** section in our knowledge base.
+:::note
+This token is not intended to support ATS integrations. To obtain API keys for integrations with ATS platforms like Breezy, Lever, Greenhouse, or Jobvite, refer to the **ATS Integration** section in our knowledge base.
+:::
 
 #### Steps to Generate an Access Token
 
@@ -33,7 +35,9 @@ Each enterprise user with a **HackerRank for Work** account can use our APIs to 
 
   * The newly generated token will be displayed. You can use the options provided to copy, edit, or delete it.
 
-**Tip** : Refer to our detailed [API Documentation](<https://www.hackerrank.com/work/apidocs#!/Introduction/options_intro_api>) for more information about API usage and capabilities.
+:::tip
+Refer to our detailed [API Documentation](<https://www.hackerrank.com/work/apidocs#!/Introduction/options_intro_api>) for more information about API usage and capabilities.
+:::
 
 ## Rate limits
 

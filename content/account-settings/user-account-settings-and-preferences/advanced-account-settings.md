@@ -43,4 +43,6 @@ Accessing **Advanced Settings** :
 
   * **Reminder Email Contents:** Customize the text you would like the candidate to see
 
-**Note** : If you configure the email settings on the **Advanced Settings**  page and the **Invite Candidates**  page differently for a particular test, the settings configured on the **Invite Candidates**  page will take precedence.
+:::note
+If you configure the email settings on the **Advanced Settings**  page and the **Invite Candidates**  page differently for a particular test, the settings configured on the **Invite Candidates**  page will take precedence.
+:::

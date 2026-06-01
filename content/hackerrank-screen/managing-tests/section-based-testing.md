@@ -41,9 +41,9 @@ To add a new section:
 
 HackerRank automatically selects questions based on the chosen skill and type. To manage questions in a section, see [Manage questions in a section](<https://support.hackerrank.com/articles/5546852679-section-based-testing#manage-questions-in-a-section-20>).
 
-**Note:  **
-
-     * Leak-protected skill sets display a safeguard icon next to the skill. HackerRank protects these sections from question leakage. If any question leaks, the system automatically replaces it.
+:::note
+* Leak-protected skill sets display a safeguard icon next to the skill. HackerRank protects these sections from question leakage. If any question leaks, the system automatically replaces it.
+:::
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F45fa89fb-e438-4b14-b01f-11ae99629b40-6afc31bd-35a1-492a-86b1-ab307abdc44d-a2cc3fb8-b4cc-4f12-8222-c8ecd5c85c9d-1757093055909-image.png-123f6efc-fa1d-4caf-9b29-f9cd8f29f2af-0073d9b0-f470-4195-ba8c-1eea6dd21789-4ab823ff-7117-453c-b77a-507a1cac3ef2?Expires=253370764800&Signature=SPq0yOnDSqHa1PAmK-CnByoNRzT7uA~Q05~zCpOpgDq1PZsT33nSL-ozbPUb7pnRAWn~QCIcJq3s1jEI8vkmaQk7ETgQYzvyK9aUvtfjqcvYhfW~4LcckHTO6cFDAXKq~ivAOmH024VEisk0t7oOBuTI3yioMUnSz622YDSwyyAE9hg8Wa77SDtEgUKLpVxOuDkwPYUQA0ayTNkXAdFc0Krb5y3VjY36MIn0xiGy6dPjZ2qaKXWlq4PP1iOzsA6eEPf6wjYEzzKcLLuBmxMnVPUU1NdcRVlTlsXJKvbCRlZuYR1n2eBwzZgGE8QLdOjhhQjeOLsAvm0IGPjhQthRMw__&Key-Pair-Id=K3NV4LZ47N8M46)
      * For more information about available skills in HackerRank, see [Skill Directory](<https://www.hackerrank.com/skills-directory>).
@@ -54,7 +54,9 @@ HackerRank automatically selects questions based on the chosen skill and type. T
 
 ![addsectionmanually.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2Fe5f8ee8e-4c56-4858-baef-61d82eef7ce2-1758091397939-addsectionmanually.gif-38288118-2300-4fa6-8ee0-a265aa5d99f7?Expires=253370764800&Signature=od3A7zQjhbOsgqij2SqPqRUsR7RfGL2EljaOgqW-YG6wR5RcPwc3DSMPo9ZwRHBWiqkVAEuB~XZY0~ExugOemHLDeehcaSAc5M2FMze~Vs6~0RX8Ms2UsDfty9B3VjCq387CxER63Sj0pgONl5bUAv-UUIfpzwiSmAnyWrtGt9UyIDD-NPwngiioKzXUmbs3ngQdvefrXfccR7t5esGOxUTKg5CGoLnYv5CkBY4~WKFv1vnuPWp0C5SDdrJaBHahWovCBdWu~dFmzHQTyX3A73CJ2GNCUXnI5mL7UDm-U1tdjTNmWXtIwSmLLDgz2MzNm9dqOcedlQXRKqF6Y7lizA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-**Note:** To rename the section, see****[Configure section settings](<https://support.hackerrank.com/articles/5546852679-section-based-testing#configure-section-settings-6>).
+:::note
+To rename the section, see****[Configure section settings](<https://support.hackerrank.com/articles/5546852679-section-based-testing#configure-section-settings-6>).
+:::
 
        2. Choose how to add a question:
 
@@ -99,7 +101,9 @@ For more information about AI Assistant, see [📄 AI-Assisted Tests](</articles
 
   3. Click **Save**.
 
-**Note:** Random selection sections allow you to control the variety of questions across candidates.
+:::note
+Random selection sections allow you to control the variety of questions across candidates.
+:::
 
 ### Reorder a section
 
@@ -121,11 +125,11 @@ To delete a section:
 
   2. In the confirmation dialog, select **Delete** to remove the section permanently.
 
-**Note:**  
+:::note
+* Deleting a section also removes all questions in that section.
 
-  * Deleting a section also removes all questions in that section.
-
-  * You can also delete a section from the section settings icon.
+* You can also delete a section from the section settings icon.
+:::
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1758791910992-image.png?Expires=253370764800&Signature=b0BzVndWgV5uinTc-VS3yOl3mqZMQbrPJCfa0fonyXayE4t1E-csOWtWVACJVAcDfWqK0pPXLDdRZumLWhffBtWD8IfOiTLxG94w72eQUFRQ1582EJlI~PGglu9duT-ARZnHXofddW11qK-BbwBb8N5QL6Z9xoMyWoZXWsBNdHCM7csCBzrZV3KjXvJ0~sypIgF4M27MePuKUlYB1PX5A1FPVM2OExAvnvHJe4igeG43-XYke87ABxA7naqH6TjqfujgG7AYnR4wisQnqi2E3gHslHoWjJWR2teeyrZ8yT9wNINvuLMYecUF1mfEmiJxzDU2LwnScCAzdZjHtD9aAw__&Key-Pair-Id=K3NV4LZ47N8M46)
 
@@ -192,9 +196,9 @@ To remove a question in a section:
 
   3. In the confirmation dialog, click **Delete** to confirm.
 
-**Note:  **
-
-  * You can delete multiple test questions at once. Select the checkboxes next to the questions and click **Remove**.
+:::note
+* You can delete multiple test questions at once. Select the checkboxes next to the questions and click **Remove**.
+:::
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1758792108937-image.png?Expires=253370764800&Signature=LG0pOgKHhnpbR4w5n0k0nqNjnDNHN93GIAa2XDKfyxqktUpMc07Ypw5n8Qk6ZmhYbDZGlYeXR1ifQzrvt6Oi0f~vC2YvKz2R7hoJDaHqp5U-Yv~nsAj9zTWmD9G-lKATwuewF3IyYXPAUPqFDy0YEfn36GsFXwBs45vLt-SfjHuECNLYncMaHkk~T0B9vwNxWfXNZxac09O~T37Fub80zkYtSBQxNQhJ6z~ynfpKlxAHbxkRnkZakr7dtCdYkbSvPRKxCnMWgWjlwXhjuk7xFrpLyhzYfWrXQMEzjkj~a543tYef4mvrrse251Hykv196XYi1Qhui-IUwnqFCze8xA__&Key-Pair-Id=K3NV4LZ47N8M46)
   * Select the **Insights** icon to view question insights. For more information, see [📄 View Test Question Insights](</articles/3255724462>).
@@ -239,7 +243,9 @@ To add a code repository section:
 
   6. Select **Add Manually**. A new section labeled **Untitled** appears at the bottom of the list.
 
-**Note:** To rename the section, see****[Configure section settings](<https://support.hackerrank.com/articles/5546852679-section-based-testing#configure-section-settings-6>).
+:::note
+To rename the section, see****[Configure section settings](<https://support.hackerrank.com/articles/5546852679-section-based-testing#configure-section-settings-6>).
+:::
 
   7. Click **Add from Library** to open the question library.
 
@@ -247,7 +253,9 @@ To add a code repository section:
 
   9. Click **\+ Add** next to the code repositories you want to include.
 
-**Note:** To add a code repository tasks to a code repository section, see [Add a code repository task](<https://support.hackerrank.com/articles/5546852679-section-based-testing#add-a-code-repository-task-35>).
+:::note
+To add a code repository tasks to a code repository section, see [Add a code repository task](<https://support.hackerrank.com/articles/5546852679-section-based-testing#add-a-code-repository-task-35>).
+:::
 
 ### Add a code repository task
 

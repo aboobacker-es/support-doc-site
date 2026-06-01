@@ -51,7 +51,9 @@ In the **Emails** section, you can:
 
   5. Click **Save** **Changes** to apply your changes.
 
-**Note:** When multiple levels of email templates exist, the system applies them in the following order of priority.
+:::note
+When multiple levels of email templates exist, the system applies them in the following order of priority.
+:::
 
   1. If the email template in **Centralized Test Settings** is locked, it takes the highest priority. This configuration overrides all other template settings.
 
@@ -77,7 +79,9 @@ To add additional recipients:
 
   2. Click **\+ Add**.
 
-**Note:** All added recipients receive reports for every candidate attempt, regardless of who invited the candidate.
+:::note
+All added recipients receive reports for every candidate attempt, regardless of who invited the candidate.
+:::
 
 ### Configure Leakage Alert Emails
 
@@ -91,11 +95,11 @@ To enable leakage alerts for specific team members:
 
   2. Select the checkbox to add users from the list or use the search bar to filter by name or email.
 
-**Note:  **
+:::note
+* By default, only users with edit access to the test can receive leakage alerts.
 
-  * By default, only users with edit access to the test can receive leakage alerts.
-
-  * HackerRank automatically sends an email notification to these users when a potential content leak is detected.
+* HackerRank automatically sends an email notification to these users when a potential content leak is detected.
+:::
 
 ### Configure Reminder Emails
 

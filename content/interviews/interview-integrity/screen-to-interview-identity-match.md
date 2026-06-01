@@ -68,7 +68,9 @@ The interviewer can then respond to the alert by selecting one of the following 
 
   * **No, Different person** : Flags a mismatch. This status is displayed in the **Suspicious Signals** panel and the interview report.
 
-**Note:** It is recommended to establish an internal process to address flagged identity mismatches. This process may include notifying your HR or recruitment operations team and documenting the outcome as part of the interview feedback workflow
+:::note
+It is recommended to establish an internal process to address flagged identity mismatches. This process may include notifying your HR or recruitment operations team and documenting the outcome as part of the interview feedback workflow
+:::
 
 ### Reviewing and updating verification status
 

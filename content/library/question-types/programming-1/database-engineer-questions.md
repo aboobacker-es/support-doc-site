@@ -35,9 +35,9 @@ The database question creation workflow opens with the following two steps.
 
      2. Describe the problem in the **Problem description** field. You can use the formatting menu to format the text or to include elements such as tables or images.
 
-**Note:**  
-
-        * Click **Use content templates** and then select **HackerRank’s Database Question Template** to insert a predefined template.
+:::note
+* Click **Use content templates** and then select **HackerRank’s Database Question Template** to insert a predefined template.
+:::
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1769680570807-image.png?Expires=253370764800&Signature=HSHcU2If1biPtnT8kaXgLpEFEQN1Z2a2RIIe2kaGuEa4uXxGSiGyUhtYnQ5lZ1bPNXTI~zqx6GZ1uikk1O-vgDoje5twERSyvbr0EUsHJ-DRIzjC9MB1-T0YtRnZDzPXgZHmyCP3beXKMWZxqiB4rK0gOxewu0AudU~tYQZV6HEyI2VahB9yP1O7MQRwPKL4XpM9E8sWfm8naXVioG094zbhOfhV24UgyggqQ5ls6gejWbFar9E3wguknSVtEC-Gx8vEY88r-nfixCzCl04yqMiS5JPjF6oOy4aBKfYUjpHcF~ohh0mAwHtWjx8Eef7aNMtNfzCFLhEgpdY6cSokAw__&Key-Pair-Id=K3NV4LZ47N8M46)
         * Clear the **Replace actual contents** checkbox if you want to overwrite the existing content in the editor. 
@@ -75,7 +75,9 @@ Configure the database schema and define the expected output for the question.
 
 Candidates can choose any of the selected databases to solve the question.
 
-**Note:** Click **Select all** to select all available databases.
+:::note
+Click **Select all** to select all available databases.
+:::
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1769680196400-image.png?Expires=253370764800&Signature=n5TDUfIatAReH7UoPqJWvZQgKWb7tpXylUaSPLYy5dVoFIzwmnllLomXKmUhQbm20qcLzr0qK~uL5UWnBDaeOC83l0z0wM3KfNlQTQckES-XiFjkzBO9ccZ3M8BhQt8XsPOp3JrQ~7MMmrtEuXuI0Mmc8rdAKdifecYmGnklW8ZHt1vyxox9JPYqwcKopGG~t-B-sOfnUCBb1EHnq67pHX9HQd~KFcERACx-F9iAoOVbXLW-OLgllhECUe3QGxlZWInKMVaXuGI1uH20hZ9WV62vNGo8XIW9PZNkoRnlJz2sgPPfU2em6Rs55MzYeGqia5lSLfuXsGNLCpFmahi-2g__&Key-Pair-Id=K3NV4LZ47N8M46)
 
@@ -88,7 +90,9 @@ Candidates can choose any of the selected databases to solve the question.
 
         2. Use INSERT statements to add data.
 
-**Note:** To upload an existing schema, click **Upload schema as file** , and then select **Upload CSV** or **Upload SQL**.
+:::note
+To upload an existing schema, click **Upload schema as file** , and then select **Upload CSV** or **Upload SQL**.
+:::
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1769680886128-image.png?Expires=253370764800&Signature=AGA~A-BURGsZMQbUVKYw8K3ctxHbapms5Uo6ZdZ~4GEFL83CFjVxN6yO-O1nXaWBty8hRT6BHvWc8mOkasn2kfU1WiqAfgNPZ1IbnP3ioQJXDy2XWAgDMKk7Yit1P0s5Qr40oDO6s6Ai-58x1mdEfqCA6NpkDZetaifJiU4-HBpSC4DIlXof5WYbyPOJQsIljnM-ZWAhvnnpcFoW1FGqc6iSdTfmJxwc7kM-bajgtnYO~uMm1ohJPa4o8DbRWjhoxM5QVC3d87-Pz3NxlmMeeRM2dXs1VdP-YR1XEhn3TQUdibg6-J8WST1ImpKikDRR7TH~RWiK41xMo6jvb8H7Ow__&Key-Pair-Id=K3NV4LZ47N8M46)
 

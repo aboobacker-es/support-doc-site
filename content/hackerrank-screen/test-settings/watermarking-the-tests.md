@@ -22,10 +22,14 @@ To prevent that, HackerRank is launching the capability to add Watermarks on the
 
 ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046195678-?Expires=253370764800&Signature=mz-Wl5momDiMI1ivtpaKvwijL~CEO1Sr0A4H~wVlxPGGWGvwbrc7CsSdekLKTBBqXXjs-TVlX7eXMd6H6MxCVgBZVS8MBw8FJQ99AsfPhcjCfP9gQqqgn7nV3mNZzMY3dgPYBiocq3Ze4wpqdK31dm-pS-vuqijp-MYIy11hmr9FNalzsQozmHRgjAvqxS18bOlbPsbVtawdUW0zD0bEkN07lxBSgYhlJuPaEPNXchcmpF54eiXphcemxfxc-WVqzogoYy2Cqsn0OqkmGWmdTY26huZiF24G9MhgDZgpYYq-xssaiHkBQvimRvmSqNArot8bg9XRq6fN638VAURZNQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-**Note:** For now, the watermark feature is only available for Coding, Database, Approximate Solution, and MCQ question types. 
+:::note
+For now, the watermark feature is only available for Coding, Database, Approximate Solution, and MCQ question types.
+:::
 
 ### Watermark Inside a Test
 
 The arrow markings in the below image highlight the Watermarks placed over the question pane inside a test.
 
-**Note** : This feature intends to ensure that we deter candidates from cheating. This is not a detection mechanism yet.
+:::note
+This feature intends to ensure that we deter candidates from cheating. This is not a detection mechanism yet.
+:::

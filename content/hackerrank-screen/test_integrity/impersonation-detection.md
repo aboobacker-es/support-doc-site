@@ -39,7 +39,9 @@ When **Photo Identification** is enabled, the system captures a photo of the can
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1739250402781-image.png?Expires=253370764800&Signature=n378KNueyXBey8aCba-RovyGxWZ1xR~bUmFuxemmVeZS6XZCXCCKY21aSd8R4YHTF2kum7KMExKheg-B8Y43EAGo10lzXfW0uzLSJPce2oJfACUpiM1F~NSwvU01HcbvhY46ohdKaSDfXgB4HfjnEVUn2kYUadSUavfmTIeCOuR6AiZzFQNT6tk2Hc0HddblfyfqyUs3DhXy2JyQOjWiyFMmgxMrKBSdXBWY04gbkpJp7QPwXM6l5ZcFlYKTGuufx7PLWaJnWwFSMdEpHMClDNjkESVavhKBH7F8aDIFBb93iCMkWPzUxtPbcyBLS5iEf86awJIl4LCSshJg0kk~ew__&Key-Pair-Id=K3NV4LZ47N8M46)
   4. The test starts automatically after the candidate submits their photo. 
 
-**Note:** The system does not automatically validate or flag candidates based on the captured photo. The hiring team must manually verify the candidate's photo.
+:::note
+The system does not automatically validate or flag candidates based on the captured photo. The hiring team must manually verify the candidate's photo.
+:::
 
 ### View Candidate Photo
 
@@ -97,7 +99,9 @@ From the **Timeline  **tab in the candidate report, you’ll be able to view the
 
 An additional column, **Max Number of Monitors Detected** , will appear in the CSV report, showing the highest number of monitors connected during the candidate's attempt.
 
-**Note:** To view the details in the CSV, you must enable the report [setting](<https://support.hackerrank.com/hc/en-us/articles/15120087394451-Report-Settings#accessing-report-settings>) for **Max Monitor Detected**. 
+:::note
+To view the details in the CSV, you must enable the report [setting](<https://support.hackerrank.com/hc/en-us/articles/15120087394451-Report-Settings#accessing-report-settings>) for **Max Monitor Detected**.
+:::
 
 ## Webcam Switch Detection
 
@@ -105,7 +109,9 @@ The proctoring mechanism automatically detects if a candidate switches their web
 
 Review the information under the **Timeline** tab within a candidate test report and decide further course of action for the candidate.
 
-**Note:** To view the details in the CSV, you will need to enable the report setting for Webcam Switch Detected.
+:::note
+To view the details in the CSV, you will need to enable the report setting for Webcam Switch Detected.
+:::
 
 **Feature that uses AI to detect impersonation:**
 
@@ -119,13 +125,17 @@ To enable **Image Analysis** , turn on **Image Proctoring**. This will unlock th
 
 ![2024-10-21_19-28-15.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046032821-?Expires=253370764800&Signature=kUxgPQUeVIj3RxLnKHU6f2PDrJyxYeRkKl5Gwe476YAI5iZdfPNNIvyshLYJyboTOJQJ6LJa~hHdmtwcL0KzON0SmBEr2ve5O23vj0iU8ZeP6gwiSqDRxB7QJojlQ5r-feTlKZNTHdfTiMQUIreT3EqLXRKZQSvsAe-qp3u1GOwGTDE1EJn3pH0ywgUyak8GKf6nPQAzUBh0zGOX0WWKwOYCufV0wSpfJcfpIKNu9964Pb0fAhBT548POxCdnsXSumv66ntaGSi1EZHoYgfgo9APnJRhr3WfBD85-jInG4B6wOznyzghriUaa4i3zpPJEj0iEqIGZmKMZj86CDuyiw__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-**Note:** For more details, click the help icon or view the [HackerRank NYC laws for AI](<https://support.hackerrank.com/articles/3067349942-faqs%3A--hackerrank-services-and-ai-laws>). HackerRank’s AI-powered plagiarism solution has undergone an independent bias audit, ensuring compliance with the NYC AI Law.
+:::note
+For more details, click the help icon or view the [HackerRank NYC laws for AI](<https://support.hackerrank.com/articles/3067349942-faqs%3A--hackerrank-services-and-ai-laws>). HackerRank’s AI-powered plagiarism solution has undergone an independent bias audit, ensuring compliance with the NYC AI Law.
+:::
 
 ### Candidate Experience
 
 When **Image Analysis** is enabled, candidates are prompted to allow webcam access. Upon launching the test, the candidate must consent to the proctoring and webcam access.
 
-**Note:** Proctored tests are only supported on Chrome, Safari, Edge, and Firefox browsers.
+:::note
+Proctored tests are only supported on Chrome, Safari, Edge, and Firefox browsers.
+:::
 
 ### Reviewing Suspicious Activity
 
@@ -183,4 +193,6 @@ Medium| 5| Multiple faces detected
 
   * **Low Suspicion:** Scores below 5 indicate no significant issues.
 
-**Note:** When progressing candidates are flagged as **Medium** , it is recommended that further assessments be conducted to ensure that no cheating occurred in the previous rounds.
+:::note
+When progressing candidates are flagged as **Medium** , it is recommended that further assessments be conducted to ensure that no cheating occurred in the previous rounds.
+:::

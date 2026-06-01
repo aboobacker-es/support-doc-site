@@ -57,7 +57,9 @@ To enable HackerRank Desktop App Mode:
 ![hackerrank app 1.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760454392403-hackerrankapp1.png?Expires=253370764800&Signature=KYmiVxRugDyPXjAfjnrkrm40w4y-FHEetRjkIRPNzzXbWkgGEimMTlMngsF98JpASaZp3Gm9LU-Gy5T7L3Ln5kX4GPd~19si0ZWeJxALF6Fo6lJDf9zxkNJrHmR75eV6Hvc6QwpnYEsz7XVrJJrQroap~Z6QlQhH63JmC6foXmBraaBELex9H7vsnPBPhuiCZUu5-bKkx-crNp81Ia9bmlFH6ZotNDsi0x-1UnNlX0oimpwbZj3wXD71S9OJFV4hd6CekkVi0t18YhqTt18Rhv2uQhd5TTmv4LRm9SVqCpN2JfvwlALQb9Mu4SinfjP~TBU-SvddPk5QeTgMU7Bw5Q__&Key-Pair-Id=K3NV4LZ47N8M46)
   5. Click **Save Changes**.
 
-**Note:** When HackerRank Desktop App Mode is enabled, **AI Plagiarism Detection** and **Image Analysis** are enabled by default.
+:::note
+When HackerRank Desktop App Mode is enabled, **AI Plagiarism Detection** and **Image Analysis** are enabled by default.
+:::
 
 ## How HackerRank Desktop App Mode works
 
@@ -153,4 +155,6 @@ Session Replay provides a timeline-based, video-style view of the test session. 
 
   * Captures webcam images every 15 seconds.
 
-**Note:** Content protection is temporarily unavailable in the HackerRank Desktop App because screen recording requires screenshot permissions that were previously restricted.
+:::note
+Content protection is temporarily unavailable in the HackerRank Desktop App because screen recording requires screenshot permissions that were previously restricted.
+:::

@@ -28,7 +28,9 @@ To access the interview scorecards:
 
        * **My Scorecards:** View only the scorecards you created.
 
-**Note:** Use the **More Options (⋮)** menu to:
+:::note
+Use the **More Options (⋮)** menu to:
+:::
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760192868857-image.png?Expires=253370764800&Signature=Wyk5EASjmuElbqv5PkM5tkN03RBc9EM3lwgJD-shqHU8ym5YUrvDg5BdrsWyVIR624kU4AXSgyCiwrRF9UCvPiGFGFQ23N3awF3GtYB7MLUwvYX-HauIxmaPNhBubXfXLy88ArbXRtziBduasPq5ObibVmqAPk93u6MC9SqwLQp0rt1gjhR65bpXKyxxYvcXI7VXLKBOWqw09fDX2lp69fBmXAPpXnnciyFDBzMypDiJFCkdZb2rl6-O6C5mG8egcDVXgdoWD-zKnkmAMJRwNRifgtOBAsH0Je3foF8VumQZqoHfRptc7x2~12P3Rey8ioz7c2XoNHTapf6GkrB54Q__&Key-Pair-Id=K3NV4LZ47N8M46)
 
@@ -91,13 +93,13 @@ To edit the default question:
 
      * **Yes/No** : Select either _Yes_ or _No_.
 
-**Note:**  
+:::note
+* For Single Select, Multiple Select, or Dropdown types, select **Add Option** to add choices.
 
-     * For Single Select, Multiple Select, or Dropdown types, select **Add Option** to add choices.
+* For Rating questions, select **Show 3** , **Show 4** , or **Show 5** to adjust the star scale.
 
-     * For Rating questions, select **Show 3** , **Show 4** , or **Show 5** to adjust the star scale.
-
-  4. Use the **More Options (⋮)** menu to:
+4. Use the **More Options (⋮)** menu to:
+:::
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760192302355-image.png?Expires=253370764800&Signature=B9ZiRClg94GxWP60rW0n4XWk6BBx-7lYvzhLvafuPPE2DRZ6G7KBtBpiCdZZhg0nlwRFKUWX4O4EdM94HdGP-s8ake69daHml2AGcq50fP1ExPAUBh7mz6rVAdJjYAdsNOM~XWLEeTagRiLL0ty0X8R9bTeog08EKLP6zeETyUfViBalPrnh1--KNSAL~lL7GSsU5w16L6~RVrY4RD5B~Qp2rXgaAwchDhEzu2UsoUzechF5ktpeaWf2NNPpQiDqz-HTTBkODisc7Us1GV3yS2KQC9UaJf9hz87rwu7h4FLqAQH4knvJK~izAe4Dk8wxrfIe-vhUaozBq2qGYApCig__&Key-Pair-Id=K3NV4LZ47N8M46)
      * Toggle **Required Question** to make the question mandatory.
@@ -106,7 +108,9 @@ To edit the default question:
 
   5. Click **Preview** to review the scorecard.
 
-**Note:** Scorecards save automatically.
+:::note
+Scorecards save automatically.
+:::
 
 #### Add a section to the scorecard
 
@@ -120,7 +124,9 @@ To add a section to the Scorecard:
 
   3. Drag and drop the section to change its order.
 
-**Note:** To manage sections:
+:::note
+To manage sections:
+:::
 
   * Select the **duplicate icon** to copy a section.
 
@@ -151,7 +157,9 @@ To add a question to a section:
 
   8. Click **Preview** to review the scorecard.
 
-**Note:** To manage the question:
+:::note
+To manage the question:
+:::
 
   * Select the **duplicate icon** to copy a question.
 
@@ -179,7 +187,9 @@ To assign a scorecard through templates:
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760192066694-image.png?Expires=253370764800&Signature=Veezoyecg1lCGl2oPTbsX9GgsOaxue-Hy4~v36XY5UK0Z4kdWev8kxMC96nOn-fiz10l2JHV18z1Jx-VrdyIS2U40BZ1gZfzVT655qNGfzvmHHFMceJ0l6uMn~DKT03xwTkI7KnilylquhXnxOWk8PsE13bYKc6-iG1fp4j9uVf510bt3G1s9~3M8JGpZHLlhnWwLAqNriuvF~Lc8ndNkEsrZ6gOim6tE5SOG~ucSH9q88QIqCSNAaCcXUrIRAkz4B9FQ12dIzU2WYtVhQ~Awd~~FdIQCDhQpRtAJGrxsUZiYtTyAaS3cK2KBqDXwSaz5O3vRY6mbmuVz1SK0oN9Kg__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-**Note:** If you do not select a scorecard, HackerRank uses the default scorecard.
+:::note
+If you do not select a scorecard, HackerRank uses the default scorecard.
+:::
 
 #### Assign Scorecard during interview setup
 
@@ -196,7 +206,9 @@ To assign Scorecard during interview setup:
 
   5. Click **Save Without Inviting**.
 
-**Note:** If you select a template during interview setup, HackerRank automatically adds the scorecard from that template. If you do not select a template, the interview uses the scorecard you select manually. If you do not select any scorecard, HackerRank uses the default scorecard.
+:::note
+If you select a template during interview setup, HackerRank automatically adds the scorecard from that template. If you do not select a template, the interview uses the scorecard you select manually. If you do not select any scorecard, HackerRank uses the default scorecard.
+:::
 
 ## Using the scorecard during an interview
 
@@ -219,7 +231,9 @@ To access and complete the scorecard during an interview:
 
      * For **Text** or **Dropdown** fields, enter written feedback or choose the appropriate option.
 
-**Note:** All feedback is autosaved. The scorecard is private to each interviewer and is not visible to other interviewers or to the candidate.
+:::note
+All feedback is autosaved. The scorecard is private to each interviewer and is not visible to other interviewers or to the candidate.
+:::
 
 After the interview, the scorecard appears in the candidate’s **Interview Report**.
 
@@ -238,9 +252,9 @@ To view the scorecard in the Interview Report:
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760191957769-image.png?Expires=253370764800&Signature=r4teXP0JxJdI73jmpZyFHRYnndsAZob5wtJ6j3Dy51vvHlH3ze~7qE9sdkCWVP-6unr4giTqawwEOZNeb6CKW4gusuYKhMfVVbQLz9IiSEI5tCppkKeKbK0MqMUIps-HmU3ZDbN3J8~7EG5lfdt8kh4sxn18vHwwyoFqWTGZxLYSdIQxzrj4nopcvtkBJD4zF506EtxBeQIsqv-qPe3Y3riJkpotnEkS7JdollEGZJNY7CvAyBb~ciu6PMF1N~6dbYHKRThzpkTkd-eM5KHM1dyQ6-hLsl9hlJJoHDZDfoRWZojVj4m834b3rorjQBJTtdY7zQoJma0V1Z~DOi9rQw__&Key-Pair-Id=K3NV4LZ47N8M46)
   5. Select an evaluator’s name to view their scorecard and comments for the candidate.
 
-**Note:**
-
-  * If your organization integrates with an ATS, click **Sync to ATS** to sync the scorecard. Scorecard sync is currently available for Greenhouse, Workday, Lever V2, and Oracle.
+:::note
+* If your organization integrates with an ATS, click **Sync to ATS** to sync the scorecard. Scorecard sync is currently available for Greenhouse, Workday, Lever V2, and Oracle.
+:::
 
 ![Auto sync Interview Scorecard with ATS.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760600472005-AutosyncInterviewScorecardwithATS.gif?Expires=253370764800&Signature=kckYPee-6vgi~k3nlqEhW0z7ohhOVb46f0lt1WaA-aoBvTiBYxV9TiGx9IVVQesL7TS~qo970EBTpObsCUullc3RTmW~UoAh8NfssAKRG8a18~ONffzEqh7ZFKBy357KSCGxcap51wzyeZk0YI5JZrWFFG2RHnMxLztvn30qVLndfp29uEA4HvKh2UegT8fct0YGPz9MdK4LWvxfknGLJhYgLeY-oxJLSndiKxhvbfPTlB-7dNlRS2r7j8WcKKJpF6NmaJ10L~LQXDmulNxuZpA8Ygs6tn1IUZzCD58QtalDcON6c9NEufg7~HNNiXtlC09Z-Wku8GrCHCLK~CA-~A__&Key-Pair-Id=K3NV4LZ47N8M46)
   * You can access to scorecards depends on your license type.

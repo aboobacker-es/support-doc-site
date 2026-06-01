@@ -45,13 +45,13 @@ Use the **Library** dropdown to select the source of questions:
 
 The total number of available questions appears in the upper-right corner.
 
-**Note:**  
+:::note
+* For information about supported question types, see [📄 Question Types in HackerRank](</articles/2354192461>).
 
-  * For information about supported question types, see [📄 Question Types in HackerRank](</articles/2354192461>).
+* You can refine your question results using the [search, sort, and filter](<https://support.hackerrank.com/articles/5664166353-hackerrank-library-navigation#searching-sorting-and-filtering-questions-23>) options. 
 
-  * You can refine your question results using the [search, sort, and filter](<https://support.hackerrank.com/articles/5664166353-hackerrank-library-navigation#searching-sorting-and-filtering-questions-23>) options. 
-
-  * The library selection persists based on the last selection. For example, if you select **My Company** and navigate away from the Library, the same option remains selected when you return. The last selected library also persists in the **Add Question** flow from a Test or Interview.
+* The library selection persists based on the last selection. For example, if you select **My Company** and navigate away from the Library, the same option remains selected when you return. The last selected library also persists in the **Add Question** flow from a Test or Interview.
+:::
 
 ### Test question actions
 
@@ -156,7 +156,9 @@ You can search, filter, and sort questions to quickly find and manage the ones y
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1758776037617-image.png?Expires=253370764800&Signature=rHVpVQAgUULnNPgoHxrSo4ACkK4IAN1q1C~IohQyU1khMEcJ165Nn0ws0pu55GfdCgDW13jgCExGdp1Af1xEsD~Hi9uVPHnnhDHBuJRpMyTum4SOKJttsEW1yNsnD2i0~p-6zQRTjWTwk5UJnlGKBpfnNH59zOp2bYBelF35pLCuZ0iJfcTBnrDxM4relWWfPHlFNLc0-YuuQGSEsjRrWI4znYymTlNV51mxvv7j5~S~3OAP64380CGXPW7yPV9LKnG56QwbIhnDMcqdFdWClV8td6bgpXpkDujXqyqqjMFMp8dxzbiPbAJX~enp5iH4hNcEyr2nx0yVXUftThKYvw__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-**Note:**__
+:::note
+__
+:::
 
   * Leaked Questions and AI Solvable Questions are hidden by default. To display them, uncheck their checkboxes. 
 

@@ -13,7 +13,9 @@ This article explains how to configure and enable SSO between HackerRank and Okt
 
 For more information about SSO, see [📄 Getting Started with Single Sign-On](</articles/4264962721>).
 
-**Note:** HackerRank accepts only the user’s email address for SSO. During setup, define the SAML assertion to send the email address. SSO fails if HackerRank receives any value other than an email address.
+:::note
+HackerRank accepts only the user’s email address for SSO. During setup, define the SAML assertion to send the email address. SSO fails if HackerRank receives any value other than an email address.
+:::
 
 ## Prerequisites
 
@@ -37,7 +39,9 @@ To set up HackerRank single sign-On with Okta:
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1775805916841-image.png?Expires=253370764800&Signature=bocTiueCNkDrP98kiGHjypFNBf8zZSylTbW~SJmNznYR7y09bWAKE4-JGetH2QJvlPiZ6d3YlISnX1wfefXYZFVnC8nRmwerJwCsbSGPdC2MhglzUeS~6kuknb~V4o~i-iPLdkVAnrMUyAVdihZD5azY8jhBTtKcHPyU8k3yGTfWPuEsbZbuvpg6L7WlNHsD5ZDGqZ6av-eFbZBnXwJQykZZ3t6tiEbIl~4PgxeUG9RAGq05YxT99mrpecNULbM4AjI8OX~MVZoYOnc5WHQloVHpCXxmUoBCIzd0abJD4rXwVsVo8jqoqOBlEk7xgmsHe6v43erJThAkrk3l3-vVng__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-**Note** : You need this SSO unique ID in **Step 2: Add HackerRank for Work app in Okta**.
+:::note
+You need this SSO unique ID in **Step 2: Add HackerRank for Work app in Okta**.
+:::
 
 ### Step 2: Add HackerRank for Work app in Okta
 
@@ -81,7 +85,9 @@ To set up HackerRank single sign-On with Okta:
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1775806118869-image.png?Expires=253370764800&Signature=GtOKnEywVIoLOg9u-sZeD9vmXYsW752UspZQMP2lclPyaIWVRdaLnMgFHUdeN5UqoahSpRsovn~vMmQjDZ9tBnbagnOFeI-xBQWCmIq4NZZWaJBGTOANqrGS3tOd540WdOHlwzFf8U8DZwLgLkwfh05t4ZVmqTucqQoQTqeDass8gY7mqKdd1605UM1yfG-ts6W5ajBTJ2f6atYFu7w1G8~Yr2YS4ztfMYFPIcdPZjqgiiQkZKy12s309CDv1TQz0QRrTSaMM1qbfjbWckYdEGsnQRmNUHFFhrADcqTSan0Jjj99LnmwF3ETee4K89idHMWi9pNgP8F32XNILOWwaw__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-**Note** : You need this XML file in **Step 3: Upload metadata in HackerRank**.
+:::note
+You need this XML file in **Step 3: Upload metadata in HackerRank**.
+:::
 
 ### Step 3: Upload metadata in HackerRank
 
@@ -110,6 +116,8 @@ After you enable SSO:
 
   * When users enter their email address, HackerRank redirects them to the Okta sign-in page.
 
-**Note** : To disable SSO, click **Disable SSO**.
+:::note
+To disable SSO, click **Disable SSO**.
+:::
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1775806203149-image.png?Expires=253370764800&Signature=faymt6TroPfwsq2gftDpSY9xkIunogB0w8Eq-JJ5nj8S6c1IAQofr~1ajPvO3w5~MchM--wQTA1nRpuMBHkA3~14yXuV5Dk2FrzhpYZdn7UL~FKMiVBpG~LeTSXiGVR7JMEGogwbq0ks4llPxJP4O3WnN1OLWEhxl~HB8g2T64n~RNRI5GqfCZ9BdVVKXK61CVjhS-EXdWgXOfoM3FsBWuONUBD~JpLfmMAYfYIKnZG14LFywqkWCQsxKlddxXVVNR~xdZ8GR9hndC4X9IDjQkAyZuAjFt7Yl8dCyfx3B9bDAajgKnoiTltLO1p~RwdohXAlYqPfyA9sTAe-WPhI3Q__&Key-Pair-Id=K3NV4LZ47N8M46)

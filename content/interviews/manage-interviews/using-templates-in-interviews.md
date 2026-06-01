@@ -9,7 +9,9 @@ is_published: true
 
 You can use and manage templates during an interview.
 
-**Note:** If you selected a template when creating the interview, it loads automatically when the interview opens. If you did not select a template, the default interview screen appears. For more information, see [📄 Create an Interview](</articles/8404005945>).
+:::note
+If you selected a template when creating the interview, it loads automatically when the interview opens. If you did not select a template, the default interview screen appears. For more information, see [📄 Create an Interview](</articles/8404005945>).
+:::
 
 ## Opening a template during an interview
 
@@ -46,7 +48,9 @@ To add a question to a template:
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1765789052649-image.png?Expires=253370764800&Signature=EaQXjCxaQ0B65cjcuPd2Nj2S6A3IzrPJZ~wHF539S1yTvlefFs9GgECeAk83iBoJAOhyNSPsJBIGReMhck6myFOBzg5whdWgMZsCMFkmuOoJa3KzJ2qlA0AAetpIHhs8RPNowrjSjKQBFHdZaA1vAUrVRSSfzYndQCfT1b53tWMdYcOHFp2B0aF74nHIMTjlS4cfPYMyXVI2c46faXn-GiyJ8i9Xmdizqw-hrVy0M7oDGIBVBNp2kyPXI2Bfk9opKGTXVH0xMfEh6DrOHkUsIABCAT9nz0HS0MabW-YsfrSVUMLPOhoPh8ygVn8IcsYwW28puTGtuUYOmnT0xh6DPQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-**Note:** You can also select **Create new template** to create a new template from the interview interface. Enter a template name and choose a role. After you create the template, add the question to it using the same **(+)** icon workflow.
+:::note
+You can also select **Create new template** to create a new template from the interview interface. Enter a template name and choose a role. After you create the template, add the question to it using the same **(+)** icon workflow.
+:::
 
 ### Renaming a template
 

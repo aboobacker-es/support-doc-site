@@ -33,7 +33,9 @@ Prompt engineering is a valuable skill to assess in today's AI-driven world. The
 
      * Alternatively, click on the three dots icon and select **Add to Test**.
 
-**Tip** : You can add or combine multiple questions with other types, such as coding or multiple-choice questions.
+:::tip
+You can add or combine multiple questions with other types, such as coding or multiple-choice questions.
+:::
 
 **Step 3: Reviewing Candidate Results**
 

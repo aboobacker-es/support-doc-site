@@ -41,7 +41,9 @@ To lock user access:
 The platform transfers resources and locks the selected users. The account remains available for reuse.  
 Locked users cannot log in and see an error message if they attempt to access the platform. 
 
-**Note:** If a user belongs to only one team, [removing the user](<https://support.hackerrank.com/articles/2203617737-manage-team-members#removing-a-team-member>) from that team or [deleting the team](<https://support.hackerrank.com/articles/2181136239-deleting-a-team>) locks the user. 
+:::note
+If a user belongs to only one team, [removing the user](<https://support.hackerrank.com/articles/2203617737-manage-team-members#removing-a-team-member>) from that team or [deleting the team](<https://support.hackerrank.com/articles/2181136239-deleting-a-team>) locks the user.
+:::
 
 ## Unlocking user access
 

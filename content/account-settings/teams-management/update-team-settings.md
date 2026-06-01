@@ -36,8 +36,8 @@ To update team settings:
 
 The system automatically saves all changes.
 
-**Note:**  
+:::note
+* To manage team members, see [📄 Manage team members](</articles/5960489939>).
 
-  * To manage team members, see [📄 Manage team members](</articles/5960489939>).
-
-  * To update the team role allocation limit, see [📄 Update Team Role Allocation Limit](</articles/5385128303>).
+* To update the team role allocation limit, see [📄 Update Team Role Allocation Limit](</articles/5385128303>).
+:::

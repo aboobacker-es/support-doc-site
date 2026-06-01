@@ -38,4 +38,6 @@ Each timeline entry includes:
 
 You can also take actions such as reinviting candidates or add time to test directly from the timeline. Available actions depend on the activity type and candidate status.
 
-**Note:** Timeline entries update automatically as new activity occurs.
+:::note
+Timeline entries update automatically as new activity occurs.
+:::

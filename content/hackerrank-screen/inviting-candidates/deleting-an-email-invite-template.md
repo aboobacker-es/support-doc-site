@@ -9,7 +9,9 @@ is_published: true
 
 Once created, you can delete an existing Email Invite Template if you no longer require it. This article will walk you through the steps to delete the existing Email Invite Template. 
 
-**Note** : You can only delete your Templates. A Shared Template can only be deleted by the HackerRank Recruiter who has created the Template. 
+:::note
+You can only delete your Templates. A Shared Template can only be deleted by the HackerRank Recruiter who has created the Template.
+:::
 
 ## Steps to Delete an Email Invite Template
 

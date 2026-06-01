@@ -11,15 +11,15 @@ HackerRank for Work enables you to clone existing questions. When you clone a qu
 
 Cloning is useful when you want to create modified versions of a question for different contexts.
 
-**Note** :  
-
+:::note
 You can access questions from two sources in the Library dropdown:
 
-  * **My company** : Contains all questions created by you and other users in your company.
+* **My company** : Contains all questions created by you and other users in your company.
 
-  * **HackerRank:** Contains the HackerRank repository of assessment questions.
+* **HackerRank:** Contains the HackerRank repository of assessment questions.
 
 You can clone questions from both sources.
+:::
 
 ## Cloning a question
 

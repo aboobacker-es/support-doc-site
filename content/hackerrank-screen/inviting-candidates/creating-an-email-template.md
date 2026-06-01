@@ -113,7 +113,9 @@ The label **In use** appears next to the template currently applied to the invit
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1758792903829-image.png?Expires=253370764800&Signature=h8U2Fa6wO-W14yAE7hoQIMlve40Ae657sO5u7NJJIZiuDuIAqnEKA6w95tDRwEBgf-w-aK8FtndoFB3Oukf429-06RmQrXGkYzjrwxtOSdn1t-DzVaJb6fkm1heEUHagMQX~hAFkUTrPtBngGmWtmdHso2FApkRL-mMb9TmHwwe2Zt1sMf8hYwYTrW0Pqd3v-YmmV-BvzgLbBpoZMxkY~OkStNjEzBSrWtzWqlDBPP9fWBoWCpt-mMKGiUMZR97y6ghdEcs-AQNp4rsqK6EeYnL0dXWcOK6tjudqGfuczcqXA9tQdL-6NuWnngvpxjmaAdesFAGuD6nfsqQd5wTTwA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-**Note:** To configure an invite email at the test level, see [📄 Configure Email Settings for Tests](</articles/2564162886>).
+:::note
+To configure an invite email at the test level, see [📄 Configure Email Settings for Tests](</articles/2564162886>).
+:::
 
 ## Using a shared email template
 
@@ -136,7 +138,9 @@ To use a shared email template:
 
 You can set one of your templates as the default for all email invites. When you set a default template, the email editor on the **Send Test Invites** page automatically loads it when you click **Invite** for a test
 
-**Note:** You can only set the templates you created as default templates.
+:::note
+You can only set the templates you created as default templates.
+:::
 
 To set a default template:
 
@@ -156,7 +160,9 @@ To set a default template:
 
 You can delete an email template if it is no longer in use.
 
-**Note:** You can only delete templates you created.
+:::note
+You can only delete templates you created.
+:::
 
 To delete a custom email template:
 

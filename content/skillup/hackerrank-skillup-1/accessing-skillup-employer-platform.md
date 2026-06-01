@@ -85,7 +85,9 @@ Click on the employee's name to view their progress. The slider highlights all t
 
 ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046427005-?Expires=253370764800&Signature=T0QimWWoxBkDXi6yASlUJdh9OVAWfzh5K9qg7wYkTXHOaYe5daPN2PaErQ-xpDmF-qlXBFMqpIiZaVHX7R0jDSZF237wQjjCinlKdWQqSfkLp14bJzcMqnpQdaROXk5w13l1bQTVSi4RsJzUPg03rzjk1A0Wn3EjlyYID~5pfLT54i82SaU5~fIuVCpIZe~s-UUo6FxiinlqZykC9IBZmcb6fXFUKbaD~xjqadCzEgrh6sfqfX1oa4mTX0aQjsPSTiEL9V7Sw9nec4X7REI5TallOb-6holsTfDpG~gtQZk0f1R4mIkIGunRbbWr1lR-btGmdLMnA30odM87DVfvCg__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-**Note:** You cannot send reminders or set a due date for the self-assigned certifications.  
+:::note
+You cannot send reminders or set a due date for the self-assigned certifications.
+:::
 
 ## User Management
 

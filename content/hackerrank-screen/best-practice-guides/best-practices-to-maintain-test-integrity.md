@@ -49,7 +49,9 @@ Enabling [Image Proctoring](<https://support.hackerrank.com/articles/7825915809-
 
   * Long absences from the screen, indicating the candidate has left the room.
 
-**Note:** If continuous image capturing is not required, you can use the [**Photo Identification**](<https://support.hackerrank.com/articles/7825915809-impersonation-detection#photo-identification-3>) feature to capture a photo of the candidate before the test begins.
+:::note
+If continuous image capturing is not required, you can use the [**Photo Identification**](<https://support.hackerrank.com/articles/7825915809-impersonation-detection#photo-identification-3>) feature to capture a photo of the candidate before the test begins.
+:::
 
 ### Image Analysis with AI
 
@@ -111,7 +113,9 @@ Over the past year, AI tools like ChatGPT have evolved rapidly with frequent upg
 
 Since the launch of our latest model, we have detected more instances of code plagiarism, as candidates are using AI tools more frequently in tests. The new model is well-equipped to capture these latest forms of code plagiarism using several [indicators](<https://support.hackerrank.com/hc/en-us/articles/16146609166483-AI-Plagiarism-Detection#viewing-flagged-plagiarism-attempts>), including references to AI tools.
 
-**Note:** The [Standard Plagiarism Model - MOSS,](<https://support.hackerrank.com/hc/en-us/articles/115005603547-Plagiarism-Detection-Using-MOSS-Measure-of-Software-Similarity>) is available by default in your account if your organization cannot enable the AI plagiarism feature for hiring. Since this model has certain [limitations](<https://support.hackerrank.com/hc/en-us/articles/115005603547-Plagiarism-Detection-Using-MOSS-Measure-of-Software-Similarity#plagiarism-indicators-in-reports>), we recommend manually reviewing code playback for any flagged attempts.
+:::note
+The [Standard Plagiarism Model - MOSS,](<https://support.hackerrank.com/hc/en-us/articles/115005603547-Plagiarism-Detection-Using-MOSS-Measure-of-Software-Similarity>) is available by default in your account if your organization cannot enable the AI plagiarism feature for hiring. Since this model has certain [limitations](<https://support.hackerrank.com/hc/en-us/articles/115005603547-Plagiarism-Detection-Using-MOSS-Measure-of-Software-Similarity#plagiarism-indicators-in-reports>), we recommend manually reviewing code playback for any flagged attempts.
+:::
 
 ## Considerations
 

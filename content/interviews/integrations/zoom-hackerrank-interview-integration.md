@@ -25,7 +25,9 @@ This article will walk you through the workflow of Interviews inside Zoom.
 
 ![image4.jpg](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046368069-?Expires=253370764800&Signature=QzRifNp39Q5pZ8gWvDt5ZCtXZJA0WLzq3D7K8dNTqKj6YmhO7Cn37vQQ0D-38SVXhzCdNEtoJ6NHffWH-3czY~-5bPPksWVk6xhv~R1sktcbB2UnFt8H~rgiBXSKwoYGseENtR38D93S~ufCXR4hQyKSyk5RNvHUpf18A2x-qn-l3HH5RwRNvFEUDASHEDgL-F1IBtwQx~LyhEsItc-fJBIrymCooVZc9eEYjrKlqoV2sQTpId9BntRT-mam3M1OigUf2R2F634E4R3Wf3ifWahab4VAjsvRBI8Z4rz5TSqZOqfhUDyfFOff5yOscXF1nXdB2o3h6pgb98aCFHRA3A__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-**Note:** If you are yet to download the app you can do so from the **Discover** section inside the Apps window. 
+:::note
+If you are yet to download the app you can do so from the **Discover** section inside the Apps window.
+:::
 
   * HackerRank Interviews will be launched inside Zoom as a separate application.
 
@@ -42,13 +44,17 @@ This article will walk you through the workflow of Interviews inside Zoom.
 
 ![image3.jpg](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046369717-?Expires=253370764800&Signature=RWgixs~P6MOSGGCeATq9pWSdoFF9j0nN3YXTChoyTUGfGX-OKWM4Lq1ePFKtIvVJNAe~Oe8gSU4gYPmiGgXlAaS46-ulrrPkdrWoTjua7QvZ5400eDmwFaeWPrRs2i5sIBkjbd0Ve-xPStgJBBFB1siWjh~1pgeGulu8zSJXS~GV37aafP7p~ghRNHcZ0PV3uttUStqGkGrfEBEeZOZsCS-VbtyAVUBwurG2KlGCgSNAVdcwyB~l4u15SftMO30-nVGnmD393vnmmHX4YWZzcB2SYaCbD3v92DFq1P4WAOSNA21FeqavoTH8CpknF~3tjGoI75XeNi0ozbNrzfvqNg__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-**Note:** You can only use the free version of HackerRank Interviews, as it is not possible to log in with your HackerRank account inside the Zoom application as of now. Also, currently, we only support 1:1 interviews, and no more than two participants can use the interview application at a time. 
+:::note
+You can only use the free version of HackerRank Interviews, as it is not possible to log in with your HackerRank account inside the Zoom application as of now. Also, currently, we only support 1:1 interviews, and no more than two participants can use the interview application at a time.
+:::
 
 ### Mask Information on Zoom Recordings
 
 HackerRank ensures data confidentiality by encrypting and securely masking PII (Personally Identifiable Information) transmitted to Zoom. You can opt to have Interviewer and Candidate names masked in the Zoom video recordings. The candidate’s name is displayed as “Candidate” and Interviewer name is displayed as ‘Interviewer.’ 
 
-**Note:** Interview recording is an opt-in feature. You can reach out to your account manager or HackerRank support (support@hackerrank.com) to enable it. 
+:::note
+Interview recording is an opt-in feature. You can reach out to your account manager or HackerRank support (support@hackerrank.com) to enable it.
+:::
 
 For more information on how to use HackerRank Interviews or to sign up for a HackerRank account, [visit here](<https://www.hackerrank.com/products/developer-skills-platform/interview/>)
 

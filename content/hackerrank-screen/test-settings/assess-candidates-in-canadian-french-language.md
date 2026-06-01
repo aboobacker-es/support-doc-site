@@ -63,8 +63,8 @@ For more information about inviting candidates to a test, see [📄 Invite Candi
 
 ![fr-CACandidateEXp.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1756829444840-fr-CACandidateEXp.gif?Expires=253370764800&Signature=L63ra59lfX6XeA8qpIplE8y-MjzRoqZD30TuJ28bCmO8XuTZxqPO~mi2eYsGw6TawShLNpigSTu3dYkr2RmITM3xwa908nnwXPW8~h9Ovbyhxtcn95iXi~4zBjhBtbr~Y~NglPxCgWBiSIMlnOkO6iic2EA9jRSYM3TpaTe3orBdvOazPW3unwsNXfyWJs5CsSTJ~6Q6QM596qSBxaZ6hxNP~nZxS7nA8UjnUjbmimUTfIbnjXElLabsS8m1ML8Rg5XY1jnILIbFUxE3ZaP5fEkWc3sBV0~q5DUATcO-Faj6GjMT4DzA~9LLuQIgLLWqY9Zy2mFFSfJpTLOgP1Uv7w__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-**Note:  **
+:::note
+* Once a test is published in a specific candidate-facing language and candidates are invited, it is recommended not to change the language for that test. 
 
-  * Once a test is published in a specific candidate-facing language and candidates are invited, it is recommended not to change the language for that test. 
-
-  * The system translates only the default text. It does not translate custom text, even if you change the language.
+* The system translates only the default text. It does not translate custom text, even if you change the language.
+:::

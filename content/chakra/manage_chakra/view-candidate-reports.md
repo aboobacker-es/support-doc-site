@@ -11,7 +11,9 @@ The candidate report summarizes a completed AI interview. It organizes evidence 
 
 You can use the report to review recommendations, interview responses, integrity signals, and section-level feedback in one place.
 
-**Note:** You can view AI Interview reports only for candidates who complete the interview.
+:::note
+You can view AI Interview reports only for candidates who complete the interview.
+:::
 
 ## Viewing candidate report
 
@@ -28,11 +30,11 @@ To access candidate reports:
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776687502029-image.png?Expires=253370764800&Signature=gf~xZuc8Erqk2PonxSJCavDmmZxCqvXSpvYibP0l0zJWwwiIn~Z4obXuRseUC6fKt0EkMHYPi11QOvxEEbb4KB3zKmNzn4~g0icoAmL8v2MQwfanG1MkKVh2fhUmGJoHOjVpjY1KnopRnAwLic2njbWFItT~nE9d0U55BRg-v79vLWQnDCSlM-Iq19x88GuH0EFkx9Wur~sYgV1XN2FDrW9z8XSOg3mvXzD6sUTun9AMmZY5OJ69TT4wuhQYQVJfIHGvjR~lR8e1FQIxb1LxsDkgRd2Up3wgG6NhXcNYI-x7sjhQRTY~IbVtyDvc4v8F1IAOtbLI1vsanahlLkGdoQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-**Note:**
+:::note
+* Use the search bar to find a specific candidate.
 
-     * Use the search bar to find a specific candidate.
-
-     * Use the following filters to refine results:
+* Use the following filters to refine results:
+:::
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776687425173-image.png?Expires=253370764800&Signature=jIHGsrUAtoAt-wRm1CuufySx-8BpbwEUQ93W4MSLlxYY7KVIx0eWlIHhmllEdUyfYI1A8mKj9UxJjma44ysIV9gfSwMzDPJ7M7A7snmEXLkNWPICieohalxWwYFG~sz52xp0EYQe39Aqk7X5qWMg3kexi-5zxeB8MikfPgodDFzkvOig8gHAyomR9UQ4e8A-bg78o3OIdrzaFfOHkv7QhPml4qt-jgwYaXWuU8WOJbpKSjg--q1pJ8vkUKLvLszfosvYFmXkm9MXvGFrB7aQdl5QmnmkguUqvw93tBQqNZxlTzaPiPu3IeHRHWrtV6oYBWNv-PfPSerEo5vObQk3Fg__&Key-Pair-Id=K3NV4LZ47N8M46)
        * **Status** : Filter by Invited, In Progress, Completed

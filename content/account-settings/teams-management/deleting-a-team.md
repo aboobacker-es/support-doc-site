@@ -32,7 +32,9 @@ To delete a team:
 
 ![delete1.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1771856386803-delete1.png?Expires=253370764800&Signature=XnPVFz506GbfYI5Ur--gXTLO8zAIlynUd0aKbn2DWG9wcBn8wDIxha1e5zn9Mtl0TzKtMmVeijL8z3GYikYru-db62iaYLcCFKNvoTCl4slHrq6dce9DC4Z8VFRGYxzUhSSSrPL-kHsmmjBu8d3m01DyU6bOzCC6bQJvZIz6KL0LSx7lkMMxaOAdMS9h~0pBzDaE8eNaP4nFd3hklnuTTc4ijw2tyTvTwV6kujJKtvLEimrwELQgz5XeGeW15tGDxcX2bQonCNYFMCzwo4Z5R3Rcb5Pr7Y27KUgFrpyMLPGLcj1BdEMyTeqSbRd4ydREA-CCrXNSlj9aXGdR5y9ebA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-**Note:** Remove all users before deleting the team. For more information, see [Removing a team member](<https://support.hackerrank.com/articles/2203617737-manage-team-members#removing-a-team-member>).
+:::note
+Remove all users before deleting the team. For more information, see [Removing a team member](<https://support.hackerrank.com/articles/2203617737-manage-team-members#removing-a-team-member>).
+:::
 
   7. In the confirmation dialog, click **Delete Team**. A success message appears.
 

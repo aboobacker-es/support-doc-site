@@ -29,6 +29,8 @@ To export the interview list:
 
 The platform downloads the interview list as a `.csv` file, and a success message appears.
 
-**Note:** If the download does not start automatically, click **Click here** in the **Download Interviews List** dialog box to download the file.
+:::note
+If the download does not start automatically, click **Click here** in the **Download Interviews List** dialog box to download the file.
+:::
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776767622126-image.png?Expires=253370764800&Signature=vgTSZxu6xGegVxzTbUDXFRoY1tegrArYBZ992gZCQt5j-iS3rJ-2Hmr683~kdmhSLJUQk-EB0y0P0UOHVJ4AhggpCj0hWhc0255O0K8V~VYVhwwsk91Fe86aWE05egb14~-AFRbEmutfE0hOtV2rFDPAX-0EaWCyZaZdKFb1mp5BHvLaYBwvVrEQQiL2HSWocyQythuic0Ve7OOCWrwcJwt~1LrhS0yIRRJXbFyu8vkZ7AqMANkuAbVquuRftOgld50MhwH1QhvyR1ec08ZaspcA1oZWBGoiudkkgDSCq9jApFjYCQ4gSPIC3KsAbD9PhS38iwcO~~Sg74PWhNADjw__&Key-Pair-Id=K3NV4LZ47N8M46)

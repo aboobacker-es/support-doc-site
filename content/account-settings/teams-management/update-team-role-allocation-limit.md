@@ -45,8 +45,8 @@ For more information about roles, see****[📄 Types of User Roles](</articles/9
 
 The system automatically saves all changes.
 
-**Note:**  
+:::note
+* To manage team members, see [📄 Manage team members](</articles/2203617737>).
 
-  * To manage team members, see [📄 Manage team members](</articles/2203617737>).
-
-  * To update the team settings, see [📄 Update Team Settings](</articles/3481284381>).
+* To update the team settings, see [📄 Update Team Settings](</articles/3481284381>).
+:::

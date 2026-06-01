@@ -41,14 +41,14 @@ To modify the test expiration time:
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1773156635229-image.png?Expires=253370764800&Signature=qughMGbWRRZ4x1QoGdgrNMBk9fMopeU44RfAbrVAbqU~8IOkMmWzNLdMaJe32RbRNK7pNb7AI2NKhlqcT7pEqB0upeQAXuYoKlOhR38F8PNtyO5UEahQBzXVIrdErTc682eQoQvrbF4cTni0Nz0LBExcPdl5fSfMzKMBOoRvv24actwLgD7OPWjxCgfuHD4B45UmKUhvZ8BVhnkIDeigD19VNWGxLjHHDD~OsgaRTcCpNmlOYvWBuUdzNY26HxG3iY~pOJ2szQKCLVFwaTsAnKJ-VKu7kd4jxVu89IuyznvHYykWWu3anl2D-fRY0LN8ygnqqINyQaecleDPl66NvQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-**Note:**  
+:::note
+* By default, the **Test Expiration Time** fields are empty.
 
-     * By default, the **Test Expiration Time** fields are empty.
-
-     * To restore the default state, click the clear icon (**X**) to remove the **Start date & time** and **End date & time** values.
+* To restore the default state, click the clear icon (**X**) to remove the **Start date & time** and **End date & time** values.
+:::
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1773156879829-image.png?Expires=253370764800&Signature=VDlLoX1VpNCR4-3wb9XlRQVo~gJpNRAGmIvuh1T3Ksje4FgGHVYb8q~Kvbz3udNO1rU21O7JWQcutJyzrzaQZdP4bJBkzFIh8IYZsG2tEhnQVhT7mWDYLgSSnpijBct6QT77RSX85EPkw9YuzCVkQ~B-rcrua0iSUO~tLrdqcjybLXbTbWikWBC2TMDmnKP7Tc1VDtejA1WYsTHWNae8Ef7iNdOpVk8LTcfKQVaxN35VkZJEFL0-oaoF~8PgYkcW91UaCYLRX56y7tl1Q6ArkqtLnmRtxRD-cE7Up3cwBHK6OywhaAjPxMRc7ogzkRiEaR-y6ij5Ksk2qUY2-jycJw__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-**Note** : 
-
+:::note
 If a candidate needs to retake a test, you can reinvite them at any time. You do not need to delete the previous invite or attempt. For more information, see [📄 Reinvite Candidates to a Test](</articles/1002936098>).
+:::

@@ -23,4 +23,6 @@ HackerRank for Work allows Recruiters to perform a trial run of their Tests befo
 
   * You can share the test with other recruiters on your team and have them validate the test questions. For more information, refer to the [Sharing a Test for Benchmarking](<https://support.hackerrank.com/hc/en-us/articles/115006004787-Sharing-a-test-for-benchmarking>) topic.
 
-**Note** : During your test trials, sometimes, when you try to log in to a test multiple times, the browser-level cache may prevent you from retrying the test. You should access the Test in a new browser window to overcome this issue.
+:::note
+During your test trials, sometimes, when you try to log in to a test multiple times, the browser-level cache may prevent you from retrying the test. You should access the Test in a new browser window to overcome this issue.
+:::

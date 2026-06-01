@@ -38,7 +38,9 @@ In case you are the owner of the question you would be able to open the question
 
 ![image3.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046682458-?Expires=253370764800&Signature=fUz~G7DPBxEQ9SecTXl1j1mfEKcW0~ZawIpqW-VOV8iX4kCA5UiZNVW7p6sebiFvS72bu6FPpqpkKUARss3kFHRQ-3DPXout4YFn6AHmU2MJZ7IsP~zl7PUulpz5YGa0ULueKs~JCB~OFHENECPQWEP8QUNbNL8d53VpuAoViDlpxIIi66VPo5dnda3etF6NdwGMamw-mn2CDdeckW5S61v4C83Yf7C28Y72kYwJU~Yp9R4nWecZVmVDMTGQkZV5RQpux~vX7eV5ii-WokiZ3OubOfCAnaux3sTvDEa4h6kr9tXL4bb1VQVW5E1CiABkwrKJv8yevp8bntCanKNy~Q__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-**Note** : By default, the axe will scan the whole page so you can ignore the other issues outside the problem description.
+:::note
+By default, the axe will scan the whole page so you can ignore the other issues outside the problem description.
+:::
 
   * Axe will report all the violations along with the suggested fix. Once the violations are fixed, rerun the scan and the question is accessible now.
 
@@ -80,4 +82,6 @@ A descriptive alt text will be needed in the below scenarios
 
   2. Images contain text
 
-**Note** : It is recommended to use images (if used) solely for decorative purposes in the problem description so that it is easily perceivable by all.
+:::note
+It is recommended to use images (if used) solely for decorative purposes in the problem description so that it is easily perceivable by all.
+:::

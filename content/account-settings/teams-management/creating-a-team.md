@@ -41,7 +41,9 @@ To create a team:
 
      * (Optional)**Add users** : Type or select the users from the drop-down menu.
 
-**Note:** The **Add users** drop-down list displays only existing users. To add a new user, see [📄 Invite a New User](</articles/9482219268>).
+:::note
+The **Add users** drop-down list displays only existing users. To add a new user, see [📄 Invite a New User](</articles/9482219268>).
+:::
 
   7. Click **Add**. 
 
@@ -49,4 +51,6 @@ HackerRank creates the team and displays it under **Team Management** > **Teams*
 
 Each team can have one or more **Team Admins**. For more information, see [📄 Grant Team Admin Access](</articles/9611303302>).
 
-**Note:** To update team details, see [📄 Updating a Team](</articles/6568033805>).
+:::note
+To update team details, see [📄 Updating a Team](</articles/6568033805>).
+:::

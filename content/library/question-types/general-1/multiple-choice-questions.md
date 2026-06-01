@@ -50,11 +50,11 @@ By default, the system provides four options. You can update the choices in the 
 
         * Select the **delete** icon to remove an option. A minimum of two answer options is required.
 
-**Note:**  
+:::note
+* Click **Bulk Upload** to upload questions in bulk. For more information, see [Bulk uploading Multiple Choice questions](<https://support.hackerrank.com/articles/2513748038-multiple-choice-questions#bulk-uploading-multiple-choice-questions>).
 
-  * Click **Bulk Upload** to upload questions in bulk. For more information, see [Bulk uploading Multiple Choice questions](<https://support.hackerrank.com/articles/2513748038-multiple-choice-questions#bulk-uploading-multiple-choice-questions>).
-
-  * Click **See candidate preview** to view how the question appears to candidates.
+* Click **See candidate preview** to view how the question appears to candidates.
+:::
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1771491261025-image.png?Expires=253370764800&Signature=Bkn9OaDOHcXfJE~GzRrtwkIVq13QxBOHWNEANDZZW0J~eQFd0TNUhjCsiBNjNkqTTO3~ndXPt29nIGmL9KMt4PQbHPCTO3WrWnkIwcERw8xXUkPWLIu7ux~8ztRTne2x7MiVQ1j-xuwWNl9BXWOcTYJU1Vo7Kte31PpUWC-yz1N91NadLkldVYF7XZAhr7jSE88K8fhT3dru4V8KvvBQ2k2qn-tgtyu4DyP5KzN2Bpx84~Av5A1UbQvgnsc00dQvNvrOoDwz61WHrK2~BCntklTIHIc3JscsNsMqL47TRzXq1iDPT~WIVvb4O3CkVx78UJX6TZcppvF7V5ngT5MaqQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
@@ -72,7 +72,9 @@ By default, the system provides four options. You can update the choices in the 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1771491456863-image.png?Expires=253370764800&Signature=urkbPswFnfLCfyJ55QzVIED4ILUGETfctEIWKZf4y1cv2-sDNW7td~2unlgkhdW7d6xjfFv2HOUeqlZKohNCPe70Gj0lVannWVpL~6YkD~y9O0MOv2La8GaVev5heNrApAXCrp8RyCW8CmHiU1rvGIee3qVofYXzjf5UxfIXKRm~Qf-TFe5kNWNr3HE1WluwozdHTvAIgVTXhobdKL9TKYjduXfVsga5gdhjklq2dg0FoziX-ODWE3AjCIS6347ZLDn3Ee~9oPJ09ER9KwpKCyHXS942AB8WrGaYOaHfeD9Ox-sW0dTtH1MgK7geVNjyozBVZS8LVuRuwcUjZwDd0Q__&Key-Pair-Id=K3NV4LZ47N8M46)
   8. Click **Save question**.
 
-**Note:** Click **Save & Create Another** to create another question. 
+:::note
+Click **Save & Create Another** to create another question.
+:::
 
 The question appears under **My Company** questions in the HackerRank Library.
 
@@ -89,27 +91,29 @@ To bulk upload multiple choice questions:
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1771491528954-image.png?Expires=253370764800&Signature=QTVBtjz4pthXTdP~z1naqzbF-UtQxQ7AaULsjZ~qY~tfUQDh4vGWiG~YPXZH~Ug-5akkBSJ1aGsNdRnWhzzi4uAgwITodwzQKXr2gOkG1hiErDWx7A8xsq1fShfmQ6q6fdXHj0W~iP6boHo~zXebTttb3RIaWYD5D5OqE~iBYXGKefYSevRzc0lUTVP4XPVgp4gxrgHMVaCdGrvuQQaYNa6bcsMa9~jtCwnFqx~OlqKZShVdgszLzFf2z~EebfnLBkOc2SmfOUVZg38rQzNT9-mFBXpl-IquQ3sUyBtiyVsbezWBj1mR2hfnlqz5-A1C~faJL6pxl8TLfRi-T97E6g__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-**Note** : You can click**Undo Upload** to undo the upload.
+:::note
+You can click**Undo Upload** to undo the upload.
+:::
 
   3. Upload an **XLSX** or **CSV** file.
 
+:::note
+* Ensure the file includes the question, corresponding answer choices, and assigned score for each entry. For more information, see [File upload column specifications](<https://support.hackerrank.com/articles/2513748038-multiple-choice-questions#file-upload-column-specifications>).
+
+* You can download the sample **XLSX** or **CSV** file from the **Bulk Upload** dialog box, if needed.
+
+4. (Optional) Review and edit the uploaded questions
+
+5. Click **Save All Questions**. 
+
 **Note:  **
 
-     * Ensure the file includes the question, corresponding answer choices, and assigned score for each entry. For more information, see [File upload column specifications](<https://support.hackerrank.com/articles/2513748038-multiple-choice-questions#file-upload-column-specifications>).
+* The XLSX format allows you to add images to the MCQ questions.  
 
-     * You can download the sample **XLSX** or **CSV** file from the **Bulk Upload** dialog box, if needed.
+* The maximum file size allowed is 512KB.
 
-  4. (Optional) Review and edit the uploaded questions
-
-  5. Click **Save All Questions**. 
-
-**Note:  **
-
-  * The XLSX format allows you to add images to the MCQ questions.  
-
-  * The maximum file size allowed is 512KB.
-
-  * The system processes only the first 100 rows in the file.
+* The system processes only the first 100 rows in the file.
+:::
 
 #### File upload column specifications
 

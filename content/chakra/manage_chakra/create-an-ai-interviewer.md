@@ -78,9 +78,9 @@ Chakra creates the AI interview and displays it under the **My Interviewers** ta
 
 To invite candidates to the Interview, see [📄 Invite Candidates to an AI Interview](</articles/5542727476>).
 
-**Note:  **
-
-  * Click **Try Interviewer** to experience the interview flow as a candidate.
+:::note
+* Click **Try Interviewer** to experience the interview flow as a candidate.
+:::
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1770795039601-image.png?Expires=253370764800&Signature=oxFfNX50bkYPfrNpZOb0XIelBM8cdblcaMDS4Hqi8XMsfex-18CIftLkHDK1Q5nff7fxFTol90awNDdLX1~shLw4x8J0ijVi8TEuNPOfG8EMfPVlX-xg8uxr3yHqiDkqjWSAv-PRzcUysi8ZHiQwPRSXTEbDEAg0mT2cc9IBbIs3Z6niC3a4y9syxYFHY8hmCELpYW3ryhm71AqAFMpg4fQxfFWxJpdX5Kri93cwC5GS~vO2cByWX~29oXuEsAR4-7uO17-dJSTflNvlDukn2r72LFVNbADiaRpcefgfadUkQZR7n7-0wo0JVQ0NI4kjcHPVEbsFvU1N8Ovxn-taRg__&Key-Pair-Id=K3NV4LZ47N8M46)
   * To rename the interview, click the interview name and enter a new name.

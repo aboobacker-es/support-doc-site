@@ -44,13 +44,13 @@ The custom certification creation workflow opens with the following three steps.
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776693200334-image.png?Expires=253370764800&Signature=ntvc1E~0gKRvC6v0LhWsb2EpitQyQOZOS-CluVhtCXDqWiDJU-larN3NpS69m7U7JpweOSQ4caK3cP3EhKKqI~xKFeJUqGa7tRk-YrHfZS0fYHB9oaAmqbWtK-1h2KDetbycaqZHwI59-ssItyKT6BIWWaSc7ezQp~IwkeY-mJE2Nmzymcuq0GzKEcZWWmIK9NKRFcxFLKl9cmnh2C9R8gKBdeGq9Bq7k4v3q8yL3g9hpxT5O3e93r-lAOtu3fYV2Mq2xD697GPrJF001OCYU8oFlgDY19NzxqXhXCdOhKdNhp5bQYwXUl2kQGNBxVCnhl9ajrpEXmi3ksee87wX2g__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-**Note** : 
+:::note
+* You can link only one test to a certification.
 
-  * You can link only one test to a certification.
+* You cannot change the linked test after you create the custom certification.
 
-  * You cannot change the linked test after you create the custom certification.
-
-  2. Enter the minimum score required to pass the certification in the **Overall cutoff percentage** field.
+2. Enter the minimum score required to pass the certification in the **Overall cutoff percentage** field.
+:::
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776693219377-image.png?Expires=253370764800&Signature=sDd2A0l17LqAHjx5a73svWvD1gsvRXCpACKhyCSibT4OS48dmYAonZTmtqVMa4D1SsTVPiG~05kib0his0dizWXwr-ztasCV3JgughrEhJUvN-kdPyqJwu5HxRnl-hAw94~wkTy1m9LxOp~KCxTeNmIyUpNbDQJ6J-ACucIgCnWYUlPtlwUgyEmdEslwLOdnPylhulHx9c1le5llTZtL1kzqoGLvHuM4yrCnH8xnM1WJhrGL0LRDGNDg9-oNFk2UzMQ6RogsuWTUFAkpXtWCOhqDwHZUCaapyE1rUhAfpLKwhHYgA~NMKPxNgDJRnZM0k-jB9mJjukg~wg8QFhjTAw__&Key-Pair-Id=K3NV4LZ47N8M46)
   3. Click **Continue**.

@@ -25,7 +25,9 @@ You can support your problem statement by attaching a relevant file while creati
 
 ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046407484-?Expires=253370764800&Signature=B2-1S5WeT6y1fr4UznWyaueHaezL8Ro2nWApq7QU~IMopXH3OUGEPhCyE1VSkeBeupfyWTcg6ZeFVOsOhMqanzt~cEFcU-xc4SLOTPP00COVmdiF1J31NBt8Sm~xaKhLa~qsZ4dyyymbwxkGIGxZBNc2EZW~A1Hd37L9qXV-M2QjDJWOpjPj3-l3RuCcyc8ZKAgUA3ct9pEW90WMRL9Vhx~2K2MI~hlOa2BGCK96qmpAQcnlV8yNotfRGtQ5fg9pKQlIM~J9itXdBfhmIdtzu51A7ot34lFjLUlxBZfkjYQzcL6jSaV7Xo~blMMZWQozGg7-k0OGLMj1tZfELbDcJA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-**Note:** Supported file extensions are .jpg, .jpeg, .png, .gif, .svg, .webp, .heic, .heif, .bmp, .pdf, .doc, .docx, .xls, .xlsx, .ppt, .pptx, .odt, .ods, .odp, .txt, .csv, .md, .rtf, .tsv, .json, .XML, .zip.
+:::note
+Supported file extensions are .jpg, .jpeg, .png, .gif, .svg, .webp, .heic, .heif, .bmp, .pdf, .doc, .docx, .xls, .xlsx, .ppt, .pptx, .odt, .ods, .odp, .txt, .csv, .md, .rtf, .tsv, .json, .XML, .zip.
+:::
 
 ### Candidates' Access to Files
 
@@ -41,4 +43,6 @@ This approach ensures candidates and interviewers access supporting materials, e
 
 ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046408595-?Expires=253370764800&Signature=mQgkFrWy3icL4Vwzmx53aY4ol3-HQ3ITjdScl8T4Kg~yfvpPBwdkoy6n4aDFoZvNt59x1jxxvEoLWfn2uSLtcsHpDF9Zt~5alhv6st8euNdMV31YnbNAIMORpQt6lK4FTIXuT7lf1nN022~vWUKZiPElZo2APP2vFCcMXtpbwT1J2Jc2rvD~z6eYU6WL-UlCCM2bZ8vApcH2yl1dpEuA-GLdkKw3e2sppqWdfl6bn4dGZ4Ob9MqsLmLxmPqmhwAB5quNfjkzEEhAJ5U3z4sMyiL3EsbW7SyuUe9Y9N22UYbmPJwjUEhbAqFecqp94tYxyA~7qzx2k5R1XJa-vgbEhg__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-**Note** : To change the link or upload a new file, select the existing linked text, click the **Link** icon, and upload the new file.
+:::note
+To change the link or upload a new file, select the existing linked text, click the **Link** icon, and upload the new file.
+:::

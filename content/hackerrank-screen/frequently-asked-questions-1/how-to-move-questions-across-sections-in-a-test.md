@@ -39,4 +39,6 @@ _Question moved to another section_
 
 _Moving Questions from the unassigned category_
 
-**Note** : It is recommended that you use the **Move** option and avoid the 'drag-and-drop method to move Questions from one section to another.
+:::note
+It is recommended that you use the **Move** option and avoid the 'drag-and-drop method to move Questions from one section to another.
+:::

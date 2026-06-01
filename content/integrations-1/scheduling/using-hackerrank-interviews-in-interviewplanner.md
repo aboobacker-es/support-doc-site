@@ -95,7 +95,9 @@ The preview also contains the HackerRank interview link.
 
   3. The Candidate can log in to the interview by entering the name.
 
-**Note** : It is recommended to use the latest version of Google Chrome or Firefox browsers for the best experience with HackerRank interviews.
+:::note
+It is recommended to use the latest version of Google Chrome or Firefox browsers for the best experience with HackerRank interviews.
+:::
 
 Recommended Articles
 

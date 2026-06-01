@@ -9,7 +9,9 @@ is_published: true
 
 The **Centralized Test Settings** page enables Company Admins to configure default test settings for the entire organization. By standardizing test rules and experiences upfront, you can save time and ensure consistency across all tests.
 
-**Tip** : For more details, refer to [**Test Settings and Configuration**](<https://hackerrank-knowledge-base.help.usepylon.com/articles/6629491991-test-settings-and-configuration>).
+:::tip
+For more details, refer to [**Test Settings and Configuration**](<https://hackerrank-knowledge-base.help.usepylon.com/articles/6629491991-test-settings-and-configuration>).
+:::
 
 ### Prerequisites
 
@@ -39,11 +41,11 @@ As a Company Admin, you can manage test settings in two ways:
 
   * Other users cannot modify locked settings, which will apply to every test in your organization.
 
-**Note** : 
-
+:::note
 **1\. Unlocked defaults** apply only to new tests and do not retroactively affect existing ones.
 
 **2\. Locked defaults** override all test settings, ensuring organization-wide consistency.
+:::
 
 ### Configuring Test Settings
 
@@ -59,7 +61,9 @@ Manage the default settings for email communication with candidates during the s
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1735196490692-image.png?Expires=253370764800&Signature=h-z-UaiAmd04dNElFu6AijBsQx-Q7xQipLa2C0f48R~TeoUqAaIqAezgaMBek8MufyRnJLENZ3P7NZUQnKOvvDu9YJ51OvZy9PjSKsY04dZiAYJC9h8wApuv-bOHmNjxtx1ZJ7k3~aGbnBArbUkGjxCdxoAJ64Xf~BWxq1O2waUWaIbkQ4JgmTpgpt0SykJ9bqebuGiQJA2JHxTEKWdVXUmpvliHsl2iSdQ07xmP6EXcOC~ssLkyiDAXIC3IFQivUV1XrK3murTYBsO1afqdwF6z8ETZLQwhMRsyzZPI9nIJg479gVjIJAGXMkQFjbU4K1KTrZ9niOa68BLgdoPGGQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-**Note:** To enable the **Reminder Email** toggle, at least one valid value must be entered for "Reminder Email with Expiration" or "Reminder Email without Expiration.
+:::note
+To enable the **Reminder Email** toggle, at least one valid value must be entered for "Reminder Email with Expiration" or "Reminder Email without Expiration.
+:::
 
   * Refer to the table below for conditions:
 

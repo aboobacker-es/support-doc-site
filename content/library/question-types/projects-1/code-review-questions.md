@@ -35,7 +35,9 @@ The Code Review question creation workflow opens with the following three steps.
 
      2. Describe the problem in the **Problem description** field.
 
-**Note:** Click **See candidate preview** to view how the question appears to candidates.
+:::note
+Click **See candidate preview** to view how the question appears to candidates.
+:::
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1765964040077-image.png?Expires=253370764800&Signature=tl56psHXDyLWFfDb7ybv9TrnOCB8aNn0BLcMVdoHqX6ArUWn9OdGPx7IWsy89f8d~dfwetGOf0MgyNiQz85QRhQud~LZaSkHYwVyMzbm2UKrDAPvkWt7LqAg3FNUNl5x~tiURtx~FlYb9Z4W117SQN4YQlH5o1TQK10aDhtIcTryJRLWsUxI4qbLFwqI5RN6MqqAMUrbnusAMoBltDhpdeNjx4tbUx229NFx3pA1AsiJaDFS~yUOMd~HqiV3ZCvw9Mw4-LxzAdB7dOdx6-tp279mTIXb6jsDINXmD2ArABFtdxWtFz3HIkzgzRVCjhJvqoljPov2VPefhuJoBHaQqg__&Key-Pair-Id=K3NV4LZ47N8M46)
 
@@ -63,7 +65,9 @@ Upload the codebase that candidates review as part of the question.
 
   2. Upload the final codebase as a ZIP file under **Final files**.
 
-**Note** : After you upload the files, you can select the three-dot menu to remove or download the file.
+:::note
+After you upload the files, you can select the three-dot menu to remove or download the file.
+:::
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1765964091516-image.png?Expires=253370764800&Signature=dtNxHH7TCqw720cUEsf6Bg7MwWmCw5F5vFBgE4LYCf-pgWbSrvWiCN3KQoCFcojtv32tzQNCbnIfN3Wp6x78bAjA7UUiYQ1bOkvCieoYLhxr~HkTdCG0kNbjv8v1KCwzlUjrd-fpdxusU6~hw~xbXTEPIikZ-8pqOVYrFKIfu85FTSD5xoAoILWaa5XwYRDMKx6wop3BUYmJMlxnZMlWJS0jr2xl2-yenV8TisKYyU0Wt4pTvwld3KCWxU4JrjbkgOOJOm3pAgt3Zdc2YmlX7rI-m~OLvigc5VderLR2um~1O43SmICGtKGAcSBG28W5G8IE6A94gYC04vVoHl5sEg__&Key-Pair-Id=K3NV4LZ47N8M46)
 
@@ -88,7 +92,9 @@ To customize the grading rubric:
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1765964223170-image.png?Expires=253370764800&Signature=mDNAFqUW3G3jWfnP7PZQKin1G8fgAZ-PHJCuyFiaHZMCkegU42GOOJPPAM98z7biJxFoYfJPIuhzIQas90NMwM3y-AkRiiN8UpoqtkFtAmBUNGpfVsay9mn4DBTSMCVqNybk0TucjW-eQRjCwXYooneqlCV-ud3GDlne791rtQmzIOCNHVyLz3IBFV2XTvDHfmGOhNJNHiYTKo6nAgY~a8pfuV1NbIkCYl3IHDbnjGoHXtKt0gPqJ9KuGzUEM79wF5tYwU-z-7hqjCnuvu30-3ubxfot~soXdkuTp1F7CrjIOlqtKDVw9noNwKyASoVgj9vtV6gAf6UcU3dGYqa4uA__&Key-Pair-Id=K3NV4LZ47N8M46)
   5. Click **Add** to save the comment. 
 
-**Note** : After you add comments, you can:
+:::note
+After you add comments, you can:
+:::
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1765964360713-image.png?Expires=253370764800&Signature=II2rxpuniFJWSo9272BcL9RiFanWfC8NjV0gJEvlgAAV74rS7V1m-miF1F2mklkLIDavWxNTM7BjXeQpKUxQVKX5Mfk-mZBbfYMRLveGqfuyLnmN1ICpsTZ-E5spqvXDaY5GIAdH9y2NZmHDAr6tVEhIwQ8UQkPrg1-oU7e4y5-1ufe85OENfrI63gNSZflOnb5jJ52UfpCIYu5Ekiu7eJlcFToaI~egBhXt8aprBjFRAA84tWupAcFwE928Bbje-vBZXRwGgvewUzH3aS4f6mVNq~aapY9D7KQeOXTWuYTq3eattvrk61t7lKhgmbyJUqB9Bb3gEppSkDlFPKUGGQ__&Key-Pair-Id=K3NV4LZ47N8M46)
      * Click the edit icon to update a comment. 
@@ -97,7 +103,9 @@ To customize the grading rubric:
 
   6. Click **Save Question** when you finish configuring the rubric.
 
-**Note:** Click **Save & Create Another** to create another question.
+:::note
+Click **Save & Create Another** to create another question.
+:::
 
 The question appears under **My Company** questions in the HackerRank Library.
 
@@ -177,4 +185,6 @@ Recruiters can view automated evaluation details in the **Candidate** **Evaluati
 
   * AI-generated reasoning explaining how the score was determined.
 
-**Note:** The system uses the large language model (LLM) **Claude 3.7** **Sonnet** to evaluate comment quality and relevance.
+:::note
+The system uses the large language model (LLM) **Claude 3.7** **Sonnet** to evaluate comment quality and relevance.
+:::

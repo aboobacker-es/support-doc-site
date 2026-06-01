@@ -59,4 +59,6 @@ To set a sender name at the team level:
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1764237109921-image.png?Expires=253370764800&Signature=q5SSmGeQjjLg-whs3amw1rkXCCEle3UkJZs6Z-Q-lnpu0T71efqJufA~oCNgUhPIGHcKFAErwZrEsWFt1fn8zp5wLQ5k9C8e8oOLWRHXwHFKFEMvKRyeUl~zyixQX-cI0bHpj3BHOvdfYxsUaUKt1DV9JKVYY~WdbrhDzf-jCSWoAeRy~IsgdJlUNw5gsbXEf7DpYNdyNU957SVi6~-xTjXzFhWyPSVD5CrscnHLh8FIeJzbPBhx-CU3EIdlSzCWB9SEjk-ocFKUg0AqHZFD8ZuIEhHtmBIUZdW4NZSV4-ExOBxRLrt6wpLc7uK9-wlr6JmLvxhFzagbsql4iR5fOg__&Key-Pair-Id=K3NV4LZ47N8M46)
   8. Click **Confirm**. All invitations sent from this team will display this sender name.
 
-**Important Note:** If a user belongs to multiple teams, the sender name set at the team level does not apply.
+:::warning
+If a user belongs to multiple teams, the sender name set at the team level does not apply.
+:::

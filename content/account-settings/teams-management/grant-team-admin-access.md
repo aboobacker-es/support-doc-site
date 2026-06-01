@@ -17,7 +17,9 @@ A Team Admin can:
 
   * Configure team-level settings, such as changing department, region, or team name.
 
-**Note:** Only Company Admins can add new users to the platform. For more information, see [📄 Invite a New User](</articles/9482219268>).
+:::note
+Only Company Admins can add new users to the platform. For more information, see [📄 Invite a New User](</articles/9482219268>).
+:::
 
 ## Prerequisites
 

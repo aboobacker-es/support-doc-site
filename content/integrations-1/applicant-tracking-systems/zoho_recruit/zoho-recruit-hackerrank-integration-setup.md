@@ -40,7 +40,9 @@ A unique API Key is displayed.
 ![integ_zoho_api.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047187022-?Expires=253370764800&Signature=S~UJm5a~iB~sa3QEGYBBHFjH6Z~7o7oToL2gtTZsotlPsPYAmQ9AmwWwb5dalmSKfUgCGFYnKGue27pyAt1xqB4R9zP6-eygzLqIEkwadnifz9KnMCB6MBbdKLA4ITrKNIZOsPDU4rs2S8nsazhNseosMvElhLO2AJdNk~-1lvQM4YHh6sGZzFAOV4sTirqsFeaRkbOnCjJ-yUiLrWU9meg~K3RnrGy5e3tnxxaWUfeArharh4377unpIciq9ZwL1Om4YzUiucorxc6IHYMOqSmsRCqnZtke7YwpS~LD1MFCNNjGZTu4fmHUoyvF5UYx6zjISMCVpMRsVqNHwCwlqw__&Key-Pair-Id=K3NV4LZ47N8M46)
   6. Copy this key. You will need to add this key to the ZohoRecruit account to establish the integration.
 
-**Note** : Ensure to store the API key safely. Once the popup is closed, you cannot retrieve the key again.
+:::note
+Ensure to store the API key safely. Once the popup is closed, you cannot retrieve the key again.
+:::
 
 ### Zoho Recruit Setup
 

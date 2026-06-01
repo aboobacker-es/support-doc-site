@@ -38,7 +38,9 @@ The integration [API token](<https://support.hackerrank.com/articles/1406188460-
 
   4. Click **Copy and close** to copy your token. 
 
-**Note:** You need this token in Step 2: Add the integration API token in Greenhouse and Step 6: Create a ticket in Greenhouse Support.
+:::note
+You need this token in Step 2: Add the integration API token in Greenhouse and Step 6: Create a ticket in Greenhouse Support.
+:::
 
 **Step 2: Add the HackerRank API token in Greenhouse**
 
@@ -80,7 +82,9 @@ The [Harvest API ](<https://support.hackerrank.com/articles/1406188460-greenhous
 
 ![9.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2Fea08dc92-cc1a-4653-a979-bc41f81ab5b4-1762499909784-9.png-a1758e4b-665e-4619-a8a4-699f762899a6?Expires=253370764800&Signature=heBBjvQ6FpyXsqq4IeDSON9~ve4oifqGPe2YRXFbLmhhPEg8IEzK3eThKOcES9eLaRf07xsn6InXTvsK-iMjOPkXxqdKX-c4cf1U~fgG7WKcm5xYV1Ms0rFEwKiaUmaluHdo57JfBh3qJbmR3MHB57pCdv-QItpHdHiCvTecQKgQOYRUCUrbzRRCKy9dwY6EgPE3jOtj4wPAx1zTkZku3AFhADF6Ak8wv4qeGxXG1aJrSN17MeLCR0TndOsYj7mxmvSoJEUxi-huFE9w-myF3a04ITU3Kznfek74Exq-aWr1gIbpSASUQulv3RA-hvyRqXR0PDBwTA4SDxK7NTGh3Q__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-**Note:** You need this token in Step 5: Add the Harvest API key in HackerRank.
+:::note
+You need this token in Step 5: Add the Harvest API key in HackerRank.
+:::
 
   6. Click **I have stored the API key** to confirm that you have saved it securely.
 
@@ -213,7 +217,9 @@ The Greenhouse Support team manually verifies and activates your integration.
 
 Once you submit the ticket, Greenhouse Support contacts you with the next steps to complete the integration. You receive a link to securely submit the API token created in Step 1.
 
-**Note:** If you did not save the API token from Step 1, you can retrieve it from your Greenhouse account. You do not need to generate a new token or change any existing integration settings.
+:::note
+If you did not save the API token from Step 1, you can retrieve it from your Greenhouse account. You do not need to generate a new token or change any existing integration settings.
+:::
 
 To retrieve the API token:
 

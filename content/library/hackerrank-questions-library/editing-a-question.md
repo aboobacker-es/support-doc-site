@@ -9,7 +9,9 @@ is_published: true
 
 You can edit questions in your personal library that appear under the **My company** questions section. This section displays all questions created by you and other team members in your company.
 
-**Note:** You can edit only the questions in your company library. HackerRank library questions are not editable.
+:::note
+You can edit only the questions in your company library. HackerRank library questions are not editable.
+:::
 
 ## Prerequisites
 

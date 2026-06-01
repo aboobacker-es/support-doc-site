@@ -61,7 +61,9 @@ To configure candidate details:
 
        * Click **Add** to save the field.
 
-**Note:** If the field you are adding is predefined in your company’s central test settings, it appears in the field drop-down as you type the field name. Select the existing field to avoid duplication. You cannot change the field type for a predefined field.
+:::note
+If the field you are adding is predefined in your company’s central test settings, it appears in the field drop-down as you type the field name. Select the existing field to avoid duplication. You cannot change the field type for a predefined field.
+:::
 
 ![onboarding add fields.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1769349726214-onboardingaddfields.gif?Expires=253370764800&Signature=OJcd~Sxvr4PJlFYtxvqdDWtBhQEMIa8Xuk1aW26WQDwGxDrxQkBgM309wkreE9yq8SOoJKR9qb8GbaLbV4xSeRjmZ4ZxnNBd6kv74tDvBe7ilenmqf3B-VgoHuARjrqjDGemVR12ysfvvgJ0rn2BdKWXFkkPzg~fVVF9CZGmn1QPMtahiueUPfNP~BMIfxWdXrU-5wY-Gkf8pS4IeSm4U3tFIUM5IzUTe7dHvc3AfqApEnQy6dssAbM63PnWqRKPgqHXz5~zrfXMeEodoix9Wb4kuHA1ZqgwhpexU5hEe~iBuPDUth7HRG5fwpPSdj6aqCF0NOJU6ogZxqJMl9o6hQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 

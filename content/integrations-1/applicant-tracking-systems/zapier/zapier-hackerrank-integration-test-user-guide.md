@@ -31,7 +31,9 @@ You must configure Zaps to automate the following HackerRank assessment workflow
 
   * Receive and store assessment results
 
-**Important Note:** This guide uses **Zapier Tables** to demonstrate how to configure and test Zap workflows. Zapier also supports many other apps as data sources or destinations, including spreadsheets and collaboration tools. You can replace Zapier Tables with any compatible Zapier-supported app based on your integration needs.
+:::warning
+This guide uses **Zapier Tables** to demonstrate how to configure and test Zap workflows. Zapier also supports many other apps as data sources or destinations, including spreadsheets and collaboration tools. You can replace Zapier Tables with any compatible Zapier-supported app based on your integration needs.
+:::
 
 **Step 1: Generate a webhook URL to receive assessment results**
 
@@ -69,7 +71,9 @@ This step is used only to generate a webhook URL that HackerRank uses to send as
 
 ![12.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1769507245829-12.png?Expires=253370764800&Signature=HYGSlwMvk3LhEIJ5aPozJ5SVz~5QB6Z3WHl8xVPQd6ccmFqSnSsydbpw4YH5BiJQHx54jfONyHZ4PjXSeg85p0gTdmcwozRO1lwfi3KMlSjQB8TuzjBdDefFhijA5tyek8m6VyqRa602tfQS21nXnp8DDrNrY~U7qPuSOBcu-SV4hH7jRipvZgTTg90Xm-RVrlxXeLVbfpzhdP1-NnaAv2H35si434ppUUUr1BWcENYbyMHSK95YNyEcHkMG0mUUil1F~ko4ngZ86h1r55PdqSUvnDUFWgRXRvPJ5gVq8zmsfbQxq9lwHMB627W3s45x255ZJJ2kSYiz~E~V4Oyp9w__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-**Note** : You need this Webhook URL in **Step 2: Create a table to trigger assessment invites**.
+:::note
+You need this Webhook URL in **Step 2: Create a table to trigger assessment invites**.
+:::
 
 **Step 2: Create a table to trigger assessment invites**
 
@@ -84,7 +88,9 @@ Create a table that Zapier uses to send HackerRank assessment invites.
 
 ![8.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1769507323947-8.png?Expires=253370764800&Signature=WTy67E1PadbrONaJiRVYYcb8lWtdZkCWvBFEQ23LbZBDLJNC8t3ljcBw8u4zegZiTgVHLTr0med1-K5bfTxlmbww6Q-jWnDAK1uqCmSK98~b2vT9vpM8lduhclnuF3SurbZPgnSxXf~KQwwhj3xCu5qwMicXP-ckLGnCrilQS4Us49hp~AXUokIE3GTXScSS-GmvZuWGbD3GgQEmIQMAKb~RqEV2vsSLU~525l7AVlcc6PPm8j1i7rdSG4e14vdeppfoqbQqxwEn1K-Fc7HYBFH7EgP7bv7Vg5zr0bg~soQX7NGClwee36SFjZbHbGdWyn87VBSt3~Heh0ID9XrgVw__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-**Note:** If you already have data, select **Import data** to upload a CSV file or import data from another platform, or select **Use a template** to start from an existing template. 
+:::note
+If you already have data, select **Import data** to upload a CSV file or import data from another platform, or select **Use a template** to start from an existing template.
+:::
 
   4. In the **Create a new table** dialog: 
 
@@ -184,7 +190,9 @@ Create a table to store candidate assessment results sent from HackerRank.
 
   3. Select**Blank table**.
 
-**Note:** If you already have data, select **Import data** to upload a CSV file or import data from another platform, or select **Use a template** to start from an existing template.
+:::note
+If you already have data, select **Import data** to upload a CSV file or import data from another platform, or select **Use a template** to start from an existing template.
+:::
 
   4. In the **Create a new table** dialog:
 
@@ -196,7 +204,9 @@ Create a table to store candidate assessment results sent from HackerRank.
 
   5. Click **Add fields** and add the fields you want to store from the HackerRank assessment report (for example, candidate name, score, or test status). Refer to the HackerRank [sample assessment report ](<https://drive.google.com/file/d/1jIZzpQhe_NnzJcy7YoW7Jg1BTz18p_q_/view?usp=sharing>)to identify the available result fields. Select the appropriate field type for each field (for example, Text, Number, or Checkbox).
 
-**Note:** Zapier Table is one option to store assessment results from HackerRank. You can also store results in apps such as Google Sheets or Slack, depending on your workflow needs.
+:::note
+Zapier Table is one option to store assessment results from HackerRank. You can also store results in apps such as Google Sheets or Slack, depending on your workflow needs.
+:::
 
 **Step 5: Complete a sample HackerRank assessment**
 

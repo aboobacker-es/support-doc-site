@@ -211,7 +211,9 @@ Interview guidelines now appear for all candidates at the start of their intervi
 
 Ashby ATS users can now automatically attach HackerRank Interview links when scheduling interviews. When scheduling an interview or creating a scheduled interview activity, simply toggle on the “Attach a HackerRank Interview” option in the Communications tab. The live interview link will be included in both candidate and interviewer invitations, allowing you to coordinate interviews without manual steps.
 
-**Note:** The Ashby user’s email must match an active HackerRank account to use this feature.
+:::note
+The Ashby user’s email must match an active HackerRank account to use this feature.
+:::
 
 ### **Settings Update: Enforce Interview Integrity Signals at Company Level**
 

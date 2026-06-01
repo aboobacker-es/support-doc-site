@@ -121,7 +121,9 @@ To import questions from the Question Library:
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760281874450-image.png?Expires=253370764800&Signature=M38iXUzcMGpQhv8vkW~1IdGHvX2ap~XnSc3fCNYy6vgS~wmujxzddE7mK8mLRslaQHcanLGSih~p96ZayXXJgm8uD5B1RFfXB-7AG8juZ0Y5tsVr8RS7~e2tKsTdiZNm1Jy8OkAJZZ1kjXBfpzbgm6C23m0oTOgamnd0SypK5ccjTsCCGneLykjFBaFdOj7pJYBE0dXdG~Q7gbAfJbfmNf9u~A0Ea5j8hG3SYDkbdTczAONQXJ8p26lCfUv-3rp92CI5od95BuwBHF5Esh2l3GlBC2lZG~F0xEWIZZEk68v9pWV7GUQMOhsfhaChxeNwBO~reOJKm8Ccu49grjsQaA__&Key-Pair-Id=K3NV4LZ47N8M46)
   3. Click**Use** for the question you want to add.
 
-**Note:** You can add questions to a template by clicking the **+** icon next to **Use**.
+:::note
+You can add questions to a template by clicking the **+** icon next to **Use**.
+:::
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760282118186-image.png?Expires=253370764800&Signature=Efhd4AmvEacdl9DUIFR4b40e9Jnr3BMkDrMOAQn7T8iex41whs07L4N0daRkBgm5jbHl84cpNGyV2Dv52zFtoRD9MyvfHRLrYZNuopIvtTl0Wi~KSnYasI-UfQhHpVvT-emHGCfe3JYQHKGuJvfQLj~v3BpvSUIg8-5caxKVvG3862CuDio44WflrLi3o7jZfxbTTKJ8e3UPCK8pfvNKvpyOdYHb3pGjRQVMbZoQOnbMnv64g9~ZJKKm9aGaFPjGmeQrf0rZRD7IhwJpyVq-T9J1AZ6P~QozThm8fDNOlSF7uR0-yOw2OUozVG3xBX8JarOj1gaYSk2iGa~bRwIiFg__&Key-Pair-Id=K3NV4LZ47N8M46)
 
@@ -139,7 +141,9 @@ To import a question from templates:
 
   3. Click **Use**.
 
-**Note:** If you select a template while creating an interview, the template interface appears first. From there, you can import questions.
+:::note
+If you select a template while creating an interview, the template interface appears first. From there, you can import questions.
+:::
 
 For more information, see[📄 Standardizing Interviews Using Templates](</articles/2837093779>).
 

@@ -19,11 +19,11 @@ The **Diversity and Inclusion Center** offers features to support hiring teams i
 
   * **Special Needs Accommodations** : Provide time accommodations for candidates with specific requirements.
 
-**Note** :
-
+:::note
 1\. Only **Company Admins** can enable or disable identity anonymization settings.
 
 **2\. Time accommodations** are enabled by default. For details, see Adding Extra Time for Candidates.
+:::
 
 ### Identity Anonymization Features
 

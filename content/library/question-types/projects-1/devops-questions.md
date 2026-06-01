@@ -73,7 +73,9 @@ This step configures the environment and scripts required for the question.
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1771230960510-image.png?Expires=253370764800&Signature=Ou9X3cqFYqQWo0RCxVitGPecfMVTLFejgGtPc~FOT6YvEp4O1~1pEH55KDC~70kbj3SsHVhEAT69GaHaUmDeuDVgAcVuJXw8QOrm-ilynADOzTvbE2OO-mLJENFaKnoYd-vfA0TYVrXmNJXlqy0dDwaCkZpanADlJLpsFT6REZ6ne8ktNn3EL~Up1W1bgiUIZE4tYOQmF~eB0O0jjHoyHZWn5mWljWzyAEAs0TKSg~KwD6l6AGBnwhvEqxczlI8sBiuQmYPhXrp4I0esLyjBqtbDkslVeDJRpZEzHluVY2TVoiFvpr0QUn1pmAAUDV5YH7NyVI8iFQy1uN1~bTm0eQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-**Note:** Candidates receive root access through the `sudo` command. If any question in the test requires elevated privileges, the platform automatically grants the candidate root access for the entire session. 
+:::note
+Candidates receive root access through the `sudo` command. If any question in the test requires elevated privileges, the platform automatically grants the candidate root access for the entire session.
+:::
 
   2. In the **Scripts** section:
 
@@ -87,7 +89,9 @@ This step configures the environment and scripts required for the question.
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1771231021853-image.png?Expires=253370764800&Signature=mMVp5Wldsy~MYh-2ApNV~S1EZI07iNKeEVsGd46yHy1p0D45ndSNsE0-9PyVTnrJStfXxLD2crm3HwbgMeEkrB9nN1S7Dp0Kw6OWsXtl~Aa2nLWLbwP8nFSHMOUBZrV6NQ2xed2kkwx2rgseViNeTMj5-0amlPIKNQNvyLAuXyZZ-IoUM19j~eI8d2Flv~czYARE4qQIvVJOLCJuO2YGetvz70dDWS7u9w1dFTLDXKN9vzCYEutNzUxp85djdsPTS2FB3nIKWPr3vReU-BR0UPKHxQe0RlU3sUhFe2mSIiow43yfPdn5mn3xDgooA6e8WjIqfqj8LhOnMHF7WL-efA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-**Note:** Click the expand icon to view the script editor in full screen. 
+:::note
+Click the expand icon to view the script editor in full screen.
+:::
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1771231302040-image.png?Expires=253370764800&Signature=DFr6BuQGIct47HclZnb341UBluDCTZ~FPITiPnmrBkjZhkvwD5jliP9cXbK3cGJRljIMPSd~iuKHbhbbV3T-zvFNRIrsJAlQ206nu8Mm0eJFGIOgSzqZr8nTSj7JoqtUiMmN8VwBLDRV~5UTp2LMhl~ZU3ubS8lz8uONFCjyB04qtrdCSKVd~pLslc1Z00Fs8lctPZsz7TdS5i-ShloUxnyDEpqQML3Rxc49p7EWFh7dAY~aOkiVTsyGbOP12abQq1l6t5xRzfGR0Sh2la7EKR1cYqnYEzLFM5Lr~qng7xvMgimD3LWjC~ar6SZjMoq19oVJwmgC~e8ZQyvcL-m~OQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
@@ -97,9 +101,9 @@ A success message appears when validation completes.
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1771231899649-image.png?Expires=253370764800&Signature=iFB49~EKr8HSQMrSlyLgJk8cHnDJVCw0XEiFRhoZEracLTqyC7v52WU3udwk9wPLf9vJGSwpWQdK3XvU8hj8rVVJIo-28zhq2~39g8PV4gA~IEZ5PmjQ-74TZ6HJQpp0olrgj62TCFbCIcB0YDSA4Z-sb0k07yZ8TSAQ11kOz0i1W4Rvxq2iPuuu8wRa2F~vNdvKK8Uuk6QJaEQhGXXvLuRgBLzh8AmHRvF70~yetbgYkfe42UtUn7YFHy1s-hW6p3hIMlFGAmRg9VW3YgQ3wT3GtuCx24bx3IkdzFJUu5qFRB~ArzNIkn72s2okxQUGi2QEKLTCn3aVDds6QabG-A__&Key-Pair-Id=K3NV4LZ47N8M46)
   4. Click **Next**.
 
-**Note:**
-
-  * Validation fails if the **Setup Script** or **Scoring Script** does not run successfully. To troubleshoot, click **View Log**.
+:::note
+* Validation fails if the **Setup Script** or **Scoring Script** does not run successfully. To troubleshoot, click **View Log**.
+:::
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1771231446397-image.png?Expires=253370764800&Signature=eSxVk1O6eFFzaXt6WvFD0~gmzHrvYJgw0rEM5Y8JBC6I3ChcdA7839kVaQkPU45fcdIbwnNqNqDPiSD3N0faEfb42-X6KAuaJH8-plaXiXZ1dyvOehYk9~4EUpfLmYTVmXorbH5JM1qg9KBwoGlDmCgGttPnBZWMyYhvJEh43HvttujkNtE0teuI0NLf96jHI3u0i0dOyhjQn~LQ99Nolwy2gt0THGM1rnARRZPMMxOzMcci-kzIYYac2hQNf6I~fHljr6zCVlHI-njF1WnPFx-MrgwQyYCgWc8-gUfG5~dAeTj0q3beGeUD28nJrBuyEnXURAklq-n~MVINJunidw__&Key-Pair-Id=K3NV4LZ47N8M46)
   * If some test cases pass by default, the system displays a warning during validation. Hover over the information icon to view details.
@@ -132,7 +136,9 @@ Hard| 100 Points| 45-60 Minutes
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1771231722195-image.png?Expires=253370764800&Signature=U-~p-rr6oadWSyePqHu37T2T6XDNiTtvZWPLn5n4Q7-BifPz9g8gPFivQZB0bOTbIXKeaz0CuVKLSil5XS-8wKMi14D6BGaPQUCk3FMrzdiRfWG26wnNFj~CrSYBqqTsETQcn2Cu3pTVCw~ilGbdl-82Br2A12AlS92tbe8eofaaUPtNo44nZluppWLuqPDxD2jLGTEymSyFVUXjr1Ghn~8AREz9FUvpNvI777sZbKZ2aTQ61hS~mt1Fa-fspq8Kud7x37JKdK16B36~r1O5UXLjQpxeYoNie59-6rYf75yRf3~o1zrnm7Xf0SzQCyBfglFVevX7Mz8cfqW2NscDKQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-**Note:** Click **Try question** to view how the question appears to candidates. 
+:::note
+Click **Try question** to view how the question appears to candidates.
+:::
 
   3. Click **Save**.
 

@@ -39,7 +39,9 @@ HackerRank provides a prompt listing specific rules and issues to the AI model a
 
 HackerRank uses the time-debt method to create a grading system for code quality. This evaluates how long it takes to fix a mistake compared to how long it took to write the code. If fixing the mistake takes much longer, the code quality is considered poor. This helps quantify the impact of low-quality code and enables consistent grading across different solutions and programming languages.
 
-**Note** : This feature is currently supported only for Coding and React questions.
+:::note
+This feature is currently supported only for Coding and React questions.
+:::
 
 ### Grades based on tech debt
 
@@ -85,4 +87,6 @@ If you disagree with a comment, you can choose to ignore it. The grade is automa
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1753775152427-image.png?Expires=253370764800&Signature=kUbAz2b8Or660AQrayRlYqUNAX29m3aEEmGpPu5W5tshba2Ohq5ivbmN3ecTbZnDMWYrI3NK4yImAY399wrElovcGwtUCWYNFYS3LkrJM-QQ1PMTY-iC5Nha6CwrmgXweuzy4A2ULeLSTCSo5Z2~~vbdpVz3GEoZ4dBqi2dAPWC92FNKCeWjsWyKqUH3~2O7Jm3JPSxqbs6axe0goJr8JIxZsMUPZgNDMQDGuYuCkLpoTRb44Yax4X3F8dBHE-Pf1GchMZ9LdknxdJtaKN66Z-Tf-LjGpx~~A92SSqXwt-6SFzxze7t7Tuvynm0evvfvXPVCNzXN47Q9wkaEhB8HaQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-**Note** : If a user ignores a violation, the code quality grade is recalculated in real time to reflect the updated assessment.
+:::note
+If a user ignores a violation, the code quality grade is recalculated in real time to reflect the updated assessment.
+:::

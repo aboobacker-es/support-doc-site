@@ -66,7 +66,9 @@ You may also choose not to use the auto-generated code stubs in scenarios where 
 
 In the above scenarios, you can retain the default code stubs, or you can choose to write your code stubs (user-modified code stubs) for all the programming languages you want to allow in your Tests.
 
-**Note** : Writing your code stubs (user-modified code stubs) requires additional effort. However, once you write them, you can reuse them in the other Questions.
+:::note
+Writing your code stubs (user-modified code stubs) requires additional effort. However, once you write them, you can reuse them in the other Questions.
+:::
 
   4. **Whether the questions have Descriptive tags**  
 According to best practices, every question needs to have at least two tags that describe and classify the question. Standard tags that need to be inserted into every question include the difficulty level: 'Easy, Medium, or Hard,' skills or area of expertise the question assesses: 'Algorithms, Problem Solving, Data Structures, and so on. Tags that further describe the question, such as specific concepts tested in the question, required knowledge, etc.

@@ -43,7 +43,9 @@ To integrate ModernLoop with HackerRank:
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1757499021138-image.png?Expires=253370764800&Signature=SioedW5Usht7frBGwcOPyejMkGX1zfnpviApNQF0LLUKqFXgbdenqUlvAtRPVr8EgSd5hvi08QDDZ20GMSVQp37Dcbp7oEVoVPe0sfnMdAESnRzXHMj81SLHTCEvWphvEGvqrdGKH9WY2Y5dO5KLXgd97nePZLiDPuCtNas7Rcdyy6ZVhvURboV1pojYN~rkhVXk31l7bQvBLS948bnZZ8ytcathgwMuSu8zVhiewr1zTEFMVYYUh7Ddk03vAJkNBMK00By7CWazoRvCn7mnBGJxv8iluEBgIqy1mpl88iEFJpx~no2gfk67nLN-MyFkySjfDYtC~m-3uaMuhREp4Q__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-**Note:** The integration will stop working if the HackerRank account that generated the API key is deprecated. Best practice is to use a dedicated admin account or create a new HackerRank admin account specifically for this integration.
+:::note
+The integration will stop working if the HackerRank account that generated the API key is deprecated. Best practice is to use a dedicated admin account or create a new HackerRank admin account specifically for this integration.
+:::
 
 ### Step 2: Connect HackerRank to ModernLoop
 
@@ -92,4 +94,6 @@ To automate link generation for specific job stages in ModernLoop:
 
 Once configured, HackerRank links will be automatically generated whenever an interview schedule is created for that stage.
 
-**Note:** If you deprecate your HackerRank integration, previously created links remain active. ModernLoop does not delete coding links.
+:::note
+If you deprecate your HackerRank integration, previously created links remain active. ModernLoop does not delete coding links.
+:::

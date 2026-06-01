@@ -38,7 +38,9 @@ Based on the Question type, the Detailed test report includes specific options t
 
   * In the center, you can find the **Review Code** option, which will take you to the candidate’s Interview experience, where you can review the code submitted by the candidate. 
 
-**Note** : In a scenario where a test question is modified after a candidate has attempted it, the **Review Code** option from the detailed reports is removed, and recruiters cannot use this option. 
+:::note
+In a scenario where a test question is modified after a candidate has attempted it, the **Review Code** option from the detailed reports is removed, and recruiters cannot use this option.
+:::
 
   * Within the **Score** field, you can assign or modify a question's score based on your assessment.
 
@@ -46,7 +48,9 @@ Based on the Question type, the Detailed test report includes specific options t
 
   * On the bottom of the page, you can see the **Test Cases.** Here, you can see the Test case type, its result, the score the candidate attained for a particular test case, the time the candidate took for the test case, the memory used, and the option to check the **Output Diff.**
 
-**Note:** This tab is only for those question types that consist of Test Cases. 
+:::note
+This tab is only for those question types that consist of Test Cases.
+:::
 
   * On the **Suspicious Activity** tab, you can view plagiarism match among the candidates or code copied from external sources. For plagiarism, the report shows the match percentage and the source. Select **View diff** to compare the two code submissions.
 
@@ -68,6 +72,8 @@ Using the detailed reports, you can check the candidate’s test activity using 
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1742366681426-image.png?Expires=253370764800&Signature=aGS0Jo4emYU-jvs6TEZoVWtM38nlJH4gAZxPtIgeS0xjToStwT9FsN9zZkT4BlATqFU-H8~YRXFSVa11xxOrWnL7KpyIsnc5bth5DPj7D9XZ4TcVL-i5QQXRO9bNeKVEh9rn6FCAcTOiywA-2zmjO~Aw96B5Y1JI9fLDA3bxJGooWrnsZvxxZW3F~J-JjDX0ZfOXYHYEIfCGr9kaubcsRj5ySotW-Y2v5cPRlkcniOG17tOptMyUvOFUl3H5v-RX6LvyUiT3CFQOWBI~jXNIhRjpS5HaqMzVsDPWzOadrdZ4ZBDHziJg5oIh~D0eCH8x76gXEv9YF3c7-ZTgYFwzWg__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-**Note:** The Code Playback feature is available only for Coding questions. 
+:::note
+The Code Playback feature is available only for Coding questions.
+:::
 
 The detailed report for each question type (multiple-choice, Coding, Whiteboard, Projects, etc.) will differ slightly depending on whether the questions are auto-scored or manually evaluated.

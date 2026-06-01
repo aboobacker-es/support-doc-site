@@ -461,4 +461,6 @@ The following skills are available in SkillUp:
 
   * TypeScript
 
-**Note** : HackerRank supports several skills across all products. The [**Skills Directory**](<https://www.hackerrank.com/skills-directory>) lists the skills and definitions of proficiency levels.
+:::note
+HackerRank supports several skills across all products. The [**Skills Directory**](<https://www.hackerrank.com/skills-directory>) lists the skills and definitions of proficiency levels.
+:::

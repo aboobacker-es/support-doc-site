@@ -28,7 +28,9 @@ The table below lists the stable values and their descriptions.
 `1`| Candidate completed the test; reports not ready  
 `7`| Reports ready for consumption  
   
-**Note:** You can build downstream logic only on the stable values.
+:::note
+You can build downstream logic only on the stable values.
+:::
 
 ### Transient values
 

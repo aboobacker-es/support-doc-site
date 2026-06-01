@@ -41,7 +41,9 @@ Also, candidates are automatically pushed back to the lobby when all the intervi
 
 ![Candidate_moved_to_lobby.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046572107-?Expires=253370764800&Signature=i6nqUbI4EI282iYSCCLKoA0ct7zG-lPEpWcrKk44OHCAqehy976u00u-wFrrfCe0TRsCAIp7QRZg2sekXOMmcCP4b3ol00S4dxMuF8WfDZ9~JfqrVB5F-ruNj4oLnBt-FaENar8zKRF81vxsyyIGQtfDQ340K7RxfOVeXBzt0Iw7rgI4CkWOn5i9xrHNPTbd5yHdhMz7VM5WmUGMlQbFwPEYSKN6uHoYBnH7J0cUZ8ozEWjFAyg5cK5lhSlenRLIN5N4E7h6H0s0BLqNftukeOw-Dn-q5NfYfudnz7zxwR~u4iGjLY7YccINAwgilPTC5EDXwnQr3U5jD9AxqqcH2A__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-**Tip:  **With the candidate lobby, you can set up your interview questions ahead of the interview time and not worry about the questions being leaked to the candidate before the interview.
+:::tip
+With the candidate lobby, you can set up your interview questions ahead of the interview time and not worry about the questions being leaked to the candidate before the interview.
+:::
 
 ## Interviewer Lobby
 

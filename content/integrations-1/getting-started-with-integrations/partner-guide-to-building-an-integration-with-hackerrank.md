@@ -29,7 +29,9 @@ The integration typically involves adding functionality to the ATS via a plugin 
 
 ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047080592-?Expires=253370764800&Signature=u-P~EqYTf-gl2RdYl3xyTkwD6SVQ6A-GNTLVDTBRGuiyDMMsW74koFGcJRfkhlOWkXxCLlo-KSZgLtlw~E-cZzCuoXwd91Pb9ry~ZC1A1BrYsC0UW-sZhw78Pdqc7xLCiLLmjEiNimNz9Mey3WkMKXgtLLrLq1FIEd4oXtr~zCvonWBhyM3AvnLcfJJC08Tt6M7k8pfDS9FUPVaMfPLfVKX4bttKKyarpOKXYeamOEoX4HvtXtd6FCiNd4LYimPvepnDiy0uQ-o8lrKrgCpjeWMXtOT~obLOTRN-3zb3n8vJesj8OXx-fQZGoV4wt2oe~TCvzjJ4TTkIk3nXQaAv9w__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-**Note:** Every official ATS integration will have a section within HackerRank for Work where each company’s account admin will be able to generate a key. Your ATS will appear in the following location: <https://www.hackerrank.com/work/settings/api> 
+:::note
+Every official ATS integration will have a section within HackerRank for Work where each company’s account admin will be able to generate a key. Your ATS will appear in the following location: <https://www.hackerrank.com/work/settings/api>
+:::
 
 ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047080957-?Expires=253370764800&Signature=ZNtmuCQOb11bz2EiO2Ml6DdLw3ErXaVuWwFjP55y5wEUuwL48ZPBVviYeSnw9OmhqOAxxPVND7DsHFGFuxs9z9GpB0zSPBpYoVLvnj0z6Px5x2F6lsYXAwh1jRu12txpedaA5tGt4oCvAus0uuQTK5BGxXnN5wlZ4q8d4oVkvV7vuvwS2pihl4B2~pgS5Shc0a9KpaagEXhZ6wpLOaaiIIh5cdehTuSGL6DkmXhX1c4MuZyyvreAmt9fL8roZgH0pWGt8vc1Yje4QQUVFU2ULdyg1uUMkoFxa98KbyvLASPBzwE5iK1MctzhSVIOQ2lNW8KSId5tKN-p-KpsOtLoXw__&Key-Pair-Id=K3NV4LZ47N8M46)
 
@@ -53,7 +55,9 @@ We have a simple RESTful API that will form the basis for the integration. You s
 
 <https://www.hackerrank.com/work/apidocs> 
 
-**Note:** The above documentation is written with our end customers in mind. You should explore the API in your test account as an end customer. If you have any questions about the API you should reach out to your HackerRank point of contact or raise a support request by writing to [support@hackerrank.com](<mailto:support@hackerrank.com>).
+:::note
+The above documentation is written with our end customers in mind. You should explore the API in your test account as an end customer. If you have any questions about the API you should reach out to your HackerRank point of contact or raise a support request by writing to [support@hackerrank.com](<mailto:support@hackerrank.com>).
+:::
 
 ### **Register your Integration**
 

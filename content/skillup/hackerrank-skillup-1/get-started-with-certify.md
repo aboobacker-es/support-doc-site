@@ -36,7 +36,9 @@ To begin using the Certify experience:
 
   7. Attempt the certification when you are ready.
 
-**Note:** Certification is a timed assessment conducted on the HackerRank platform.
+:::note
+Certification is a timed assessment conducted on the HackerRank platform.
+:::
 
 ## Common use cases
 

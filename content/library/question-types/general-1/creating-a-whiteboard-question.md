@@ -35,7 +35,9 @@ The whiteboard question creation workflow opens with the following two steps.
 
      2. Describe the problem in the **Problem description** field. You can use the formatting menu to format the text or to include elements such as tables or images.
 
-**Note:** Click **See candidate preview** to view how the question appears to candidates.
+:::note
+Click **See candidate preview** to view how the question appears to candidates.
+:::
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1769686625096-image.png?Expires=253370764800&Signature=jtHCE~gzzs2a4I2PuuiWVIo3JqdxKNS-YkSlB-1S3Z2S3hTuhA3lqzihQoXr3BixSsIthZy8vQP-CmtWPsyo~AqR~P5ulPT4hkW4WqesQ15CPicdB1Sh47GJpP532laJAnTUahSXL6M90SXripeILaSLrLdgDyHxQ-XENd32~vaO~11CgH2Hp8K5Oqu8wMZVT3wH9Ra19ESc2ily-A341~Wo17LIZi-wkKAAWc88NInqKRskDyLNmQXRZD5NKev1nynKxldJu0fd68u-Yo~C4Br1vORGffOZSivQ23Kl-1HPrRKln-utodYtlGTOeFwa0uY7S1sGHGEhKHx-ewwFCw__&Key-Pair-Id=K3NV4LZ47N8M46)
 
@@ -61,7 +63,9 @@ The whiteboard question creation workflow opens with the following two steps.
 
   2. Click **Save question**. 
 
-**Note:** Click **Save & Create Another** to create another question.
+:::note
+Click **Save & Create Another** to create another question.
+:::
 
 The question appears under **My Company** questions in the HackerRank Library.
 

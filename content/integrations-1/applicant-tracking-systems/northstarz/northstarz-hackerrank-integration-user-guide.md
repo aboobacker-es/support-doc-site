@@ -57,7 +57,9 @@ To add HackerRank test to a job on Northstarz:
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1756892789742-image.png?Expires=253370764800&Signature=QwgDcxOy1MRHsqwXlPCGz65~KM49WFByBlCscP7NoSE2ezlQJu3cY7o~OBvnomqM4C~xgVwksWr8e9wpSo8mvcc4S23qijlDyhzEqomrBmE4eoI7o6FBkrFwg8JovkJZwo-IRQclF-YKkoKtgJ6ljdrNRHMdFgKYgoYn-7kyC8Gf4R5XNOsFxo6jCduK6wAOmyY6pd-Yl4KOjVKSsH9KhGOeMvLdRDVaGIwKACuSt49cQM~36AeRNsyTtAoCU4RTm7hCzF1l3JOB~XhDMg0W1ad-MDzqdAr2qW-h8pNpZDzqKsua6gJPa9ROLYdyaJshmJ-TcPsv997h5Dw7AWshyw__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-**Note:** You can also click on **Save as template** to save the job as a template.
+:::note
+You can also click on **Save as template** to save the job as a template.
+:::
 
 The **HackerRank Test** is now mapped to the newly created job. The selected **HackerRank Test** can be triggered for applicants for this job.
 

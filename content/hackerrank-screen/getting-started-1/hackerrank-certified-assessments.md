@@ -37,7 +37,9 @@ These Certified Assessments follow industry norms and design a universal test fo
 
 ![2024-10-23_11-55-56.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046338704-?Expires=253370764800&Signature=QbXwsZMEfBFfSjO8GOSzuOJkWpWYzc65baWF~G3leV2FuVfXr0fsz9jSASr55SCutn0xn2IzEFfRYucLW9BoowWsQuW~jELH1ivNC7E~PvyKWC~5MbffxohD6px3xPQGt-CieWpecuzkxax1AfuLtYm3HziLhOGpyJeEBbOydQvliVuPYd6O3~jPv7lQ0PGmKzWr0HrAmePqsHN8U1CqXUpo-H6qadgnEkU0FXxwuSZCe1MEotYskiPzXckNa5q4l6OxoP3Iql9L4OapvI-r~bP1~6EK0mSV2VgNgd7mMua8NS8T34lwfjGzUJXBwtXwiSfl-eT8K4stsNf2xvDuBQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-**Tip** : You can access the [HackerRank Roles Directory ](<https://www.hackerrank.com/roles-directory/>)to view the skills mapped to each role.
+:::tip
+You can access the [HackerRank Roles Directory ](<https://www.hackerrank.com/roles-directory/>)to view the skills mapped to each role.
+:::
 
   * On the test page, you can access details such as the selected role, core skills mapped to that role, and other relevant skills. You can click on the **+** icon beside the relevant skills to add them to your assessment.  
 
@@ -77,13 +79,17 @@ You can rearrange the order of skill bundles within a test. To reorder the skill
 
 ![AQR Final sn \(1\).gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046340571-?Expires=253370764800&Signature=J9dXphNXWmN96dQPuScJViQLEJpWwBKSWZoMDTftONpnMtu3SaS8rUylM7zOs0zWSocojR~RUCSrUmuzOKHBErol3uCbKeCxcbWt8ueC4LfUUHmIVShVLthvfaBnWgcwrIQ7d1zm~MhrnuXsXpW9Rt9WVW1FzXwU0lg9BZ5fvg5J~ZAWAXIQ0RyO7CrPgNQui5f5ZRavXdA5Iq7J4mbD7BNAVk6elqq21q5Iwrx81POvUdKrE5KztLNdbZZiYE92guQqF5LKb5puBGVieii3FcSlVj3c49MxVbfSkTUr2BA~IWs8gkPTK4W5vhERTI6bGi~ugfHnhzdt7YDXZOJ3Qg__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-**Note** : Automatic question replacements work for all the published tests, even if locked. 
+:::note
+Automatic question replacements work for all the published tests, even if locked.
+:::
 
 ## Customizing The Skills 
 
 Coming to customization, if you feel that skill is not needed for the role you are hiring or want to test an additional skill in the candidates, you can customize the assessment at the skill level.  
 
-**Important Note** : When you add or remove a skill, the test will lose its Certified Assessment status
+:::warning
+When you add or remove a skill, the test will lose its Certified Assessment status
+:::
 
 ### Adding a New Skill
 
@@ -111,7 +117,9 @@ There are two types of skill bundles:
 
 ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046342019-?Expires=253370764800&Signature=b108N~flkK3HRwP62lpEFH8YQjg6BwhzG1bH0UCcN-3zdEMB-WACpRXpisCXuhfJGNAzNk4fm9ff2lQh1sXFC-snzvrQQQOVq51SB5poQ0c5Da8LLlVunDijPQSupNBgVMXYD7azmXOJPoVE~54rSqQBGiN9MhzPoi73Rrz-if~VxWy9Odqn-vhim7opH799n7Eeb25Fs~O5p29utbr0Ymq2zphOWIx2w5nWkzx9caVFjgreHiM66tx~KNtaiG3J1k3ChEjnrTzYk1HgRhGQ0jXASxbx~5YljZnN2VyAujKklpEClzhuhqjp9Rs9XFezzy~F~iTpvefHENCXXKaWKA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-**Note:  **Basic skill bundles do not support automatic question replacement. In case of a question leak, you must manually replace the question in that test.
+:::note
+Basic skill bundles do not support automatic question replacement. In case of a question leak, you must manually replace the question in that test.
+:::
 
   * The skills are differentiated at three levels: 
 
@@ -161,7 +169,9 @@ There are two types of skill bundles:
 
     * Allow the candidates to use the duration left in previous sections for the upcoming sections.  
 
-**Note** : You must add **duration** to each section to enable the above three settings.   
+:::note
+You must add **duration** to each section to enable the above three settings.
+:::
 
 ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046344527-?Expires=253370764800&Signature=ORNzVdK7ZQUR2FCqmJARWakHL-2VFfapNQE4hC9r3jrRx-NyUHHuZldmxL6MadnBe3A4YYmCVsEJV5-r37DXNP1ipOJIN~u~rmM2w9xVpR6el-YZrRwNpYa30pp296zQpei1PBM-7nBTja0wgJTTyOo1IWfZmrkZoiGdLBCP7v7EhsYLQhpvV2kUAF~PKXOItGHf9YD-OaxzXtce-sT8CP6DGbL0WqfuUZ4hNeJ9y6VDsEnoj8jOd~vMUrvxsvYh8v0W01ZAMJiBwE1H8neLwJCEeHINSHXIsNDwvxeDbt5pxP-awolLp-m~Q3P9NxwR~pifZ0b4ZKcckU4gn1lXcQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
@@ -175,6 +185,8 @@ Once done, you can **Publish** the test and start inviting the candidates.
 
 ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046345357-?Expires=253370764800&Signature=XlpqRhZc~xZa1Ahoi11clAW2u6ihWdBWBPXyZZY7fFY8rXGcJ2p~6Bq474V3CJXgi1Jc6YxhtK8nT5dQweEKPQ7TJMj-sgp8aV82y38zrR9J4t3-6VsjKkcqmz8eHKAFLpa5ADBleXjYxLzNbdIGEPOK5F~GT6JQ~5j38qNRQdJQNq52WbEVsxlsgSgE8KeFTy53EUFZRztiOlYd0TXjwvXohKgyJ3Nm-MXEx7nV27FlRtW9jWR4LS3BYp3T1C1JHuWYT~jyztsNlmM2XV5v-HFh~YO1WMS4KrZTVUcIFCip4fZ5HXW~UY4yuUmpptrcSgK1Yfc02kF1AHvsgc~G-w__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-**Note** : [Shuffle sections](<https://support.hackerrank.com/hc/en-us/articles/8915614977939-Configuring-the-Test-Integrity-Settings#shuffle-questions>) is a default setting that cannot be changed.  
+:::note
+[Shuffle sections](<https://support.hackerrank.com/hc/en-us/articles/8915614977939-Configuring-the-Test-Integrity-Settings#shuffle-questions>) is a default setting that cannot be changed.
+:::
 
 Learn more about how you can set up [skills weightage and cutoff scores](<https://support.hackerrank.com/hc/en-us/articles/16300832418195-Scoring-Certified-Assessments>) for your certified assessments.

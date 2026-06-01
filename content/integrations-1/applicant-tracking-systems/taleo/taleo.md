@@ -13,7 +13,9 @@ Oracle provides documentation on how to configure the service in your Taleo inst
 
 This article guides you on HackerRank's side of the integration. This article should be used in conjunction with the Oracle documentation.
 
-**Note** : Currently, HackerRank does not support onboarding new customers onto this integration.
+:::note
+Currently, HackerRank does not support onboarding new customers onto this integration.
+:::
 
 ## Configuring Service
 
@@ -44,7 +46,9 @@ A unique API Key is displayed.
 ![integ_taleo_api.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047196371-?Expires=253370764800&Signature=NOkwI6j6fXy9teG0DtHPByHCihyI9yNVoEmnNyH63elkbUAQaA2rFNQ-52thrRkcg3t4E3SmxKlKx4veRCFQcBba4xoWX2hXcvRpWXrZoeBoHwyxIF9OrbTxquT3y3Spfy9JrPzxtdyiiwv60wTUi8AHE6cKy8Oj2nL-l2AI1PzmvK407o47za3GGl5mmVyKAR-kGgq~nz3JTFsuDLrm85SZZ50WZ3PsqhJZj6NGmqUmEgbxjVm~~GmA2WGUL7mdYppG1q3ciFm0LogY1DKXg7jtpUqp8L5~coWxOFBqRR2AnsMhALIK~WlKRIaTffwkhyBaCB4cGPadZCkA8SLyjw__&Key-Pair-Id=K3NV4LZ47N8M46)
   6. Copy this key. You will need to add this key to the Taleo account to establish the integration.
 
-**Note** : Ensure to store the API key safely. Once the popup is closed, you cannot retrieve the key again.
+:::note
+Ensure to store the API key safely. Once the popup is closed, you cannot retrieve the key again.
+:::
 
 An Assessment Suite is a combination of one or more tests and/or interviews. As part of your configuration, you will need to fetch a list of assessment suite IDs and names from your HackerRank for Work account.
 

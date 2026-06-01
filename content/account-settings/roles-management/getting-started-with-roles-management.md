@@ -41,7 +41,9 @@ Custom roles allow organizations to tailor roles according to specific hiring ne
 
 ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046377684-?Expires=253370764800&Signature=uUkS7oW6XdhFR7BX5KdmpGB43z1ew6gRgQFKFDg1U~HDw1NyZp15V4xBd4iGZtU9Xty7tlZHJ~Z3q5ZAxd1PjL8-wSijGoM-tbNAoBGZg73Eu7mu7OPgTwRnxrtTY6B3RpES3Cx5GL2AdQ3eL8aSBouCaGS5kMcZ4ZiDn11HJjNvvQwSmIxJqDT6REiuxYHDI~adHUWhX4xNtV3KlVrVoVXgTQhbkFuzwOj~Xn7VyuXRIvPJRcQrwR0DrcRaOxUtvSmhuR2FaTjgFRySuS0r-WlrDoaI5XmzxfY6F2VJG4ckj6UQGovz~UH7sk177o2-Q-RWME7T1e1e7v33fgOGUg__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-**Note** : Published roles cannot be edited. To make changes, archive the role and create a new one with the same name.
+:::note
+Published roles cannot be edited. To make changes, archive the role and create a new one with the same name.
+:::
 
 ### Managing Roles
 

@@ -43,7 +43,9 @@ You can observe the following candidate actions:
 
   * **Preview panel:** View automatic updates when the preview is refreshed.
 
-**Note:** The integrated VS Code IDE supports a wide range of interactions. Currently, only the core actions described above are mirrored.
+:::note
+The integrated VS Code IDE supports a wide range of interactions. Currently, only the core actions described above are mirrored.
+:::
 
 ### Coding Questions
 

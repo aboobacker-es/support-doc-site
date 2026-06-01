@@ -176,7 +176,9 @@ Q.A. Components: The model to be tested for disparate impact shall be defined.
 | **PASS**  
 ---|---  
   
-**Note** : **Minor Qualification** indicates minimally sufficient, which is enough to pass this criterion but involves significant limitations. We recommend improvements.
+:::note
+**Minor Qualification** indicates minimally sufficient, which is enough to pass this criterion but involves significant limitations. We recommend improvements.
+:::
 
 **Testing conducted by** : HackerRank
 
@@ -211,7 +213,9 @@ an equal and independent chance of being selected for the sample. In other words
 
 **PCVs for which disparate impact was not quantified:**
 
-**Note** : Italicized are indicated as potential future demographics for quantification. 
+:::note
+Italicized are indicated as potential future demographics for quantification.
+:::
 
   1. Age 
 

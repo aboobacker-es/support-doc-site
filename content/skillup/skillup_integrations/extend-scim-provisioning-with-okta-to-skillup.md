@@ -60,13 +60,13 @@ Individual| `individual`
 Manager| `manager`  
 Admin| `admin`  
   
-**Note:**
+:::note
+* `job_title` and `skillUp_role` are mandatory for all SkillUp users.
 
-  * `job_title` and `skillUp_role` are mandatory for all SkillUp users.
+* `manager_email` is mandatory for users with the `Individual` role.
 
-  * `manager_email` is mandatory for users with the `Individual` role.
-
-  * To exclude a user from SkillUp provisioning, leave all SkillUp-specific attributes (`manager_email`, `job_title`, `skillup_role`) blank.
+* To exclude a user from SkillUp provisioning, leave all SkillUp-specific attributes (`manager_email`, `job_title`, `skillup_role`) blank.
+:::
 
 ## How SCIM provisioning works
 
@@ -80,16 +80,16 @@ After you update the attribute mappings, Okta automatically provisions SkillUp u
 
 For more information on supported provisioning actions such as Push New Users, Push Profile Updates, and Import Users, see [📄 Setting Up SCIM Provisioning with Okta](</articles/3939437783>).
 
-**Note:**
+:::note
+* Use Okta as the system of record for user data and roles.
 
-  * Use Okta as the system of record for user data and roles.
+* Verify that required attributes ( `email`, `givenName`, `familyName`) are mapped correctly.
 
-  * Verify that required attributes ( `email`, `givenName`, `familyName`) are mapped correctly.
+* If provisioning fails:
 
-  * If provisioning fails:
+* Confirm that the API key is valid.
 
-    * Confirm that the API key is valid.
+* Check that attribute names and namespaces match exactly.
 
-    * Check that attribute names and namespaces match exactly.
-
-    * Ensure that the HRW SCIM integration is active.
+* Ensure that the HRW SCIM integration is active.
+:::

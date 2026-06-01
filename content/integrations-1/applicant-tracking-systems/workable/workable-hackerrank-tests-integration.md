@@ -95,7 +95,9 @@ Check****[**HackerRank - Workable Recruit documentation**](<https://help.workabl
 ![integ_workable1api.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047138099-?Expires=253370764800&Signature=C9LbwbjJ7nvQd~QGL8kBoO2~LComV~mojO2WjeqDNYEJKYIEjgy24POrF6JyhudLiaP23hHX2J5dJaX2XQZJFAo6Fs~cqC-VovobAwbUyBaJEpTvIxfy~QOch3F9m6jNxm6w5n9KIrDNdVWG~8ZCdaNroWQZtELRgYFgZ8SjXf4ZpGyFx8008MXjkw4DDa1w36TzvwS-2YEaD0QBHMuRB4w4CI7aOka8GqmDM1MhlebXkOrzlfofjFH66Ts6aOHVjRtuja5npxN6gdpoe2YQ7ritIf5pEVUs2qszRqYBju3EF1qLGdLc3CsGHDj3CoBMxZRUlq2u3zc7WeIh9sre~g__&Key-Pair-Id=K3NV4LZ47N8M46)
   7. Copy this key. To set up the integration, you'll need to add it to the Workable account.
 
-**Note** : Store the API key safely. Once the popup is closed, you cannot retrieve it again.
+:::note
+Store the API key safely. Once the popup is closed, you cannot retrieve it again.
+:::
 
 ### Add the API token to your Workable Account
 

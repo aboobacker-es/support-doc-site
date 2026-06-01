@@ -32,11 +32,11 @@ To create a sentence completion question:
 
      2. Describe the problem in the **Problem description** field. You can use the formatting menu to format the text or to include elements such as tables or images.
 
-**Note:**  
+:::note
+* Click **Bulk Upload** to upload multiple questions. For more information, see [Bulk uploading sentence completion questions](<https://support.hackerrank.com/articles/5866154232-sentence-completion-questions#bulk-uploading-sentence-completion-questions>). 
 
-        * Click **Bulk Upload** to upload multiple questions. For more information, see [Bulk uploading sentence completion questions](<https://support.hackerrank.com/articles/5866154232-sentence-completion-questions#bulk-uploading-sentence-completion-questions>). 
-
-        * Click **See candidate preview** to view how the question appears to candidates. 
+* Click **See candidate preview** to view how the question appears to candidates. 
+:::
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1767604662662-image.png?Expires=253370764800&Signature=d4IhCPFoa0vy8sn4mGblnFJDFBRR4EinCIKwVWNgTR3VXyfYFGrxMFRmTN8GzV7Hauo902Awy7z5QwcQpoZmAcEcHWFjKBZUtqqN7xkRsjbsdEY-J0oaiiOOJUIcotf2soNSX93lfp5~S2CR5oTtRjDNwmFAu~G3lpN3SJxWxS-zA0iXPzg3VF-18kJSH0DiH~4~ErfOop~SDEtoRFOmhB2GF3UXacJmcG1r1lJ1odiO3L2k6wpeSoNcXqYfu5aL4QOay0c5GODKTE9DFfCZX3gqJLLH0KLnkUD1zx-Wbc690N65Yk-Kj11U4nGkxQ5-t147Tiq1S9kwYYzsYWDtcg__&Key-Pair-Id=K3NV4LZ47N8M46)
 
@@ -49,7 +49,9 @@ To create a sentence completion question:
 
      3. Click **Insert Blank** to add a blank. The **Correct Answers** section appears.
 
-**Note:** You can insert blanks while typing or after completing the sentence.
+:::note
+You can insert blanks while typing or after completing the sentence.
+:::
 
      4. Select **String** or **Number** as the answer type for each blank.
 
@@ -59,7 +61,9 @@ To create a sentence completion question:
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1775461741447-image.png?Expires=253370764800&Signature=YW37IyNB5VNOZAjd1Q7Po3yRMdpZo3Mij9TdL11nH2ecEhE5jEO3NroSSLQLBXC3A2p06g-26XRVsn6u1pM3F8OSwNbZM~QWPMQJDKcRHqHaMvNtFAZ~~Z8NgS4zIyZOASo7mYef8JTKf7Mf9p91cAV8YelhEuhAkv5r24AtfaF94B3rwmmi2cpJhBF6yD2xNwSVGsi8z6i2gigu5JMhcHh4X4nVunKF2wfJSLgGDi7tzFzhGn9WWO9B~L46h3cciblQMXeYOsuwdIM8ocu4kMHb~rAEs5knsZdK2yoyG21ZWWt5ogZWcoQZIQgXv17JgyiV9ofz~6RR4tcQRQg0GQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-**Note:** Each blank in the sentence must have at least one correct answer. You can click the remove **(X)** icon to remove an answer option associated with a blank. 
+:::note
+Each blank in the sentence must have at least one correct answer. You can click the remove **(X)** icon to remove an answer option associated with a blank.
+:::
 
         * If you remove a blank from the sentence, you must delete all answers associated with that blank.
 
@@ -79,7 +83,9 @@ To create a sentence completion question:
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1767604912735-image.png?Expires=253370764800&Signature=bEs77ljzyCFbl8Cz1KTUFnHD9OegOb92tlJmtdLnVAprzWw0ZKbDxBtuDhJvyYHQI37vr64b3YIvj4ndrRAxepXZPQRv6NhozN6yECdj0G5KQsi9mXlnSsPxBlFHo3Kc2txz2-IfgAlLL-wP~D9-fAY-2BAh4UOLJriFJuzKMn6G6HME3fkMFHhDdqxXRXvVvRRRoU8Pw4lC4J8dQlj6ulgwBksoxJMs7JX4SlggiKE8WnU8YKh2JtqgqUVvIozqo-A9UGKFwQ7mG6EfWC81VGOYDhdprU22SVvtMf-KxNpdjHuuk4YRRyAefVfgyg15a~1eSZb2zI8JV~AE0bdBCw__&Key-Pair-Id=K3NV4LZ47N8M46)
   9. Click **Save question**. 
 
-**Note:** Click **Save & Create Another** to create another question.
+:::note
+Click **Save & Create Another** to create another question.
+:::
 
 The question appears under **My Company** questions in the HackerRank Library.
 
@@ -97,7 +103,9 @@ To bulk upload sentence completion questions:
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1767604993787-image.png?Expires=253370764800&Signature=DWg~7o22n792G84MnyF51TbG1Oph71PDeNS1o70~1TO8meO4pjnpS3h6Nq5u57-Ljqarppye5F1hHHcK7UWZFn3tLTEGgRdbhGMrARYco5KjBEbklpjBEMNAwfyXzJ5i29eKUFiUIeuUSUf1egaMziAy1rJuD4QgqyVX13VPxCyL48vFZ7VwexellR76oKCwlyFMMsPpSKmriqGXwkQi42sajNWlDU~GAEuqE7uEMtS~p52iGujL7-wTLeDSQDZbRAUUaZqI-neDdmBQmMMmIM-IaDVrum2-9vP-~KX7-NYCjjd1LIfsj4xhwmjwwOxo9FkUZYyxgAFRr5VcuFYIRA__&Key-Pair-Id=K3NV4LZ47N8M46)
   3. Upload a **CSV** or **XLSX** file. The file must include all required columns listed in the File upload column specifications.
 
-**Note** : You can download the sample file from the **Bulk Upload** dialog box for reference.
+:::note
+You can download the sample file from the **Bulk Upload** dialog box for reference.
+:::
 
   4. (Optional) Review and edit the uploaded questions
 
@@ -105,13 +113,13 @@ To bulk upload sentence completion questions:
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1767605449982-image.png?Expires=253370764800&Signature=XIzmGMnT437IJBVAMje08UGUCwA4zjOSnx93ZKj~~vl4kjkbVA2qQ-5t5SzTXYb0haFKyZQ3fOGo3n0jGEfhBvCPkga8BRhItD8i1SDI0zIe4wEwHTmTlPO-5dsNy~vZ4ULyw9g9PglfJpdBUAaYHwy4iUK9RzVC036u9M7zLaXK4z60EpgpLB56W8Pg3aNGjPl-osfOyvKIyE6YIEeYNoCzWuzotRsNPH9G09A8Qc10-djIy3M~sbkqEJzl7jwaYc8kep011eojmc0mIv5XppdRt55thwl9J7GF8KmxGbrwVUwDvP2ypjtDv7WQYwhSslb8ibUBXqYTFbSYMSp37A__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-**Note:  **
+:::note
+* The XLSX format allows you to add images to the sentence completion questions.  
 
-  * The XLSX format allows you to add images to the sentence completion questions.  
+* The maximum file size allowed is 512KB.
 
-  * The maximum file size allowed is 512KB.
-
-  * When you upload the bulk file, the system processes only the first 100 rows.
+* When you upload the bulk file, the system processes only the first 100 rows.
+:::
 
 #### File upload column specifications
 

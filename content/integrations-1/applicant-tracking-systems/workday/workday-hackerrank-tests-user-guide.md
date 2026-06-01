@@ -64,7 +64,9 @@ Follow the below steps as a recruiter to send an invitation to external candidat
 
   * This job checks all those records in the **HackerRank Send Invite** state and sends the invitation to respective candidates for taking up the challenges.
 
-**Note:** If at this stage, HackerRank finds that the recruiter who has moved the overall status to **HackerRank Send Invite** does not have a HackerRank account, or the test does not have the correct reference ID set, HackerRank does not process the request further. In such cases, the overall status is changed to **HackerRank Declined**.
+:::note
+If at this stage, HackerRank finds that the recruiter who has moved the overall status to **HackerRank Send Invite** does not have a HackerRank account, or the test does not have the correct reference ID set, HackerRank does not process the request further. In such cases, the overall status is changed to **HackerRank Declined**.
+:::
 
   * Once the invitation is sent to the candidate, the overall status changes to **HackerRank Accepted**.
 
@@ -94,7 +96,9 @@ Follow the below steps as a recruiter to send an invitation to external candidat
 
     * HackerRank Completed - Failed
 
-**Note:** For a particular challenge in HackerRank, if the cut-off score is set, and if a candidate crosses the cut-off value, his or her status gets updated to **HackerRank Completed - Qualified**  in Workday. Similarly, if a candidate fails to cross the cut-off, his or her assessment status gets updated to **HackerRank Completed - Failed**. For all the other cases where the hiring manager’s evaluation is required, the status gets updated to **HackerRank Completed - Evaluation Required**.
+:::note
+For a particular challenge in HackerRank, if the cut-off score is set, and if a candidate crosses the cut-off value, his or her status gets updated to **HackerRank Completed - Qualified**  in Workday. Similarly, if a candidate fails to cross the cut-off, his or her assessment status gets updated to **HackerRank Completed - Failed**. For all the other cases where the hiring manager’s evaluation is required, the status gets updated to **HackerRank Completed - Evaluation Required**.
+:::
 
   * Apart from the Status column, HackerRank also updated the below columns in Workday.
 

@@ -46,13 +46,13 @@ The Data Science question creation workflow begins with the following three step
 
      * **Julia**
 
-**Note:  **
+:::note
+* The default environment is VS Code. You cannot change this setting.
 
-       * The default environment is VS Code. You cannot change this setting.
+* Click **Package Info** to view the list of supported packages. For more details, see [📄 Package Information for Data Science Questions](</articles/6282504591>).
 
-       * Click **Package Info** to view the list of supported packages. For more details, see [📄 Package Information for Data Science Questions](</articles/6282504591>).
-
-  2. Click **Next**.
+2. Click **Next**.
+:::
 
 ### Step 2: Project Setup
 
@@ -63,13 +63,17 @@ The Data Science question creation workflow begins with the following three step
 
      * **GitHub URL:** Enter the repository URL and click **Clone Project**. If the repository is private, the IDE requests permission to connect using a one-time access token.
 
-**Note:** HackerRank does not store your GitHub credentials.
+:::note
+HackerRank does not store your GitHub credentials.
+:::
 
 The **Project Setup** section also includes a preconfigured sample project for the VS Code framework.
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776698939647-image.png?Expires=253370764800&Signature=Ep~FIxfrddkI~gRG9m6AgoRXGKjqnODfUqTi-kNsB017UtKf8N5ENlqso517kuCYItFK8leyj-NU6hRziXfaw4srPad-9CFLX9Wt3LG2oZXj9ojM-3VHxlWUnuzm9UMfBAtTDDMR0oM036Kr~R0e3H40zz4j371Rq9AofNxR0P3NmKLkRIL0RLEFyg1Sa82fyJNYH9Ap~PeMGU3CpIzinT0UHCAvUw6bst1xeMwgalrBiK~6Cir9az~MYDFyk3oQw0hIVVDg6BYW-sGAOLeeIJOdi-qtYBjwLnQ1XsA4Q8k-W8nPBI4tNmkoSxBgVTHdnTABauDdCLbPd6WyVxx9vg__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-**Note** : To specify which files open by default when the project loads, configure the `default_open_paths` field in the `hackerrank.yml` file in the following format:
+:::note
+To specify which files open by default when the project loads, configure the `default_open_paths` field in the `hackerrank.yml` file in the following format:
+:::
            
            configuration:
              default_open_paths:
@@ -79,7 +83,9 @@ The **Project Setup** section also includes a preconfigured sample project for t
 
   2. (Optional) Click **Browse Files** under **Additional Files** to upload supporting resources, such as datasets, scoring scripts, or other required files.
 
-**Note:** If you enable automatic evaluation with a custom metric, upload the scoring script and the expected output file in this section. 
+:::note
+If you enable automatic evaluation with a custom metric, upload the scoring script and the expected output file in this section.
+:::
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776698977448-image.png?Expires=253370764800&Signature=vYrOOiiIBqj5lH4T5yc2BkE277w~wOXAHoVGQDXIbAOjJWzU1ly3pFfob5iToe7A8tfDtzLTLnGkDmuGuI21oaqBJJNzqSGl0~ksAqw1s-9hAzB2Yxw6fVXSSvPMPoAQuhzdwxx55ax~QxEWWaPE4V6MxX8X~W78m5sjHt3l5GDTEDFPkwlnsSS68PZbuSTc42LUnijwcEjPAqhWrd7Aa8cfR7pFkL9Y0FueOwJVZI-Qk~aH4-uTZS-Q8bbYF9h9EYYuWY1~1fxn1r1JjGyV9eOaMufZrgpWxipNjn7EWxXYn1X75CaTN40zB141C~7-bLg~Xgw7Y~eBEgWdxZTboQ__&Key-Pair-Id=K3NV4LZ47N8M46)
      * The total size of uploaded files must not exceed **500 MB**.
@@ -200,7 +206,9 @@ The scoring command must execute successfully, produce valid output, and return 
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776699505233-image.png?Expires=253370764800&Signature=QY2gv1dggQ4f1WzhaFxDdhYBt9HU8EsVnWLF56eSF3t1Ncc-JOJnamZA48y-csQZ~UQpDCRdV~5TjEl6kpV5d5GoHiS~Ki6VZ4dcXRx106imwETDJ8rJy-MMSn0Ov-ZVkcdoqGIk3PqQbMieFXskiGkVPjHEVnsO0lMbmJGMioPZ4mFsKX3MvZ3YBw5kijbxwd8ABmi2ngzhrVrfgxUGWp3BQQFb~O8ODBxeUtneEMNGarhxrUc2Lbdle1A~K6oqFa8aJWvHmNApwsbbvQhanysxc0K~uLvg81CAltw3rypo6kNBs5mDpQtQxBfWRpHCGEI5TQLT9m-ykOMnEj1tAQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-**Note:** Click **Revert** to restore the project to the last successful validation state.
+:::note
+Click **Revert** to restore the project to the last successful validation state.
+:::
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776699684859-image.png?Expires=253370764800&Signature=qjz~mCopxDjfb~affmryP820-t8bOdElbUm~Ty0TKJzutb7JjIRy9PFg663p4geA3mZ7OqsJl~EPpGYmdI56DO9SecUtrOrihcSZwhOgshxrG3oqW4RPDrqSeY3EJCMX12LTb0qUG~BMKc8eWrXl4U6X7b2QBB5Q80mfzQ8qo6LYyy14F9sX8spWWQ1EBYP6yOufgE8Q5E-nhOkQ4bu927~MprhTAmFQD4mInpeDlrBj1ReBCpOb1HPNJq66YLsICxISsyW8F6ObUa5rxJ6cA5dNqYjmOgtu3FpYzLRUxAtRQU1-l9Y9a5lVS-0v6DWfcAyfzfW4eutCHhdiWZ~VDQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
@@ -225,13 +233,17 @@ The scoring command must execute successfully, produce valid output, and return 
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1772610447185-image.png?Expires=253370764800&Signature=Eu~fwaQn86XRjOXwgOWo60DNazUBxCcG7AEKPcMFtr-viSm7lqTBdZG4b8xNZmAmwRXJ~yHl0dHXacdS2ED44A1B1nTkxWQRRXXko-1~f8O2p1-fINQMMdsLU9mmHOFagcxmp2Lxpjh-WK-RZ7VNWFjYkjS5PBiWvaA135dj1yk6nevW1~p954cT7CAScSJ1Z3tz8eLEgZ6i96jz1ab~HHkBAV83OR5o2~~Lb3oRfWB636j-JEq6mQK2-oEIVAnRJXmUpGC5huTnLXT77-ordrZBtWrNuM2inDX2XXR-zsaH1m9LNfMnNFjTSNZx2dKPjbZ4mfsPJ5qirBGZQ83dqA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-**Note:** If you selected manual evaluation, add the evaluation criteria in **Interviewer Guidelines**.
+:::note
+If you selected manual evaluation, add the evaluation criteria in **Interviewer Guidelines**.
+:::
 
   3. (Optional) Add **Software Instructions** to specify required packages or software versions. If you leave this field empty, the platform uses the default instructions.
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1772610752280-image.png?Expires=253370764800&Signature=aHEIF4pPZzx-7EXCF0Ui-3IuO2hat-z~hpw0VKPtLbRaxAcp74a-tbR0ddDBLqlU-5YeMGTqqxXQ5P81NamItYQnz9-iX~pH-ed5aE3amUlL3xIgYdNy0SbHz1x9EcgJAYaVopZoRTvIKS6ELVXFvETZAqKk-ddEAkmJjK798qeaf5m9hRvyYaUXwUduzP6Z7~uvi2ooZXULsHTz8t1WF76oZrGM7oB9gZMGMczi~dXNXMvvl06z0XqTYqnY7qEnm10i0yP4~bBW~zyX-sOxT6SZhAaDRFan0i5nZFTSUP3PDKOH2xzNN1AazyoADvrzlF31mCjvVSR6rcx18mVCqw__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-**Note:** Click **Try question** to view how the question appears to candidates.
+:::note
+Click **Try question** to view how the question appears to candidates.
+:::
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1772610684194-image.png?Expires=253370764800&Signature=dIZK1YJvO3S6Kpo3TLyz4kcNKX7M9A2WFq6lfXIbWrgTx3okFcikDzqHPF5N-bGQGSNjPNmBI6HjK0pUjhKGvOqaEfiU2tSJRyc-aDIj0i0BOr6oE8m3p1XDGd3-hMtSQB8hmKr2IPnFSt-GVKzDRur-G81xv6P6rPkcJGdmCjucizB1HQkhrAyOb6Zp01xt0zC91JWM8-F7MfvgFUAxRh2WJFQj4Rxt5lEM5d6vH-~JKr~tG1os4hcOFBZGI5lGeBA7hnLh2ft6oz2LMq3nU1RFRjaJK3apAr2YkCcRl~BYpqwZy4Q-qMFyZONqFY0l6KkXeSL1hkI0DMG~T7TZYA__&Key-Pair-Id=K3NV4LZ47N8M46)
 

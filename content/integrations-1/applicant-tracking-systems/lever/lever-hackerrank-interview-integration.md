@@ -83,7 +83,9 @@ _Unique Signing token generation_
 _This page provides settings to enable integration with HackerRank_
 
   8. Scroll down on the page to the **Assessment** section, and enable the **HackerRank CodePair** option.   
-**Note:  **Although you'll need to enable the HackerRank CodePair, **you will not need to copy the key that is generated**.
+:::note
+Although you'll need to enable the HackerRank CodePair, **you will not need to copy the key that is generated**.
+:::
 
 ![Assessment.jpg](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047108074-?Expires=253370764800&Signature=OOXfUkZUJzbPPdoZSKKx1MnQlpY7O8GUC-P4i2cf7vuJXGoU6Ye8gavnKcs4Eb7as~5Oy4g5ybEEEWfzzA8GKEUuKu88AlvmvSuP4h1D-Mz8sm4p-qnc3j2MGXPgjP-DON6ypQxY8fPua3rP3eZWgGCc6oX01XfQIawYf~pjfEn8ATfk50ch~DT0SI-rUhlDzmW8vjj9SiBfVp~QkCX8ywRqVhPPZNmDR4qXxxoxxbwbA4h2K6Oe7qJX2E~w2EC0RuuxwZrCkZC9K07SMdPNNL9PkHrfoHN~hNTK6R5ReHGGHr21dDxO8402MJq9SLvIVs5OUr7P6zRS3DsgL3z7QA__&Key-Pair-Id=K3NV4LZ47N8M46)
 

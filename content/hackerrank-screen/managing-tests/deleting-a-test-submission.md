@@ -9,7 +9,9 @@ is_published: true
 
 If you want a candidate to reattempt a test, you can delete the candidate’s test submission. This action permanently removes the candidate’s previous attempt, including all proctoring records, and resets their test status to **Invited**.
 
-**Note:** It is recommended that you do not delete a candidate test submitted if the test is in progress.
+:::note
+It is recommended that you do not delete a candidate test submitted if the test is in progress.
+:::
 
 ## Prerequisites
 
@@ -32,7 +34,9 @@ To delete a test submission:
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1756805925623-image.png?Expires=253370764800&Signature=rEZYeYgxUREkc2wOQM1KPiEelG2~nRKEeN37d-pq5l3nVHS5sP-0~CLlqmDustWp6Qmp1y2z4EEBij-VTeVgmlCcuqiXH7qXhA2GQuvXYGWdxGcQRV6H46hnl3A7Y97CEt19XpDSC15xXsZS0o26FZvGtcpRTwC6LBJWBMghNJLHLX0SELlp4TToB0pZmYiKoUOTY2B30wPnk3nqh-t3~3VWC9PcRFsPNsLKLGV3hmwUtIaPrlRyhacbZMBTHdx6HPKvWqn8XAWvGLCymXDXWpOj9iscWeuu0L1c38Fi2NxTTQVvidS3wRxe32lBpfUzHTnV5vXMBud4IvZVA~UtlA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-**Note:** You can also search for the candidate by their name or email if required.
+:::note
+You can also search for the candidate by their name or email if required.
+:::
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1756805875401-image.png?Expires=253370764800&Signature=tMSaJ02yfhP0RdKo2xka15caebo-iSlVgw~ejVpfDaxb26Hc9Ity8jIt4XGxEk-GJnMj450q2ekqIZDGnsIxExktaTO5L6a-Pl0tvP1QZRbS7y3MHodwwBjqDfizUzkkYT~cbqbFTaKEmdLRPltUBCJw1ga3D-RF2wRsOg3oEQhMEx~2Ar0ec9LIkIhTQJsAt9v-qc2v-zdoxOZZftbwNNS053XV4FWbEkUbJKr3Wg7EBls~kurYwT0T1zDEl3-98JN4X~gJMSnEMMP2~NaloB-X699yzsbBQedvf96tdmWmzr7ezXs0xs6JyYED-ntTmQxalHU0zHWuGMyvu3tN6Q__&Key-Pair-Id=K3NV4LZ47N8M46)
 
@@ -43,4 +47,6 @@ To delete a test submission:
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1756806028199-image.png?Expires=253370764800&Signature=NMmMB0KR9PDNTT20V0yQz9n3PTMqTawaPXIZ8p671DyPY1whbfVOu2h2ZB2P~TUXbdqAn2F33FsMAO-TTTgsmhaMGvh~T76aIw5GXxTCtkRD5CIQnCbMUcKreXZkBZtyyMj4ORy8f7wkRTupOMBcqGhbKC4qvXMH95CwRS6RdLVj~mawVvwsDSzW9wrbnHGX07vEil3lckQ-ekiXhCKxFoQWvGq7LG0uA9IBh5l~c8opDzpvwg7uFEOLKFzVryp3M-S45qA~VVdB7ExmYvuYqP9QBmH6LgyC2Lqcipo0awQBB-aIiWm4~cp3CzoKiniateddV3mhVadAoWE1CuHS0g__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-**Note:** Once you delete a candidate’s submission, the candidate can either retake the test using their original invitation link or you can send a new invitation. For more information, see [📄 Reinviting Candidates to a Test](</articles/1002936098>).
+:::note
+Once you delete a candidate’s submission, the candidate can either retake the test using their original invitation link or you can send a new invitation. For more information, see [📄 Reinviting Candidates to a Test](</articles/1002936098>).
+:::

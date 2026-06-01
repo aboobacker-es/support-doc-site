@@ -97,7 +97,9 @@ After an interview ends, you can sync the interview scorecard from HackerRank to
 
   2. Click **Sync to Workday** to sync the scorecard to Workday. A success message appears when the sync completes.
 
-**Note:** If multiple interviewers participate, each interviewer submits their scorecard in HackerRank. Sync the scorecard to Workday after each interviewer submits their scorecard.
+:::note
+If multiple interviewers participate, each interviewer submits their scorecard in HackerRank. Sync the scorecard to Workday after each interviewer submits their scorecard.
+:::
 
 ### Step 2: View the scorecard in Workday
 

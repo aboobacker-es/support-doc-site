@@ -107,4 +107,6 @@ Add the following IP addresses to your allowlist:
 
   * `44.208.240.181`
 
-**Note:** These IP addresses are subject to change. For assistance, contact [support@hackerrank.com](<mailto:support@hackerrank.com>).
+:::note
+These IP addresses are subject to change. For assistance, contact [support@hackerrank.com](<mailto:support@hackerrank.com>).
+:::

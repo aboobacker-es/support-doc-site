@@ -37,11 +37,11 @@ To integrate Kula.ai with HackerRank:
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760431378680-image.png?Expires=253370764800&Signature=p2W4BwXDTa2nv0wnYZyfDfU6N6r0sID3ki16sW7cqBML~4x~GUiVMCtUR1IoAK-ce~b1bOw67aPLoJF-YCNmDGIM3xo5plzObgsr6adlHtzxMV3h~293mztvStJn8Da5oGam3QqGZR2NtYsLjje04GxTK-5aWGe15gZuaNDE-39mDQ92KbeoSB88lQkXeptAEjrbFI-4tTPv1x-TcVREY0jPMwxAZYtgsxajdAxG~QJ8TyqXMb3ndjpHnaGm7GlL-ikA9CojRprJ9gO2DYZWPf27DFp4krSAGlPbpw6i7gbxOoLCkcczQH27Gij1d0PEtwT~xZ1K~zrcVLhAwoQNLA__&Key-Pair-Id=K3NV4LZ47N8M46)
   6. Click **Copy and close** to copy your token. You need this token in Step 2: Share the token with the Kula.ai team.
 
-**Note:**
+:::note
+* You can view, regenerate, or delete tokens at any time on the same page.
 
-  * You can view, regenerate, or delete tokens at any time on the same page.
-
-  * The **Token Activity** tab displays when and where each key was last used.
+* The **Token Activity** tab displays when and where each key was last used.
+:::
 
 ### Step 2: Share the token with the Kula.ai team
 
@@ -49,7 +49,9 @@ To integrate Kula.ai with HackerRank:
 
   2. The [Kula.ai](<http://Kula.ai>) team enables the integration for your organization.
 
-**Important Note:** Share API tokens only through encrypted or secure channels.
+:::warning
+Share API tokens only through encrypted or secure channels.
+:::
 
 ### Step 3: Complete setup in Kula.ai
 
@@ -75,4 +77,6 @@ From this page, you can:
 
 If your integration stops working or a token expires, regenerate a new token and repeat the setup process with the Kula.ai Support Team.
 
-**Note:** For setup assistance, contact your Kula.ai Customer Success Manager or reach out to HackerRank Support at support@hackerrank.com.
+:::note
+For setup assistance, contact your Kula.ai Customer Success Manager or reach out to HackerRank Support at support@hackerrank.com.
+:::

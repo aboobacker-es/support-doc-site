@@ -53,7 +53,9 @@ Ashby adds the AI Interviewer activity to the selected stage.
 
 ## Scheduling HackerRank AI Interview from Ashby
 
-**Note** : Before you schedule an interview, ensure that the **AI Interviewer** activity is added to a stage in the job interview plan in Ashby. For more information, see [Adding HackerRank AI Interviewer activity in Ashby](<https://support.hackerrank.com/articles/8472393759-ashby-chakra-integration-user-guide#adding-an-ai-interviewer-activity-in-ashby>).
+:::note
+Before you schedule an interview, ensure that the **AI Interviewer** activity is added to a stage in the job interview plan in Ashby. For more information, see [Adding HackerRank AI Interviewer activity in Ashby](<https://support.hackerrank.com/articles/8472393759-ashby-chakra-integration-user-guide#adding-an-ai-interviewer-activity-in-ashby>).
+:::
 
 To schedule an AI interview in Ashby:
 

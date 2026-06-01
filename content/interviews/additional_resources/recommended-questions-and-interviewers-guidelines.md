@@ -15,7 +15,9 @@ Recommended Questions are a set of interview questions curated specifically for 
 
 Each of the recommended questions also comes with a set of interviewer's guidelines that provide hints, solution code, complexity analysis, potential follow-up questions, and so on. This article will walk you through the steps in viewing and importing the recommended questions in an interview. 
 
-**Note:** Interviewer's Guidelines are visible only to the interviewer and not to candidates.
+:::note
+Interviewer's Guidelines are visible only to the interviewer and not to candidates.
+:::
 
 ## View and Import Recommended Questions
 

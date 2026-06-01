@@ -47,7 +47,9 @@ To configure Interview settings:
 
        * **Speaker** : Select your preferred speaker.
 
-**Note:** If you experience issues with your webcam, microphone, or speaker:
+:::note
+If you experience issues with your webcam, microphone, or speaker:
+:::
 
 1\. Select **Help and Troubleshoot** from the interview Settings menu.
 

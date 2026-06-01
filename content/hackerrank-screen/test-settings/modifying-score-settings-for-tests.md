@@ -38,6 +38,8 @@ In the **Evaluation** section, you can update the following:
 
        * **Incorrect Answer Score (Negative):** Enter a negative value to penalize incorrect answers and discourage guessing.
 
-**Note:** If you leave this field blank, the system applies no penalty for wrong answers.
+:::note
+If you leave this field blank, the system applies no penalty for wrong answers.
+:::
 
   5. Click **Save** **Changes** to apply your changes.

@@ -17,4 +17,6 @@ You can also change the name in the **Settings** tab, under **General.**
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734947476447-image.png?Expires=253370764800&Signature=UvnI1FuCFMr0MmMmS8Byl3toCq7LQ~cbTuPgzJmto181hvSbpcKTTu9IGelCI1sh3WAIHOfMOWaQMiw2ogREs13BWtLvog2q5sfwaCQiXfUhvI9d~5gGD72B1l2E3vrq28J1KPRH~AowDixFJC9JiSGK00wFdVwz9Ghcx~ZCcGtSqnprHT8gluXBz488hr1ha8nFmBL13UaO3bSbeOKOn~Idrsjn6~cd8h~o5FveSCInSyak~k42CeQ08AW95QXIlCsnj9CxIMgNF7HL7rnMtGvb03SRy4kNF-xCsse9zoOfAt0lBgRh0h9hY4KH0q28SXPiXCmiyI6vqjRLb5uGpw__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-**Note** : We recommend you not change the name of an ongoing Test.
+:::note
+We recommend you not change the name of an ongoing Test.
+:::

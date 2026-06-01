@@ -33,7 +33,9 @@ Login to your Workday account and follow the steps below to complete the securit
 
 ![A screenshot of a cell phone  Description automatically generated](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047141270-?Expires=253370764800&Signature=B2rkHj~qMkO98EI529HrHRGML-qtjGdyz4c~pZ4r8azr5BEjKiuAv1QCohREY945STnk3oMaQbmBbDnDVqUYx--b-zX543GPyXLVmH1e84BtoUkxd1q7pISnSYOC6GqWBie7W5hTNeUUK20HKFuXH59x~CR9bJHQ2sNK8sy3auvLN0-dnRKP3KFG09C0qJW9fY7OduvSmqETzSrmZlOLRWRRaTZA-ntNaws7ZGLLe48jE1KDoOXmDzSxMB93SnNfQZ6NzKSyz5I16HH6BaqxMUL90iD4tUmUpDtBFGhtz6-IruTNtqNHrvHVNmd~na2SZCeno9nA9z2glZMN0pO2ng__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-**Note** : It is advised not to use special characters such as "& (ampersand), = (equals), ?(question mark), % (percent) / (forward slash), \ (backward slash) while creating an ISU password for Workday.
+:::note
+It is advised not to use special characters such as "& (ampersand), = (equals), ?(question mark), % (percent) / (forward slash), \ (backward slash) while creating an ISU password for Workday.
+:::
 
   2. Create Integration System Security Groups (Unconstrained).
 
@@ -212,7 +214,9 @@ Follow the below steps to configure default tests in Workday.
 
 ![A screenshot of a cell phone  Description automatically generated](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047146786-?Expires=253370764800&Signature=PM0s49QTQ~yv4mvjWLlEBb0B6xJW7ThyjEc0zxxqrDwVvlpCQ8PrQ~enRm7GiKIrNyq6s8Sy3qpoNj3bC~rIS9wYAHoWwb7lVEDCtGGIbLHckFCUqX-SB1MRuE-WcyzMQOXhLr7fgH0nLK8hBYCQFkAIvAthbn7JGMfe42UCNGAoQWn4I25GXpx2INXl20g2Lt0bHqBx6vXlH-c5R1BwAhKFLBBgi4VeeYg-qU6MZYByJY4rsZ2lDNK3~2QVmTGxpkHpsHpvNL8tKVIq5SmNQ7Dfpgmicrvfa19dnK-5W3OUQT0HV9rmMo~YzzrefveYLY84uwujMyEas9H25d1rdA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-**Note:** A default test cannot be added once the job is live and candidates are added to it.
+:::note
+A default test cannot be added once the job is live and candidates are added to it.
+:::
 
 ## **HackerRank Configuration**
 
@@ -232,11 +236,15 @@ The HackerRank side configuration involves the URL and authentication setup.
 
   * Click **Save and Test.**
 
-**Note:**  Once the recruiter invites a candidate to take a test, HackerRank will not invite the candidate again to retake the same test or take a different test. If you want to change this setup and want your candidate to get another chance after a certain period of time, you may control the setting from the below option.
+:::note
+Once the recruiter invites a candidate to take a test, HackerRank will not invite the candidate again to retake the same test or take a different test. If you want to change this setup and want your candidate to get another chance after a certain period of time, you may control the setting from the below option.
+:::
 
 ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047148670-?Expires=253370764800&Signature=TPuClbX3H~1kayuAFklxILjabhnyt0scx5Kpmc-bP2ww9fab2DqLLY-N8ihQ3mSbC-GmLbUmKfq2tCgVEeUhsFNq8FN-P92cSoUQlsRQPPiDzBMwJzHlrWh-A0-UpH7foSIKHG0I9iFIM-KRsL7bH11rxvfj-6jJWBArEn-JJQB47P3UW5SObzgy28TPPjAGmbfQbEoAL3iQldu2xqjCc2q-rU1uxBw3BzCMDIDjd6p89hGgh1QPdBysbksfgAYQYjGC899Lf2wxXwljl6IoNABNu~7lpO10Yuud8qP-95f-sEx2rovj75LshjaL~64oKd1uFsNozLFqkvFg~CInpg__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-**Important:** Once the configuration is completed, click the **Enable Integration** button to complete the process.
+:::warning
+Once the configuration is completed, click the **Enable Integration** button to complete the process.
+:::
 
 ![Screenshot 2023-10-30 at 5.12.11 PM.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047149235-?Expires=253370764800&Signature=Bbq6XaRtAM3Uq581FKa6MF4XZgcSrPI8tfg46EAPceRqvZuz566gJeev8eqw2ONWbeDOAig4FcrMu3Jgtm30Hy5246MhQpStm0lOg~kdRnHaaWEuv6JxtfcYuy1dJeN5xtkxd6NFtTmKZRQncbREUqovUNlRohGjg0uVmzSlc2o1WIDkGMnFwKhsYmFca8rxU2hV-i~5bKU0IUu3eQxffg6GraWeaEZeMoqePXgZaMMcyLjQUBxCCJ2pOwPXVzNiM6hCe6OdqMSiJft7X4ponqquWFs~AHlFGJN04kQEIZpVtpm6rpLH4k8YI96eIl5jmoWQxIerWdE5tp8jTVdF1A__&Key-Pair-Id=K3NV4LZ47N8M46)
 

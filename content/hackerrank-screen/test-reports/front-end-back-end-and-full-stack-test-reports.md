@@ -35,7 +35,9 @@ You can view the Test report of a candidate after the candidate has taken a test
 
   6. Select the IDE view to automatically open the Candidate's project in an IDE and review the submitted solution. You can directly change the candidate's code and run and test it to determine where the candidate made a mistake. This approach does not require downloading the project locally.
 
-**Note** : The IDE session is active only for 30 minutes, and any changes made during the session are not saved.
+:::note
+The IDE session is active only for 30 minutes, and any changes made during the session are not saved.
+:::
 
 ![IDE_changes.jpg](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046745235-?Expires=253370764800&Signature=HGRyMt53IrpCAvp-CCWGrSVbfQ7-v4UDjb70l5IUQ4MZ81Xeh-kw7ahlXkMBJzHjwV6CORbJf3ISbEEU5Id6KGMhrCQ5QhgWa26UMX79ZqW6L30rmSUExW1biWKrK6L9sGs3XTF7GCNa87Wig3~HZH4rU3e12GVdivgPaOoj4Z3pLg2zDalW7LW3VITr2Uyc1ENrfNkBqMBE0FL3vW22L5X7N4JpcBiFyTHdHWHRJpruDiRa5S97dQwaeSbOi9AQ5TY68Qy0pE8FwpBfTmjWlqeDO4h6GLtPKGs3lb9lji4mmQxCSUx0uPBZIaQn5qiwdJeuA8l3HcHDp6rg5itJ6Q__&Key-Pair-Id=K3NV4LZ47N8M46)
 

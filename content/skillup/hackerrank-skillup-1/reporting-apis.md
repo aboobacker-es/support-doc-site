@@ -9,7 +9,9 @@ is_published: true
 
 SkillUp’s Reporting APIs allow you to programmatically extract skill signals, badges, and certification data from your organization. These APIs enable you to integrate learning insights with HR systems, build customized reports, and connect learning outcomes to business impact.
 
-**Note:** Only administrators can generate credentials to access these APIs.
+:::note
+Only administrators can generate credentials to access these APIs.
+:::
 
 ## Available endpoints
 
@@ -40,7 +42,9 @@ To configure reporting APIs:
 
   6. Copy the **Client ID** and **Client Secret** to the clipboard or click **Download JSON** to save the credentials as a file.
 
-**Important Note:** The client secret is displayed only once during generation. You must store it securely before closing the dialog because you cannot retrieve it again.
+:::warning
+The client secret is displayed only once during generation. You must store it securely before closing the dialog because you cannot retrieve it again.
+:::
 
 Your application is now successfully registered, and you can start making API requests.
 
@@ -58,7 +62,9 @@ Example: `client_id:client_secret`
   3. Add the prefix `Basic`to the encoded string to create the Authorization header.  
 Example: `Basic <base64_encoded_string>`.
 
-**Note:** The access token (JWT) is valid for **10 minutes**. When it expires, repeat these steps to request a new token.
+:::note
+The access token (JWT) is valid for **10 minutes**. When it expires, repeat these steps to request a new token.
+:::
 
 #### Example
     

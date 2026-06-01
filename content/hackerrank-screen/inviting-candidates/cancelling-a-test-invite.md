@@ -30,7 +30,9 @@ To cancel a test invitation:
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2Fbad8f716-dff4-42e5-9963-72616b9a4ff4-1746782811789-image.png-b7cbe039-2522-4131-903b-c276d4325264?Expires=253370764800&Signature=kRMKC-Gtk34kkgFnL55xZQdcNKvxo072cnZiLNLlZ2Ve8NIpMksP--wEKtMQ7gdtIbPaCa9Axh75FB~3QvqvWt0Wfmhwjqs6j5jn4lsOfdhklKiv9bu9FA8beqTgAp2RfGbMJrCW89Y08-s49I4UWOZjPl8dYZy2x6Y2aaUaV322aprhau~3PL68f4LRdXEJe84UD9sU~UrMoX7QmdLrwGYqsd3zgVkwSn2fOfDfnI-MKYsF~KuZTu04-Ch9GnOT1N-ZuBqd6RBR4KlCD-gh603P6YIKrWYGVoYblSyJC72usDC9hWuSyaaRvcA4zUSk~LgLEWRteXTGLbJBZq6XKw__&Key-Pair-Id=K3NV4LZ47N8M46)
   5. Select the checkbox next to the candidate’s email address.
 
-**Note:** You can select one or more candidates.
+:::note
+You can select one or more candidates.
+:::
 
   6. Click **More** > **Cancel Invite**.
 

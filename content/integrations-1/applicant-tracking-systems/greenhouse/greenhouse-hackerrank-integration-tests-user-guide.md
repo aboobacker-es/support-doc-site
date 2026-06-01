@@ -38,19 +38,23 @@ To add **HackerRank Assessment** stage to a job interview plan in Greenhouse:
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F991d9a36-d348-49b9-9b2e-dace95099b31-1770361240371-image.png-c9a6b42f-2ed5-4369-be6c-395976cd5ecf?Expires=253370764800&Signature=W3AJ-lA0zAJajDQ6oygT2eC0SCfdvZckQQasI1jABcdekTeQYa22rZMelNQ3RT1ejkTDqMdwtEc~fKdBHXGEIJZq1-Q4q5YruKeM7A0ZCGI-vcXWbMpDTE5NNqsYmTeaFzuikPCcaJaL~DN~nfS8tB5E-H8awy7IFozKGOwvyjCzEzls4bEkrOH79vdDuk7CVYhdyCURohd0opsfMHWxGJnZO6toMTdCYsXji0Bq36tSIxjrCQzcozZDMjR~CLOINVxV8NAZEZb72nx4uOqq8m8dX9UkZnio9~AQdJ2MJ8RRDmogLiCaANV8nfVt1YmHW82fVe2GaAnkoi99Tr5wow__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-**Note:** If **HackerRank Assessment** does not appear in the stage list, the integration is not configured correctly. For more information, see [📄 Greenhouse - HackerRank Integration Guide](</articles/1406188460>).
+:::note
+If **HackerRank Assessment** does not appear in the stage list, the integration is not configured correctly. For more information, see [📄 Greenhouse - HackerRank Integration Guide](</articles/1406188460>).
+:::
 
   7. Click **Add**. Greenhouse adds the HackerRank Assessment stage to the interview plan.
 
-**Tips:**
+:::tip
+* Rename the stage to match your hiring workflow.
 
-  * Rename the stage to match your hiring workflow.
-
-  * Move the **HackerRank Assessment** stage to the appropriate position in the interview plan.
+* Move the **HackerRank Assessment** stage to the appropriate position in the interview plan.
+:::
 
 ## Sending HackerRank test invite to a candidate
 
-**Note:** Before you send a test invite:
+:::note
+Before you send a test invite:
+:::
 
   * Create and publish the required HackerRank tests in your HackerRank for Work account.
 
@@ -178,7 +182,9 @@ To view the candidate’s test results:
 
   6. Click **View Report** to open the detailed performance report in HackerRank for Work account.
 
-**Note:** Click **Download kit as PDF** to download the Interview Kit.
+:::note
+Click **Download kit as PDF** to download the Interview Kit.
+:::
 
 ## Viewing updated scores in Greenhouse
 

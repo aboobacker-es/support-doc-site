@@ -35,7 +35,9 @@ To update your credit card:
 
   5. Click **Add** to save your changes.
 
-**Note:** All payment information is securely processed via Stripe.
+:::note
+All payment information is securely processed via Stripe.
+:::
 
 ## Updating billing address
 
@@ -86,4 +88,6 @@ To download an invoice:
 
 ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F0e1696b8-f892-4d40-917b-a144fcd383b2-AD_4nXe3-1eYKz3L1e3EkzFlv5sx5gelqms6_s75C7avLC3KZnFMryPoZAYAJ5G-YTWlytRCc6uWxLfE7NhFqVR9d8Eejv3OTqSttbSzzaFyInD4u7GU4qF-F3cTsDWn4wcF0WVBi6cZ-9ae3e241-5558-40b6-908d-c7c36ca2abf7?Expires=253370764800&Signature=nySm5S37YsXsmJ6SIuYj9QWlxz-cEf~sYlIaPo02BGSpBCZgkYpE6ksIhzft2xjpKTPjdGBLtaeLNhW2NmKpAlSlIfU2pcAOoJWlY3J19kIIIUI6Q2ukSEWu2Sqw8rwPKAPCJvNMgjLCsuZK~OiwG4U~kcwzSJ5XBRzmtI4R7wdDEi-c-KSkSuQGDbqw9G8sMr3ab35Osro3FM8ttWI5WnKqmnM6Kg-Tf3i0ucKYg9Wo4~Eoxg4E0UI7tHCpnb0jLiRoyR5nE3pIzFSHVauSwead1Mk9gn8S1xVXv7vdbVMIe3Wzu0vdKJ06L8U4ZY~1cFQ8hnkM5qQZtoZeLuNJGA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-**Note:** If an invoice is missing, contact [support@hackerrank.com](<mailto:support@hackerrank.com>).
+:::note
+If an invoice is missing, contact [support@hackerrank.com](<mailto:support@hackerrank.com>).
+:::

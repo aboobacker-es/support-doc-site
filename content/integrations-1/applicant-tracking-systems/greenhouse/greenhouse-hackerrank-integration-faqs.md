@@ -125,4 +125,6 @@ If you encounter issues with the integration, try the following steps:
 
   * **Verify candidate email address** : Before sending Test invites from Greenhouse, ensure that the candidate’s profile includes a valid email address.
 
-**Note** :For more information about admin permissions, see [Company Admin Permissions.](<https://support.hackerrank.com/articles/9603546665-types-of-user-roles#company-admin-2>)
+:::note
+For more information about admin permissions, see [Company Admin Permissions.](<https://support.hackerrank.com/articles/9603546665-types-of-user-roles#company-admin-2>)
+:::

@@ -43,7 +43,9 @@ The HTML/CSS/JavaScript question creation workflow opens with the following two 
 
      2. Describe the problem in the **Problem description** field. You can use the formatting menu to format the text or to include elements such as tables or images.
 
-**Note:** Click **See candidate preview** to view how the question appears to candidates.
+:::note
+Click **See candidate preview** to view how the question appears to candidates.
+:::
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1772443616229-image.png?Expires=253370764800&Signature=byIQN~2~rNAIiwqwP-Z4GH3MQ~RIPeNUFLIQYGc7ORBA5~4xtE7HFhD8ZWHnk4ns6z1lwDzOOp3RThGfMgLZpVIlhj1HfXXOAo7ZVgWai98VrIpJesZJfz6STwQK2JDGa1RB7iYIx5chFa2QCBIeoA~4floEDv~mY87yLK9cYaCmYWdfqB-bWdKkM0zLIOPljc7ovlDPkews0cxgj8myAhVsDTaVxqE5KAxsj6-Prl~WhSeV7HuYL7jntRxOnHOXQx-X6Rgzky2KAIpymhRaO5IcAEH7CYqH0ZJtV92NoQHV3VWo0RS~Q0U0pqtxNF1GW1C~tH5tsdkPLjesPO3XyA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
@@ -78,11 +80,15 @@ Candidates can edit the provided code stub. If you do not want them to modify a 
 
 ![designstubshtmlcssjs.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1772443846582-designstubshtmlcssjs.gif?Expires=253370764800&Signature=JKtlWjwaDW7R3bQamqmx-~B4hSp-4e9ebRz541im3PUnzxpDxjBBpk70Nu5iT2R-lXfnzw7z5oGy85zr5lOYHxR20OL7cRQKoHEaZAqhjJE91CzAQ77s7usbrRz~ucO4c8bFgd3ZkYDACTjZrPVd20CUGiu74C0qAjuTTRxLevou4~i2Qm5y8Yfyc-O9NpMySaFicPppkPXhDbqlCSz8NnI5P9l3k7KovPaLbSKi9~8SDsw1zDUhgNaYu~ptoJwI7vefMC~mFZ2eiszNBqScM0RfajrNkPlJxyGKhtVvD6qY0LU~KyQeyVNtOGjHBFMWtEXlhCqUkU1EEv020qH8lw__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-**Tip:** To test a specific framework or library (for example, Angular or jQuery), add a `<script>` tag in the HTML stub and set the `src` attribute to load the required library. Candidates can then use that library in their solution.
+:::tip
+To test a specific framework or library (for example, Angular or jQuery), add a `<script>` tag in the HTML stub and set the `src` attribute to load the required library. Candidates can then use that library in their solution.
+:::
 
   2. Click **Save question**.
 
-**Note:** Click **Save & Create Another **to create another question.
+:::note
+Click **Save & Create Another **to create another question.
+:::
 
 The question appears under **My Company** questions in the HackerRank Library.
 

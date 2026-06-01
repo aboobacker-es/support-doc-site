@@ -39,4 +39,6 @@ To ensure the imported project is valid, a validation step is run automatically 
 
 A project must clear all steps to be considered valid.
 
-**Note:** The scoring command once ran, should finish within 5 minutes. If the scoring command takes longer than 5 minutes, a timeout error will happen.
+:::note
+The scoring command once ran, should finish within 5 minutes. If the scoring command takes longer than 5 minutes, a timeout error will happen.
+:::

@@ -19,4 +19,6 @@ Follow the steps below to understand how to update the basic information on your
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1735202490000-image.png?Expires=253370764800&Signature=jBjIWfGzXehctVFDgkTAm-yUtG1iOPSUhIUVtDsG5cTJ7zDf0jxupzli39ukhkWyHDvRCm9ouF15ym~5Qu4hj7YRzCuVwZ5dkeohTgYl0BK~Wp5OkvJ6CyhCmCB7lQI9a7oFawbeWfIOX64F7ncZ43dAO1-DRfQ7TQ0ZKB3Rmll5yK5drE52QZwFEzvJGAPkP52hzyqiPafcwQC-qpr-8Akpjy9bCxmbk5-zgfDBDbvWccGjWB54uSfbj97b2jMAAMyPRijwj-jfg0Fal5EFmJGo6H2I74dY3QlJSpUIr9NtnlCSr~~7vlUDkGR6SKC9BnRQhsgU~H3tkSZhSwsvQQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-**Note:** If you must update your email address, contact support at [support@hackerrank.com](<mailto:support@hackerrank.com>).
+:::note
+If you must update your email address, contact support at [support@hackerrank.com](<mailto:support@hackerrank.com>).
+:::

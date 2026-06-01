@@ -41,13 +41,17 @@ The ML model predicts suspicious behavior and classifies candidate attempts in a
 
 The flagged attempts are highlighted in candidate reports, allowing hiring teams to review the reasons and make informed decisions. Human oversight remains crucial, as the ML model currently has an overall precision of **85%** , meaning flagged sessions are correct **85%** of the time.
 
-**Note** : The AI Plagiarism Detection feature currently supports only Coding questions.
+:::note
+The AI Plagiarism Detection feature currently supports only Coding questions.
+:::
 
 ### Limitations
 
 AI plagiarism detection is limited when evaluating questions requiring minimal effort to achieve a full score or when solutions consist of very few lines of code. These scenarios often lack enough data points for accurate detection. However, the system will still flag the response for potential plagiarism if significant external content is copy-pasted.
 
-**Note:** Given that it’s a Machine Learning model, we comply with the audit requirements mentioned in the[****](<https://support.hackerrank.com/articles/8514725302-summary-of-bias-audit-results-\(hackerrank's-image-analysis-system\)>)[**AEDT / NYC AI law**](<https://support.hackerrank.com/articles/8514725302-summary-of-bias-audit-results-\(hackerrank's-image-analysis-system\)>)[.](<https://support.hackerrank.com/articles/8514725302-summary-of-bias-audit-results-\(hackerrank's-image-analysis-system\)>)  
+:::note
+Given that it’s a Machine Learning model, we comply with the audit requirements mentioned in the[****](<https://support.hackerrank.com/articles/8514725302-summary-of-bias-audit-results-\(hackerrank's-image-analysis-system\)>)[**AEDT / NYC AI law**](<https://support.hackerrank.com/articles/8514725302-summary-of-bias-audit-results-\(hackerrank's-image-analysis-system\)>)[.](<https://support.hackerrank.com/articles/8514725302-summary-of-bias-audit-results-\(hackerrank's-image-analysis-system\)>)
+:::
 
 ## Enabling Advanced Plagiarism Detection for a Test
 

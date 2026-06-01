@@ -83,7 +83,9 @@ Invite candidates to a Test via email. To send invitations:
 
   3. Customize the email using templates or saved formats.
 
-**Note** : Recruiters must have a valid license to send invitations.
+:::note
+Recruiters must have a valid license to send invitations.
+:::
 
 ### Test Insights and Reports
 

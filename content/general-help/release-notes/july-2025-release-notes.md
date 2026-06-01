@@ -119,7 +119,9 @@ For more information, see [📄 AI Usage Summary](</articles/1773201418>).
 
 ### **Enhanced Proctor Mode**  
 
-**Note:** Must be a new test with no attempts. 
+:::note
+Must be a new test with no attempts.
+:::
 
 Proctor Mode brings AI-powered integrity monitoring to your assessments, offering the rigor of live proctoring without the overhead. It tracks webcam activity, tab switches, and takes screenshots during the test, delivering a post-test report with a full session replay and summarized violations.
 

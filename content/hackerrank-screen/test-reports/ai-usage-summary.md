@@ -23,7 +23,9 @@ AI Fluency Evaluation provides the following benefits:
 
   * **Modern engineering readiness:** Indicates a candidate’s ability to iterate on solutions and build on previous work
 
-**Note:** AI Fluency Evaluation supports the following question types:
+:::note
+AI Fluency Evaluation supports the following question types:
+:::
 
   * Coding
 
@@ -53,7 +55,9 @@ AI Fluency assigns one of the following grades based on how candidates interact 
 
   * **Grade C (Low AI Fluency):** Indicates limited AI collaboration and a need to improve effective use of AI tools.
 
-**Note:** The evaluation applies the same standards to all candidates, regardless of experience level.
+:::note
+The evaluation applies the same standards to all candidates, regardless of experience level.
+:::
 
 ## Enabling AI Fluency evaluation
 
@@ -61,7 +65,9 @@ To enable AI Fluency:
 
   1. Enable **Advanced Evaluation** in the test-level settings. For more information, see [_Enable Advanced Evaluation_](<https://support.hackerrank.com/articles/7098008997#enable-advanced-evaluation>).
 
-**Note:** AI Fluency Evaluation is part of the **Advanced Evaluation** package and cannot be enabled independently.
+:::note
+AI Fluency Evaluation is part of the **Advanced Evaluation** package and cannot be enabled independently.
+:::
 
   2. Enable **Proctor Mode** in the test-level settings. For more information, see [_Enable Proctor Mode_](<https://support.hackerrank.com/articles/5663779659-proctor-mode#enable-proctor-mode>).
 
@@ -116,11 +122,11 @@ To view AI Fluency evaluation details for a specific question in the detailed re
 
 For each dimension, select **Ref** to view excerpts from the candidate–AI interaction that support the evaluation.
 
-**Note:**
+:::note
+* AI Fluency complements your evaluation. Review it alongside other assessment metrics.
 
-  * AI Fluency complements your evaluation. Review it alongside other assessment metrics.
-
-  * The scoring methodology considers question difficulty and type to ensure a fair assessment across problems and complexity levels.
+* The scoring methodology considers question difficulty and type to ensure a fair assessment across problems and complexity levels.
+:::
 
 ## Frequently Asked Question (FAQ)
 

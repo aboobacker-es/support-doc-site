@@ -15,7 +15,9 @@ The OneLogin SSO portal ensures that only authorized users get access to sensiti
 
 This article is a quick guide about configuring SSO on HackerRank with OneLogin. To know about SSO and its benefits, refer to the article[📄 Getting Started with Single Sign-On](</articles/4264962721>).
 
-**Note:**  HackerRank accepts only the user's email address. In the setup, the user defines the SAML assertion with the necessary data. HackerRank SSO fails if it receives anything other than an email address.
+:::note
+HackerRank accepts only the user's email address. In the setup, the user defines the SAML assertion with the necessary data. HackerRank SSO fails if it receives anything other than an email address.
+:::
 
 ## Prerequisites
 
@@ -70,4 +72,6 @@ In this step, you must enter a unique HackerRank SSO Key.
 
   8. You can disable the SSO setup for your company by clicking **Disable SSO**.
 
-**Note** : After enabling SSO, the user need not enter the account password while logging in. Entering the correct username or email will automatically redirect to an SSO login.
+:::note
+After enabling SSO, the user need not enter the account password while logging in. Entering the correct username or email will automatically redirect to an SSO login.
+:::

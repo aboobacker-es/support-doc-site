@@ -29,7 +29,9 @@ For example, `Evan Brown<evanbrown@gmail.com>`, `Nancy Smith<nancysmith@gmail.co
 
       * **Separate columns** : Enter names in one column and email addresses in another.
 
-**Note:** If you include candidate names in the CSV file, you can personalize invitations by using the Candidate Name placeholder. The system automatically replaces the placeholder with the candidate’s name from your file.
+:::note
+If you include candidate names in the CSV file, you can personalize invitations by using the Candidate Name placeholder. The system automatically replaces the placeholder with the candidate’s name from your file.
+:::
 
 ## Sending bulk email invites
 
@@ -57,11 +59,11 @@ To send bulk email invites:
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1757401490324-image.png?Expires=253370764800&Signature=YapPGWuP6LpMUmjF6a73C-YOhqzjvSvAFJjTLIsiCi3YN6FuOKly5YZdapT2Y9wJkm0k9WvBi8Oswo2oGoX64Kdl~5jhVizJgRKGq8c3EahhtmlpfkrxlDu969esfyxIcxHMIck2flYQhuafagXhsmGhQJH2etZt~7t3pPAAYVNE7qVyOldcXYrTIBeEiWPJNG9S9DcOmx8xqEZabQWFeaELNCQKCS1WODmau0LFBpy4gPGRvGjGNgNEx7kDaeqpIc5lf-KX04ye-7MmRoCtiByrTN2yYe3qKYrCO5ygLtlt~-bbLWJYKQvLeLoj4iPNxGbaFqAfGnA5G~nHBegkJg__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-**Note** : 
+:::note
+* Each candidate receives an individual invite. Candidates cannot see the details of other recipients.
 
-  * Each candidate receives an individual invite. Candidates cannot see the details of other recipients.
-
-  * Do not use emojis in the subject line of your email invitations.
+* Do not use emojis in the subject line of your email invitations.
+:::
 
 ## Troubleshooting bulk invite errors
 

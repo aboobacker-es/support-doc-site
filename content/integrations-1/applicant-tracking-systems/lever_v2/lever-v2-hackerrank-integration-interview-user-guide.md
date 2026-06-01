@@ -49,7 +49,9 @@ To schedule a HackerRank interview from Lever:
 
        4. Click **Add email** and enter the candidate email ID.
 
-**Note:** Some jobs automatically add the **HackerRank CodePair** tag when you select the job. You do not need to add it manually.
+:::note
+Some jobs automatically add the **HackerRank CodePair** tag when you select the job. You do not need to add it manually.
+:::
 
   4. Click the schedule icon.
 

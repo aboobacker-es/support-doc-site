@@ -20,4 +20,6 @@ Question added/removed | Changes won't affect candidates already in a test.
 Edits to sectional settings | Changes will reflect on page reload.  
 Edits to test Instructions| Changes will reflect during page reload or re-login.  
   
-**Note:** Candidates logging in after the edits went live will see all the changes made above.
+:::note
+Candidates logging in after the edits went live will see all the changes made above.
+:::

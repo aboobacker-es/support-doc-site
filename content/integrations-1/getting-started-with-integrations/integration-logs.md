@@ -11,7 +11,9 @@ is_published: true
 
 Integration Logs in HackerRank for Work allows you to access the records of activity between HackerRank and your primary system of record. These logs provide insight into the integration's transactions. They are available in the Integrations tab of the Logs page providing transparency. Users can inspect and debug the logs with ease.
 
-**Note:** HackerRank displays logs only for the API calls that are made to the endpoints listed in the[ HackerRank API documentation](<https://www.hackerrank.com/work/apidocs>).
+:::note
+HackerRank displays logs only for the API calls that are made to the endpoints listed in the[ HackerRank API documentation](<https://www.hackerrank.com/work/apidocs>).
+:::
 
 ## Accessing Integration Logs
 

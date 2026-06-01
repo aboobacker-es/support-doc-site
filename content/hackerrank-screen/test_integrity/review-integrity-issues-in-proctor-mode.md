@@ -101,7 +101,9 @@ Proctor Mode flags the session when the candidate:
 
   6. Watch the test-taking tab recording to observe the candidate’s activity immediately after returning to the test.
 
-**Tip:** Look for sudden, high-quality code written after the candidate returns to the test. This pattern may indicate the use of external references.
+:::tip
+Look for sudden, high-quality code written after the candidate returns to the test. This pattern may indicate the use of external references.
+:::
 
 #### Webcam-related integrity issues
 

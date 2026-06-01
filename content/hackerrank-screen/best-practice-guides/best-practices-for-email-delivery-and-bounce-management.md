@@ -47,7 +47,9 @@ Common causes of hard bounces include:
 
   * **Invalid sender** : The sender address is not recognized or is rejected by the recipient’s server.
 
-**Note** : Quarantined emails are not categorized as bounces.
+:::note
+Quarantined emails are not categorized as bounces.
+:::
 
 ## Best practices to improve email deliverability
 
@@ -90,4 +92,6 @@ Format your message carefully to enhance deliverability and minimize the risk of
 **Punctuation and formatting**|  Multiple exclamation marks (for example, Apply now!!!), excessive links or images| These patterns are often flagged as spam by mail servers.| Use standard punctuation. Limit images and links to essential content.  
 **Tone and style**|  Aggressive, exaggerated, or overly casual language| Reduces professional credibility and increases the risk of being filtered.| Maintain a professional, informative tone throughout the message.  
   
-**Note** : For assistance, contact [support@hackerrank.com](<mailto:support@hackerrank.com>).
+:::note
+For assistance, contact [support@hackerrank.com](<mailto:support@hackerrank.com>).
+:::

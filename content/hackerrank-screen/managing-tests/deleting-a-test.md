@@ -9,7 +9,9 @@ is_published: true
 
 You can delete a test when you no longer need it. Deleting a test permanently removes it from your account along with all associated candidate reports. The questions used in the test remain in your Library.
 
-**Tip:** If you want to retain the test and its reports but hide it from the active test list, consider archiving the test instead. You can restore archived tests at any time. For more information, see [📄 Archive a Test](</articles/8415416322>).
+:::tip
+If you want to retain the test and its reports but hide it from the active test list, consider archiving the test instead. You can restore archived tests at any time. For more information, see [📄 Archive a Test](</articles/8415416322>).
+:::
 
 ## Prerequisites
 
@@ -36,4 +38,6 @@ To delete a test:
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1756374710326-image.png?Expires=253370764800&Signature=bPpqVRp41kF09XPxURRtf4BDutMhyC0RK8b5XaX2BVqFdspY8O9c52EKtGKIQKzW70ENUL4RzMXES65E-wRmHpeRY96I~0G01KBNjizOAFoV8U8KPHRPNCHrpx~QTqLRFidZlndKr-AvSl9HAvKT~lBjR-cEbFf~olZHMf67xMRJotA-66ClL8TLbQpY9T62rehBVSfNgkZJ6bi-VP5EYVWqRgRs37IxF6vuf3zVaUppRJ6wWX90HnFgStXZXLIM2rwWp4WgQa2-7Z0LqDu0HIsuuHrEgL3mHCh3LGPLksJoozk0bgzTB7jnQvMo-t2KJF~EHINFgKcCJ-VFM8V7dQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-**Note:** If you share a test with a candidate and then delete it, the candidate can no longer access the test.
+:::note
+If you share a test with a candidate and then delete it, the candidate can no longer access the test.
+:::

@@ -91,4 +91,6 @@ A controlled physical environment helps minimize distractions and maintain asses
 
   * Ensure adequate spacing between candidates to maintain focus and assessment integrity
 
-**Note:** If you experience any issues during the assessment, contact [support@hackerrank.com](<mailto:support@hackerrank.com>).
+:::note
+If you experience any issues during the assessment, contact [support@hackerrank.com](<mailto:support@hackerrank.com>).
+:::

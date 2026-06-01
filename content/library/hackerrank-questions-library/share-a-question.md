@@ -46,7 +46,9 @@ After you save the changes, the users or teams and their assigned roles appear b
 
 ## Transferring ownership of a question
 
-**Note:** You must share the question with the team member before you can transfer ownership.
+:::note
+You must share the question with the team member before you can transfer ownership.
+:::
 
 To transfer ownership:
 

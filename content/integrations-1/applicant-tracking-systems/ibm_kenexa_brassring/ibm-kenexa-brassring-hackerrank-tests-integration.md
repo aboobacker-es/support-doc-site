@@ -75,7 +75,9 @@ A unique API Key is displayed.
 ![integ_brassring_api_token.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047114833-?Expires=253370764800&Signature=VOZF25qo10yNvdWNCL44KM~-rT4CZGd2K83i44nV95mWGmflf199sm3SqUuTBKmCGd0rT4GnX~a3N2jfEwGRuKYRonoCEYxwsAvOG~LI2WIC2fSH1ZQkpn-G9bOmyAw-jcpQ96SvQoLvphgL1Rsq8QSLq-Yg~IglkRx4HzOUGl4zDjVgUYrTVYDOv39WvPn-rwpgUYeNWgMbeMIG8NAYKtfuWri3YrpiHMfkpdg4CB8SjC1hgZAUJBDEpVvuCrb5NmZWesI83er6Adoa3cdchDlDNnd0o50zNx6gEB8S-FBFHN5lkrPlXqKBoBoUwOvr1F7bbn0heZiswiCinSiSIw__&Key-Pair-Id=K3NV4LZ47N8M46)
   6. Copy this key. You will need to add this key to the BrassRing account to establish the integration.
 
-**Note** : Ensure to store the API key safely. Once the popup is closed, you cannot retrieve the key again.
+:::note
+Ensure to store the API key safely. Once the popup is closed, you cannot retrieve the key again.
+:::
 
 #### **URL and Authentication Setup**
 

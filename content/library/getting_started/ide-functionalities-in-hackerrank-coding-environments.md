@@ -27,7 +27,9 @@ HackerRank coding environments provide IDE features that improve code editing, n
 
   * **Rename Symbol:** Updates the name of a selected symbol across the codebase. This refactoring ensures that all valid references update consistently without requiring manual edits.
 
-**Note:** This feature is supported only in the following environments:
+:::note
+This feature is supported only in the following environments:
+:::
 
     * Vue.JS
 
@@ -37,7 +39,9 @@ HackerRank coding environments provide IDE features that improve code editing, n
 
   * **Format Document:** Automatically formats code according to language-specific or project-defined formatting rules. This may include indentation, spacing, line breaks, and code alignment.
 
-**Note:** This feature is not supported in the following environments:
+:::note
+This feature is not supported in the following environments:
+:::
 
     * iOS (Swift)
 
@@ -45,7 +49,9 @@ HackerRank coding environments provide IDE features that improve code editing, n
 
   * **Workspace/Document Symbols:** Allow users to search for symbols across the entire workspace or current document. This feature helps users quickly locate definitions, classes, functions, or variables in large projects.
 
-**Note:** This feature is supported only in the following environments:
+:::note
+This feature is supported only in the following environments:
+:::
 
     * Vue.JS
 

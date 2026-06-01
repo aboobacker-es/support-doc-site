@@ -25,7 +25,9 @@ Use the following sample links to explore the HackerRank Interviews platform:
 
 Share the candidate experience link with candidates to help them become familiar with the platform before their interview.
 
-**Note:** Open the interview link in an incognito window or a browser where you are not logged in to a HackerRank account.
+:::note
+Open the interview link in an incognito window or a browser where you are not logged in to a HackerRank account.
+:::
 
 This article outlines the key features of the HackerRank Interview platform, which is designed to streamline the interview process and help you efficiently identify top candidates.
 
@@ -41,7 +43,9 @@ You can create an interview between a candidate and interviewers using one of th
 
   * **Start an interview immediately:** You can start an interview immediately. HackerRank does not send notifications. You must manually share the link with candidates and communicate the time and details to all participants.
 
-**Note:** For more information, see [📄 Create an Interview](</articles/8404005945>).
+:::note
+For more information, see [📄 Create an Interview](</articles/8404005945>).
+:::
 
 ### Interview templates
 
@@ -97,7 +101,9 @@ You can rename individual tabs within the Interview platform to organize session
 
 The Virtual Lobby allows you to manage multiple interviews using a single interview link. Based on the configured settings, candidates will wait in the lobby until the interviewer admits them.
 
-**Note:** Depending on the settings, candidates either enter the interview directly or wait in the Virtual Lobby.
+:::note
+Depending on the settings, candidates either enter the interview directly or wait in the Virtual Lobby.
+:::
 
 For more information, see [_Using Virtual Lobby_](<https://support.hackerrank.com/articles/1151935613-using-virtual-lobby-in-hackerrank-interviews>).
 

@@ -17,7 +17,9 @@ The **Automatic Tab Locking and Hiding** feature offers the following benefits:
 
   * **Improved candidate focus** : Candidates stay attentive without distractions from other tabs, including those the interviewer plans to use later in the interview.
 
-**Note:** The **Automatic Tab Locking and Hiding feature** is disabled by default.
+:::note
+The **Automatic Tab Locking and Hiding feature** is disabled by default.
+:::
 
 ## Enable automatic tab lock and hide 
 

@@ -43,13 +43,17 @@ To schedule a custom report:
 
      3. Enter the recipients who will receive the report.
 
-**Note:** You can add only admin users (including yourself) as recipients.
+:::note
+You can add only admin users (including yourself) as recipients.
+:::
 
   8. Click **Save Schedule**. 
 
 The platform saves the schedule and sends the report to the selected recipients based on the defined frequency.
 
-**Note:** You can create only one schedule per report.
+:::note
+You can create only one schedule per report.
+:::
 
 ## Editing a custom report schedule
 

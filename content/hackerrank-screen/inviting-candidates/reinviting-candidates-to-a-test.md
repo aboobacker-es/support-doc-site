@@ -9,7 +9,9 @@ is_published: true
 
 If a candidate experiences an issue such as a power outage or loss of internet connection, you can reinvite them to retake the test at any time. You do not need to delete the previous invite or attempt before sending a new one.
 
-**Note:** When you reinvite a candidate, their previous report is automatically deleted. To recover a deleted report, contact [support@hackerrank.com](<mailto:support@hackerrank.com>).
+:::note
+When you reinvite a candidate, their previous report is automatically deleted. To recover a deleted report, contact [support@hackerrank.com](<mailto:support@hackerrank.com>).
+:::
 
 ## Prerequisites
 

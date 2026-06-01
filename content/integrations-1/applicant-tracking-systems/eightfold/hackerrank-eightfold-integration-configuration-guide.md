@@ -36,7 +36,9 @@ The integration API token allows Eightfold to connect securely with your HackerR
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1779213765452-image.png?Expires=253370764800&Signature=R5vhhhcv-TDj9TGy7iOMobkme6lCq1R9zFaUsv~x1qtspkV6aYB7dB5cr2T9VsKjc3V9xtUxZa2Sf72b4g61XPsinl-7cOqj1bZOC2GIuZah07Wn~4OlFLtE3F-9WULg9xQzlYxCaOvcNMtkLEaJHwFjx6DLIh3VtC1KWGZnHddPK9w-GDhOURdCbRTjXlgIYeg0IACyLbrAFbw6Ol13~SJXAg8EH5bxVkyolfqK~p6GQwz0pWubUU2o6nU1SsvyQF-19VWVYUwSsGFpo4yA-AAfrkbAZVjXCxsMzS~5Ojoce04AVJzZR7pAVXd495Dr7Ol0eAer2eV2LWMv-bP-tA__&Key-Pair-Id=K3NV4LZ47N8M46)
   4. Click **Copy and close** to copy your token.
 
-**Note:** You need this token in **Step 2: Add the HackerRank API token in Eightfold**.
+:::note
+You need this token in **Step 2: Add the HackerRank API token in Eightfold**.
+:::
 
 ### Step 2: Add the HackerRank API token in Eightfold
 
@@ -69,7 +71,9 @@ To verify the integration, go to **More > Admin Console > Apps > Install Apps **
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1779214507611-image.png?Expires=253370764800&Signature=F8EZ6kNuBH8t4EUsjc3h4NzGwZRX~7UvDL4WOu8XBQfhPL9PWJmM-hWazYMSAzOJxNxuxKW7cZ2u0DruovWqu0s6TBwUedFHwpw2KN2zmpB9GAvpnuAHHryozUx1kf6dvxVnMEe8-MwClrA-yf7foLD32Nb-kC2dHVenNFXoS5FviURE082LBvfB-p9H~kF64baNoIKRibhfr2CpS7gxTgTgix0T8-d6b9FYm9XecMc~~USrxGpo96fak12ZO53OgStEbePdYIXHqCkJQS5G5Ch9nYRmHNX-DEI~XVb239DhWL9my8lF2CcSetrBVYuAuUy7yPsMPoXrFGf7NlQR0w__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-**Tip:** To update the app configuration settings:
+:::tip
+To update the app configuration settings:
+:::
 
   1. Go to **More > Admin Console > Apps > Install Apps**.
 

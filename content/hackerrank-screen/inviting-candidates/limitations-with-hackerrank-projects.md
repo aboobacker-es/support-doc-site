@@ -49,11 +49,11 @@ Generally, candidates can log in without any issues. However, if the limits are 
 
 ![Servers at capacity.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046700808-?Expires=253370764800&Signature=Gxi18p7-iXxnJWK~06OCeL6hamhgxRilpfENgVrjjjlP-q3YECFphF6fSm5zhuA16N2d3-ilesyJnNpA-xI5kzlmdOG9wi~gzoXY66sAAQjqyDJMkCgswe~cyYY0NS3K00r2KDbsVj6yiyDProKp1ZJD-E7L8LLT~6W4fM2~bDNrUyniTftodOCC3gZZG9D1MCazLB57IJ6zync6IBq8TG0X1VZ3QTgurvC7EkTzEpwRgfwik6SQGnJg3usd~Kr4My9lhkO~5lqifZ8K4FCTroJ1m-MAqh-spu-8I1J2IrQvdAhRAtRoXTBvzH8XYlCQvQGcF9vJoN0m~t5EXC3rAQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-**Note:**
+:::note
+* Reach out to [support@hackerrank.com](<mailto:support@hackerrank.com>) if your requirement exceeds the default threshold. Given the limitations, inviting candidates in batches to stagger logins is recommended. Also, the limits remain the same irrespective of the test duration, as the table above mentions.
 
-  * Reach out to [support@hackerrank.com](<mailto:support@hackerrank.com>) if your requirement exceeds the default threshold. Given the limitations, inviting candidates in batches to stagger logins is recommended. Also, the limits remain the same irrespective of the test duration, as the table above mentions.
-
-  * For both Project questions and non-project questions, if the requirement is more than 5,000 simultaneous attempts, reach out to [support@hackerrank.com](<mailto:support@hackerrank.com>).
+* For both Project questions and non-project questions, if the requirement is more than 5,000 simultaneous attempts, reach out to [support@hackerrank.com](<mailto:support@hackerrank.com>).
+:::
 
 #### **Related Articles:**
 

@@ -100,7 +100,9 @@ The question requires manual evaluation.| ![25.png](https://assets.usepylon.com/
   
     * **Comments:** Provide feedback on the candidate’s attempt. Type your comment in the text box and click **Comment** to save it.
 
-**Note:** Select a question name or click **View detailed** to open the Detailed Report.
+:::note
+Select a question name or click **View detailed** to open the Detailed Report.
+:::
 
   * **Attempt Activity:** Tracks a candidate’s actions during the test, including time spent on each question, recorded events, and integrity-related activity.
 
@@ -112,7 +114,9 @@ The question requires manual evaluation.| ![25.png](https://assets.usepylon.com/
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760451571805-image.png?Expires=253370764800&Signature=TNiAmRlh-QSQwnj4K89-q1JqvF63A7COUAzhS5IbkxrCwWZO7zHTlA4dY-mve5xuqWEr586bPe1Cf31hV2dapnBoXYJq9DTpdU748UBEKuVCESBi93-87D92obUcgqOcsFVsziQ3MeIEomY5KpPpkcaDQBzeAO~IASGbKUe87QMYvKXJq4lEaWw5-dXb9gIcCUsFEOb~TgyJmDOJnt-VTh0SfJU~6NNqiY-crUX-CbHanx1iIcLr74-yM3Lxl5nNG95S4rA29VTYagWbyxMYJbQJ8kM91OR-PksqFypqTA2~PQsB~ALUdtvBDAWpopdUEhDUoVNAEkAHI9G2n-otew__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-**Note:** You can:
+:::note
+You can:
+:::
 
   * Download the report as a PDF.
 
@@ -147,7 +151,9 @@ The new Summary Report includes the following components:
 
       * AI usage summary (how the candidate interacted with the AI assistant)
 
-**Note:** Click **View detailed** to open the Detailed Report.
+:::note
+Click **View detailed** to open the Detailed Report.
+:::
 
     * **AI Fluency:** Provides recruiters with a holistic view of how candidates interact with the AI assistant during a test. For more information, see [📄 AI Fluency](</articles/1773201418>).
 
@@ -195,13 +201,17 @@ The question requires manual evaluation.| ![25.png](https://assets.usepylon.com/
 
     * **Candidate Status:** After reviewing the report, select the candidate’s status as **Passed** or **Failed**. Select **To Evaluate** to move the attempt to the next stage.
 
-**Note:** You can also create an interview directly from the **Summary Report** by clicking **Create Interview** in the lower-right corner.
+:::note
+You can also create an interview directly from the **Summary Report** by clicking **Create Interview** in the lower-right corner.
+:::
 
   * **Attempt Activity:** Tracks a candidate’s actions during the test, including time spent on each question, recorded events, and integrity-related activity.
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760451920958-image.png?Expires=253370764800&Signature=QxQ8je4AxAa2B7Vxr81A1mQfkwg1xdbQrUMLEWjjsnQj73c3m7AZqfr2rTNPWPrHUz3Lgxu6vuaZQ8h1goTuT-b3e03GXlPwVzseOb2xJAJs1os7V-3RYdO-WkqoKXMgGoo7l0a7oYeXNppE9qpU~O98twBYX1nKhF8xdigcoL6WLK9pALz25mg5CcR~-48XVX8glpn3sTEI57RhiKTqwKcRSSdCOSFDrxWL9PVq9cMZ3b0ixRMMFQk3tpsu2Hfi111MEfIOaJDury5DqlW4pLWCv9s0Ae-0SEz7y1QhgIaTUuwWJnRd9MBtglzWV5KtNJlQn78sCBPtdKY1p0lTPw__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-**Note:** You can:
+:::note
+You can:
+:::
 
   * Download the report as a PDF.
 

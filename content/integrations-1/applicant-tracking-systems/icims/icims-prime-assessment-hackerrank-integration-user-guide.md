@@ -144,7 +144,9 @@ To view the result on iCIMS Prime Assessments:
 
 The status of the candidate's test is displayed on the **Screen > Additional Info** of the Candidate.  
 
-**Note** : Any other status except **Pass** and **Fail** will appear as **To Evaluate** on iCIMS.
+:::note
+Any other status except **Pass** and **Fail** will appear as **To Evaluate** on iCIMS.
+:::
 
 ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046180794-?Expires=253370764800&Signature=oDaoBVQ5xMHDzaGaqE7Fl7Hpq8p-5MjiF5ttkaTiL08idUm4NgTueBk-97knEggFsev~h7eX4Y15eO0ccoofgQuozD-N5Sd8bohzt0tW1aLQ0lBqgdXd4qdHMWCEjD~q4n4CnIvLjNmWWheMXWwVJbkhS9hTRiJArD-A0KBHYjmNyDWkwWc~6UGzn3sjFZwxD2027kaDDPAfaSp3vM~mb~eMGIOay-kS3U5ySFwtuKfUydIevL77boOyEtAGQlCf2nuepRT~1EfU418XlicDY8HoT~4GhuY1PeZViMNdfwYRWbwxyFxf0CLfbmh1K0jRzHuhkqQbn4xN8atX4tCvCQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 

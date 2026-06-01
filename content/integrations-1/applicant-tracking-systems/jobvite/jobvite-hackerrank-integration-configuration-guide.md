@@ -111,7 +111,9 @@ Verify that the **HackerRank Test ID** custom field is created under the **Requi
 ---|---  
 HackerRank Test ID| Edit this field to add the required HackerRank Test IDs. When you create or edit a particular Requisition, you select and assign one of the Test IDs from this field.  
   
-**Note** : For each requisition in Jobvite, a HackerRank Test is tied to the requisition.
+:::note
+For each requisition in Jobvite, a HackerRank Test is tied to the requisition.
+:::
 
 To view the HackerRank Test Id for the requisition, select the requisition and click the **Details** tab.
 

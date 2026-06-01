@@ -13,7 +13,9 @@ If you need assistance with the HackerRank for Work platform, use one of the fol
 
   * **Email:** Send an email to [support@hackerrank.com](<mailto:support@hackerrank.com>).
 
-**Note:** HackerRank provides separate support options for Candidates and Community users:
+:::note
+HackerRank provides separate support options for Candidates and Community users:
+:::
 
   * **Candidates:** Email [candidate-care@hackerrank.com](<mailto:candidate-care@hackerrank.com>)
 

@@ -39,7 +39,9 @@ To pause your subscription:
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1779213097652-image.png?Expires=253370764800&Signature=X~zWglmABp6GUhM-wKMBmpYcdjkmNHFQkYzGdf98Fl3nC16IEypVft3rSJN47QNMsPUWfvPDRzZ4cQeizZIlAJ8RPzDo7Wa4evUlcQCSzi7TmXrMEkgXv4TbNAGK3VR-WlB8gjzVU2-RNstK7hWHP~WdmgkJAJ3lYMcEEuCFkamNTCoE~zq-EHW68PZtLOkpY24hRpU4s1JNJntg2t0hEn4n7THzt7883pMXdiVNFtOC4o-4BEilPXhchu0NIbuEzvwfH9-gGOJVu3zFd7pL2ruY0T3oG1uMRkOISmE~V5yevG5WK6T1q2MoM9fXsGanCDx~DadHgk94ejZcg-H~ng__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-**Note:** You can pause your subscription for a minimum of **1 month** and a maximum of **4 months.**
+:::note
+You can pause your subscription for a minimum of **1 month** and a maximum of **4 months.**
+:::
 
   10. Click **Pause Subscription**.
 

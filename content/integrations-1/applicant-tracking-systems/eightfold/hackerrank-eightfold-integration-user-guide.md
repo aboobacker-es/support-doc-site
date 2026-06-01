@@ -93,6 +93,8 @@ The test report includes the following information:
 
     * **Integrity Issues:** Indicates whether potential integrity issues are detected.
 
-**Note:** Integrity issues are classified as **None** , **Medium** and **High** based on severity.
+:::note
+Integrity issues are classified as **None** , **Medium** and **High** based on severity.
+:::
 
     * **Integrity Summary:** Overview of suspicious activities detected during the test.

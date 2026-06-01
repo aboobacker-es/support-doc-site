@@ -159,7 +159,9 @@ Learn more here[📄 How to Bulk Upload MCQ and Sentence Completion Questions](<
 
 HackerRank ensures data confidentiality by encrypting and securely masking PII (Personally Identifiable Information) transmitted to Zoom. Users can now opt to have Interviewer and Candidate names masked in the Zoom video recordings. The candidate’s name is displayed as “Candidate” and Interviewer name is displayed as ‘Interviewer.’ [Learn more](<https://support.hackerrank.com/articles/5805684780-zoom---hackerrank-interview-integration#mask-information-on-zoom-recordings-16>).
 
-**Note:** Interview recording is an opt-in feature. You can reach out to your account manager or HackerRank support (support@hackerrank.com) to enable it. 
+:::note
+Interview recording is an opt-in feature. You can reach out to your account manager or HackerRank support (support@hackerrank.com) to enable it.
+:::
 
 ### Compatibility Check for Interviews
 
@@ -175,7 +177,9 @@ Learn more [here](<https://support.hackerrank.com/articles/6271433412-audio-and-
 
 This new capability allows admins to customize their user roles with entitlements suited to their organization's needs. Give each user the right level of access based on your organization's specific needs.
 
-**Note:** This is an opt in feature. You can reach out to your account manager or HackerRank support (support@hackerrank.com) to enable it. 
+:::note
+This is an opt in feature. You can reach out to your account manager or HackerRank support (support@hackerrank.com) to enable it.
+:::
 
 **What's New?**
 

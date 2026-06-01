@@ -89,7 +89,9 @@ Top 50% of candidates| 28| 36| 64
 
   * Noting the average score for the various performance tiers can help determine a poignant cutoff score to help differentiate the top performers.
 
-**Note:** the final percentage can change depending on the weighting selected by the recruiters for each section. 
+:::note
+the final percentage can change depending on the weighting selected by the recruiters for each section.
+:::
 
 **How can weighting alter the scores? (Sample scenario with updated scoring)**
 

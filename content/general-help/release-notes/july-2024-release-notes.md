@@ -37,7 +37,9 @@ MCQ sections within[📄 HackerRank Certified Assessments](</docs/3147b674-5cbb-
 
 We have fully migrated to the new MCQ scoring model which provides you with greater flexibility and control while scoring your tests! Now, you can set custom scores for your MCQ questions, ensuring consistency as the test-level score will override all individual MCQ scores within that test.
 
-**Note:** This update applies to users who signed up before 2020. Accounts created after 2020 will already have access to this experience.  
+:::note
+This update applies to users who signed up before 2020. Accounts created after 2020 will already have access to this experience.
+:::
 
 Learn more here[📄 Scoring a Multiple Choice Question](</docs/3147b674-5cbb-4bde-9528-7699bb64b1a7/articles/e0c9f73c-2f3d-495b-a316-ddaeba415da1>)
 
@@ -187,7 +189,9 @@ Admins can now give each user the right level of access based on their organizat
 
 ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046069845-?Expires=253370764800&Signature=PM2E7D4yhOK84~fyfV8YpuKJ7XMHqwU2~lSDHNNH~viYpSS~2VbQ12ZxLV8UY4dWEbneuTVKfiosaGaDOwFwsEUWmSsvLzaews5sjwpTPvHFxo1Bxn9QQPvAXsWuPQcHcE6tniMjHjHNpE6UChe2qiNjBDJn6G148dKp0Ud6FIuZYbObjWUNuxeLAD23U4lgZfjQzGvaqAmUjtxwfGC7mbtuqgXhPy~jvLV46Ze8s0KobkxjWKVsW6p5pb33AKUlMFFc6UpkzI3IaOSTArAXhOwgQu86V4fLCssBxxyLTOwHgCUVj-gfSRBe8WWrTDnn5hWV12qY0QajhAd-kGBe-Q__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-**Note** : This is a gradual rollout beginning July 24th. It could take up to 2 weeks to appear in your account. If you'd like to expedite your access, please contact HackerRank support.
+:::note
+This is a gradual rollout beginning July 24th. It could take up to 2 weeks to appear in your account. If you'd like to expedite your access, please contact HackerRank support.
+:::
 
 Learn more here[📄 Flexible User Roles](</docs/3147b674-5cbb-4bde-9528-7699bb64b1a7/articles/9375027c-bbec-437d-b155-ec3e6e08b2f2>)
 

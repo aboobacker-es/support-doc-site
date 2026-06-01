@@ -55,4 +55,6 @@ HackerRank's Role Certifications use technical assessments to evaluate a develop
 
   * Role Certifications are intended to enhance, not replace, your current learning & development (L&D), and internal mobility practices.
 
-**Note:** As you use Role Certifications, please provide ongoing feedback to HackerRank directly with your HackerRank Customer Account Manager.  Your input helps HackerRank continuously improve our solutions and ensure we meet your evolving needs.
+:::note
+As you use Role Certifications, please provide ongoing feedback to HackerRank directly with your HackerRank Customer Account Manager.  Your input helps HackerRank continuously improve our solutions and ensure we meet your evolving needs.
+:::

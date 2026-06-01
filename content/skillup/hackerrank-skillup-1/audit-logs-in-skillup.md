@@ -23,7 +23,9 @@ The information included in an audit log varies based on the request and the sel
 
 To request audit logs, contact the SkillUp Support team at [skillup-support@hackerrank.com](<mailto:skillup-support@hackerrank.com>).
 
-**Note:** Only administrators can request audit logs for a SkillUp account. This restriction ensures that only authorized users can access organization-wide data.
+:::note
+Only administrators can request audit logs for a SkillUp account. This restriction ensures that only authorized users can access organization-wide data.
+:::
 
 ### Sample template
 
@@ -51,4 +53,6 @@ _Kind regards,
 [Your organization]  
 [Work email address]_
 
-**Note:** If you have questions about audit logs or are unsure what information to provide, contact [skillup-support@hackerrank.com](<mailto:skillup-support@hackerrank.com>).
+:::note
+If you have questions about audit logs or are unsure what information to provide, contact [skillup-support@hackerrank.com](<mailto:skillup-support@hackerrank.com>).
+:::

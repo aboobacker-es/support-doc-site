@@ -53,7 +53,9 @@ is_published: true
 
     * Access the **Maintain Reference IDs** task.
 
-**Note:** If your Workday tenant changes, update your credentials with the HackerRank team to avoid disruptions.
+:::note
+If your Workday tenant changes, update your credentials with the HackerRank team to avoid disruptions.
+:::
 
 ### **Workday Side**
 

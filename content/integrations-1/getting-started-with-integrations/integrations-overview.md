@@ -98,7 +98,9 @@ Automate your processes by connecting HackerRank to your preferred productivity 
 [Splash](<https://support.hackerrank.com/articles/1979161599-splash---hackerrank-integration-guide>)| Send HackerRank test invites, and review test scores and reports within Splash.  
 [Interview Vector](<https://support.hackerrank.com/articles/6541817100-interview-vector---hackerrank-integration-guide>)| Include HackerRank tests as part of your assessment process via Interview Vector.  
   
-**Note** : To learn about APIs, refer to the detailed [API documents.](<https://www.hackerrank.com/work/apidocs#!/Introduction/options_intro_api>)
+:::note
+To learn about APIs, refer to the detailed [API documents.](<https://www.hackerrank.com/work/apidocs#!/Introduction/options_intro_api>)
+:::
 
 ## New Integration Partner
 

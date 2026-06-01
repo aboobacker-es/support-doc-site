@@ -75,4 +75,6 @@ View result| ✅
 View scorecard| ❌  
 Link to the detailed report| ✅  
   
-**Note:** The following special characters are not supported in passwords: `"`, `\`, `/`, `}`, `'`, `{`.
+:::note
+The following special characters are not supported in passwords: `"`, `\`, `/`, `}`, `'`, `{`.
+:::

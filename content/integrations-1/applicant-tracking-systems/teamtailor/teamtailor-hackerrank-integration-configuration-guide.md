@@ -30,7 +30,9 @@ A unique API Key is displayed.
 ![integ_teamtailor2.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046861108-?Expires=253370764800&Signature=mOLhToe10G4lSIyx7CUq7xrjo83Utrm0oc2v1R3Uwhw2YhC5w58i0uE4npoKuGH418Oz9LWotgJqrTRYWB2z4-Vr0EzfntUvLXMUmbBvAe2UncNrdAn6Q8sA2PNLZOxDEibYJr-nCK~JZzqNbr8uk5bGbgxugS9KBrDSDpUd3mNtVpPBKMg9Jy7vQZzvX~zoiQXw0bfuFvNdF6TxeROL5QHR-iiwG9EFtw7rwn0dqedXXmBRAlptrd7nrL8Uwdwk~sx1oFP7-~6gfrMuo6r8XRHHr73SSG1JNtNCCS7b2EcuTHnRYp~CVWfGX89OC8X4DKB1p5UowIS0QWKo69IHFQ__&Key-Pair-Id=K3NV4LZ47N8M46)
   6. Copy this key. You will need to add this key to the Teamtailor account to establish the integration.
 
-**Note** : Ensure to store the API key safely. Once the popup is closed, you cannot retrieve the key again.
+:::note
+Ensure to store the API key safely. Once the popup is closed, you cannot retrieve the key again.
+:::
 
 ## Inside the Teamtailor Platform
 
@@ -61,4 +63,6 @@ Refer to the document below to learn how to use HackerRank Tests from Teamtailor
 
   * [📄 Teamtailor - HackerRank Integration: User Guide](</docs/3147b674-5cbb-4bde-9528-7699bb64b1a7/articles/80116329-12af-42c4-9597-fdd7de52af66>)
 
-**Important Note:** The email ID that you have used with your Recruitee account should be the same as the email ID associated with HackerRank account for the integration to work seamlessly.
+:::warning
+The email ID that you have used with your Recruitee account should be the same as the email ID associated with HackerRank account for the integration to work seamlessly.
+:::

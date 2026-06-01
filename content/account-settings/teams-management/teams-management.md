@@ -36,7 +36,9 @@ This section allows admins to manage individual users within the organization.
 
   * Apply **User Role** , **Status** , and **Last Active**  filters for refined searches.
 
-**Tip** : Use the **Last Active** filter to identify and assess inactive users within a specific time range.
+:::tip
+Use the **Last Active** filter to identify and assess inactive users within a specific time range.
+:::
 
 **Add Users**  
 Admins can add new users using the **Add New User** button with the following options:
@@ -88,7 +90,9 @@ Admins can perform bulk actions on multiple users, such as:
 
 Using the **Export** option, you can select the users in bulk and export their data in a CSV file.
 
-**Tip** : Use the **Select All** checkbox to efficiently manage all users across multiple pages.
+:::tip
+Use the **Select All** checkbox to efficiently manage all users across multiple pages.
+:::
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1735274763443-image.png?Expires=253370764800&Signature=lR5R3F20EA6ZtxKxLfR0om9YvR5rFbfm9qJ5NfJeFZF5CXReoO2LkOuWXx844eJ3GWx-BmcaqJRl4uWUOAD5OcP9PRLkkj~Pm4hgrFkCJhiBDOHOax5s7g6KaWa3g5E4pIZoxNrc7xiCgkJP1IfJ6USjqQ0h9EUNa0OSp2KGHE78UOsQN3K0WdKttIVevedtXxCLAlGsmLIKgwFYnIkbwC5IsQj~LpSNqTwjmH6su4Tj8bK5D6yTyQ6Gcc9~ycY1mHi-B63BESdiuvv0o77rEMuXu75klofyjDTeRntPnNXbgVXyseV3rH4tPfQuYVRynf1dXVRwLJr88azRC2MSBA__&Key-Pair-Id=K3NV4LZ47N8M46)
 

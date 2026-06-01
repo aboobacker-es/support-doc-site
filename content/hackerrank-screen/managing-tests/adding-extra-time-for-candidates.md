@@ -77,7 +77,9 @@ To add time accommodation for specific candidates:
 
   8. Click **Save**. A success message appears.
 
-**Note:** After you apply time accommodation, the updated duration appears in the test invite email and on the test landing page before the candidate starts the test.
+:::note
+After you apply time accommodation, the updated duration appears in the test invite email and on the test landing page before the candidate starts the test.
+:::
 
 ![Time Accommodation Visibility on Test Landing Page.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776439698486-TimeAccommodationVisibilityonTestLandingPage.gif?Expires=253370764800&Signature=TLW3pgXEhSrtZxrTBmakLBvL06ASR1u2cwyVl0BecIFo2wOACb9bB-1NuiIN46t~~Ss4xpicRl~aoZk162cizYPw035ZcAd~Vj0ZFKmtL4TMb4z-t-Vxl5gGSbY5fEl5m2kQntIXrbh1a5UKcoJUyyzq61~V9BAOl5AJYIShZnhiD2-OgdXqAMsM9yx25fRaZ6Mvha2ZOnfSr4HTlaLaaEPS1jwioAssEt8xEhNNxuAAb3o2wALlV12zaWrZm8o0hHqcSUfIS~lyBBT3kk~OtJ-BRNVsliKLKEtrHZfzjXPpmfpp6Al-drVkucSVsCsaW78ctNW5XOngUdbUw4vNtw__&Key-Pair-Id=K3NV4LZ47N8M46)
 
@@ -113,13 +115,13 @@ To add extra time for specific candidates:
 
   8. Click **Confirm**.
 
-**Note:  **
+:::note
+* A candidate who is still in a test session must refresh the page to see the updated timer.
 
-  * A candidate who is still in a test session must refresh the page to see the updated timer.
+* A candidate who has completed the test must log in again to view the added time.
 
-  * A candidate who has completed the test must log in again to view the added time.
-
-  * Do not add time to a test that contains DevOps and Cloud questions after it ends or after the candidate submits it. The system purges the virtual machine for the questions upon submission, and added time does not restore access. To allow additional time, re-invite the candidate to take the test as a new attempt.
+* Do not add time to a test that contains DevOps and Cloud questions after it ends or after the candidate submits it. The system purges the virtual machine for the questions upon submission, and added time does not restore access. To allow additional time, re-invite the candidate to take the test as a new attempt.
+:::
 
 ### Adding extra time in variant-based tests
 
@@ -145,12 +147,12 @@ To add extra time for specific candidates in a variant-based test:
 
   8. Click **Confirm**.
 
-**Note:**
+:::note
+* The **Add additional time** dialog displays only the sections included in the selected variant (for example, Problem Solving, JavaScript, or CSS).
 
-  * The **Add additional time** dialog displays only the sections included in the selected variant (for example, Problem Solving, JavaScript, or CSS).
+* For bulk updates, select candidates from the same test variant. If you select candidates from different variants, the **Add time** option is disabled. Filter the candidate list to a single variant to continue.
 
-  * For bulk updates, select candidates from the same test variant. If you select candidates from different variants, the **Add time** option is disabled. Filter the candidate list to a single variant to continue.
+* Candidates who are actively taking the test must refresh the page to see the updated timer.
 
-  * Candidates who are actively taking the test must refresh the page to see the updated timer.
-
-  * Candidates who have completed the test must log in again to view the added time.
+* Candidates who have completed the test must log in again to view the added time.
+:::

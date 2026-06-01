@@ -61,7 +61,9 @@ Configuring Workday Studio involves three steps:
 
   1. Select **Window** > **Preferences** > **Workday** > **Connections**.
 
-**Note:** If this option is not accessible, go to **Window** > **Show View** > **Cloud Explorer**. Click the icon in the upper-left corner of the Cloud Explorer panel to open **Connection Details**.  
+:::note
+If this option is not accessible, go to **Window** > **Show View** > **Cloud Explorer**. Click the icon in the upper-left corner of the Cloud Explorer panel to open **Connection Details**.
+:::
 
   2. Click **Add**.
 
@@ -79,11 +81,15 @@ URL| The URL of the connection.![](https://assets.usepylon.com/e6a58e21-be80-477
 
      * **OAuth 2.0:** Enter the **Grant Type** , **Client ID** , **Authorization Endpoint** , **Token Endpoint** , and **Access Token**.
 
-**Note:** To use OAuth 2.0 authorization, you must first register an API client. For more information, see [Workday Community ](<https://doc.workday.com/admin-guide/en-us/authentication-and-security/authentication/oauth/dan1370797831010.html>)guide[.](<https://doc.workday.com/admin-guide/en-us/authentication-and-security/authentication/oauth/dan1370797831010.html>)
+:::note
+To use OAuth 2.0 authorization, you must first register an API client. For more information, see [Workday Community ](<https://doc.workday.com/admin-guide/en-us/authentication-and-security/authentication/oauth/dan1370797831010.html>)guide[.](<https://doc.workday.com/admin-guide/en-us/authentication-and-security/authentication/oauth/dan1370797831010.html>)
+:::
 
   5. Click **Test Connection**. Workday Studio confirms whether it can access the connection.
 
-**Note:** The user must have certain permissions to deploy. Refer to the security group list in Workday Studio to confirm the user belongs to at least one security group for each section required to deploy the CLAR file to the tenant. For more information, see [Workday article for user-based security groups](<https://resourcecenter.workday.com/en-us/signin.html?fromURI=https://signin.resourcecenter.workday.com/app/workdayciam_aembetadoc2_1/exkd1j067lBdQMGYl4x7/sso/saml>).
+:::note
+The user must have certain permissions to deploy. Refer to the security group list in Workday Studio to confirm the user belongs to at least one security group for each section required to deploy the CLAR file to the tenant. For more information, see [Workday article for user-based security groups](<https://resourcecenter.workday.com/en-us/signin.html?fromURI=https://signin.resourcecenter.workday.com/app/workdayciam_aembetadoc2_1/exkd1j067lBdQMGYl4x7/sso/saml>).
+:::
 
 ![confg_guide1.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046123389-?Expires=253370764800&Signature=EUXEZqRnzLkuE~eez1n1v8ZPep6egPsCxsCW5S1-0S9TY7ot3U5L7sn7qnusVsZWqvxoKrOotYxx0VCpGCWsvSDSMfm1jtg-zLfbb5KlYWNu94xsccY9bj14fKAK~YEuoyR94cz5f5bydBD7mmSZExvmiY17SJI9sdxtS64XgQ9-b~xq4B18mJzDn~ag7wAf23EQLXBBk4s1kzR1m5Px10oOrpvweECcE1~KYibtwFRTgZW797EUAv7kyu8GOFZZHbawWpDp96eUAxSDGDt8oVV66SZVPYB4ikBBxJXnMSbpshy-rrG0PliksekDbfqJcy~WS2LsYV954gIdSev9TQ__&Key-Pair-Id=K3NV4LZ47N8M46)![confg_guide_testconnections.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046123815-?Expires=253370764800&Signature=F-EBc0fAOy1MSKm7Q46k0segf5G7WcefhZIbtd1rKrvA1-j4bJMCGG4gPxz8zC5IH6xkzykjOanHVLLJu5W9nsaAyLG-~bhIEHIn6uG0XuR6jJq0JrgeJXzDNG5yTrvsXCFIv7d-GM5cgwrIHBIG62Ip44TOde9CE1HquKpQVg7CCynDbQLP~8cC6fyKocR5LvDJoTFk-rtQYmQKKnDauThdo4js3E0FxIFk7tpgYFX0mufN-pgpctM2NHB68-EsFzVY1SynIGXNNQSCfq~K3OdRaoCznTOF-l~HrRcFJpfa2D0UML2GBK6tAu-h93FZFWY69D5bljnf~IgbhUszzw__&Key-Pair-Id=K3NV4LZ47N8M46)![confg_guide_testconnections2.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046124227-?Expires=253370764800&Signature=BoSpt7spaRVeZ4kQ-dhM065aL2eInLZCxmdPYp3etfD-JxgwoVX1fCnHagbyPikL~xmLuI4UwnpScKuRJSnJmphEmtw1V3CbdFgnhd-d~O~JBEENe91emeAFBwrUh-rA4pdTrAFCcWbpl3p43wFO0B9bGVkaMacjRQ8XlpxRaFxsv5XAt8E2HpXSJ-XV9JDuFBH-MxJ1mebVFoYf2hlaGupGJt8wxvBn~XjsC3s1Xr2PoIFZYM-cZxAk50nn90DeMP-vwAV4Oeuwkf2KoQaIwFkTLO96vimPBvgnSOhRV~17U0LP2yXrJTVi0gvwgthVVvR0~jCghU9R9ONx9QbXnA__&Key-Pair-Id=K3NV4LZ47N8M46)![confg_guide_testconnections3.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046124704-?Expires=253370764800&Signature=c-CjTRGsZJmzEcQrzWyj0hoNPNwiK3Crxs6Z3JqwApI1wuSiS3khoSJwiTpnQYk5XSdmyfSqZUVVjtYTHyWvuSkyjLr-QBSBeYKbd-od3lZSgFTQVZX4idKflZAr6QI5O-A465o1gHTo1UIHlAq4ehm5m5q-tUDWIwsz5JCwaFDEaOteh6Tkd4HKGaw9ITbkxU1g7D5QlOdniJJXffZ7~8b8xmS73fj-RocSUTimP705yjgBkDe1iXnuj3BruylRxAomjU7P2Ap0ebBN5reXHcUhTC1ZAqcpoa5YvHjnPPI0iT6ax-bihf~zpTxqNGEvgrI2v6pdGWXoEGEqkBOTPw__&Key-Pair-Id=K3NV4LZ47N8M46)![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046125142-?Expires=253370764800&Signature=UoiXQUoY4054xcJu9ky4PmzPtgZIPjsKgnxNRUVja0muCV1Q6NIJZj-NNoIB15156WQXVCzVBGAncloHXAuOgUgCINdRsdZjqjXihHAVP59z2qgF8iIairwhI-t7tVrc~ddJ~fX6EGfie7MF6SQ-BDCXKbtjORz7bZ5pUdXd-YDA46ZuNXlB~yduuaH2ZhIWxiepfP8DXfsYKSk8uSWrAZr5UeY0EssIdwLIsZrxvbnpiZMoQUIirQAKeWmGGJdgqWX5cA-nNeQKBMVgpZEXGb8HzmTNItO-HkpM258UC9lagydCLwbc2l9bQ0DanmacJFFKhltf--at6-fBjbrT~A__&Key-Pair-Id=K3NV4LZ47N8M46)
 
@@ -101,11 +107,15 @@ URL| The URL of the connection.![](https://assets.usepylon.com/e6a58e21-be80-477
 
 ## Configure Workday Tenant
 
-**Important:** You must have access to the domain **Security: Security Configuration** to perform the steps in this section.
+:::warning
+You must have access to the domain **Security: Security Configuration** to perform the steps in this section.
+:::
 
 ### Create and configure an Integration System User (ISU) account
 
-**Note:** If you cannot access a specific task or report referenced in this guide, use the **View Security for Securable Item** report to review the domains required for that task and the associated security groups.
+:::note
+If you cannot access a specific task or report referenced in this guide, use the **View Security for Securable Item** report to review the domains required for that task and the associated security groups.
+:::
 
   1. Create Integration System Users.
 
@@ -174,7 +184,9 @@ Description automatically generated](https://assets.usepylon.com/e6a58e21-be80-4
 
 Add the integration system users to the System Users exempt from the password expiration field.
 
-**Note:** Workday recommends preventing Workday passwords from expiring to avoid integration errors caused by expired passwords.
+:::note
+Workday recommends preventing Workday passwords from expiring to avoid integration errors caused by expired passwords.
+:::
 
   5. Assign ISU to the integration system.
 
@@ -207,7 +219,9 @@ Add the integration system users to the System Users exempt from the password ex
 
      9. Go to **Activate All Pending Authentication Policy Changes** to activate your changes.
 
-**Note** : If authentication policies are not configured correctly, HackerRank may be unable to make web service calls to Workday. If there are issues with authentication, use the **Signons and Attempted Signons** report to troubleshoot the failed sign-on attempt.
+:::note
+If authentication policies are not configured correctly, HackerRank may be unable to make web service calls to Workday. If there are issues with authentication, use the **Signons and Attempted Signons** report to troubleshoot the failed sign-on attempt.
+:::
 
 ### Configure the HackerRank Settings page
 
@@ -228,11 +242,15 @@ Search for the ‘Public Web Services’ report in your Workday tenant. Navigate
 
 Saving the configuration generates the **Access Token** and **Company ID** in the [HackerRank Workday integration](<https://www.hackerrank.com/work/settings/integrations/workday/configuration>) page required for the next steps.
 
-**Note** : If you move tenants, provide updated credentials to the HackerRank team.
+:::note
+If you move tenants, provide updated credentials to the HackerRank team.
+:::
 
 ### Add HackerRank-specific fields to the Integration
 
-**Important Note:** Before configuring the integration attributes in Workday:
+:::warning
+Before configuring the integration attributes in Workday:
+:::
 
   * Go to the **Field Mapping** section on the [Workday integration ](<https://www.hackerrank.com/work/settings/integrations/workday/configuration>)page in HackerRank to copy the following values.
 
@@ -355,7 +373,9 @@ Description automatically generated](https://assets.usepylon.com/e6a58e21-be80-4
 
 ### Business process configuration
 
-**Note:** Workday recommends the following setup and has been tested for the integration to work. We recommend keeping all the steps mentioned below in the specified order. If you have additional steps in your setup, make sure first to test if the integration works for your setup.
+:::note
+Workday recommends the following setup and has been tested for the integration to work. We recommend keeping all the steps mentioned below in the specified order. If you have additional steps in your setup, make sure first to test if the integration works for your setup.
+:::
 
 ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046129895-?Expires=253370764800&Signature=pzExGMHhLleUMjuIgmNENxi6IgiAtkUmWYAQwQiO0BHPqVBg3zgjQa6A8RLfcWfAmPnYx5s9XAT8y5Ejv7~P2MLtoVcg1yL0vDZcCuu0XN9zzsv4iKIOQwq-qsEm5VZIUWTDqamCIFSh9rXH9wZ3Df6NZYgH16gbDchuk9KWZjI-dukPQZllK1TiTL47JFzHSdrkY2CiLZlpnLXBLMNuEfQqBfihfTxclkj3WllYqr6r3YkVEP~x9GDf-SarwGM7Y4prW4BHcNeKfrGkSC6lDTFCNf8zpaDKQKuxUK7b4DEqmZX9Y~q7nYi3MQVzdCUNKnJXgYzon-ZEidFEZx313Q__&Key-Pair-Id=K3NV4LZ47N8M46)
 
@@ -387,7 +407,9 @@ Description automatically generated](https://assets.usepylon.com/e6a58e21-be80-4
 
      4. Hover over the magnifying glass for the Integration step and click **Related Actions**. Go to **Business Process** > **Maintain Redirect** and click **OK**. Select the **Move to Next Step** and **Rerun Integration** checkboxes, and select the allowed security groups for the redirect.
 
-**Note** : If there are no security groups in the drop-down, click **Related Actions** off the Business Process Definition and navigate to **Business Process Policy - Edit**. Add the desired security groups in the Redirect Action box.
+:::note
+If there are no security groups in the drop-down, click **Related Actions** off the Business Process Definition and navigate to **Business Process Policy - Edit**. Add the desired security groups in the Redirect Action box.
+:::
 
      5. Click **Configure** for the step you created.
 

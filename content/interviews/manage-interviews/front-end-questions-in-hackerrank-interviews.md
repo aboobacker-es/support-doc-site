@@ -68,7 +68,9 @@ This option allows you to select your own starter code for interviews by uploadi
 
 ![image4.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046365119-?Expires=253370764800&Signature=t-YZosbkrZlGE6QjuNxoCXAOG8Fz56Pl7SBFD851e5o8JI7mX4xNIlPdH9WN0603x-YnFqdrQ6bXa4Q1kG50sP9PGqb3DF16VgYI6ZTcIjFqpSYHjWsBGwLG6hXGLUHiuMN6PHWHiGUOJWX9aYBWB0xL6DN9XlKZ816E4~6wL73l3gqOoTDAWCE~ZHOJ33jLUC7mcQwK2yP9hDP~dyci-y1OTlyt1vS7PNNB30UdNxGIjT8hl-oNRP~-LsrPs9vnDOPo6~Y7lBx9l9Rj6I2Xq1bUBGbiFeeUJ8-3ppJkP~nYp9qAmcScrrDrFbGdAnRIHowjgt7Qa7TfZsRd0iSbAw__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-**Note:** The maximum file size allowed for the project is 5MB. This flow does not get the new IDE features. This flow is currently in beta.  
+:::note
+The maximum file size allowed for the project is 5MB. This flow does not get the new IDE features. This flow is currently in beta.
+:::
 
 ![mceclip0.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046365534-?Expires=253370764800&Signature=N5HHiBZn3vCAq1l911hdq2alf1wqojywbslWjjw~DXagaIv~T0ifv7oS7BnoryldTfe-IA9CT1Lbtsf7o0UxzGhtG2Prs9cx9gQo--7nFP0clhB4vBJaCi37dnADI3eJjPewyqIj9tO0nP51b57CZvCLcyEVv5pjkxfkFFFc1~6CoWxLWBONu3LTGS2iSAWcJu0MdgwYXxW3YA~emJYuiDH-e1HX0LN1BV9BZXPmUZ3fxyG-y-POlCzmDfNzqtuWfYq7BTuTuvwnJGqtxytMn7qGElOrsV3FN90i4soUZ26nv4e8TbSETvlXH1rAcVih6QJXjgAxXQwRakxwLC1Jhw__&Key-Pair-Id=K3NV4LZ47N8M46)
 

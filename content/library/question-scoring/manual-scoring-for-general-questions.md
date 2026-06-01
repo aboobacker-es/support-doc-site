@@ -44,7 +44,9 @@ To manually score general questions:
 
 The **Detailed Report** opens and displays the selected question.
 
-**Note:** You can also click **View Detailed Report** to open the **Detailed Report** and then select the question you want to review.
+:::note
+You can also click **View Detailed Report** to open the **Detailed Report** and then select the question you want to review.
+:::
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1772516575781-image.png?Expires=253370764800&Signature=YN1S6RS7kGQ7eNYNern3ntlJGjaTSxxfe79tFNd0hg1GMDQrsuld-nvlTKdtbkH1VPwRhCgBxs8caph4eDyJmAk57vs~urTmxXYIdXZQ2fgp-NBKmYY7p84~47uDONmt4v~eOCikUJGMqUCAg2gMpGhrluxld8EiLOA~6uaqpaFh1CYttX0vtO-tqfTy1s4FxGakOqEYqOz-ltJVqyi3fQKY17aW5a5gRyqYEPYkeVenRRG8kPjwWGtx9kA3i9uBPeEd6bJgIy7th55-TBCfzKc41F3-dvqGgzfVkQQctnge5LlkpxPMiXNupz~E6lI7U5rTEapjnxFHE0eklfniCg__&Key-Pair-Id=K3NV4LZ47N8M46)
 

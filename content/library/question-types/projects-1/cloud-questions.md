@@ -15,13 +15,13 @@ HackerRank supports the following cloud question types:
 
   * **AWS Console** : Amazon’s cloud platform that provides on-demand infrastructure, storage, and services through a web-based console.
 
-**Note:**  
+:::note
+* HackerRank creates and manages cloud questions internally.
 
-  * HackerRank creates and manages cloud questions internally.
-
-  * AWS Console is a cloud question type. AWS is a DevOps question type.
+* AWS Console is a cloud question type. AWS is a DevOps question type.
 
 To use cloud questions, select them from the **Library** when you create a test or interview.
+:::
 
 ## Scoring cloud questions
 

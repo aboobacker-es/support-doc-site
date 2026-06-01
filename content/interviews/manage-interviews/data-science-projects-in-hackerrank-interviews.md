@@ -9,7 +9,9 @@ is_published: true
 
 You can now import Data Science questions into the HackerRank interviews. With this feature, interviewers can assess candidates on skills during live interviews, view their code inside the Interview report, and rerun the same inside the IDE. This article will walk you through the steps to import Data Science project questions in HackerRank Interview. 
 
-**Note:** For importing Front-end, Back-end, and Full-Stack in the HackerRank interview, click[ here](<https://support.hackerrank.com/hc/en-us/articles/4402962470419-Importing-Projects-in-HackerRank-Interview-New-experience>).
+:::note
+For importing Front-end, Back-end, and Full-Stack in the HackerRank interview, click[ here](<https://support.hackerrank.com/hc/en-us/articles/4402962470419-Importing-Projects-in-HackerRank-Interview-New-experience>).
+:::
 
 ## Starting a Data Science Interview 
 

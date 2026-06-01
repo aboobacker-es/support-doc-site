@@ -53,7 +53,9 @@ A unique API Key is displayed.
 
   6. Copy this key. You will need to add this key to the Lever account to establish the integration.
 
-**Note** : Ensure to store the API key safely. Once the popup is closed, you cannot retrieve the key again.
+:::note
+Ensure to store the API key safely. Once the popup is closed, you cannot retrieve the key again.
+:::
 
 When a new user is added to the Lever account, the user needs this key to set up the integration. Also, when the admin changes the API Key or generates a new key from HackerRank, all the current users need to update their keys. Hence, admins need to store the key and share it with all current users for them to update on Lever. Each new user added to Lever must enter the API key again. Store this API key securely so it can be shared with new users later.
 
@@ -95,7 +97,9 @@ _Verifying the authentication request from Lever to HackerRank Tests_
 
 To know more about creating and publishing a test, refer to[📄 Creating a New Test](</docs/3147b674-5cbb-4bde-9528-7699bb64b1a7/articles/093d9942-8f79-4ced-8756-c88831217477>)
 
-**Note** : In HackerRank for Work, you must log in using the same **Company Admin** user account to create the HackerRank Tests and generate the Lever API token required to enable the integration between the two applications.
+:::note
+In HackerRank for Work, you must log in using the same **Company Admin** user account to create the HackerRank Tests and generate the Lever API token required to enable the integration between the two applications.
+:::
 
 ## Sending HackerRank Test invites from candidate profiles in Lever
 
@@ -117,7 +121,9 @@ Alternatively, you can also click the three-dot menu in the candidate's profile 
 
 _The 'Send Test' option from the three-dot menu_
 
-**Note** : A candidate's Lever profile must have a valid email address to send a HackerRank Test invite.
+:::note
+A candidate's Lever profile must have a valid email address to send a HackerRank Test invite.
+:::
 
 In the Send test window,
 

@@ -25,7 +25,9 @@ The integration involves a 3-step process:
 
 #### Obtain the BrassRing API key from HackerRank for Work
 
-**Note** : If you are using the BrassRing Tests integration, you can skip this step and reuse the connection for the following candidate exports.  
+:::note
+If you are using the BrassRing Tests integration, you can skip this step and reuse the connection for the following candidate exports.
+:::
 
   1. Log in to HackerRank for Work with the Company Admin user account.  
 
@@ -46,7 +48,9 @@ A unique API Key is displayed.
 ![integ_brassring_api_token.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047116693-?Expires=253370764800&Signature=fAidW7JDScS5Cg8SyPajYzexBlM03hfnszz9Vq80UPcQK1lvP6Ox9sQck2fNUDPOPdtpeCiaX1q4dzV62-YxRTrSnOgnkg2Yo843np2fgAZencruNkluAT6jflMV5J7A62b--YpZJWP1pqNfkpxCKBSlk4e-OdGMfnjHe7lKWuphw1nEu33bSRdKbheAyZ8ZlWJGXH7biD5lUYo0ccle37WEsJGP2wklfYu-Ao8SlO73I4OaNODwpY0Vwhvx8wo-oW5L-tmcg0ild5QYrB8Alk0kk7wZRRO2uThJvqKGDDvOGv-jcq4pboOmG3oe9LT2cZ4veXSlUfxm8N4G1sAGwQ__&Key-Pair-Id=K3NV4LZ47N8M46)
   6. Copy this key. You will need to add this key to the BrassRing account to establish the integration.
 
-**Note** : Ensure to store the API key safely. Once the popup is closed, you cannot retrieve the key again.
+:::note
+Ensure to store the API key safely. Once the popup is closed, you cannot retrieve the key again.
+:::
 
 #### **URL and Authentication Setup**
 

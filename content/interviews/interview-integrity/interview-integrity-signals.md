@@ -46,7 +46,9 @@ To enable Interview Integrity Signals:
 
      * Select **Enable Screen to interview identity match** to compare the candidate’s identity from the screening stage with the interview session.
 
-**Note:** The Screen to Interview Identity Match feature is part of the AI Add-on. Contact your account manager to learn more.
+:::note
+The Screen to Interview Identity Match feature is part of the AI Add-on. Contact your account manager to learn more.
+:::
 
   6. Click **Save**.
 
@@ -66,7 +68,9 @@ When the interviewer clicks the alert, they see a list of specific behaviors, su
 
 Interviewers can ask the candidate to share their screen for further review. If the candidate uses unauthorized tools or browser tabs, the interviewer can address the issue directly, ensuring a secure and transparent interview environment.
 
-**Note:** You can also keep the **Suspicious Signals** panel open to view integrity signals in real time as candidate activity occurs.
+:::note
+You can also keep the **Suspicious Signals** panel open to view integrity signals in real time as candidate activity occurs.
+:::
 
 ![Real-Time Interview Integrity Signals in the Timeline.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F3b20dda3-2d6f-42d2-b8aa-a90d27d6a086-1776591629751-Real-TimeInterviewIntegritySignalsintheTimeline.gif-81293a91-3b15-42d5-be5f-42068ce67a95?Expires=253370764800&Signature=IqVc73pW1uUDGMJMNaDWLjXRwLz0LRXG3fxJZfq1LhdgM35~DBUJdyCaJ7Hzxy02UXEJ-PEdMg0z0Kv0aQ5H4RMU7TgjTHZqFNQss8chpThgF4jGsWxMadXnpJ3OvmW7hjQOuS0o0F30gCQOrRjX4QT9ktgwrwjtNKHkOKyoDX9fZQSbXPj69aW3u2TybM3-3Yh33yYPweZj9Z2c1VHHbEr-xMr2jiIrRvIpZB9LrNiFT4LV4VTUlJEWxRQWTsbBzGkWKlZ-yK8OpL4EO51UaGK4UksXlu4d9wQLGpRn1bW3V71T36YvJecD9GYN6A8YZAH5o3Lo6so~h5cgJOIyVQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
@@ -80,11 +84,15 @@ The system groups the following types of suspicious signals into alerts:
 
 ![Out-of-Interview Activity Details.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776590685450-Out-of-InterviewActivityDetails.gif?Expires=253370764800&Signature=pAmLXZWKrdfhwk1bQswdirds87w~ZVDrwmCj3Dj~GvPTQ5PAiEuF3ggpAGoOKlRaIvNGVJ~LH7QvLfy14oXM-CPmvi3jsZCWP6Vt6xT8Z10ptZbHCQmz3BRu87ZNEcCJ1cX95epXI1G4vDNG9VswkWyYazq0N5y5Nyl-PVO5qLLIUJ~1iqmsCgBhBN03wkP-vXUPRXnA2TDrm1hnWNRfWIVf8guCLXzIYPzLCMwPJpy1hChBIFSs3d6012Lc1jk-Sg1loJ~wSH7PdM1cQndmeMhLH9O79kqerWCveN05cVkCB3FZRXThOg0uPfBMkXZSaq0IOAeuQYpB9TxcMmixbw__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-**Note:** Actions such as opening the browser console or interacting with permission pop-ups may also trigger this signal, as they operate outside the coding environment.
+:::note
+Actions such as opening the browser console or interacting with permission pop-ups may also trigger this signal, as they operate outside the coding environment.
+:::
 
   * **Copy Paste:** The candidate copies and pastes content from an external source into the code editor. This helps identify potential cases where candidates use pre-written answers or external assistance.
 
-**Note:** Copying and pasting code does not always indicate misconduct. Candidates may copy content from forums, AI tools, or personal editors, which may be acceptable in certain contexts.
+:::note
+Copying and pasting code does not always indicate misconduct. Candidates may copy content from forums, AI tools, or personal editors, which may be acceptable in certain contexts.
+:::
 
   * **Window Resize:** Candidate resizes the browser window during the interview. This action may suggest attempts to access or conceal other applications or content.
 

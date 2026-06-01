@@ -40,7 +40,9 @@ To add an AI Interviewer**** stage to a job interview plan in Greenhouse:
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776788741903-image.png?Expires=253370764800&Signature=Wl-bEvbiCgEhb6m-vXpwZ~2MofTA~8wxINggWgTFe4USQqZeR~Zp6K6dL-vKRjjIg1iZwsrutStYCkqmqAHWLmZKi1mK8pupJZDslIQISsDWaFX7HTWuJ5jGEbCEmXfiDkz4iTSWrdqM8cMO1me9xq52PYJrbHWq4wNJKU6RUBwW~ikJ9xMgS6ce8qJTUbXQCzwWwYJtyqGWaZs6yyGj9wdUNK-dBK~vq66s5QCQc0onEEudcZuyi3oSVoda5aJWJ8UJg2Da3skdse8rfqpPKoxZwrNoqOgh3turU-Vc8pJ1SoyJLXFMY4jtzeveB6lYzq7ohMXGvpyXdrRZEYkIiw__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-**Note:** If **HackerRank Assessment** does not appear in the stage list, the integration is not configured correctly. For more information, see [📄 Greenhouse - HackerRank Integration Guide](</articles/1406188460>).
+:::note
+If **HackerRank Assessment** does not appear in the stage list, the integration is not configured correctly. For more information, see [📄 Greenhouse - HackerRank Integration Guide](</articles/1406188460>).
+:::
 
   7. Click **Add**. Greenhouse adds the HackerRank Assessment stage to the interview plan.
 
@@ -53,11 +55,15 @@ To add an AI Interviewer**** stage to a job interview plan in Greenhouse:
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776789311168-image.png?Expires=253370764800&Signature=eQBrWfkGHYc4FSB4Ped6GoEp7emETb7dRNgkeXZouvnG5su~vrJc2woHtS43foRybVFoeFWQhaoxSzog62Ws3qCGvSRhXReucyRdh6bgXqTVOqwjp3MUY0LjVyZj-4v6eCPsmuTASipZ8op96L6Vu-CRapLcyCogQP6001x9C~T9-yLUrDmJFlW8eDnuJGPVROXSBz5yCp2yjfN~sR5xuGIjQWeJIXV1obUTCXKPjGI9E5XxAhz3wW2t~Ib~q7tHAy9jX6k2koEFzbyRv1G6pMtHGYnqSLhLLZcPgdP5R~YA8Vo3mpBV4DPJh2MfHwxferbDeX49e22e1I1RhHngyA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-**Tip:** Move the **AI Interviewer** stage to the appropriate position in the interview plan.
+:::tip
+Move the **AI Interviewer** stage to the appropriate position in the interview plan.
+:::
 
 ## Scheduling an AI Interview from Greenhouse
 
-**Note** :  Before you schedule an interview, ensure that the **AI Interviewer** stage is added to the job interview plan in Greenhouse. For more information, see [Adding HackerRank AI interview stage in Greenhouse](<https://support.hackerrank.com/articles/8491534135-greenhouse-chakra-integration-user-guide#adding-an-ai-interviewer-stage-in-greenhouse>).
+:::note
+Before you schedule an interview, ensure that the **AI Interviewer** stage is added to the job interview plan in Greenhouse. For more information, see [Adding HackerRank AI interview stage in Greenhouse](<https://support.hackerrank.com/articles/8491534135-greenhouse-chakra-integration-user-guide#adding-an-ai-interviewer-stage-in-greenhouse>).
+:::
 
 To schedule an AI interview in Greenhouse:
 
@@ -91,4 +97,6 @@ To view the interview results in Greenhouse:
 
   4. Click **Go to test** to view the detailed interview scorecard in Chakra.
 
-**Note:** You can also view the AI interview report in the **Notes** panel.
+:::note
+You can also view the AI interview report in the **Notes** panel.
+:::

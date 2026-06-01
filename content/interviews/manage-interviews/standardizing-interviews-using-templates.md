@@ -41,13 +41,17 @@ To add questions to the template:
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1765777452060-image.png?Expires=253370764800&Signature=JARcgahHHSmicA1Y4qovGS2FhCEt7LF7x0bBGvuLmEntdCIALkjCXcs3KRQx7GeQWTKdMSo0JoG4wUeIDbCO8r5S4XDHRS7Y8MmHPhZBiREW~pGt6a1xwKWnJkxAXzeEl7obfXSgk4d0mZJsflqG9w~scBFULOluqs8P~dgWHhX-dsMHFQUlAqHN~rioQgPdDYqZ-dl89ZKDAT44Fr5lKO0NZoh~Rvu6p7ztNx6fSiWbPRBU~0Zvte-Tf6TEYWcvVMTK8rN7Ll9CpR79idbdEG9y~hfIYTlwK2afNjvcVsSyKP1VSAxgnrTQ7IU6yE9tVnZ89UPwG0kymUIJKWwDGg__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-**Note:** To remove a question from the **Template Preview** panel, click the **Delete** icon.
+:::note
+To remove a question from the **Template Preview** panel, click the **Delete** icon.
+:::
 
 ![DeleteQuestionsTemplates.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1765777480645-DeleteQuestionsTemplates.gif?Expires=253370764800&Signature=fJxEG~ISVfsmt8GSod6n~h9kZwRMgDAlKM9kixA-4nvTd5ARPQ47Yprb-CGW4cMavWivYCKLWVTmJQrqKxtlcJeqFV6WEyhbnYcON8Mirir~DXbLd9s~AFkwRmxiJ4DIYvPKdvVKiq-VudHKnsMC1BPxOoQ~XYdtHUjtZyba4IIblL18BgKN49divTzzidFbVFUQsrewoAgMPEvyh7SPL1uhisqX-iKHuRJAaH4zupryt0uSJe0UiX73RgkQNWJZAtHlp4uQN94LkV-0LwNtP7PvFWZwR-rm2uQhoaQQwtRsHoPXkbh6QJKVA9aLEwIaDnem9d8mAvUbnoabcHQoCw__&Key-Pair-Id=K3NV4LZ47N8M46)
 
   4. Select the **Back** icon to return to the **Questions** tab. The tab displays the full list of questions you have added to the template.
 
-**Note:** To remove a question in the **Questions** tab, click the **Delete** icon in the **Action** column.
+:::note
+To remove a question in the **Questions** tab, click the **Delete** icon in the **Action** column.
+:::
 
 ### Setting a Scorecard**** for an interview template** **
 
@@ -70,7 +74,9 @@ You can modify any scorecard created by your company, and your changes apply eve
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1765777702316-image.png?Expires=253370764800&Signature=hRelN1zJApHmlP4b-hn6Di21VPTBtrLfUumqP9bYqnh27hxtrrJx7K8050DC2qJMXZyjz-ZoUiiD3VMneB2uq~-kCpekk681iC08nZOIElB228D8hn4OB6tYLPwzDAKqtYFiFgTdjqFMZ-WzQ9c8Q9ZryFwFX1A3NUHe8536HdeThAwC3AGJvKCKIgAnEhavGzBdDl63VuXMkEQ8jgjSqYR35K9ISdzP0QilkgURNn19Od~PFN-NqZLcTduha6Bv2T510pGivUa51jPoMr2PRMfDykn1pjvYLPFLFxwIRot4jh0D8WUF0WXRDMk4VpMC0pJZvHqkvYyUbEdX5BYZAg__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-**Note:** You cannot edit the default HackerRank scorecard.
+:::note
+You cannot edit the default HackerRank scorecard.
+:::
 
 #### Creating a custom scorecard for the template
 
@@ -105,9 +111,9 @@ To share a template:
 
   5. Click **Save**.
 
-**Note:**  
-
-  * You can also open the template and click **Share** in the upper-right corner.
+:::note
+* You can also open the template and click **Share** in the upper-right corner.
+:::
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1765781060063-image.png?Expires=253370764800&Signature=MUdDaCL49fl6RPwrvmRlC5gwpAJWMACgiKdiLODc4QNb~1D7nxLFckuVbj8Tnq9kH3ukiCgBBjtaFfQBzyuV1fyV1-WpD706SQLO9n0~Hggfhf8EwEV-IFtSq~jYcFkN86CzXAk7zE7jfQn4WB6RFx~JcnnJPlewx5-~8bSGGV1CadEEepZs5n1FcFiLCRtS-VbPNS~MsVROqeWr0e8XqOyHVixsdoCYC996h-eyZk~lyKGrotZfIfvxKWrTuOGEM5uCASLFxfkT7XcQ3uZ71aWtYXWTpa4cxW-HnPUMYIaqB0xl9K6nhJqwIYT1l0eex6N1bkmMWfpZwbjkzyKsIw__&Key-Pair-Id=K3NV4LZ47N8M46)
 

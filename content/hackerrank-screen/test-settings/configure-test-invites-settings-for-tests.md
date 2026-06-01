@@ -76,7 +76,9 @@ To enable invite expiry:
 
 Generate a shareable test URL for bulk invitations without requiring a password. This option is suitable for large-scale hiring drives. Recruiters can share the public URL with candidates, who can access the test directly without entering a password.
 
-**Note:** You must publish the test before creating a public URL.
+:::note
+You must publish the test before creating a public URL.
+:::
 
 To generate a public test URL:
 
@@ -90,23 +92,23 @@ To generate a public test URL:
 
   3. Click **Create link**.
 
-**Note:  **
+:::note
+* Click **Remove** to delete an existing public test URL.
 
-  * Click **Remove** to delete an existing public test URL.
-
-  * Click **Copy** to copy the public test URL to your clipboard.
+* Click **Copy** to copy the public test URL to your clipboard.
+:::
 
 ### Private URL
 
 Generate a restricted access test link secured with a master password. This option is useful for controlled candidate groups.
 
-**Note:**  
+:::note
+* You must publish the test before creating a private URL. 
 
-  * You must publish the test before creating a private URL. 
-
-  * You must also set and share a **Master Password** with the candidates. For more information on the master password, see [_Master Password_](<https://support.hackerrank.com/articles/9544354489-configure-test-invites-settings-for-tests#master-password-28>).
+* You must also set and share a **Master Password** with the candidates. For more information on the master password, see [_Master Password_](<https://support.hackerrank.com/articles/9544354489-configure-test-invites-settings-for-tests#master-password-28>).
 
 To generate a private test URL:
+:::
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1753694326664-image.png?Expires=253370764800&Signature=oj-~Gr-fq1Plsf7GeHCi8EnCgPjirlYnstszR-mbTmEuqz-6gF7ML66bKI9UwXHhmziGCANB52TfYN4TQOz7o342ezGcBqjqIzaYLaADWS1VUu~B4pK9U20mMRG-HYcnlD7OhtvvWgQFlGfZg0U8zZKCD3ea9jEHKglmhkM6MdEhd9i0gjE0IxiC1pfqVttImvDc8XHknTVak6Pkqcow0EaQWdmXeE7qC7T1LbA6kyOGIsOG6P2OQJm9mxPVQax-hPIo395XH~LtkMr0UTBK~GJagCmMEBF3JnTzJnqcWTB5xUeZFTjNb1cQkaGZlh-ow0CakgcpNfie4ZfS9x96Ug__&Key-Pair-Id=K3NV4LZ47N8M46)
 
@@ -116,11 +118,11 @@ To generate a private test URL:
 
   2. Click **Create link**.
 
-**Note:  **
+:::note
+* Click **Remove** to delete an existing private test URL.
 
-  * Click **Remove** to delete an existing private test URL.
-
-  * Click **Copy** to copy the private test URL to your clipboard.
+* Click **Copy** to copy the private test URL to your clipboard.
+:::
 
 ### Master Password
 

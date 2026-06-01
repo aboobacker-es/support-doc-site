@@ -23,7 +23,9 @@ input1.txt| output1.txt.
   
 For a given test case, the input and output files need to be associated with each other. The numbers in the input and output file names should match for them to be associated. For example, input0.txt and output0.txt are combined into a test case, as is input002.txt and output002.txt.
 
-**Note** : Ensure that the directory contains only these files and no sub-directories before compressing it into a .zip file.
+:::note
+Ensure that the directory contains only these files and no sub-directories before compressing it into a .zip file.
+:::
 
 ## Uploading the Zip File
 

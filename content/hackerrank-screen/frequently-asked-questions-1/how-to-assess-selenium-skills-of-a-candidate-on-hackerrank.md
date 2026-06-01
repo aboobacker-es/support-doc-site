@@ -31,4 +31,6 @@ HackerRank's Projects questions associated with Selenium skills cover a wide arr
 
   * Other common competencies tested using HackerRank Selenium questions include Fundamental Java programming knowledge, knowledge of XPath, CSS, HTML, and DOM.
 
-**Note** : Validated by our [HackerRank's Skills Advisory Council](<https://www.hackerrank.com/skills-directory/skills-advisory-council>), we also provide the [HackerRank Skills Directory](<https://www.hackerrank.com/skills-directory>), which clearly defines the Selenium competencies that can be leveraged while assessing candidates. Please see the key competencies in the Selenium Skills Directory [here](<https://www.hackerrank.com/skills-directory/selenium_basic>).
+:::note
+Validated by our [HackerRank's Skills Advisory Council](<https://www.hackerrank.com/skills-directory/skills-advisory-council>), we also provide the [HackerRank Skills Directory](<https://www.hackerrank.com/skills-directory>), which clearly defines the Selenium competencies that can be leveraged while assessing candidates. Please see the key competencies in the Selenium Skills Directory [here](<https://www.hackerrank.com/skills-directory/selenium_basic>).
+:::

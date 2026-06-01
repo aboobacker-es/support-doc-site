@@ -58,7 +58,9 @@ Examples|
 
   
   
-**Note:** You can run flagship events for niche audiences to build talent pipelines for specialized skills or to support diversity, equity, and inclusion (DE&I) initiatives.
+:::note
+You can run flagship events for niche audiences to build talent pipelines for specialized skills or to support diversity, equity, and inclusion (DE&I) initiatives.
+:::
 
 ### Run coding challenges for multiple similar roles
 

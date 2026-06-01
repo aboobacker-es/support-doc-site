@@ -17,7 +17,9 @@ Weekly Challenges support the following objectives:
 
   * Introduce a controlled competitive element within an organization
 
-**Note:** A new challenge releases every week. Challenges and leaderboards reset every Tuesday at 6:00 PM UTC. 
+:::note
+A new challenge releases every week. Challenges and leaderboards reset every Tuesday at 6:00 PM UTC.
+:::
 
 ## Accessing weekly challenges
 
@@ -43,7 +45,9 @@ Leaderboards allow users to:
 
   * Track progress across multiple challenges
 
-**Note:** Users can view the previous week’s challenge and winning submissions to learn from them.
+:::note
+Users can view the previous week’s challenge and winning submissions to learn from them.
+:::
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1769525915891-image.png?Expires=253370764800&Signature=hlizgIT~Ii8nn~m1ggeHH3JWmMKUx~QjU5bixfdjLEalebfITUEPbr9qehoOePpd1DSi4kxo95BBM1tPb1ZsIQlrRPiqr87JDElfFa4l6JkxaJz2~xEOHRpI4gfnR~jIC-rnzjnEL9XlqtbT-4C-lUugorym0uzVbRCOlNKOO4I2ywVUOcnBLR1S2mAa9FXp4gQfw-pNf5MoJqE-iLiY4oG7QJ9l-aQnGf8rtA1ezZ2tvQd7UE9EorMJdgJ5hlqtmoENyJO8cSmXWZumFBnQeePRMpvkbSwtp7bHjn51b8gs-~3eHKLMoFswArWVdOugpK~qRkqhbHuBMiDrW7CqyQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
@@ -96,8 +100,8 @@ To attempt the weekly Prompt Engineering challenge:
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1769526010328-image.png?Expires=253370764800&Signature=Eocz604fgzfibuZJfEFsMk6KHxfkvgwj4LETNUmn9C1VmK50NVfnsY8R0xkcn-1l7tHcJrF5JNY0Ij6FeDF8zeZW-ox48pNI-4p~Qulw-xtn1R9-eotALw-bBFECl-yoZNlpIshMJAlY9Mw00g4X5kO8Dl~yZrr~R-r-bUWb9Jcu4wuFpMYvYycKejRcxNm3et6ZhlZKUZnn7pogSk3Aa3mAPL7F4bLvTK66o1fMDIUVVxYOsSEv4Y67VC7VL2LFanV9-qLbxMWNbOMJiaJUMpZJVEN2r8vZEU-2mek5iKkfUKErEmII9cIygdPRr2CTJuJGP5tMf1pHFJIpHy8slw__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-**Note:  **
+:::note
+* You can submit the challenge only after all test cases pass.
 
-  * You can submit the challenge only after all test cases pass.
-
-  * If the test cases fail, edit the prompt and regenerate the code.
+* If the test cases fail, edit the prompt and regenerate the code.
+:::

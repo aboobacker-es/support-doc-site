@@ -17,7 +17,9 @@ With this integration, you can:
 
   * Cancel or update tests and interviews in Lever and see those changes instantly reflected in HackerRank.
 
-**Note:** This version replaces the [📄 Lever HackerRank Integration](</articles/1538275190>)and removes the need for manual webhook configurations or redirect-based setup.
+:::note
+This version replaces the [📄 Lever HackerRank Integration](</articles/1538275190>)and removes the need for manual webhook configurations or redirect-based setup.
+:::
 
 ## Prerequisites
 
@@ -52,7 +54,9 @@ The integration API token allows Lever to connect securely with your HackerRank 
 ![lever v2 api generation.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F30246bb1-dcd6-4a33-b361-e28620d08d86-1773300139776-leverv2apigeneration.png-365a168b-806a-453c-8a52-10deb285ddd6?Expires=253370764800&Signature=lbF~BZgsnPJ73q1WO1lHhBgSwsbbjec4X4Pld0-1O3ExmDR61kXJUiZCzBbeEUM7Zi~jQEAhTn02BXeJQZXXafITtlNddjp6MXq188yy3NCBjv6iwdRBixSI3CZlvqqsRablUnsd9UeHlH4DfH7bnUBOYTP7VBrHixi2IjyGCEWEu~V8x-moHxPu0f9E3pgXD3giGUPHoEj6Pxc6bpljKgcjJw~d49cXUZF6GN6kRgXqGbFKHt3WZYrQJIdUhzcyO2cs86KjwjObJEvpRobgJUlePAJoVvOsnWY9--8W0jfnN4lsstYJRg9C5p4Ex5OocKvJvUNG-VcjU6YdcTsokw__&Key-Pair-Id=K3NV4LZ47N8M46)
   6. Click **Copy and close** to copy your token.
 
-**Note:** You need this token in Step 2: Add the HackerRank API token in Lever.
+:::note
+You need this token in Step 2: Add the HackerRank API token in Lever.
+:::
 
 ### Step 2: Add the HackerRank API token in Lever
 
@@ -130,7 +134,9 @@ The API key allows HackerRank to connect securely with your Lever account.
 
   8. Click **Copy Key** and store it securely. 
 
-**Note:** You need this token in Step 2: Add the Lever API Key in HackerRank.
+:::note
+You need this token in Step 2: Add the Lever API Key in HackerRank.
+:::
 
 ### Step 2: Add the Lever API key in HackerRank
 
@@ -149,7 +155,9 @@ This step authorizes HackerRank to connect with your Lever account.
 
 Your Lever account is now integrated with HackerRank to schedule HackerRank interviews.
 
-**Note:** After you integrate HackerRank with Zapier, refer to the following user guides to create HackerRank assessments and interviews:
+:::note
+After you integrate HackerRank with Zapier, refer to the following user guides to create HackerRank assessments and interviews:
+:::
 
   * [📄 Lever V2 - HackerRank Integration Test User Guide](</articles/6548604920>)
 

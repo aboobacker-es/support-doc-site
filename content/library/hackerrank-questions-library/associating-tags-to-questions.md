@@ -9,7 +9,9 @@ is_published: true
 
 HackerRank for Work allows you to categorize your questions by setting difficulty levels through tags. Based on a question’s complexity, you can assign tags such as Easy, Medium, or Hard. Additionally, you can add custom tags to organize questions by subject or parameters like Algorithm, Problem-Solving, etc.
 
-**Note:** You can only add tags to questions in the **My Company** tab. Questions in the HackerRank Library are non-editable, unless cloned. For more details, refer to the[📄 Cloning a Question](</articles/9746551127>)article. 
+:::note
+You can only add tags to questions in the **My Company** tab. Questions in the HackerRank Library are non-editable, unless cloned. For more details, refer to the[📄 Cloning a Question](</articles/9746551127>)article.
+:::
 
 ## Steps to Associate Tags to Questions 
 

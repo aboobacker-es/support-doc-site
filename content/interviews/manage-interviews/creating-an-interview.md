@@ -31,7 +31,9 @@ The system opens the interview interface.
 
 The candidate can use the link to join the interview immediately.
 
-**Note:** You can also generate a new interview link by selecting the dropdown next to **New** , then selecting **Generate link**. The system copies the link to your clipboard. 
+:::note
+You can also generate a new interview link by selecting the dropdown next to **New** , then selecting **Generate link**. The system copies the link to your clipboard.
+:::
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2Ff643bfc0-69cd-47d3-8336-944c4897bf80-1776770199682-image.png-94cead2d-1d1b-4bf0-9783-ed3fed7ca8c2?Expires=253370764800&Signature=hfiwdPFV6n22zcbrii5JHqvm4pDPY7Wc20ZLhhZTlTBDKCAr7SRtQW6nkl~DNgE-npZ7Hq45qIJdf8xTHUJLRRF2TitfAT~qIF1-Vi~yNqjppEkgsEkgzN-taHnNO-3bBHFz9xgMGPelmCuvSesHvM-8W5Bqq6NqkrZ0VLYOmJcb5Z9PCmzNPPkdsTpd6oKQ7KiBXhClW2YCws-aTHGkUmrHi7CB~HtVrhmbE0S2lm~ZlpBAAnOrIIp9XVUS0B-Z9Is9JsNcu5UXniGMPIB91IP1R0q5D-xgr03KzytOMQ3RGqvL6EFe-30WIuzHeu-sqXniXGJCE5zEVpQUV272Bw__&Key-Pair-Id=K3NV4LZ47N8M46)
 
@@ -53,7 +55,9 @@ To schedule an interview:
 
      * Add **Interviewer(s)** and **Candidate email address**.
 
-**Note:** You can use the **Interviewer(s)** field to invite new interviewers to a scheduled or ongoing interview later.
+:::note
+You can use the **Interviewer(s)** field to invite new interviewers to a scheduled or ongoing interview later.
+:::
 
      * (Optional) Click **View More** to expand additional fields. 
 
@@ -61,35 +65,35 @@ To schedule an interview:
 
        * Attach the **Candidate's Resume.**
 
-**Note:**
+:::note
+* To view the candidate’s resume, open the attached file. 
 
-         * To view the candidate’s resume, open the attached file. 
+* To delete the resume, select **✕** icon next to the file.
 
-         * To delete the resume, select **✕** icon next to the file.
-
-     * (Optional) Select an **Interview Template**.
+* (Optional) Select an **Interview Template**.
+:::
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776770584740-image.png?Expires=253370764800&Signature=Up18~uY3bVEqubHO9ZbGQjygqUMBDRPqrSfIDKovTRwYFk5e0GK7gFs0bB-aDf~uOVWhncLv48pzIJEwgEP5bLpiha-94mW~KdxWTPQtWL5ObhnOXci4lhRg79S0jOJpc21sf-6hcF8pAjqFErYxbN0yDOoREkGQwzXC4q2HIVi97yTwCTQWrQLIasXHF8~EBNuvN2IuYkfcjhOHh5HBhmZWHADc-GAD38lT92FWK1Q37nqDCaCZJefxpU6IgnSOI5vPXnFS~MX59mRKetf8NLvOT9MvgnuXmQ80nPUpEg5MnJvUj4Jdn06sGWBHtgJTjhW-ro57Z8ssiN~JOknftw__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 The template adds predefined questions and a scorecard to the interview. For more information, see [📄 Standardizing Interviews Using Templates](</articles/2837093779>).
 
-**Note:**  
+:::note
+* If you do not select a template, select an **Interview Scorecard**. If you do not select a scorecard, HackerRank uses the default scorecard.
 
-       * If you do not select a template, select an **Interview Scorecard**. If you do not select a scorecard, HackerRank uses the default scorecard.
+* When you log in as an interviewer, the selected template will appear on the **Interview** screen.
 
-       * When you log in as an interviewer, the selected template will appear on the **Interview** screen.
+* (Optional) Click **More Details**. 
 
-     * (Optional) Click **More Details**. 
-
-       * Add**Interview** **Tags** and select **Interview Roles**. 
+* Add**Interview** **Tags** and select **Interview Roles**. 
 
 **Note:** If you schedule the interview for a candidate who has already taken tests, the Role field will auto-populate with the role for which the candidate attempted the tests.
 
-       * Enable the **Show candidate timeline to the interviewer** toggle to allow interviewers to access the candidate's report from previous x  interviews
+* Enable the **Show candidate timeline to the interviewer** toggle to allow interviewers to access the candidate's report from previous x  interviews
 
 **Note:** Click **Save Without Inviting** to save the Interview details and invite candidates later.
 
-  5. Click **Invite Participants** to schedule an Interview.
+5. Click **Invite Participants** to schedule an Interview.
+:::
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776770608446-image.png?Expires=253370764800&Signature=dp-62nUEQ~hlHeZsCjs1XvCjGm5PMEnjIhL1N-2C4ypjHweMLobtZ-EwAg3GvdBh-tDN7eEpCmMjrvEddlf0m-gPpI0hd-Lm0RC~naBIIF7iK5qmuVS5R8Pfb0CWo5eAngLv9t8kLTcyBz4mEpAwRI3g2I4GwPTsnGwmoKMkDoZVOcpu~YJvf4acsK2E5WRpvuKqumRCfym~FMfRg3XRlDFZ3Uuy9rDTCNdb6GhhKfLRGxgtNqjLCwDz1u~AhmFByUbA~iOY7C7ILtGh0NxGSIZgwZPBZUdtSA67hrqWMqdbXWEAbvgSUwzD748lnZVnhxPt0GH6GWc0KXIr8jnZUw__&Key-Pair-Id=K3NV4LZ47N8M46)
      * Select the interview date, time, duration, and time zone. 
@@ -100,7 +104,9 @@ The template adds predefined questions and a scorecard to the interview. For mor
 
 HackerRank sends email notifications to candidates and interviewers. The notifications include the date, time, and a link to join the interview.
 
-**Note:** The email includes a sample interview link for Coding, Whiteboard, and Code Repository questions to help candidates become familiar with the platform before the interview.
+:::note
+The email includes a sample interview link for Coding, Whiteboard, and Code Repository questions to help candidates become familiar with the platform before the interview.
+:::
 
 ![sample int.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1769544304214-sampleint.png?Expires=253370764800&Signature=PrF1Rww1caDrdcErt0OkSjOKlTZHyI0Eyv7fT6H1JL-bR-mh6Hqq7Ev3iNlrDBXX2QB6Sc-AcOuFytOZLVBmw4Pbzk3K5LhsRkQ5jbTOS091JHFJxq53~lR2UMOk8jED21Idv0sz7zxDKfQzzK2F~5UgDj9Q4Lolqu2dD8P6KKygBB4qtqiF9e2z966DAPT4DhnLEZGlUw1D8FvHH4GIFdOR1FLseuDmy7zwOFBJbuq00R77-GJNblHwqG1Fwd9d0UGM2ZJsfO1pfmWzeQ4iafT99pYWhTVrRuQDaQMXrJQT4W~kyLAMmr3u8sgpcq8G8A9tI299nT0u-WdtQkDMLA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
@@ -137,11 +143,11 @@ Click the interview link or click **Start** next to the interview to open the in
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F7c1e6447-c02d-43da-8e9d-bc596f88507f-b3e24d1d-1a8a-4d5d-9822-f19bff6d5183-1776769600002-image.png-11fa8c71-66c0-4ca0-8c57-85f5f74c1844-b4be17e8-eb31-4709-87ea-b23cf1a679e7?Expires=253370764800&Signature=nWjKOMImXiSWBlhqpjJnkgn2y1iP3ucQ65AuFZFGlRmSRuD1HzlP-72y25lYCWSxbEjS-2pn6vg6PQQMrICWmEhQb-Ksq7VwKfrUsS2IK4QPl4m8mCz4rff8giKyTRGR~8FG7uO6KYnX7fkZ7epEZO07x~8vC59nylxNhpeOfbFSR7-Uu8ovh927hMHAUvyDgJd15GLXb~8JVGVN9EDNLyun0xFMpkPO4H~d5-BRN0X1ltnXWwOJ5aHW818838CCfk-MS7okCWP3RRfqIaiLvLZhkyEkvTVI8oc57pYgd4kXupRLfkKnE-4KzQpvDCh7XmyBEQThwCew53PaC9~gKQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-**Note** : 
+:::note
+* A maximum of four interviewers can join the same interview session at a time.
 
-  * A maximum of four interviewers can join the same interview session at a time.
-
-  * If you are not logged in to HackerRank for Work, the login page appears. Log in with your HackerRank for Work credentials.
+* If you are not logged in to HackerRank for Work, the login page appears. Log in with your HackerRank for Work credentials.
+:::
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1758782965902-image.png?Expires=253370764800&Signature=b9YHkdzm~7786hDVgCGn4pSEMdBenU4u-YTZt9uv4ZEe04zAxZ5Aclh99kNM--HGBwmUpNEoNgIyQc-Nrv8xKGawZtSerRn9ru7hkrpgcMgsjLtAAUnRO59-epOMoWT3khGDyNP69xCByblA4FL~tROrdfVlHXhustEgnkegNjEaddtoxGmVurZJogW87xtoQKafBpSp-vNh5uFiP9LVz4bzA9XM83MPghTecqVdEsc~xIrjNNHN3B5PcroIjQChcT360iYoFjoklBnTXOWuJCOIEuyKNh1JLpS7xUv-KxHacSUwG7R1u~zzA-WSrC9AYNLpUq~U4uUFMwR7Yzmi7w__&Key-Pair-Id=K3NV4LZ47N8M46)
 

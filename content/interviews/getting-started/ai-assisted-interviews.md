@@ -15,7 +15,9 @@ The interview takes place in a modern integrated development environment (IDE) t
 
 Interviewers can evaluate not just problem-solving skills, but also how effectively candidates leverage AI to build solutions. 
 
-**Note:** The AI Assistant currently supports the following question types:
+:::note
+The AI Assistant currently supports the following question types:
+:::
 
   * Coding
 
@@ -72,7 +74,9 @@ To enable AI Assistant:
 
 ### Enable AI Assistant for a specific interview
 
-**Note:** You can manually enable the AI Assistant for individual interviews only when **Choose per interview** is selected under **AI Assistant for Candidates** in company settings.
+:::note
+You can manually enable the AI Assistant for individual interviews only when **Choose per interview** is selected under **AI Assistant for Candidates** in company settings.
+:::
 
 To enable the AI Assistant for a specific interview:
 
@@ -215,4 +219,6 @@ Yes. After you enable the AI Assistant at the company level, individual intervie
 
 Yes. The interview report includes a complete chat transcript between the candidate and the assistant.
 
-**Note:** If you have any questions or need assistance, contact [support@hackerrank.com](<mailto:support@hackerrank.com>).
+:::note
+If you have any questions or need assistance, contact [support@hackerrank.com](<mailto:support@hackerrank.com>).
+:::

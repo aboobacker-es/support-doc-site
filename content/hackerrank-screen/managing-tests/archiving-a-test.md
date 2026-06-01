@@ -56,9 +56,9 @@ Once restored:
 
   * Candidate invites are re-enabled.
 
-**Note:  **
-
-  * You can also restore the test by clicking the **Restore Test** button at the top of the test page.
+:::note
+* You can also restore the test by clicking the **Restore Test** button at the top of the test page.
+:::
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1758779297694-image.png?Expires=253370764800&Signature=chI53M~f2nf--yclx-xOWZP2rgJfr4m2WvW1RyQbuvf9F-Abx1~BUUaralXkfryTFyJ9r681m2FF47TI-lw9O5zzJlnOsSBe0yKEIgy0LxBXk9q0z1V9TbHCTAB57zsNPg~C3Sf71ieUypDgbezlsVgf9dgqOFOi4hl~AZiMeTYlahUOUIM5XEn6-nqmty0IvDNgQzZq~g8Q14c0YHIv6f5VaRpCXv4N-h6iopHHWa4T3i-7lpa-h7aUYSol9OQl7~qUtwdJVrbCvL3DuxAv0zqC2SS4NTQ9DMGAd2wubfRS-RhA9NTsipGB9hkxj3sDOehq5DDsPNr3lmTMDYuHcQ__&Key-Pair-Id=K3NV4LZ47N8M46)
   * You can archive or restore multiple tests at once.

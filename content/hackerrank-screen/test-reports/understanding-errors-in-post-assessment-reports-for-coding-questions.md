@@ -17,7 +17,9 @@ This guide has been developed to help you understand various errors and warnings
 
   * The system will treat it as if the candidate didn’t attempt the question.
 
-**Note:  **If you still want to see the candidate's final code when submitting the test or when the time expires, you can manually run it to see how it performs.  
+:::note
+If you still want to see the candidate's final code when submitting the test or when the time expires, you can manually run it to see how it performs.
+:::
 
 ![No_answer_was_submitted_for_this_question._showing_compiled_saved_versions.jpg](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046207243-?Expires=253370764800&Signature=Kr-aGStNBPbVT~tg5QuLg6T1SVqgQtGkr~CtJGieSef1Nty-5h9rL-TjobPUJmSU1FwgM3aWRstA4Q2V-Eez56oOAILoVB90QcLqErH9xc58LF~sfeVu5fjOXzijFdzXczk9JOZxQdl2aWbkhYZgtoHoFPuPQZWJjqmb3SYnEbLZ22nmhCUVywNKRk4hwGTQVamoN7alpU7xaDDx5cjAu~pSEby2pAmD2OQi-JnkyukXOxa6wI523azsm4qD7WVtwfhNDbh~rbEnZvdYPG0KRfxYCV8SgzOju59TEZdNbZW6hPki0NJ9Tf6TcGd729YZxp4zs8h10Ol6zzQkfBZcTQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
@@ -25,7 +27,9 @@ This guide has been developed to help you understand various errors and warnings
 
   * You will see this message if a candidate has run their code or run tests but never hits submit on the question.
 
-**Note:** When the test submission or the test timer expires, the system will run the latest version of the candidate’s code and use that to score the question.  
+:::note
+When the test submission or the test timer expires, the system will run the latest version of the candidate’s code and use that to score the question.
+:::
 
 ![No_code_was_submitted._Last_compiled_version_displayed_to_the_user..jpg](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046207681-?Expires=253370764800&Signature=Og-5pb5t-EAxcKwz7k~~8NMN8p3UsRKdLsMeQHxTnPC9f5G3y2oZ6CTzTuJeOMfwWOUdBHY9LAB4hF-y2mEt6UjPkO6p66rYq2rN8ZQMNA5eiXMpjJG48Wx4MA1V8zogG4P8Y0lsC815HdGrxt2pzEr6TZcEqbfE6uqj~I88gdwxXuoN3~sPwP38YKcUycIerL5JmU3ooJZ~fH4An2~fkxUbDeE5nR2xjm6CvCZhWqjqzje~0-5iooOiJGVNYcNg0Ze5fGd37XcyNKurBmWEEv-dp7AI2X4xVObqUUNr4WXGIGogsHLvnrA7tbJj~1DhhlPAAGJHxDV9ePulqpk0~A__&Key-Pair-Id=K3NV4LZ47N8M46)
 
@@ -37,7 +41,9 @@ This guide has been developed to help you understand various errors and warnings
 
   * Candidates will also see this when running the test cases during the assessment.
 
-**Note:** Our [Execution Environment Samples ](<https://candidatesupport.hackerrank.com/hc/en-us/articles/4402913877523-Execution-Environment-and-Samples>)Candidate Support Page article lists all the languages and their respective limits.  
+:::note
+Our [Execution Environment Samples ](<https://candidatesupport.hackerrank.com/hc/en-us/articles/4402913877523-Execution-Environment-and-Samples>)Candidate Support Page article lists all the languages and their respective limits.
+:::
 
 ![Terminated_due_to_time-out.jpg](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046208043-?Expires=253370764800&Signature=PldzXt6LWd9whMQmfV7G9~TsGp-D8TJT3u4PtqElNhO7O4IHnwxeZuIrOWWP-BNWC2Vek0zxKtZo9Gj2-wP7ZDEouWhwcmTDy1SB2AmBPMBogUrwb8wZOydjf8jCubX4W8Dacun~yMNwqVNSBt6G2WxQaLGKTfSRJeCGkuXOKM4QbzHDO2Q68ICAKYppZPWj5~xiocKHN6l6mdM3Jyf2xrVxknwj073qQ6lM5qJuznnoA1-SLxGzEwsqy1p-BWl6ggnOR1lMor1xOr6zE-EA2FzNjl3ueLDwl25IWygQbX3LGihG7ZKLDwu4wfqM8kjHgfZ~DpI6K94xLGRqPB~U8Q__&Key-Pair-Id=K3NV4LZ47N8M46)
 

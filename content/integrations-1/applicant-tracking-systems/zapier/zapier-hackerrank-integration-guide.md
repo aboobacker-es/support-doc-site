@@ -37,7 +37,9 @@ The integration[ ](<https://support.hackerrank.com/articles/1406188460-greenhous
 
   4. Click **Copy and close** to copy your token.
 
-**Note:** You need this token to complete Step 2.
+:::note
+You need this token to complete Step 2.
+:::
 
 ### Step 2: Add the HackerRank API token in Zapier
 
@@ -68,7 +70,9 @@ Your Zapier account is now integrated with HackerRank.
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1769057297274-image.png?Expires=253370764800&Signature=NZXiA3kJ7aOPbbEz3Cj9gMGggkj4EibvmVOsItPGmm5IG4t7zZ8HAvL5e7USBIwxuSlnLrrU77YLVQMWGWBfZ03oU3OzOAYbRrgd7BdpnDcNADiRfPM4JOEyRPwAQUDXYbfIo0MzDPTQl96dYTxjjEW18zkJS8xhQsJXqY15Sk1Q2uJGMy93JCU5uUWe1VkYlUutIsbVp~~4fSCtJN92XqrvCa39Pq468C8lVbYIOPuY8PY-dNX3muQndvDYWef7r9GYq5uw5sVLznEJ122xy-anJM4M1~hyoKTs6KclPPUA2DrG51g4UmDWr6datz~GgpXXlp7lnagasGw3UkUIbQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-**Note:** After you integrate HackerRank with Zapier, refer to the following user guides to create workflows for HackerRank assessments and interviews:
+:::note
+After you integrate HackerRank with Zapier, refer to the following user guides to create workflows for HackerRank assessments and interviews:
+:::
 
   * [📄 Zapier - HackerRank Integration Test User Guide](</articles/7100809601>)
 

@@ -119,7 +119,9 @@ In simple terms, we flag candidates by looking at code similarity between candid
 
           * In turn, any candidates with an out of window duration greater than 65 seconds and the number of window exits is more than a singular exit, could be considered a suspicious attempt.  
 
-**Note:** If you’d like to analyze a specific question, you can also review the question column in an excel report to check if there was a particular question for which the majority of the candidates were flagged for plagiarism. For such questions, chances are high that there is a solution available on the internet, or it may be an easy question. It’s also possible that this particular easy question has only limited solutions. Keep in mind, that there are potentially additional reasons.
+:::note
+If you’d like to analyze a specific question, you can also review the question column in an excel report to check if there was a particular question for which the majority of the candidates were flagged for plagiarism. For such questions, chances are high that there is a solution available on the internet, or it may be an easy question. It’s also possible that this particular easy question has only limited solutions. Keep in mind, that there are potentially additional reasons.
+:::
 
 ## **How do we go about shortlisting plagiarized candidates directly from the platform?**
 

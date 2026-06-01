@@ -34,4 +34,6 @@ To update the company name and sender name:
 
   6. Click **Save**.
 
-**Note:** If the user who sends the invitation belongs to a single team and that team has a **Send Invites as** value set, HackerRank uses the team-level sender name for all invitations. For more information, see [📄 Set Team Logo and Sender Name](</articles/5319929416>).
+:::note
+If the user who sends the invitation belongs to a single team and that team has a **Send Invites as** value set, HackerRank uses the team-level sender name for all invitations. For more information, see [📄 Set Team Logo and Sender Name](</articles/5319929416>).
+:::

@@ -57,14 +57,14 @@ The interview report includes the following components:
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776829658637-image.png?Expires=253370764800&Signature=ksUGvCtXyCQvFg4gQ98mn~~nwAncaSGz7-Zv7MBlT03CDklvzbA1x3CHiCSijowGIe4x3k0AgepelUUc8BWpThfvo-nrPS~~tXzuxxeFM4UIXFPrLhDWuQ4A9BXT8tk4Hvrvl5jSy2n6rsPjrKSiHyCxvBghfnhNXA2ECbmbhxscXV~v-eBwXrcWaNyUiSk1mEKtI-pw0v2W7Z0OozRqX2fhTk5Gy3pR~XkSPirY3m7Sr7xqS1ensldA~NeCU0YesrBfddHHtuF9jAA3uoloZ~8PdpPSERGrz5KV8uYRD-kSIbOdtqxgzdlsMehJYcpNsXSh0oSqNDJh5~V7yonPkA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-**Note:  **
+:::note
+* If you have access to the **Recruiter** or **Developer** role, you can view all team scorecards.
 
-    * If you have access to the **Recruiter** or **Developer** role, you can view all team scorecards.
+* If you have **Interviewer** role access, you can view only your own scorecard.
 
-    * If you have **Interviewer** role access, you can view only your own scorecard.
+* **Candidate Packet:** Click **Candidate Packet** to view the complete activity timeline of the candidate.
 
-  * **Candidate Packet:** Click **Candidate Packet** to view the complete activity timeline of the candidate.
+* **Download PDF:** Click **PDF** to download the report.
 
-  * **Download PDF:** Click **PDF** to download the report.
-
-  * **Share report:** Click **Share** to generate a link. Recipients must log in to access the report.
+* **Share report:** Click **Share** to generate a link. Recipients must log in to access the report.
+:::

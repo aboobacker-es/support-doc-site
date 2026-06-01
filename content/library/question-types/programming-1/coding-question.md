@@ -37,9 +37,9 @@ The coding question creation workflow opens with the following four steps.
 
      2. Describe the problem in the **Problem description** field. You can use the formatting menu to format the text or to include elements such as tables or images.
 
-**Note:**  
-
-        * Click **Use content templates** to use a template and select **HackerRank’s Coding Question Template**.
+:::note
+* Click **Use content templates** to use a template and select **HackerRank’s Coding Question Template**.
+:::
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1772436694061-image.png?Expires=253370764800&Signature=mXSQxItM5Oi7DnzC7Hdv3fm2~uw9Ik0bV13O0zE1TRa10mfx5VadJ28hc~fD5YjApERlDZM8X8IoAskc8ktW0Zgt7oNoKmTAI8-EWG-pDnRdw9C0k4xw3BN0Di7CwGvLQtXoiltMdEf2y2US3j-XF5szonJMH4aWaGke7N0X2Qyw90L5~nB075RGkA~~wq2xSvweUB4Y21ekZS2TRuG8qqt~Gn5K52aBRkdIX3hZLwEx8A1Y1WwnQd8CNkhA-AM0b7Hb79uDJbgAobfGV1pG74B0Ug0BzzubOXH5fjYnfKq8CiOQMBC3aItdFCRThRxWSSKsw-FMulA7YLet8~WbVA__&Key-Pair-Id=K3NV4LZ47N8M46)
         * Click **See candidate preview** to view how the question appears to candidates.
@@ -71,13 +71,13 @@ The platform groups languages into two categories:
 
   2. Click **Next**.
 
-**Note:**
+:::note
+* Click **Select all** to enable all languages.
 
-     * Click **Select all** to enable all languages.
+* Click **Clear all** to remove all selections.
 
-     * Click **Clear all** to remove all selections.
-
-     * Use the search bar to find a specific language.
+* Use the search bar to find a specific language.
+:::
 
 ### Step 3: Code Stubs
 
@@ -99,7 +99,9 @@ Define the function signature and generate code stubs for supported languages.
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1772437195260-image.png?Expires=253370764800&Signature=nyWjdyy2CjRbbc3gEtkMEyx0kjJ9i8mEEGFQewB1xRwClZazhyJFx1OniR0S0nzh7JMfgagDPCENvzWWo9QYjc~Ia9wee9k4ZIKinDYS7tDlkcThhH0gN9Ip2SygX57~-n2xmJyOJg63R6uv1AShqmN~4v9Fm66bGHauA-up-72psbCg0MnFjvk9Osy3qXAkTuQVwAe6zOFcKTd2wu6~cYcuRf2y45N1yAzoo79nnb2I4~h72j9Eo32GuAefiSnVt-V3iVhdvswRPLsETPhDcjGR-cyXesfmH2uYopkKk5Fp~cHwla2rmy3t4NHaPOOSb1dZuNfJb2WkKmk6rEomAw__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-**Note:** Click the **✕** icon to remove a parameter.
+:::note
+Click the **✕** icon to remove a parameter.
+:::
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1772437277707-image.png?Expires=253370764800&Signature=lHlktgn4ctv9jw3cy6ZL3g7x6L2Yg225M7eRGbs4bmaFx6wTzDHWOLC6tTv6OVIa4rfVSxSBLwTYxAQ7U8ew8CLQbW2MYr8pfI6pAIJsBr9~SotkW37~zIDgQpYx0cCxVaTZEwlK11oIE0endTpy6Zypf43pXnsCi4dN7g19n6E~9NTELYAb~o~XTkqAXwCvaTXbbY5RELeLIUgGwXDbvhzlQ-xPsulvZWoNsL~U2mq2b6m~sTKRCFQeplGUgURUO8L32PzUh4WkWgyVOeTC0iyDL-MI9KlyYGGQr940hZxzYX9~zLOl8h6PM52NjPMIirN7cxOulCSw~DPRZCLsag__&Key-Pair-Id=K3NV4LZ47N8M46)
 
@@ -165,7 +167,9 @@ Use this step to upload solutions and define test cases for the question.
 
      1. Click **Add test case** to manually add test cases. 
 
-**Note:** Click **Bulk Upload as ZIP** to upload multiple test cases in a ZIP file. 
+:::note
+Click **Bulk Upload as ZIP** to upload multiple test cases in a ZIP file.
+:::
 
      2. In the **Add test case** dialog: 
 
@@ -184,9 +188,9 @@ Use this step to upload solutions and define test cases for the question.
 
         7. Click **Save**.
 
-**Note:**
-
-           * If you do not enter an output, candidates see only their own output while solving the question. 
+:::note
+* If you do not enter an output, candidates see only their own output while solving the question. 
+:::
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1772438266143-image.png?Expires=253370764800&Signature=FFyaaugszxzRjQOKGfr-baeOPImfRuMgu-zq3OJmfl8GnLOt~j7JUVG7Jc5fJ6t4VY-9laeLpg7~PATGCu4dPVQMS5kYVWe~bZU3Ai-9Jg7r3aOWxQdOFDjhAy~ZnLbEp2daVLgLhBFNqRby0yhZmFQLscCUC9wnuxSzO8nlA1z1yidbNvVhQ8Cgn-R8t6k66FZUYTFimkr0YVv4rbLpjXha2TvdVoPf~Wfk7jUUDv1i17jKOONAcsmj4JFeHLype1gZMfbr1eICt4RcfyiSQuEKDntAyKOUFG4~Q536hGCi7WMYTgohweOTQywV9vZ6q0w6h-4Az88dMw8h~Yg3LA__&Key-Pair-Id=K3NV4LZ47N8M46)
            * If you enter an output, candidates see both their output and the expected output while solving the question.
@@ -198,7 +202,9 @@ Use this step to upload solutions and define test cases for the question.
 
   4. Click **Save question**.
 
-**Note:** Click **Save & Create Another** to create another question.
+:::note
+Click **Save & Create Another** to create another question.
+:::
 
 The question appears under **My Company** questions in the HackerRank Library.
 
@@ -244,7 +250,9 @@ Without test cases:
 
 Use auto-generated stubs whenever possible. 
 
-**Note:** Manual stubs are required in scenarios such as reading a binary tree or returning a class object. In such cases, modify the default stubs or write custom stubs manually. 
+:::note
+Manual stubs are required in scenarios such as reading a binary tree or returning a class object. In such cases, modify the default stubs or write custom stubs manually.
+:::
 
   * **Descriptive tags:** Tags organize and classify questions. They improve library searchability, enable skill-based filtering, and support assessment alignment. 
 
@@ -282,7 +290,9 @@ Each test case has a predefined score.
 
   * If the code fails the test case,  the candidate receives a score of zero.
 
-**Note:** Partial scoring does not apply.
+:::note
+Partial scoring does not apply.
+:::
 
 The total score equals the sum of the scores for all passed test cases.
 

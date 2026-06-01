@@ -19,7 +19,9 @@ SSO allows members of your organization to securely access SkillUp using their e
 
 SkillUp uses the same SSO configuration as HackerRank for Work. To enable SSO for SkillUp, you must first configure it in your HackerRank for Work account. 
 
-**Note:** If your organization already uses SSO for HackerRank for Work, skip **Step 1** and proceed to [Step 2: Provision users for SkillUp](<https://support.hackerrank.com/articles/7581923631-configure-single-sign-on-sso-for-skillup#step-2-provision-users-for-skillup-11>).
+:::note
+If your organization already uses SSO for HackerRank for Work, skip **Step 1** and proceed to [Step 2: Provision users for SkillUp](<https://support.hackerrank.com/articles/7581923631-configure-single-sign-on-sso-for-skillup#step-2-provision-users-for-skillup-11>).
+:::
 
 To configure SSO for SkillUp:
 
@@ -68,6 +70,8 @@ If a user has access to both SkillUp and HackerRank for Work, logging in through
 
 ![HRWtoSkillUp.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1762353738568-HRWtoSkillUp.gif?Expires=253370764800&Signature=uqGiLFsMUMEMtxv5gDIj4-85E5C7qj3t27KpoYTiCpLyHYdHR5VnA9289flWKbQx95vQLJQGfnb0vWqDYy0mIij6Uis1OHyPsEZGMFwqX1cddfzfpC0YNFjUgY00PcKKsFqHA2vNw8V-pI~FvvSl3hpULEgxbIBjjEzd8pnpPiXRPbBKDu9-qktIqZQGdoNDWS2W9nHUYsnDp3mCUT4ccWrxIt7Ub5NgowQg6KsnSVlXA8-wQtg0P5udZ~dc8zg-JJppYz1ASUEVr9HSJgoaLSXjVFcOzzoVomZbDawby1TU4N~5BXjEiT30JKXiH6HOyb~vPGBTNMhkn~H77WLAEg__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-**Note:** Users may temporarily lose access for up to 2 hours during the transition from regular login to SSO.
+:::note
+Users may temporarily lose access for up to 2 hours during the transition from regular login to SSO.
+:::
 
 For assistance in configuring SSO, contact your HackerRank Account Manager or email [skillup-support@hackerrank.com](<mailto:skillup-support@hackerrank.com>).

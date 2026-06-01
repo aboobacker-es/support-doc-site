@@ -32,7 +32,9 @@ To create a file upload question:
 
      2. Describe the problem in the **Problem description** field. You can use the formatting menu to format the text or to include elements such as tables or images.
 
-**Note:** Click **See candidate preview** to view how the question appears to candidates.
+:::note
+Click **See candidate preview** to view how the question appears to candidates.
+:::
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1769674909728-image.png?Expires=253370764800&Signature=dg2SF2G4iPTky4rw8fdN4J3MpzuQ2sU2EaLdZazpFgrToontCls3-SzUmfIoR77my95fC6L6yjJnTjddxOrTOStIK2kgFvbk6msYTFSYQ5HXAN86dRBXsuGqUAsPbC70dmpgrPu44Hla2z-cl5ZPVUv1WuNlaeNKoK4d4cbE3V6epfvi717AFXqmfFA2FYXzpebdJ2j9xs7topsZSVMyRqWtoYTCxPBHuVnOJgkJFPmgGLQKggeDFD9piS3laDNX9JV9fVjJ7tCb8kVvkpdg8A2m0dCWbENbKAOCM2v9Id1EJKlSwOO-QK1Sjqsyu5XVccdOJUWXytcHSHmxGdpiNg__&Key-Pair-Id=K3NV4LZ47N8M46)
 
@@ -50,7 +52,9 @@ To create a file upload question:
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1769674966340-image.png?Expires=253370764800&Signature=de~uZ8Pxrk1SFEiO5~1xDQvdayepL~MWIkkjPCMYfqUXZljdUxRVr09jX2hCP8APV-C~ZD5joqr0uxWfhfQNNZAWhzyn-rQ6-JwwHcN3t-mFsn9PGyYdq9Gxl8xkFfUwFiQErLItJCJbG~nfcD358vabmBwFPlzKWr4NriGpT~-zSZK1UVeLCpOBBXjBQo8B8AecfEN7J0UTAYIgmi5tiAikkH-mpGjMpj41ZY93Kl7buguY5uvGqndt~L1H6xP-KYgMGNTliXTsjlaguoutvLeQGXPLKDxabrgJ1R3ICJNkZKnoCg~GWjSqO3V-d4gSlx9k-CCIS7Ejatbkn6668w__&Key-Pair-Id=K3NV4LZ47N8M46)
   8. Click **Save question**.
 
-**Note:** Click **Save & Create Another** to create another question. 
+:::note
+Click **Save & Create Another** to create another question.
+:::
 
 The question appears under **My Company** questions in the HackerRank Library.
 

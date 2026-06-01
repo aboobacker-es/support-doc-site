@@ -11,7 +11,9 @@ HackerRank test reports provide a detailed view of a candidate’s performance a
 
 You can use the downloaded reports to share with external evaluators or recruiters or to maintain internal performance records.
 
-**Note:** You can download test reports only for candidates who have completed the test.
+:::note
+You can download test reports only for candidates who have completed the test.
+:::
 
 ## PDF test reports
 
@@ -45,7 +47,9 @@ If you use the new version of the summary report, the PDF also includes:
 
   * Questions and answers with code quality details (If available)
 
-**Note:** Although the PDF report includes the candidate's detailed answers to the questions, use the Detailed Report view in HackerRank for a thorough evaluation. The detailed report provides features such as **c** ode playback, compilation, rendering, and download.
+:::note
+Although the PDF report includes the candidate's detailed answers to the questions, use the Detailed Report view in HackerRank for a thorough evaluation. The detailed report provides features such as **c** ode playback, compilation, rendering, and download.
+:::
 
 ## Excel test reports
 
@@ -88,15 +92,15 @@ To download test reports for selected candidates in PDF or Excel format:
 
      * **Excel** : Downloads a single file containing the selected candidates’ results.
 
-**Note:**
-
+:::note
 You can also download a candidate’s report as a PDF file or share a summary report link directly from the **Summary Report** page.
 
-  * Click the **Download** icon to download the candidate’s report in PDF format.
+* Click the **Download** icon to download the candidate’s report in PDF format.
 
-  * Click the **Share** icon and copy the link to share the Summary Report. Users must have a **HackerRank for Work** account to view the report using the shared link.
+* Click the **Share** icon and copy the link to share the Summary Report. Users must have a **HackerRank for Work** account to view the report using the shared link.
 
-    * New Summary Report
+* New Summary Report
+:::
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760338808116-image.png?Expires=253370764800&Signature=R71ftj7CLAs7Rq8n7GT~93zdIKLxPy6qJC8FxM2hM1Vu6b1JhYwYgmBlyxRXb8C4uySYFVkBzvukWoLbcBjqLIH6XhVK4ywm7IZxYylTcOxgwTkUlGydFA~B1EULRE-JZUONGWHrTHZ4gz4XNTr7i4Gkx4bjSkVngqklXwDE~OZkT7zXcsBQ-rrg5Llw4dKzUxTuaubv9zQ~BCsyrQY4IsoJs9hGWv2s7~mBy~i65MdqT19GEQZNitgBJOPyM0kEGL~pG0PAaFBvi27o9WKHWNRo0i9cFMvZ8sO4PtbToY-~9qdSb100yWzhQlzF3M0a12uACPtVmgALuKDC4BLIYg__&Key-Pair-Id=K3NV4LZ47N8M46)
     * Existing Summary Report

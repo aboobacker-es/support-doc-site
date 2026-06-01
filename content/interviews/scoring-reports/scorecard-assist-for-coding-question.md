@@ -23,7 +23,9 @@ Transcriptions play a key role in powering Scorecard Assist. The scorecard appea
 
 Interviewers often find it tedious to fill out scorecards, and talent partners frequently need to follow up to get them done. Scorecard Assist streamlines this process, allowing interviewers to fill out scorecards faster and with less effort. It also speeds up hiring decisions and improves the candidate experience by enabling faster feedback.
 
-**Note:** The Scorecard Assist currently supports the following question types:
+:::note
+The Scorecard Assist currently supports the following question types:
+:::
 
   * Coding
 
@@ -56,7 +58,9 @@ To enable Scorecard Assist:
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1753773966130-image.png?Expires=253370764800&Signature=j2-dyPfXfi4-xRKiVXZCFjuqBas1PuhNacQfDpoKdyJjvijSR10oEoCS-w~0KRFa0A4TekWwYcgBjWOO~chVx5x0G3Og338hmUqJ86BuLQzUDnLXonoqvqspXp7okmrpKXsPSDS4xrcSzIJYi0IY2pxGFpwxVHoocIvfyra5gAtv38~MNl6oRH6lgGIVbgiEF0AoUqMm7blI7zRKbklQpdhb5KOHHh4utWUbyYXQPdHWD2N6GtZSoUd9XfBCQCTzr7zeSzwnmvwnPRc7-pBKvhVxPZshQWwXQT5Vz2EOe-v8Th~XnDo3nmuchxZ8IJ8c9EuggIjH3DMbCnAddB32UQ__&Key-Pair-Id=K3NV4LZ47N8M46)
   5. Click **Save**.
 
-**Note:** Enabling Scorecard Assist also turns on transcription automatically.
+:::note
+Enabling Scorecard Assist also turns on transcription automatically.
+:::
 
 ## Reports
 

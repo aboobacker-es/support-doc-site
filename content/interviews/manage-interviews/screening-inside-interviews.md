@@ -9,7 +9,9 @@ is_published: true
 
 HackerRank Tests is a coding assessment framework that automates the screening of developers. With the **Tests** integration, interviewers can import a candidate’s screening test, including questions and submitted code, directly into an interview session.
 
-**Note:** To use this feature, you must enable **Show candidate timeline to the interviewer** when you create the interview.
+:::note
+To use this feature, you must enable **Show candidate timeline to the interviewer** when you create the interview.
+:::
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1758787975760-image.png?Expires=253370764800&Signature=uRoI7fQaXWXhU0F0SeoffLlw4LSzM~stllEOnvmPQ~YbaEx1-0Eo0918yYTiZXZKNBKzXQoWNCJ559gjrxLwK56Te~T1PVYmprpZ1c3JpCTr3oplllDqEVNf5FUFaVDdPHK8SSEeo12QSfneF1lG9ANXojHd49BvLjcEJ-I5qXpTQu-yFkYwZRdKzqWTXvTWUX4CzNuu5OXfWN2Uss3RAKjEAKso3ZbNTiMueHAIsIdWUynjS9wn3HGJD-9JFGAjlgJDl6b7krjgqn5Z4jswp0P~ITpGlhV9Oq9ZpKoYV9VhPQtgUrRVCO1CMQo4D4~QCwcvMh9YAx9JvKH1H8rclg__&Key-Pair-Id=K3NV4LZ47N8M46)
 

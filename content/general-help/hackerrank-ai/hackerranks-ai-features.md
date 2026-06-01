@@ -30,4 +30,6 @@ Engage| Engage Assistant| OpenAI| Generally Available| Provides content and targ
 SkillUp| AI Tutor| Anthropic Claude| Generally Available| Provides hints, practice challenges, and recommendations based on past performance and coding history.  
 Community| [Community Mock AI Interviewer](<https://help.hackerrank.com/articles/8988753946-introduction-to-mock-interview>)| OpenAI/Anthropic Claude| Generally Available| Lets candidates take AI-powered mock interviews to practice for real assessments.  
   
-**Note:** Some AI features listed above are part of the AI Add-on package. For more information, see [HackerRank AI Add-on](<https://www.hackerrank.com/features/hiring/ai-add-on>).
+:::note
+Some AI features listed above are part of the AI Add-on package. For more information, see [HackerRank AI Add-on](<https://www.hackerrank.com/features/hiring/ai-add-on>).
+:::

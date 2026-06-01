@@ -74,7 +74,9 @@ To view the test results in Lever:
 
   4. Scroll to the **Feedback summary** section on the **Overview** tab to view the test feedback and download the PDF report.
 
-**Note:** You can also review the test feedback from the **Feedback** tab.
+:::note
+You can also review the test feedback from the **Feedback** tab.
+:::
 
 ### Test feedback
 

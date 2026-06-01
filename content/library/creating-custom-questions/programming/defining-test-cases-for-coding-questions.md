@@ -13,7 +13,9 @@ Test cases help in validating candidates' code. They form the basis for automate
 
 A sample test case with an explanation can also aid in explaining the problem better to the candidates. Ideally, you should use 2 to 3 such sample test cases to help the programmer understand the problem. We recommend having a total of 8 to 15 (ideally a total of 10) test cases that cover all the scenarios. The test cases should be of different sizes that cover different levels of complexity. No two test cases should test the same concept. 
 
-**Note:** Please refer to the [Test Cases in your Coding Question](<https://candidatesupport.hackerrank.com/hc/en-us/articles/4402921131155-Test-Cases-in-your-Coding-Question>) to understand the usage of Test cases while creating coding questions for HackerRank Tests.
+:::note
+Please refer to the [Test Cases in your Coding Question](<https://candidatesupport.hackerrank.com/hc/en-us/articles/4402921131155-Test-Cases-in-your-Coding-Question>) to understand the usage of Test cases while creating coding questions for HackerRank Tests.
+:::
 
 ## Types of Test Cases
 
@@ -73,7 +75,9 @@ You can also choose not to show the output of the hidden test cases for the cand
 
 ![hidden_test_case_output.jpg](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046588009-?Expires=253370764800&Signature=HRLkvr2bMbVPx3udwCRbvwD9oiKAu6LwtHb1ahhYmWZGAqcvXTT2cCWjAMYHmgcqPO1LLkLMEkAwun2hvc-JQIHnEKfbThy3w6pKA3dJAnCs5ECMLxau7nYY5U3F2raeeUxvFk-yo56SA6Gw1rJJ7r1HAfKlXmiiN9YyzBicdV50OJ95UOrLUi7smiuj5fkK42-nUfvLD9is~vlrHP1f57~6Q-s9CGTZmGFKxStclUUCKpotK0EN7vciXfk1~860Iau4rYxUTtTQgG-QVHR4mVN~6P2xLffI8ec3gQD5068D3eP3Gdx55-vZyhYRwomBjby-xgiLEVawIVbRWdCkQg__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-**Note:** Our reports suggest that candidates tend to lose a lot of their test time while finding a solution or debugging because of hidden test cases. To reduce this challenge and give candidates a better debugging experience, HackerRank looks forward to moving away from hidden test cases in the future and introducing a breakpoint-based debuggable experience to candidates.
+:::note
+Our reports suggest that candidates tend to lose a lot of their test time while finding a solution or debugging because of hidden test cases. To reduce this challenge and give candidates a better debugging experience, HackerRank looks forward to moving away from hidden test cases in the future and introducing a breakpoint-based debuggable experience to candidates.
+:::
 
 ## Scoring
 

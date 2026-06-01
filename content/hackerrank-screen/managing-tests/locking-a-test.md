@@ -19,7 +19,9 @@ When a test is locked, you cannot:
 
   * Modify existing questions
 
-**Note:** You cannot delete a locked test, but you can archive it.
+:::note
+You cannot delete a locked test, but you can archive it.
+:::
 
 ## Prerequisites
 
@@ -46,7 +48,9 @@ To lock a test:
 
 ## Unlocking a test
 
-**Note:** To make changes to a locked test, you must first unlock it.
+:::note
+To make changes to a locked test, you must first unlock it.
+:::
 
 To unlock a test:
 
@@ -61,9 +65,9 @@ To unlock a test:
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1758779803117-image.png?Expires=253370764800&Signature=iqACCfDuClZ~JqXDac9mkkQULs1ziojDMeSVeOEfXwjNxpvIE6H04Hu4DWsLhNtXLYnpD3uWxCinMGm7qcDgtJel~PcdfVe3QdhQQN02dd9XSxLJ6rh0ddzEVmePT0qCzPgQ1B657QElHpGQvO5Tud-gnZLFVyZDt-zQmvkNtXy02b9zryGVbF~G~r8aW7hqtzJ46W~qMm-FN~gZK6zGIYAvgRCqGtGkfNtgja03BK4HoNCguK3kocuCVlSckXvKYnfhf3hQ2vPflvGQgiEV29lziMw-qYRLitzMsOT7sdsWhEEkLHLdm0feR0aiZdqqw4aeSF6fU2OH9Dq1fDEaow__&Key-Pair-Id=K3NV4LZ47N8M46)
 
-**Note:  **
-
-  * You can also unlock a test from the **Questions** tab.
+:::note
+* You can also unlock a test from the **Questions** tab.
+:::
 
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1758779863498-image.png?Expires=253370764800&Signature=V6IK3~IbTWDTCj8LCeMYGA0bDBacP~JOUblNk6GrWVykBOMWzA-kOeUpDtJZKZBkX4KeMv~MpvPjbzt4ztWKCgr6xsHB0dW74OXGPhYa3CgTbgTO0RCEogq-RkBvSVHz09BkR2hsbcgAwq0W68hfdIo9d7JDMoA6XGnMtduyv5E4t-2ePhkUby9RGG-8zll8PgTAisLjJwU4ilzcC6RUhIc4hZg9xu5juIsYoeMdpaKUcanJQ~-O0~HyqR1JiqWfdqdTxK-Yrhp3du5-qGRVsz7elVxGpW09fD92C0hvhjeI3lRXpbcE7BF~b4rIC8LJZS4W-BwU7CMxjEf9MFI9wQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 

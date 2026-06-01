@@ -31,7 +31,9 @@ Mobile Development| Questions to assess the mobile development skills of a candi
 Whiteboard| Questions where you can use the whiteboard to add basic shapes and text.  
 Code Review| Interviewers can now use Code Review questions in Interviews to assess candidates on their coding skills. In Code Review questions, Interviewers can share code written by someone else and ask the candidates to provide suggestions and comments to improve the code.  
   
-**Note:**  The following question types are not supported in Interviews yet:
+:::note
+The following question types are not supported in Interviews yet:
+:::
 
   * Multiple Choice
 
