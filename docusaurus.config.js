@@ -87,10 +87,6 @@ const config = {
             position: 'left',
           },
           {
-            type: 'custom-AskAssistant',
-            position: 'right',
-          },
-          {
             href: 'https://www.hackerrank.com',
             label: 'HackerRank.com ↗',
             position: 'right',
