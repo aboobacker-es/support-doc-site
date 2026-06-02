@@ -132,22 +132,6 @@ export default function Home() {
           </div>
         </div>
 
-        {/* ── Featured tasks ───────────────────────────────────── */}
-        <section className={styles.section}>
-          <div className={styles.inner}>
-            <h2 className={styles.sectionHeading}>Get started</h2>
-            <div className={styles.featuredGrid}>
-              {FEATURED.map((item) => (
-                <Link key={item.href + item.title} to={item.href} className={styles.featuredCard}>
-                  <span className={styles.featuredIcon}>{item.icon}</span>
-                  <span className={styles.featuredTitle}>{item.title}</span>
-                  <span className={styles.featuredDesc}>{item.desc}</span>
-                </Link>
-              ))}
-            </div>
-          </div>
-        </section>
-
         {/* ── Browse by product ────────────────────────────────── */}
         <section className={styles.section}>
           <div className={styles.inner}>
@@ -161,6 +145,22 @@ export default function Home() {
                     <span className={styles.productDesc}>{p.desc}</span>
                   </span>
                   <span className={styles.productCount}>{p.count} articles</span>
+                </Link>
+              ))}
+            </div>
+          </div>
+        </section>
+
+        {/* ── Featured tasks ───────────────────────────────────── */}
+        <section className={styles.section}>
+          <div className={styles.inner}>
+            <h2 className={styles.sectionHeading}>Get started</h2>
+            <div className={styles.featuredGrid}>
+              {FEATURED.map((item) => (
+                <Link key={item.href + item.title} to={item.href} className={styles.featuredCard}>
+                  <span className={styles.featuredIcon}>{item.icon}</span>
+                  <span className={styles.featuredTitle}>{item.title}</span>
+                  <span className={styles.featuredDesc}>{item.desc}</span>
                 </Link>
               ))}
             </div>
