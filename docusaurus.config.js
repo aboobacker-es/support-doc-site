@@ -82,38 +82,38 @@ const config = {
               },
               {
                 type: 'html',
-                value: '<a href="/hackerrank-screen" class="navbar-dropdown__product"><span class="navbar-dropdown__product-name">Screen</span><span class="navbar-dropdown__product-desc">Save time and accelerate your hiring</span></a>',
+                value: '<a href="/hackerrank-screen/managing-tests/creating-a-new-test" class="navbar-dropdown__product"><span class="navbar-dropdown__product-name">Screen</span><span class="navbar-dropdown__product-desc">Save time and accelerate your hiring</span></a>',
               },
               {
                 type: 'html',
-                value: '<a href="/interviews" class="navbar-dropdown__product"><span class="navbar-dropdown__product-name">Interview</span><span class="navbar-dropdown__product-desc">Conduct stellar technical interviews</span></a>',
+                value: '<a href="/interviews/getting-started/introduction-to-hackerrank-interviews" class="navbar-dropdown__product"><span class="navbar-dropdown__product-name">Interview</span><span class="navbar-dropdown__product-desc">Conduct stellar technical interviews</span></a>',
               },
               {
                 type: 'html',
-                value: '<a href="/engage" class="navbar-dropdown__product"><span class="navbar-dropdown__product-name">Engage</span><span class="navbar-dropdown__product-desc">Promote your tech brand</span></a>',
+                value: '<a href="/engage/create-an-event" class="navbar-dropdown__product"><span class="navbar-dropdown__product-name">Engage</span><span class="navbar-dropdown__product-desc">Promote your tech brand</span></a>',
               },
               {
                 type: 'html',
-                value: '<a href="/skillup" class="navbar-dropdown__product"><span class="navbar-dropdown__product-name">SkillUp</span><span class="navbar-dropdown__product-desc">Mobilize your tech talent</span></a>',
+                value: '<a href="/skillup/hackerrank-skillup-1/accessing-skillup-employer-platform" class="navbar-dropdown__product"><span class="navbar-dropdown__product-name">SkillUp</span><span class="navbar-dropdown__product-desc">Mobilize your tech talent</span></a>',
               },
               {
                 type: 'html',
-                value: '<a href="/chakra" class="navbar-dropdown__product"><span class="navbar-dropdown__product-name">Chakra</span><span class="navbar-dropdown__product-desc">Pre-screen with AI interviews</span></a>',
+                value: '<a href="/chakra/getting_started-1/introduction-to-chakra" class="navbar-dropdown__product"><span class="navbar-dropdown__product-name">Chakra</span><span class="navbar-dropdown__product-desc">Pre-screen with AI interviews</span></a>',
               },
             ],
           },
           {
-            to: '/account-settings',
+            to: '/library/getting_started/hackerrank-library-navigation',
             label: 'Platform guides',
             position: 'left',
           },
           {
-            to: '/integrations-1',
+            to: '/integrations-1/getting-started-with-integrations/integrations-overview',
             label: 'Integrations',
             position: 'left',
           },
           {
-            to: '/general-help',
+            to: '/general-help/academy/hackerrank-academy-video-tutorial',
             label: 'Release notes',
             position: 'left',
           },
