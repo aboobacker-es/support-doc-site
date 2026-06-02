@@ -110,15 +110,11 @@ const FEATURED = [
 
 /* ── Product categories ──────────────────────────────────────── */
 const PRODUCTS = [
-  { title: 'Screen',         desc: 'Technical assessments and hiring tests.',         href: '/hackerrank-screen', count: 88,  color: '#16a34a' },
-  { title: 'Interviews',     desc: 'Live coding and pair-programming sessions.',       href: '/interviews',        count: 43,  color: '#2563eb' },
-  { title: 'Integrations',   desc: 'ATS, SSO, scheduling, and API connections.',      href: '/integrations-1',   count: 95,  color: '#9333ea' },
-  { title: 'Settings',       desc: 'Users, teams, roles, and company configuration.', href: '/account-settings',  count: 51,  color: '#0891b2' },
-  { title: 'Library',        desc: 'Question bank, types, scoring, and curation.',    href: '/library',           count: 51,  color: '#d97706' },
-  { title: 'Chakra AI',      desc: 'AI-powered automated interview platform.',        href: '/chakra',            count: 7,   color: '#2EC866' },
-  { title: 'SkillUp',        desc: 'Developer learning paths and upskilling.',        href: '/skillup',           count: 19,  color: '#e11d48' },
-  { title: 'Engage',         desc: 'Hackathons and developer community events.',      href: '/engage-',           count: 9,   color: '#ea580c' },
-  { title: 'General Help',   desc: 'Release notes, guides, and FAQs.',               href: '/general-help',      count: 28,  color: '#64748b' },
+  { title: 'Screen',      desc: 'Save time and accelerate your hiring with assessments.',  href: '/hackerrank-screen', count: 88,  color: '#16a34a' },
+  { title: 'Interview',   desc: 'Conduct stellar technical interviews at scale.',          href: '/interviews',        count: 43,  color: '#2563eb' },
+  { title: 'Engage',      desc: 'Promote your tech brand and attract top talent.',         href: '/engage-',           count: 9,   color: '#ea580c' },
+  { title: 'SkillUp',     desc: 'Mobilize your tech talent with learning paths.',          href: '/skillup',           count: 19,  color: '#e11d48' },
+  { title: 'Chakra',      desc: 'Pre-screen candidates with AI-powered interviews.',       href: '/chakra',            count: 7,   color: '#2EC866' },
 ];
 
 export default function Home() {
