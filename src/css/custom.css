@@ -218,103 +218,92 @@ body {
   padding: 0;
 }
 
-/* ── First-level categories: uppercase section headers (non-clickable) ── */
-.menu__list-item-collapsible {
-  display: flex;
-  align-items: center;
-}
-
-/* First level only: root .menu__list > item — matches Stripe "START BUILDING" style */
-.menu > .menu__list > .menu__list-item--collapsible > .menu__list-item-collapsible > .menu__link {
-  flex: 1;
-  font-size: 0.6875rem;
-  font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 0.1em;
-  color: var(--stripe-ink);
+/* ── Level-1 sidebar categories: Stripe "START BUILDING" section headers ─ */
+.theme-doc-sidebar-item-category-level-1 > .menu__list-item-collapsible > .menu__link {
+  font-size: 0.6875rem !important;
+  font-weight: 700 !important;
+  text-transform: uppercase !important;
+  letter-spacing: 0.1em !important;
+  color: var(--stripe-ink) !important;
   background: transparent !important;
+  padding: 16px 16px 6px !important;
+  cursor: default !important;
+  pointer-events: none !important;
   border-radius: 0;
-  padding: 16px 16px 6px;
-  cursor: default;
-  pointer-events: none;
 }
 
-/* Top border divider above each first-level section (except first) */
-.menu > .menu__list > .menu__list-item--collapsible:not(:first-child) {
+/* Divider above every non-first level-1 section */
+.theme-doc-sidebar-item-category-level-1:not(:first-child) {
   margin-top: 12px;
 }
-
-.menu > .menu__list > .menu__list-item--collapsible:not(:first-child) > .menu__list-item-collapsible > .menu__link {
-  border-top: 1px solid var(--stripe-border);
-  padding-top: 20px;
+.theme-doc-sidebar-item-category-level-1:not(:first-child) > .menu__list-item-collapsible > .menu__link {
+  border-top: 1px solid var(--stripe-border) !important;
+  padding-top: 20px !important;
 }
 
-/* Hide caret on first-level section headers (they're always expanded) */
-.menu > .menu__list > .menu__list-item--collapsible > .menu__list-item-collapsible > .menu__caret {
-  display: none;
+/* No caret on level-1 headers */
+.theme-doc-sidebar-item-category-level-1 > .menu__list-item-collapsible > .menu__caret {
+  display: none !important;
 }
 
-[data-theme='dark'] .menu > .menu__list > .menu__list-item--collapsible > .menu__list-item-collapsible > .menu__link {
-  color: #e6edf3;
+[data-theme='dark'] .theme-doc-sidebar-item-category-level-1 > .menu__list-item-collapsible > .menu__link {
+  color: #e6edf3 !important;
 }
 
-/* ── All collapsible items (second-level +): normal text + ">" arrow ───── */
-/* Applies at every nesting depth — only .menu__list-item--collapsible gets this */
-.menu__list .menu__list > .menu__list-item--collapsible > .menu__list-item-collapsible > .menu__link {
-  font-size: 0.875rem;
-  font-weight: 400;
-  text-transform: none;
-  letter-spacing: 0;
-  color: #425466;
+/* ── Level-2+ categories: ">" arrow, rotates when expanded ─────────────── */
+.theme-doc-sidebar-item-category:not(.theme-doc-sidebar-item-category-level-1) > .menu__list-item-collapsible > .menu__link {
+  font-size: 0.875rem !important;
+  font-weight: 400 !important;
+  text-transform: none !important;
+  letter-spacing: 0 !important;
+  color: #425466 !important;
   background: transparent !important;
-  padding: 5px 8px 5px 12px;
-  pointer-events: auto;
-  cursor: pointer;
-  border-top: none;
+  padding: 5px 8px 5px 12px !important;
+  pointer-events: auto !important;
+  cursor: pointer !important;
+  border-top: none !important;
   border-radius: 0;
   display: flex;
   align-items: center;
-  gap: 0;
 }
 
-/* ">" chevron via ::before — only collapsible items get this; leaf articles don't */
-.menu__list .menu__list > .menu__list-item--collapsible > .menu__list-item-collapsible > .menu__link::before {
+/* ">" chevron — only collapsible items (level-2+) get this; leaf articles never do */
+.theme-doc-sidebar-item-category:not(.theme-doc-sidebar-item-category-level-1) > .menu__list-item-collapsible > .menu__link::before {
   content: '>';
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  width: 18px;
+  width: 16px;
   flex-shrink: 0;
   font-size: 0.75rem;
-  font-weight: 600;
+  font-weight: 700;
   line-height: 1;
-  margin-right: 4px;
+  margin-right: 6px;
   transition: transform 0.15s ease;
   transform-origin: center;
   color: #8898aa;
 }
 
-/* Rotate ">" 90° when the category is expanded */
-.menu__list .menu__list > .menu__list-item--collapsible:not(.menu__list-item--collapsed) > .menu__list-item-collapsible > .menu__link::before {
+/* Rotate 90° when expanded */
+.theme-doc-sidebar-item-category:not(.theme-doc-sidebar-item-category-level-1):not(.menu__list-item--collapsed) > .menu__list-item-collapsible > .menu__link::before {
   transform: rotate(90deg);
 }
 
-/* Hide the native Docusaurus caret button — using ::before instead */
-.menu__list .menu__list > .menu__list-item--collapsible > .menu__list-item-collapsible > .menu__caret {
+/* Hide native caret — we use ::before instead */
+.theme-doc-sidebar-item-category:not(.theme-doc-sidebar-item-category-level-1) > .menu__list-item-collapsible > .menu__caret {
   display: none !important;
 }
 
-.menu__list .menu__list > .menu__list-item--collapsible > .menu__list-item-collapsible > .menu__link:hover {
-  color: var(--stripe-ink);
+.theme-doc-sidebar-item-category:not(.theme-doc-sidebar-item-category-level-1) > .menu__list-item-collapsible > .menu__link:hover {
+  color: var(--stripe-ink) !important;
   background: transparent !important;
 }
 
-[data-theme='dark'] .menu__list .menu__list > .menu__list-item--collapsible > .menu__list-item-collapsible > .menu__link {
-  color: #8b949e;
+[data-theme='dark'] .theme-doc-sidebar-item-category:not(.theme-doc-sidebar-item-category-level-1) > .menu__list-item-collapsible > .menu__link {
+  color: #8b949e !important;
 }
-
-[data-theme='dark'] .menu__list .menu__list > .menu__list-item--collapsible > .menu__list-item-collapsible > .menu__link:hover {
-  color: #e6edf3;
+[data-theme='dark'] .theme-doc-sidebar-item-category:not(.theme-doc-sidebar-item-category-level-1) > .menu__list-item-collapsible > .menu__link:hover {
+  color: #e6edf3 !important;
 }
 
 /* All nav items */
