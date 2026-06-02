@@ -220,10 +220,10 @@ body {
 
 /* ── Level-1 sidebar categories: Stripe "START BUILDING" section headers ─ */
 .theme-doc-sidebar-item-category-level-1 > .menu__list-item-collapsible > .menu__link {
-  font-size: 0.6875rem !important;
+  font-size: 0.8125rem !important;
   font-weight: 700 !important;
   text-transform: uppercase !important;
-  letter-spacing: 0.1em !important;
+  letter-spacing: 0.07em !important;
   color: var(--stripe-ink) !important;
   background: transparent !important;
   padding: 16px 16px 6px !important;
