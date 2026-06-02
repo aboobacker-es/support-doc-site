@@ -72,18 +72,49 @@ const config = {
         style: 'dark',
         items: [
           {
-            to: '/hackerrank-screen/managing-tests/creating-a-new-test',
-            label: 'Screen',
+            label: 'Product guides',
+            type: 'dropdown',
             position: 'left',
+            items: [
+              {
+                type: 'html',
+                value: '<span class="navbar-dropdown__section-label">Products</span>',
+              },
+              {
+                type: 'html',
+                value: '<a href="/hackerrank-screen" class="navbar-dropdown__product"><span class="navbar-dropdown__product-name">Screen</span><span class="navbar-dropdown__product-desc">Save time and accelerate your hiring</span></a>',
+              },
+              {
+                type: 'html',
+                value: '<a href="/interviews" class="navbar-dropdown__product"><span class="navbar-dropdown__product-name">Interview</span><span class="navbar-dropdown__product-desc">Conduct stellar technical interviews</span></a>',
+              },
+              {
+                type: 'html',
+                value: '<a href="/engage-" class="navbar-dropdown__product"><span class="navbar-dropdown__product-name">Engage</span><span class="navbar-dropdown__product-desc">Promote your tech brand</span></a>',
+              },
+              {
+                type: 'html',
+                value: '<a href="/skillup" class="navbar-dropdown__product"><span class="navbar-dropdown__product-name">SkillUp</span><span class="navbar-dropdown__product-desc">Mobilize your tech talent</span></a>',
+              },
+              {
+                type: 'html',
+                value: '<a href="/chakra" class="navbar-dropdown__product"><span class="navbar-dropdown__product-name">Chakra</span><span class="navbar-dropdown__product-desc">Pre-screen with AI interviews</span></a>',
+              },
+            ],
           },
           {
-            to: '/interviews',
-            label: 'Interviews',
+            to: '/account-settings',
+            label: 'Platform guides',
             position: 'left',
           },
           {
             to: '/integrations-1',
             label: 'Integrations',
+            position: 'left',
+          },
+          {
+            to: '/general-help',
+            label: 'Release notes',
             position: 'left',
           },
           {

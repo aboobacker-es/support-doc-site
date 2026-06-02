@@ -897,6 +897,89 @@ div[class*='codeBlockTitle'] {
   color: #6e7681;
 }
 
+/* ─── Navbar dropdown — product guides ──────────────────────────────────── */
+
+/* Dropdown menu container */
+.navbar__item.dropdown .dropdown__menu {
+  min-width: 280px;
+  padding: 12px 0;
+  border-radius: 8px;
+  border: 1px solid var(--stripe-border);
+  box-shadow: 0 4px 24px rgba(0 0 0 / 0.12);
+  background: #ffffff;
+}
+
+/* Remove default dropdown link styles for our custom items */
+.navbar__item.dropdown .dropdown__menu li {
+  padding: 0;
+}
+
+.navbar__item.dropdown .dropdown__menu li > a.dropdown__link {
+  padding: 0;
+}
+
+/* Section label ("Products") */
+.navbar-dropdown__section-label {
+  display: block;
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: #697386;
+  padding: 4px 20px 10px;
+  letter-spacing: 0;
+  pointer-events: none;
+  cursor: default;
+}
+
+/* Product item — title + description */
+.navbar-dropdown__product {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  padding: 10px 20px;
+  text-decoration: none !important;
+  transition: background 0.1s;
+  cursor: pointer;
+}
+
+.navbar-dropdown__product:hover {
+  background: #f6f9fc;
+  text-decoration: none !important;
+}
+
+.navbar-dropdown__product-name {
+  font-size: 0.9375rem;
+  font-weight: 600;
+  color: #1a1a2e;
+  line-height: 1.3;
+}
+
+.navbar-dropdown__product-desc {
+  font-size: 0.8125rem;
+  color: #697386;
+  line-height: 1.4;
+}
+
+.navbar-dropdown__product:hover .navbar-dropdown__product-name {
+  color: var(--color-brand);
+}
+
+[data-theme='dark'] .navbar__item.dropdown .dropdown__menu {
+  background: #1e293b;
+  border-color: #334155;
+}
+
+[data-theme='dark'] .navbar-dropdown__product:hover {
+  background: rgba(255 255 255 / 0.05);
+}
+
+[data-theme='dark'] .navbar-dropdown__product-name {
+  color: #e2e8f0;
+}
+
+[data-theme='dark'] .navbar-dropdown__section-label {
+  color: #64748b;
+}
+
 /* ─── Footer ─────────────────────────────────────────────────────────────── */
 .footer {
   background: var(--stripe-surface);
