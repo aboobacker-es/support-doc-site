@@ -224,13 +224,13 @@ body {
   align-items: center;
 }
 
-/* First level only: root .menu__list > item */
+/* First level only: root .menu__list > item — matches Stripe "START BUILDING" style */
 .menu > .menu__list > .menu__list-item--collapsible > .menu__list-item-collapsible > .menu__link {
   flex: 1;
-  font-size: 0.8125rem;
+  font-size: 0.6875rem;
   font-weight: 700;
   text-transform: uppercase;
-  letter-spacing: 0.06em;
+  letter-spacing: 0.1em;
   color: var(--stripe-ink);
   background: transparent !important;
   border-radius: 0;
@@ -258,7 +258,8 @@ body {
   color: #e6edf3;
 }
 
-/* ── Nested sub-categories: same size as articles + ">" arrow ─────────── */
+/* ── All collapsible items (second-level +): normal text + ">" arrow ───── */
+/* Applies at every nesting depth — only .menu__list-item--collapsible gets this */
 .menu__list .menu__list > .menu__list-item--collapsible > .menu__list-item-collapsible > .menu__link {
   font-size: 0.875rem;
   font-weight: 400;
@@ -266,31 +267,39 @@ body {
   letter-spacing: 0;
   color: #425466;
   background: transparent !important;
-  padding: 5px 8px 5px 16px;
+  padding: 5px 8px 5px 12px;
   pointer-events: auto;
   cursor: pointer;
   border-top: none;
   border-radius: 0;
+  display: flex;
+  align-items: center;
+  gap: 0;
 }
 
-/* "›" arrow via pseudo-element — rotates when expanded */
+/* ">" chevron via ::before — only collapsible items get this; leaf articles don't */
 .menu__list .menu__list > .menu__list-item--collapsible > .menu__list-item-collapsible > .menu__link::before {
-  content: '›';
-  display: inline-block;
-  font-size: 1.1rem;
+  content: '>';
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 18px;
+  flex-shrink: 0;
+  font-size: 0.75rem;
+  font-weight: 600;
   line-height: 1;
-  margin-right: 5px;
-  transition: transform 0.2s ease;
-  transform-origin: 50% 55%;
-  color: #697386;
+  margin-right: 4px;
+  transition: transform 0.15s ease;
+  transform-origin: center;
+  color: #8898aa;
 }
 
-/* Rotate to point down when the category is expanded */
+/* Rotate ">" 90° when the category is expanded */
 .menu__list .menu__list > .menu__list-item--collapsible:not(.menu__list-item--collapsed) > .menu__list-item-collapsible > .menu__link::before {
   transform: rotate(90deg);
 }
 
-/* Hide the native caret button — we're using ::before instead */
+/* Hide the native Docusaurus caret button — using ::before instead */
 .menu__list .menu__list > .menu__list-item--collapsible > .menu__list-item-collapsible > .menu__caret {
   display: none !important;
 }
