@@ -31,7 +31,6 @@ const config = {
           sidebarPath: './sidebars.js',
           showLastUpdateTime: false,
           breadcrumbs: true,
-          sidebarCollapsed: false,   // all categories open by default
         },
         blog: false,
         theme: {

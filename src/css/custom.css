@@ -218,59 +218,85 @@ body {
   padding: 0;
 }
 
-/* Top-level collapsible: caret on LEFT, text after — Stripe style */
+/* ── First-level categories: uppercase section headers (non-clickable) ── */
 .menu__list-item-collapsible {
   display: flex;
-  flex-direction: row-reverse;   /* puts caret before text */
-  justify-content: flex-end;
   align-items: center;
 }
 
-.menu__list-item-collapsible > .menu__link {
+/* First level only: root .menu__list > item */
+.menu > .menu__list > .menu__list-item--collapsible > .menu__list-item-collapsible > .menu__link {
   flex: 1;
-  font-size: 0.8125rem;
+  font-size: 0.6875rem;
   font-weight: 700;
   text-transform: uppercase;
-  letter-spacing: 0.06em;
+  letter-spacing: 0.07em;
   color: var(--stripe-ink);
   background: transparent !important;
   border-radius: 0;
   padding: 16px 16px 6px;
   cursor: default;
-  pointer-events: none;     /* section labels are not clickable — Stripe style */
-  /* Remove default spacing that would look odd */
+  pointer-events: none;
 }
 
-/* But if it has an href (generated-index link) make it clickable */
-.menu__list-item-collapsible > a.menu__link {
-  pointer-events: auto;
-  cursor: pointer;
-}
-
-.menu__list-item-collapsible > .menu__link:hover {
-  background: transparent !important;
-  color: var(--stripe-ink);
-}
-
-/* Add a top border line above each section header — Stripe divider */
-.menu__list > .menu__list-item--collapsible:not(:first-child) > .menu__list-item-collapsible > .menu__link {
+/* Top border divider above each first-level section (except first) */
+.menu > .menu__list > .menu__list-item--collapsible:not(:first-child) > .menu__list-item-collapsible > .menu__link {
   border-top: 1px solid var(--stripe-border);
 }
 
-/* Caret button — left of section label */
-.menu__caret {
+/* Hide caret on first-level section headers (they're always expanded) */
+.menu > .menu__list > .menu__list-item--collapsible > .menu__list-item-collapsible > .menu__caret {
+  display: none;
+}
+
+[data-theme='dark'] .menu > .menu__list > .menu__list-item--collapsible > .menu__list-item-collapsible > .menu__link {
+  color: #e6edf3;
+}
+
+/* ── Nested sub-categories: same size as articles + ">" arrow ─────────── */
+.menu__list .menu__list > .menu__list-item--collapsible > .menu__list-item-collapsible {
+  display: flex;
+  align-items: center;
+}
+
+.menu__list .menu__list > .menu__list-item--collapsible > .menu__list-item-collapsible > .menu__link {
+  flex: 1;
+  font-size: 0.875rem;
+  font-weight: 400;
+  text-transform: none;
+  letter-spacing: 0;
+  color: #425466;
+  background: transparent !important;
+  padding: 5px 8px 5px 16px;
+  pointer-events: auto;
+  cursor: pointer;
+  border-top: none;
+  border-radius: 0;
+}
+
+.menu__list .menu__list > .menu__list-item--collapsible > .menu__list-item-collapsible > .menu__link:hover {
+  color: var(--stripe-ink);
+  background: transparent !important;
+}
+
+/* Caret on nested sub-categories — right side, small */
+.menu__list .menu__list > .menu__list-item--collapsible > .menu__list-item-collapsible > .menu__caret {
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 16px;
-  height: 16px;
+  width: 20px;
+  height: 20px;
   padding: 0;
-  margin-left: 12px;
   opacity: 0.5;
   flex-shrink: 0;
+  order: 2;
 }
 
-[data-theme='dark'] .menu__list-item-collapsible > .menu__link {
+[data-theme='dark'] .menu__list .menu__list > .menu__list-item--collapsible > .menu__list-item-collapsible > .menu__link {
+  color: #8b949e;
+}
+
+[data-theme='dark'] .menu__list .menu__list > .menu__list-item--collapsible > .menu__list-item-collapsible > .menu__link:hover {
   color: #e6edf3;
 }
 
