@@ -49,11 +49,11 @@
   --doc-sidebar-width:        260px;
   --ifm-container-width-xl:   1440px;
 
-  /* Navbar — WHITE, exactly like Stripe */
-  --ifm-navbar-background-color: #ffffff;
-  --ifm-navbar-link-color:        #425466;
-  --ifm-navbar-link-hover-color:  #1a1a2e;
-  --ifm-navbar-link-active-color: var(--color-brand);
+  /* Navbar — HackerRank dark green brand */
+  --ifm-navbar-background-color: #162e1e;
+  --ifm-navbar-link-color:        #d1e8d8;
+  --ifm-navbar-link-hover-color:  #ffffff;
+  --ifm-navbar-link-active-color: #2ec866;
   --ifm-navbar-shadow:            none;
 
   /* Surfaces */
@@ -153,78 +153,47 @@ body {
   margin-right: 4px;
 }
 
-/* "Docs" title — lighter, smaller, like Stripe's "DOCS" */
+/* "Docs" title */
 .navbar__title {
-  font-size: 0.875rem;
+  font-size: 1rem;
   font-weight: 600;
-  letter-spacing: 0.04em;
-  text-transform: uppercase;
-  color: #8898aa;
+  letter-spacing: -0.01em;
+  color: #ffffff;
+}
+
+.navbar__logo {
+  height: 26px;
+  margin-right: 6px;
 }
 
 .navbar__link {
   font-size: 0.875rem;
   font-weight: 500;
-  color: #425466;
-  padding: 0 12px;
-  height: var(--ifm-navbar-height);
-  display: flex;
-  align-items: center;
-  border-bottom: 2px solid transparent;
-  transition: color 0.1s, border-color 0.1s;
+  color: #d1e8d8;
+  transition: color 0.1s;
 }
 
 .navbar__link:hover {
-  color: var(--stripe-ink);
+  color: #ffffff;
   background: transparent;
   text-decoration: none;
 }
 
 .navbar__link--active {
-  color: var(--color-brand) !important;
-  border-bottom-color: var(--color-brand);
+  color: #2ec866 !important;
 }
 
 /* Search bar */
 .navbar__search-input {
-  background: var(--stripe-surface);
-  border: 1px solid var(--stripe-border);
-  color: var(--stripe-body);
+  background: rgba(255 255 255 / 0.1);
+  border: 1px solid rgba(255 255 255 / 0.15);
+  color: #ffffff;
   border-radius: 6px;
   font-size: 0.8125rem;
-  font-family: var(--ifm-font-family-base);
 }
 
 .navbar__search-input::placeholder {
-  color: var(--stripe-muted);
-}
-
-/* HackerRank.com external link — style like Stripe's right-side actions */
-.navbar__items--right .navbar__link {
-  font-size: 0.8125rem;
-  font-weight: 500;
-  color: var(--color-brand);
-  border-bottom: none;
-}
-
-.navbar__items--right .navbar__link:hover {
-  color: var(--color-brand-dark);
-}
-
-[data-theme='dark'] .navbar {
-  border-bottom-color: var(--stripe-border);
-}
-
-[data-theme='dark'] .navbar__title {
-  color: #6e7681;
-}
-
-[data-theme='dark'] .navbar__link {
-  color: #8b949e;
-}
-
-[data-theme='dark'] .navbar__link:hover {
-  color: #e6edf3;
+  color: rgba(255 255 255 / 0.5);
 }
 
 /* ─── Sidebar — white, Stripe exact ─────────────────────────────────────── */

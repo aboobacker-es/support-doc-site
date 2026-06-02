@@ -69,6 +69,7 @@ const config = {
           src: 'img/logo.svg',
           srcDark: 'img/logo-white.svg',
         },
+        style: 'dark',
         items: [
           {
             to: '/hackerrank-screen/managing-tests/creating-a-new-test',
