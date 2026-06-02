@@ -289,8 +289,11 @@ body {
   transform: rotate(90deg);
 }
 
-/* Hide native caret — we use ::before instead */
+/* Hide native caret button and the ::after SVG arrow on the link */
 .theme-doc-sidebar-item-category:not(.theme-doc-sidebar-item-category-level-1) > .menu__list-item-collapsible > .menu__caret {
+  display: none !important;
+}
+.theme-doc-sidebar-item-category > .menu__list-item-collapsible > .menu__link::after {
   display: none !important;
 }
 
