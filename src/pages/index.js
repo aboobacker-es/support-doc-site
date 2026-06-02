@@ -112,7 +112,7 @@ const FEATURED = [
 const PRODUCTS = [
   { title: 'Screen',      desc: 'Save time and accelerate your hiring with assessments.',  href: '/hackerrank-screen', count: 88,  color: '#16a34a' },
   { title: 'Interview',   desc: 'Conduct stellar technical interviews at scale.',          href: '/interviews',        count: 43,  color: '#2563eb' },
-  { title: 'Engage',      desc: 'Promote your tech brand and attract top talent.',         href: '/engage-',           count: 9,   color: '#ea580c' },
+  { title: 'Engage',      desc: 'Promote your tech brand and attract top talent.',         href: '/engage',           count: 9,   color: '#ea580c' },
   { title: 'SkillUp',     desc: 'Mobilize your tech talent with learning paths.',          href: '/skillup',           count: 19,  color: '#e11d48' },
   { title: 'Chakra',      desc: 'Pre-screen candidates with AI-powered interviews.',       href: '/chakra',            count: 7,   color: '#2EC866' },
 ];

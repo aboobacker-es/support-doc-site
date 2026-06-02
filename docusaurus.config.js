@@ -90,7 +90,7 @@ const config = {
               },
               {
                 type: 'html',
-                value: '<a href="/engage-" class="navbar-dropdown__product"><span class="navbar-dropdown__product-name">Engage</span><span class="navbar-dropdown__product-desc">Promote your tech brand</span></a>',
+                value: '<a href="/engage" class="navbar-dropdown__product"><span class="navbar-dropdown__product-name">Engage</span><span class="navbar-dropdown__product-desc">Promote your tech brand</span></a>',
               },
               {
                 type: 'html',
