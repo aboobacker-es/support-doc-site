@@ -15,7 +15,7 @@ If you are a recruiter trying to create a question for your assessment, below ar
 
   * After you have created an assessment, head over to the ‘Questions’ tab and open a question in view mode.
 
-![image4.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046680234-?Expires=253370764800&Signature=CmOMuuIvZ8xgK9~BwoP9bwVt2gVfUNcf-411D1-2AI7eNHgKwam~nL-Nvb6rAucZ2qe7LExnmFhW1Pzj4SYLbienKXhcVg9GWxb-4RiqLXOgenn1mbhfNS7mA7CKvaCQjUkMpi~Ujto0n2s1lStJbmmoLs6EFkuSKXF8UYBZMeOlNhClm6KvZICeT7kP5Obu0~cfc6V2M2ZsSGVITc4npLbeDn0eLZDLsbTyFKbLsrBrpb-GOlu0JXtdGLf8laKj0BQmi4ZpdJ4Ttfj~CZdShwJ1QSy2I452TQumCsrqKgvFEFD9ywvc~9WQvjuthHBzW9-kpJY9j~YmwWD35Iv47A__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![image4.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046680234-?Expires=253370764800&Signature=CmOMuuIvZ8xgK9~BwoP9bwVt2gVfUNcf-411D1-2AI7eNHgKwam~nL-Nvb6rAucZ2qe7LExnmFhW1Pzj4SYLbienKXhcVg9GWxb-4RiqLXOgenn1mbhfNS7mA7CKvaCQjUkMpi~Ujto0n2s1lStJbmmoLs6EFkuSKXF8UYBZMeOlNhClm6KvZICeT7kP5Obu0~cfc6V2M2ZsSGVITc4npLbeDn0eLZDLsbTyFKbLsrBrpb-GOlu0JXtdGLf8laKj0BQmi4ZpdJ4Ttfj~CZdShwJ1QSy2I452TQumCsrqKgvFEFD9ywvc~9WQvjuthHBzW9-kpJY9j~YmwWD35Iv47A__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 In case you are the owner of the question you would be able to open the question in edit mode and update the endpoint to view mode as shown below.
 
@@ -30,13 +30,13 @@ In case you are the owner of the question you would be able to open the question
 
   3. Open the dev tools by clicking on inspect in the context menu. You can open the context menu by right-click.
 
-![image9.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046681206-?Expires=253370764800&Signature=SVg0TCSQ7b~QfShwckEhwHrV385cwAyrB~IPlIGhgAB7KpHAQBGnvh4dBx8HiGHPCB8PasBB5xg1aCpguj-2864KG9FIgENPYnuL7Wqt8D~JsWl~bOsNs7Oa3zB2OpV8MkNXf5V0pNORJs0kSE5G76zawtcFB5e4R5gGEOp504KtQpA4zYKBikKaW1Hhyz5V9CnIXClitayMYyPzFqHFqyt23wRyPUTdL5p87iYc0umnL0J5IQCmnS6Kg7Ccs~b5KybYaUo7CyXQBNY0wKR1TTnv4acq8LDCo0o1-qWEtGY9bOY-nHtnmbMsYjtrVydeMpyTZ8sEvFb0nKjKsn108Q__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image9.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046681206-?Expires=253370764800&Signature=SVg0TCSQ7b~QfShwckEhwHrV385cwAyrB~IPlIGhgAB7KpHAQBGnvh4dBx8HiGHPCB8PasBB5xg1aCpguj-2864KG9FIgENPYnuL7Wqt8D~JsWl~bOsNs7Oa3zB2OpV8MkNXf5V0pNORJs0kSE5G76zawtcFB5e4R5gGEOp504KtQpA4zYKBikKaW1Hhyz5V9CnIXClitayMYyPzFqHFqyt23wRyPUTdL5p87iYc0umnL0J5IQCmnS6Kg7Ccs~b5KybYaUo7CyXQBNY0wKR1TTnv4acq8LDCo0o1-qWEtGY9bOY-nHtnmbMsYjtrVydeMpyTZ8sEvFb0nKjKsn108Q__&Key-Pair-Id=K3NV4LZ47N8M46)
   4. Now you should be able to see _axe dev tools_ in the developer menu.
 
-![image8.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046681808-?Expires=253370764800&Signature=Rs7TCeMWmOaEeVVPBRc5Iso5lMRGjm7GaM5rzto6t0DTjdZ10PjUcse~6CfNvRVYjN2RU7xowb7g4QsCBiPsAcWuLRux7aaqAS5Cp~RzbebV-HG34uStda9xJYKG91Jhde7M984KuS-qhrdpd1dB28WaEPwvJdjBFJZJ8K2hgGlmxMAww98dGdGtedRpLHvV6kLJrgTTwLJOaNMKYfXz4wuAcfbUcxEM8CPKyfhHw6xmoH5IhMAhBP8-st9CqTPWGVnf04ijET2sJF-T2lc6dlFNfGZWZk-hiHwVn-6cbVAAKJRU7DdA7Bh2xSds6WCtaF6ZhZu5V5ryNQ4V0P67vg__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image8.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046681808-?Expires=253370764800&Signature=Rs7TCeMWmOaEeVVPBRc5Iso5lMRGjm7GaM5rzto6t0DTjdZ10PjUcse~6CfNvRVYjN2RU7xowb7g4QsCBiPsAcWuLRux7aaqAS5Cp~RzbebV-HG34uStda9xJYKG91Jhde7M984KuS-qhrdpd1dB28WaEPwvJdjBFJZJ8K2hgGlmxMAww98dGdGtedRpLHvV6kLJrgTTwLJOaNMKYfXz4wuAcfbUcxEM8CPKyfhHw6xmoH5IhMAhBP8-st9CqTPWGVnf04ijET2sJF-T2lc6dlFNfGZWZk-hiHwVn-6cbVAAKJRU7DdA7Bh2xSds6WCtaF6ZhZu5V5ryNQ4V0P67vg__&Key-Pair-Id=K3NV4LZ47N8M46)
   5. Click on ‘Scan’ in the left panel to run the _axe Dev tools_.  
 
-![image3.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046682458-?Expires=253370764800&Signature=fUz~G7DPBxEQ9SecTXl1j1mfEKcW0~ZawIpqW-VOV8iX4kCA5UiZNVW7p6sebiFvS72bu6FPpqpkKUARss3kFHRQ-3DPXout4YFn6AHmU2MJZ7IsP~zl7PUulpz5YGa0ULueKs~JCB~OFHENECPQWEP8QUNbNL8d53VpuAoViDlpxIIi66VPo5dnda3etF6NdwGMamw-mn2CDdeckW5S61v4C83Yf7C28Y72kYwJU~Yp9R4nWecZVmVDMTGQkZV5RQpux~vX7eV5ii-WokiZ3OubOfCAnaux3sTvDEa4h6kr9tXL4bb1VQVW5E1CiABkwrKJv8yevp8bntCanKNy~Q__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image3.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046682458-?Expires=253370764800&Signature=fUz~G7DPBxEQ9SecTXl1j1mfEKcW0~ZawIpqW-VOV8iX4kCA5UiZNVW7p6sebiFvS72bu6FPpqpkKUARss3kFHRQ-3DPXout4YFn6AHmU2MJZ7IsP~zl7PUulpz5YGa0ULueKs~JCB~OFHENECPQWEP8QUNbNL8d53VpuAoViDlpxIIi66VPo5dnda3etF6NdwGMamw-mn2CDdeckW5S61v4C83Yf7C28Y72kYwJU~Yp9R4nWecZVmVDMTGQkZV5RQpux~vX7eV5ii-WokiZ3OubOfCAnaux3sTvDEa4h6kr9tXL4bb1VQVW5E1CiABkwrKJv8yevp8bntCanKNy~Q__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 :::note
 By default, the axe will scan the whole page so you can ignore the other issues outside the problem description.
@@ -44,7 +44,7 @@ By default, the axe will scan the whole page so you can ignore the other issues 
 
   * Axe will report all the violations along with the suggested fix. Once the violations are fixed, rerun the scan and the question is accessible now.
 
-![image1.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046682850-?Expires=253370764800&Signature=KuJbRRjAglPVIiUBSJIzyorJtDRf5iiZgCeNadvTcaCArzhisox1E~~vOkEFEMe8USJ-3zI91jfEs9WFQ4DxrlY9X3xYHHfIBJcBWeaeHXR6ln5e8MHL5wp~0RSuHCJo5QQysRgvCylDf4Y8VumQJoS8XObattGM~C7RGxVBECXbAHQRnH5pUjxCn-fApwwJfWG59iyAe9JM8iUFgoevHuGJHcHLVOFpfR8V8ZC9Z~GoJK-ArQq4XIBy3Ba6yZY-uSfd-SpT68rCNPAdTCkKP78oBcdQoWuelMLxTjZmyyLvwGZRP-w9djBL-ZN7nlaEZqZIcDLDm6zyu7FrKn5pMA__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![image1.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046682850-?Expires=253370764800&Signature=KuJbRRjAglPVIiUBSJIzyorJtDRf5iiZgCeNadvTcaCArzhisox1E~~vOkEFEMe8USJ-3zI91jfEs9WFQ4DxrlY9X3xYHHfIBJcBWeaeHXR6ln5e8MHL5wp~0RSuHCJo5QQysRgvCylDf4Y8VumQJoS8XObattGM~C7RGxVBECXbAHQRnH5pUjxCn-fApwwJfWG59iyAe9JM8iUFgoevHuGJHcHLVOFpfR8V8ZC9Z~GoJK-ArQq4XIBy3Ba6yZY-uSfd-SpT68rCNPAdTCkKP78oBcdQoWuelMLxTjZmyyLvwGZRP-w9djBL-ZN7nlaEZqZIcDLDm6zyu7FrKn5pMA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 ## Dealing with Images
 

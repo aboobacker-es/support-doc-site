@@ -29,7 +29,7 @@ To track developer progress:
 
   3. Review the top-level funnel metrics for each stage:
 
-![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2Fa7f7824f-cfdd-4f80-8edd-b6cc511d543d-AD_4nXeZQydcsFW-QhyEbz9-6UIXE-6OW1HYa6RJTeE4eCdMF_aVpBR8bRrHR1FXZLGG3YGwGWrQ7kh4uNbNZDIrw4FjzDTEPJwhJpeFY3nvUlyV20k60Ac1e3wfyGsY-zP9WGrFtQG-Tg-3e7db600-2d08-4a60-a6ed-9b0e7e8dc1c4?Expires=253370764800&Signature=P~9KYKUlN0oTMJvOaizNCio4jT38qY1QUfqiRjQqmZ8f1HhMBVZrAUOjkTxOWo1NpPDeWjF2XcW4mHcgl9rGRL9comtXyCFt1pkHVCwGfC5GKR6NuK93bkDrXK9jFb2aLh7z2aN6ObIIqEvxMZBAY24xnQdBzOiDQxvEBE7ermN9grjNTqwn0v05EoqQzmEq~H27ksHc7Ai0mqR5-fMNTFGeHC1o22axAOJisQGb8CFysPG1-bhnu0gVvGi5N0WtCjrZdyiPkr~1PJhAUQZN~dhRXrKDcMvd6nASvXwrFWTavVCPSBq9oywY1bgU2ka1tPX6c0WPE1UDbdFpwUGbiw__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2Fa7f7824f-cfdd-4f80-8edd-b6cc511d543d-AD_4nXeZQydcsFW-QhyEbz9-6UIXE-6OW1HYa6RJTeE4eCdMF_aVpBR8bRrHR1FXZLGG3YGwGWrQ7kh4uNbNZDIrw4FjzDTEPJwhJpeFY3nvUlyV20k60Ac1e3wfyGsY-zP9WGrFtQG-Tg-3e7db600-2d08-4a60-a6ed-9b0e7e8dc1c4?Expires=253370764800&Signature=P~9KYKUlN0oTMJvOaizNCio4jT38qY1QUfqiRjQqmZ8f1HhMBVZrAUOjkTxOWo1NpPDeWjF2XcW4mHcgl9rGRL9comtXyCFt1pkHVCwGfC5GKR6NuK93bkDrXK9jFb2aLh7z2aN6ObIIqEvxMZBAY24xnQdBzOiDQxvEBE7ermN9grjNTqwn0v05EoqQzmEq~H27ksHc7Ai0mqR5-fMNTFGeHC1o22axAOJisQGb8CFysPG1-bhnu0gVvGi5N0WtCjrZdyiPkr~1PJhAUQZN~dhRXrKDcMvd6nASvXwrFWTavVCPSBq9oywY1bgU2ka1tPX6c0WPE1UDbdFpwUGbiw__&Key-Pair-Id=K3NV4LZ47N8M46)
      * Invited Developers
 
      * Activated Developers
@@ -40,7 +40,7 @@ To track developer progress:
 
   4. Use the date filter in the top-right corner to view progress by time periods (For example, Last week, Last month, or Last quarter).
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdggY9bi_xZ5bE7nXXSOHWWCfZHjQfmz_Xq5Zufjb-RTAdgmIN8wXQfrJugQ11OTIbmOdJVgPi9ctiic_YbeWLshQQik37F09Y0lZR3fNDaCsRBEboOxgKbLDiJcjZPD5B6B6ZKRA?key=X_ZeYuiSgC31MswfGpDFpaY-)
+     ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdggY9bi_xZ5bE7nXXSOHWWCfZHjQfmz_Xq5Zufjb-RTAdgmIN8wXQfrJugQ11OTIbmOdJVgPi9ctiic_YbeWLshQQik37F09Y0lZR3fNDaCsRBEboOxgKbLDiJcjZPD5B6B6ZKRA?key=X_ZeYuiSgC31MswfGpDFpaY-)
   5. Explore certification and skill-specific breakdowns to understand where developers are making progress in their upskilling journey.
 
   6. Scroll down to view:

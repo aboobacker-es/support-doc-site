@@ -39,7 +39,7 @@ To enable advanced evaluation:
 
   4. In the **Test Evaluation** section, toggle **Enable Advanced Evaluation** to activate all of the additional signals in your reports.
 
-![advanced evaluation.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1753713162214-advancedevaluation.png?Expires=253370764800&Signature=qyajeKVj64iPvaXy9aY1st0PLuWGjVITV6fkRqOGZSqZHr-YVd8ufAYT71FbT5uH0G7Pl~ftGbSnjPFFHOtkGDVhN9EYP1wReMiiFu96jHfFytI1DBi8h5EJsNJa98IPnC3jDX0wRC7GSyxN-5BkHCgMjtGck6Wj0FJbECrQnq97FLCJoyEUpGG02n-c54vsyxojS7Bnnpyuv4-zawoOO-9Xsr9wOTSQuAf680-8CdfjGeuD7mOW0GlISqL6fNbLNYIw8tsSVeAJVKY4IuROLPh9II7lzuhpo419pXFVhcqfgR3dlNzRmBjdkrayL8Ze9ilb70~Znss8qkDAiq4unA__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![advanced evaluation.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1753713162214-advancedevaluation.png?Expires=253370764800&Signature=qyajeKVj64iPvaXy9aY1st0PLuWGjVITV6fkRqOGZSqZHr-YVd8ufAYT71FbT5uH0G7Pl~ftGbSnjPFFHOtkGDVhN9EYP1wReMiiFu96jHfFytI1DBi8h5EJsNJa98IPnC3jDX0wRC7GSyxN-5BkHCgMjtGck6Wj0FJbECrQnq97FLCJoyEUpGG02n-c54vsyxojS7Bnnpyuv4-zawoOO-9Xsr9wOTSQuAf680-8CdfjGeuD7mOW0GlISqL6fNbLNYIw8tsSVeAJVKY4IuROLPh9II7lzuhpo419pXFVhcqfgR3dlNzRmBjdkrayL8Ze9ilb70~Znss8qkDAiq4unA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 :::note
 For more information on methodology, contact [_support@hackerrank.com_](<mailto:support@hackerrank.com>).

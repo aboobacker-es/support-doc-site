@@ -27,10 +27,10 @@ To create an HTML/CSS/JavaScript question:
 
   3. Click **Create Question**.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1772443265167-image.png?Expires=253370764800&Signature=YDWeDR9qjuOugkereEuHxYy4w1ktWhSNUfObuHuNNbFKHBrt5uVWtDSv1mUZswulJ2Cbr04lOdbvLnu9TxyyjMV-0YZCC6QwMAkmA8ThhpGJJbcALA6ptcyUOR1Z6BOg5mD2WnKJk7V8EpGsPeX0hYEHv~VS5pwHlbnhNHeRIUcAmfaSbMjz6s12Mn5pR3-wefnb-ErTR-oPhREPQ~bgTFuy2g30lhL0JtAqYM0TjHt4mONNlZRbCNHMO-G5dklZEdviP-8S7jOGSSCQ6xhxr~F3JlXd6rN6Ff9rCEHlw05VYy078Xi~tl7Sn6EOMdCIkpMiU9g2WFbzGHRKAGbCoA__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1772443265167-image.png?Expires=253370764800&Signature=YDWeDR9qjuOugkereEuHxYy4w1ktWhSNUfObuHuNNbFKHBrt5uVWtDSv1mUZswulJ2Cbr04lOdbvLnu9TxyyjMV-0YZCC6QwMAkmA8ThhpGJJbcALA6ptcyUOR1Z6BOg5mD2WnKJk7V8EpGsPeX0hYEHv~VS5pwHlbnhNHeRIUcAmfaSbMjz6s12Mn5pR3-wefnb-ErTR-oPhREPQ~bgTFuy2g30lhL0JtAqYM0TjHt4mONNlZRbCNHMO-G5dklZEdviP-8S7jOGSSCQ6xhxr~F3JlXd6rN6Ff9rCEHlw05VYy078Xi~tl7Sn6EOMdCIkpMiU9g2WFbzGHRKAGbCoA__&Key-Pair-Id=K3NV4LZ47N8M46)
   4. Select **HTML/CSS/JavaScript** under **Programming**.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1772443321740-image.png?Expires=253370764800&Signature=lcS3mO0NTRsH5rko-zVJaqneRBesP3SqbvDVPb33wOtQVpGYaLIkzcw0s8l4S-9qxx4i-MkNHjtGl-p0YhwitvulAmjHVZB~dk4qfr5HsVMu32-daoYpSjK08YOv9vmfPt~Yn2gc1Im7Vo2mul8dMIU6HIxrs6xhlh5l77cBknhiuAgfYSj4U5sZbWqrCpd-cXua-EQbqwrEbZXnRJ8z-db2hQzIuzulrZXsx1XTfROU87WIWSCZBnqUyKUYU4k8qaL-bFdYe~pI7Jtb96M91PKpiLyoRLGTgB5wGYpIrJ1OaD5moXmwzSjAfJnXDTvYWMmK5Z4ZT1~f5ZEM7U9TNQ__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1772443321740-image.png?Expires=253370764800&Signature=lcS3mO0NTRsH5rko-zVJaqneRBesP3SqbvDVPb33wOtQVpGYaLIkzcw0s8l4S-9qxx4i-MkNHjtGl-p0YhwitvulAmjHVZB~dk4qfr5HsVMu32-daoYpSjK08YOv9vmfPt~Yn2gc1Im7Vo2mul8dMIU6HIxrs6xhlh5l77cBknhiuAgfYSj4U5sZbWqrCpd-cXua-EQbqwrEbZXnRJ8z-db2hQzIuzulrZXsx1XTfROU87WIWSCZBnqUyKUYU4k8qaL-bFdYe~pI7Jtb96M91PKpiLyoRLGTgB5wGYpIrJ1OaD5moXmwzSjAfJnXDTvYWMmK5Z4ZT1~f5ZEM7U9TNQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 The HTML/CSS/JavaScript question creation workflow opens with the following two steps.
 
@@ -38,7 +38,7 @@ The HTML/CSS/JavaScript question creation workflow opens with the following two 
 
   1. In the **Problem details** section:
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1772443536622-image.png?Expires=253370764800&Signature=ZGAL51sLs3pwguenviJunsbDmBfMljqlU9LK5b~d0uab20p9syHLWhi-~Mj7aIzyHqadCGT5a1yiKWoc3WD7b1JWRp2TYO6KqMic8xKHWsvsNmNxLu57jwmKVbNW4KDU0Shkjpa-LZ9d34TGR4bmNKibC4-WcYSs30KpkmCknY0sr5FX-uWwNEqFehl9VxS87p~GrbEI~b4CF9wsTpLskZRsGG817aMjnkcEqmIsupbGfxSxzAJjKrqR9NIcAByBbYXwuTZ9b7Wnp1~s-PnYzNTDXoXA84iQHMwlThF2ydo3TKxcevbTsVcGB8c~rspGlxRCFKVA7ElTVOivzK0cbQ__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1772443536622-image.png?Expires=253370764800&Signature=ZGAL51sLs3pwguenviJunsbDmBfMljqlU9LK5b~d0uab20p9syHLWhi-~Mj7aIzyHqadCGT5a1yiKWoc3WD7b1JWRp2TYO6KqMic8xKHWsvsNmNxLu57jwmKVbNW4KDU0Shkjpa-LZ9d34TGR4bmNKibC4-WcYSs30KpkmCknY0sr5FX-uWwNEqFehl9VxS87p~GrbEI~b4CF9wsTpLskZRsGG817aMjnkcEqmIsupbGfxSxzAJjKrqR9NIcAByBbYXwuTZ9b7Wnp1~s-PnYzNTDXoXA84iQHMwlThF2ydo3TKxcevbTsVcGB8c~rspGlxRCFKVA7ElTVOivzK0cbQ__&Key-Pair-Id=K3NV4LZ47N8M46)
      1. Enter the **Question name.**
 
      2. Describe the problem in the **Problem description** field. You can use the formatting menu to format the text or to include elements such as tables or images.
@@ -51,7 +51,7 @@ Click **See candidate preview** to view how the question appears to candidates.
 
   2. In the **Question properties** section: 
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1772443663808-image.png?Expires=253370764800&Signature=KZEDxedvTbyDML2WZCG1-kHKg2E7HjZkN3nW-Cw7g2mUr6UKVlYDwTAo8nbi4Me04Hj86MXWNzW2diJTtVCbiIoPx0GY~VX5Z02viCIBreBrqwdeUoZ~q9GK0KSw1xh6pWqWy38YZAZgv301Fm-tQSUV9CyzLOXU94ESqg2-bXfFaJzA-7PE6gCOzPZPEz9oT4h8x7uMpkhUjzqYmLAj36FzovTMtQlC57iXK6GEQeLMnGvjfXFWZIRhTAmfcYVnoQpfOfG3v6dJ3DdAO-unMyLqA-dD4GayVYV9tgI~yVVFOcl60hToBhcxalG2vF2hI~8J8t-71T3FPYzt1671gw__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1772443663808-image.png?Expires=253370764800&Signature=KZEDxedvTbyDML2WZCG1-kHKg2E7HjZkN3nW-Cw7g2mUr6UKVlYDwTAo8nbi4Me04Hj86MXWNzW2diJTtVCbiIoPx0GY~VX5Z02viCIBreBrqwdeUoZ~q9GK0KSw1xh6pWqWy38YZAZgv301Fm-tQSUV9CyzLOXU94ESqg2-bXfFaJzA-7PE6gCOzPZPEz9oT4h8x7uMpkhUjzqYmLAj36FzovTMtQlC57iXK6GEQeLMnGvjfXFWZIRhTAmfcYVnoQpfOfG3v6dJ3DdAO-unMyLqA-dD4GayVYV9tgI~yVVFOcl60hToBhcxalG2vF2hI~8J8t-71T3FPYzt1671gw__&Key-Pair-Id=K3NV4LZ47N8M46)
      1. Enter the **Score** and **Recommended time** based on question difficulty.
 
 **Difficulty**| **Score**| **Recommended Time**  

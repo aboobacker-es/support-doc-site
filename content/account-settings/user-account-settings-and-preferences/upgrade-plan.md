@@ -19,7 +19,7 @@ To upgrade plan:
 
   3. Select **Change Plan** in the **Subscription** section.
 
-![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F210a45fe-aa5c-4e99-8d41-3ec61b8651ee-1bb40b15-10c1-4ffd-9c72-867f9afe7af0-AD_4nXfarpeDDKQyTphCc4dAuh2Q0hOGCZ35L4hqQdp-MMDdVlZdmO7QR1u2g4G9FPPIdollhfl7iB0WhvcMreFFAKd0Hfto8YvXSKTXcpsNLFmtLOZtasCUTaKftb3Wqd9apXGF2y4ScA-9ef50519-3d8c-4418-b15a-b8a7d5b7d9e1-a1ec0215-39c1-48ab-b11f-d1c2e9c03894?Expires=253370764800&Signature=iJAlhqjVXOM4YWrMS9eMaxx0AvKMEHhN3MkHIP6ixdKk-OZa8sZamAOgtOtX2YxsCMrD8vtyfnQ70QbfeokEsAUE4E0dUXAzFYuApZs4zjfZyvdzM9Sln9vTz-QotWGaM4fftMZQ9louRo9mO8QdEvtXxnbV-lM3~rMioi-QXRmpHU~t9Lx1MjYwIy243bs-S4miwvtgdQN2x4qq4KMNY6at4dTNUSPtNcvgsinL6LaqjSTbkBBFOjpwDhDuikyCHbAa25mFGjrrhnwyYpKmZmHgFHo3sV4ZoPqRJatHwqzOP-JIHU6SfbVHo-fGaxGubizut74QoMFrl0xOK53rEQ__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F210a45fe-aa5c-4e99-8d41-3ec61b8651ee-1bb40b15-10c1-4ffd-9c72-867f9afe7af0-AD_4nXfarpeDDKQyTphCc4dAuh2Q0hOGCZ35L4hqQdp-MMDdVlZdmO7QR1u2g4G9FPPIdollhfl7iB0WhvcMreFFAKd0Hfto8YvXSKTXcpsNLFmtLOZtasCUTaKftb3Wqd9apXGF2y4ScA-9ef50519-3d8c-4418-b15a-b8a7d5b7d9e1-a1ec0215-39c1-48ab-b11f-d1c2e9c03894?Expires=253370764800&Signature=iJAlhqjVXOM4YWrMS9eMaxx0AvKMEHhN3MkHIP6ixdKk-OZa8sZamAOgtOtX2YxsCMrD8vtyfnQ70QbfeokEsAUE4E0dUXAzFYuApZs4zjfZyvdzM9Sln9vTz-QotWGaM4fftMZQ9louRo9mO8QdEvtXxnbV-lM3~rMioi-QXRmpHU~t9Lx1MjYwIy243bs-S4miwvtgdQN2x4qq4KMNY6at4dTNUSPtNcvgsinL6LaqjSTbkBBFOjpwDhDuikyCHbAa25mFGjrrhnwyYpKmZmHgFHo3sV4ZoPqRJatHwqzOP-JIHU6SfbVHo-fGaxGubizut74QoMFrl0xOK53rEQ__&Key-Pair-Id=K3NV4LZ47N8M46)
   4. Browse the available plans and select the one that fits your requirements.
 
   5. Follow the prompts to complete the upgrade.

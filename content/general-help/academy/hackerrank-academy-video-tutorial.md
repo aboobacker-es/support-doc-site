@@ -23,4 +23,4 @@ The HackerRank Academy is a comprehensive learning platform and your go-to resou
 
   * Scroll down and click on **Academy** at the bottom of the page to log in and start learning
 
-![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046352921-?Expires=253370764800&Signature=FmqqCGRbiqQMRQJSzx3M2ZjYfUcEjdcqzovR9ZzrHAHGMbFWq-NzK-wQlaB1hK~idKxoyr5gt28yl2ciYrJkvgb8M6cpN2n7G6wtDlnvE0ofsFiYQ3KZslYknNWnDF~pxvew2bDBIx3ASihPYWMz4zXH4UgkZVB6B-~wSd9HgGkxTfXBHrcJqalvQylM4nOI6UBXY-xZ6-S0msn9TMya8-tgvBv7xyiiR2VR83nDAnQRXgEkEEHQtQhA2YnnMpPWkgKIoOC2RboD7eUzSKsKgiGXjV8uIjYF70bozqE6wyY154wahGQTWZIKfS535I9D6Cf8ah9yYzoFs6oIPWD-cw__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046352921-?Expires=253370764800&Signature=FmqqCGRbiqQMRQJSzx3M2ZjYfUcEjdcqzovR9ZzrHAHGMbFWq-NzK-wQlaB1hK~idKxoyr5gt28yl2ciYrJkvgb8M6cpN2n7G6wtDlnvE0ofsFiYQ3KZslYknNWnDF~pxvew2bDBIx3ASihPYWMz4zXH4UgkZVB6B-~wSd9HgGkxTfXBHrcJqalvQylM4nOI6UBXY-xZ6-S0msn9TMya8-tgvBv7xyiiR2VR83nDAnQRXgEkEEHQtQhA2YnnMpPWkgKIoOC2RboD7eUzSKsKgiGXjV8uIjYF70bozqE6wyY154wahGQTWZIKfS535I9D6Cf8ah9yYzoFs6oIPWD-cw__&Key-Pair-Id=K3NV4LZ47N8M46)

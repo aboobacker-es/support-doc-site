@@ -29,10 +29,10 @@ To invite candidates to a test:
 
   4. Click **Invite** in the upper-right corner to open the **Send Test Invites** page.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1746783191607-image.png?Expires=253370764800&Signature=nTJ8SofVL4SdeAORfa7N4ByNt9Xgwg~LJbiKe1JT1LeQ9oAoub~pDme~SNy9ELVh093M1hleCfQFp6oOJBj1QpMli-4WcELaASDrWnxZz18DVvllMvmrrn8t9zF1YCfhrlUkIA~YMycZmQwr~cjdTWvxgCU0azhFCQDTgECMBfO9cTEXLJWVpowIjSX863h2VnnAwsZGCFTcM29Bmt7Fl8UxuyNA8sC5HdvpmW37zweknKeUMdTxH3gOIOQGzuZvGmjUGckBBh9awf7s3eTMVZQCkmyCJytCbD54HzrlrCiB87M3sJG7XTEZK1yDAREQfE9CDEZXJSlcPV~~i9AADQ__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1746783191607-image.png?Expires=253370764800&Signature=nTJ8SofVL4SdeAORfa7N4ByNt9Xgwg~LJbiKe1JT1LeQ9oAoub~pDme~SNy9ELVh093M1hleCfQFp6oOJBj1QpMli-4WcELaASDrWnxZz18DVvllMvmrrn8t9zF1YCfhrlUkIA~YMycZmQwr~cjdTWvxgCU0azhFCQDTgECMBfO9cTEXLJWVpowIjSX863h2VnnAwsZGCFTcM29Bmt7Fl8UxuyNA8sC5HdvpmW37zweknKeUMdTxH3gOIOQGzuZvGmjUGckBBh9awf7s3eTMVZQCkmyCJytCbD54HzrlrCiB87M3sJG7XTEZK1yDAREQfE9CDEZXJSlcPV~~i9AADQ__&Key-Pair-Id=K3NV4LZ47N8M46)
   5. Enter the candidates’ email addresses in the **To** field. Use either of the following formats:
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1746783357664-image.png?Expires=253370764800&Signature=crB64tmC2MRDloX2MD5N5kNaA-QEyIduu9PRQnp~3x4D182sAx2bXAdJ3VwTjuRxByvebaE-8mC9YJngdm3WrGIRRM2Bc9IoBRNeUx7rcidQA-~yjlNFfR3wWHwvzpNzwkQH253LXRa~mO-MdSOe1ogYO485bTsiYmOYioiHgnXflKw7qKZJ9iTmlr8zXkvWAesIomlvGV2yiNR09DxtR8ScGXHO2UnnInAmFbMz~Eo1ckLWg3vlPh4M51GNAO7X9L8VRO~acnYWtXf2Rnyb~fh3UqReQTH8EyiXkDKhcLaFsghm-NAPJyRGKFJ6~OLkex3-fc14WfkajIJlgXrx7A__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1746783357664-image.png?Expires=253370764800&Signature=crB64tmC2MRDloX2MD5N5kNaA-QEyIduu9PRQnp~3x4D182sAx2bXAdJ3VwTjuRxByvebaE-8mC9YJngdm3WrGIRRM2Bc9IoBRNeUx7rcidQA-~yjlNFfR3wWHwvzpNzwkQH253LXRa~mO-MdSOe1ogYO485bTsiYmOYioiHgnXflKw7qKZJ9iTmlr8zXkvWAesIomlvGV2yiNR09DxtR8ScGXHO2UnnInAmFbMz~Eo1ckLWg3vlPh4M51GNAO7X9L8VRO~acnYWtXf2Rnyb~fh3UqReQTH8EyiXkDKhcLaFsghm-NAPJyRGKFJ6~OLkex3-fc14WfkajIJlgXrx7A__&Key-Pair-Id=K3NV4LZ47N8M46)
      * **Only email addresses:** [evanbrown@gmail.com](<mailto:evanbrown@gmail.com>), [ethanv@gmail.com](<mailto:ethanv@gmail.com>), [nancysmith@outlook.com](<mailto:nancysmith@outlook.com>)
 
      * **Names and email addresses:** Evan Brown <[evanbrown@gmail.com](<mailto:evanbrown@gmail.com>)>, Ethan <[ethanv@gmail.com](<mailto:ethanv@gmail.com>)>, Nancy Smith <[nancysmith@outlook.com](<mailto:nancysmith@outlook.com>)>
@@ -49,7 +49,7 @@ You can also include emojis in the subject line.
 
   7. Customize the email body as needed. Use the formatting options to add bullet points, numbered lists, or other elements.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1746783438273-image.png?Expires=253370764800&Signature=qW0zI1r-tzR4Lh~RKKOSm2-Uui6kLEBfZ9X9~TMMhGt846wJ2WQe6wL1Ji-j3xWJJcdYCmBrtpzazK7IMh0djb1vo00sOOAgogDs220MQLrRVZsFhkqPQSihOESYsJVZvEQUpZU1nJzj6LQrIMfC5U6~iJejGz6cwcIx7YLRy3wftg6QZqkbhlUR7mV8C3Wq39RCjlgbNg4PO8cfX4D0no3b7nRmth8sEMt0OoHEdGpF4ROX2WML7otxkjsehvAQjd45dkjTA~2i05YaJgBpl03jlESqJFMLquGZfNdsimmaKnQpobteS6-by~a5-DGH65HgDxtdZVVDq0PZ~J9S3g__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1746783438273-image.png?Expires=253370764800&Signature=qW0zI1r-tzR4Lh~RKKOSm2-Uui6kLEBfZ9X9~TMMhGt846wJ2WQe6wL1Ji-j3xWJJcdYCmBrtpzazK7IMh0djb1vo00sOOAgogDs220MQLrRVZsFhkqPQSihOESYsJVZvEQUpZU1nJzj6LQrIMfC5U6~iJejGz6cwcIx7YLRy3wftg6QZqkbhlUR7mV8C3Wq39RCjlgbNg4PO8cfX4D0no3b7nRmth8sEMt0OoHEdGpF4ROX2WML7otxkjsehvAQjd45dkjTA~2i05YaJgBpl03jlESqJFMLquGZfNdsimmaKnQpobteS6-by~a5-DGH65HgDxtdZVVDq0PZ~J9S3g__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 :::note
 You can save the email as a template or use an existing template. For more information, see [📄 Using a Custom Email Template](</articles/6675460135>) _._
@@ -57,7 +57,7 @@ You can save the email as a template or use an existing template. For more infor
 
   8. Click the **+** icon to insert placeholders for the **Candidate Name** and **Recruiter Name**.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1746783506292-image.png?Expires=253370764800&Signature=NMKPCKI74Sg7VHHlcPuZ0GB91wWHp5ZQoX68HL09l9RcUiB9AKn9Xz-G5j379obFnyMr0RzFiALDSlYMPzp4OEJcDz0MMJNpr7FJK5qkA0aEtX6dVcUfNbD48fnJDkDCFWEC-kbH63F3mHuKoTEK3VdnGRC7Qksf7BqrzZaba6Auoxrpht9LYhsd4sveXeUHXzevXNELdgk3cCab5Y1Tk6cymW9~2QvZdLXv2OXO1hjA8KgRwouTpdZjIMkVhdJqyRhQsA0b~tBb5h2jxGOjsILzQvVKwdjL9L7QhDChfc5NmWA~v-GNFtXMyDj5~GWyDJfU5hDp~OlP3t1OBN5buQ__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1746783506292-image.png?Expires=253370764800&Signature=NMKPCKI74Sg7VHHlcPuZ0GB91wWHp5ZQoX68HL09l9RcUiB9AKn9Xz-G5j379obFnyMr0RzFiALDSlYMPzp4OEJcDz0MMJNpr7FJK5qkA0aEtX6dVcUfNbD48fnJDkDCFWEC-kbH63F3mHuKoTEK3VdnGRC7Qksf7BqrzZaba6Auoxrpht9LYhsd4sveXeUHXzevXNELdgk3cCab5Y1Tk6cymW9~2QvZdLXv2OXO1hjA8KgRwouTpdZjIMkVhdJqyRhQsA0b~tBb5h2jxGOjsILzQvVKwdjL9L7QhDChfc5NmWA~v-GNFtXMyDj5~GWyDJfU5hDp~OlP3t1OBN5buQ__&Key-Pair-Id=K3NV4LZ47N8M46)
      1. If the candidate’s name is available, the **Candidate Name** placeholder will display the name from the **To** field or the bulk upload CSV file.
 
         * **Example:** If the **To** field contains Evan Brown <[evanbrown@gmail.com](<mailto:evanbrown@gmail.com>)>, the placeholder will display Evan Brown when the invite is sent.
@@ -68,7 +68,7 @@ You can save the email as a template or use an existing template. For more infor
 
      1. Click the link**** icon.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1746783539562-image.png?Expires=253370764800&Signature=M0h16YsDp52TM~USLBfcT~r8d9CVtRtCDI5IMKZnkPGfwwAMxCVUy8SewkDuQ9UHLG-EPS~kpzldnQzVKs7IxEuqRsfEkEdDCktacDoyy40H1ogyepDv2dzFsRSkNesvbcDPktg1mZ-L3DlFMAWMUe2pDKqwx0NSbQAPfDnGOH09XtOw1455uxbrRaUZ5sj9dfvZIs8zYHXuSFsu2jcjwtpX45j9wzfdPXO3CMbcMLv9U4luLMOfqrDYynqGNo3QT0r92rvsvzPKX-KYTo7~1K4eK5A~o3svoZBRzaWBwZlJHbLyYms4cLj9vAW~w1Ne36~2NYc7o9D7hyA1EDqj2w__&Key-Pair-Id=K3NV4LZ47N8M46)
+        ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1746783539562-image.png?Expires=253370764800&Signature=M0h16YsDp52TM~USLBfcT~r8d9CVtRtCDI5IMKZnkPGfwwAMxCVUy8SewkDuQ9UHLG-EPS~kpzldnQzVKs7IxEuqRsfEkEdDCktacDoyy40H1ogyepDv2dzFsRSkNesvbcDPktg1mZ-L3DlFMAWMUe2pDKqwx0NSbQAPfDnGOH09XtOw1455uxbrRaUZ5sj9dfvZIs8zYHXuSFsu2jcjwtpX45j9wzfdPXO3CMbcMLv9U4luLMOfqrDYynqGNo3QT0r92rvsvzPKX-KYTo7~1K4eK5A~o3svoZBRzaWBwZlJHbLyYms4cLj9vAW~w1Ne36~2NYc7o9D7hyA1EDqj2w__&Key-Pair-Id=K3NV4LZ47N8M46)
      2. In the **Add Link** dialog box, enter the display text and URL, or upload a document.
 
   10. (Optional) Customize the test invite with additional options:
@@ -105,7 +105,7 @@ To set the expiration date:
 
      * If you choose **Custom** , select the expiry date, time, and time zone, and then click **Save.**
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1758612341785-image.png?Expires=253370764800&Signature=Ng3yEkJAyCRmtnyfqglbe7gO6~Hmp80~JYR-KM3ck6fwJ7L8OsLHP9jrYI0-Pakad43PwZ~dityyqENKGYxwQpbxzH1Xb6uKXwp2sjxcJtJCaZJRkEtsum8tlwfEhsjoKp4uvLqOp~WOtA9f5r7DPJZ-c9-zrm77Vt9PrIEK~krqYZpbGW0iinhxhRVX4Q2QdZCUKXmuYTuyBzCplSflG6fmHWYgVtUIOj4D0SAZlSA7oUeOeKf122fuGZwstMie9Y1~OribTARZiObGD0ScNtxZphBHuDPiyFjnI2eEccfiUQidQoQQwIQAEI~25LHS6CfS~2T6HZ7pvWNKy7T-~Q__&Key-Pair-Id=K3NV4LZ47N8M46)
+       ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1758612341785-image.png?Expires=253370764800&Signature=Ng3yEkJAyCRmtnyfqglbe7gO6~Hmp80~JYR-KM3ck6fwJ7L8OsLHP9jrYI0-Pakad43PwZ~dityyqENKGYxwQpbxzH1Xb6uKXwp2sjxcJtJCaZJRkEtsum8tlwfEhsjoKp4uvLqOp~WOtA9f5r7DPJZ-c9-zrm77Vt9PrIEK~krqYZpbGW0iinhxhRVX4Q2QdZCUKXmuYTuyBzCplSflG6fmHWYgVtUIOj4D0SAZlSA7oUeOeKf122fuGZwstMie9Y1~OribTARZiObGD0ScNtxZphBHuDPiyFjnI2eEccfiUQidQoQQwIQAEI~25LHS6CfS~2T6HZ7pvWNKy7T-~Q__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 The selected expiry date appears.
 
@@ -130,7 +130,7 @@ To set a reminder:
 
        * If you choose **Custom** , enter the number of days after the invitation is sent and then click **Save**.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1758612232757-image.png?Expires=253370764800&Signature=Ji7qwgmEv3zNwt4JBo5h21MlIJ1q96x5Ht3nIfeVWJ-LNWaUbsTDz1A2vnYURYB2gft9zdV0PirBc0F6sommZJjEbh-1VG5BsS6YrvQcRDGzmab7CSK9vlLd1tlDIyqbwnJVnb-yMUf2t5CSjqRL6NG9W~5l3QhfWoecFkgpxjqyqkskztMRGaBROyzZMA8Eqlc5kjVSHWN8hckXGdIhbQIGXu8lxyMYMVhaypqqpbyLIe6~e-Ts1WBsyodDCe2FmYfJE4zaUsPBUMuuUD3LkNK7apVF6FZYUwMYTHAUTnggu0SWmoT3CzBVfLD0eMDYPtgD5UeI~4FWMWgr9y70Rw__&Key-Pair-Id=K3NV4LZ47N8M46)
+         ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1758612232757-image.png?Expires=253370764800&Signature=Ji7qwgmEv3zNwt4JBo5h21MlIJ1q96x5Ht3nIfeVWJ-LNWaUbsTDz1A2vnYURYB2gft9zdV0PirBc0F6sommZJjEbh-1VG5BsS6YrvQcRDGzmab7CSK9vlLd1tlDIyqbwnJVnb-yMUf2t5CSjqRL6NG9W~5l3QhfWoecFkgpxjqyqkskztMRGaBROyzZMA8Eqlc5kjVSHWN8hckXGdIhbQIGXu8lxyMYMVhaypqqpbyLIe6~e-Ts1WBsyodDCe2FmYfJE4zaUsPBUMuuUD3LkNK7apVF6FZYUwMYTHAUTnggu0SWmoT3CzBVfLD0eMDYPtgD5UeI~4FWMWgr9y70Rw__&Key-Pair-Id=K3NV4LZ47N8M46)
 
   * **Expiry is set to a specific date:**  
 To set a reminder:
@@ -141,7 +141,7 @@ To set a reminder:
 
        * If you choose **Custom** , enter the number of days before the invitation expires and then click **Save**.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1758612179243-image.png?Expires=253370764800&Signature=jcaMxJlVdQMhgGAfDyFGIO-dGhTqMLPjOyqZmRgUWG3VkiXFY1tCXiHf2aLaBpfxtefQIkhDsE2TGp8APfV6yXAZDxrb5M4AYcTObguHBgFpGAOxRnc9CURD3YvBpwUMwd25IjoMffMqZOq1eHP3bvgnBnn-gVySVM5Nr4ibhb4zrzhbHitk5aoDDBRCamU3X6osh9XEH1qhT2EdJjfDX79s4rMxM4t5875NIVAVE~qOnkQYx2KuLrJqwcoVswfTS7rBAsqulJF8CJa86z3fqF4qADROAwSTeYd8SHR429XUmRrBBXG~NkzAfv~Ru7jfVmFfuKCR3uJSnY4yIPZL6w__&Key-Pair-Id=K3NV4LZ47N8M46)
+         ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1758612179243-image.png?Expires=253370764800&Signature=jcaMxJlVdQMhgGAfDyFGIO-dGhTqMLPjOyqZmRgUWG3VkiXFY1tCXiHf2aLaBpfxtefQIkhDsE2TGp8APfV6yXAZDxrb5M4AYcTObguHBgFpGAOxRnc9CURD3YvBpwUMwd25IjoMffMqZOq1eHP3bvgnBnn-gVySVM5Nr4ibhb4zrzhbHitk5aoDDBRCamU3X6osh9XEH1qhT2EdJjfDX79s4rMxM4t5875NIVAVE~qOnkQYx2KuLrJqwcoVswfTS7rBAsqulJF8CJa86z3fqF4qADROAwSTeYd8SHR429XUmRrBBXG~NkzAfv~Ru7jfVmFfuKCR3uJSnY4yIPZL6w__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 :::note
 Reminder emails are only sent to candidates who have not started the Test. Reminders can be scheduled only if the invitation expires more than one day from today.

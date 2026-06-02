@@ -45,7 +45,7 @@ Do not share your login credentials with others. HackerRank provides an addition
 
   * Proceeding with the new login will automatically log you out of all other active sessions.
 
-![Error_version_2.1-New.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1735194931171-1734046614912--75b764d9-5b04-4d3f-82d9-54ef2c01160b?Expires=253370764800&Signature=nEBz6bvcN-vtq~62J03Yq09OTOlvx6zEtveDsehUzDhjh9DsVAJKhvs7SN64pwS8b3u3lXlRzOpN1KlE-BVbUioRsdFnZFW2XHBeAq936v-N7miYztXuGtVk7qyQ5aItPC5ceLrOqRWrVe3Bc4-6fjQTGasbj3ikN3mY2Ts6E0tyZl89S2MWqcLqQxixk8TeXtegXHgndl9hP2j3K3ASgivJ6aJwbdMcCXhpg0nTfoI3lI9hnTnui9LNvxE8MPvvqRVcBQsOvnP2sPmerjFJI5HoXZ4cfTs6fiJptQmB1r6zRZHYcy~1i-Aqlg0TEWdY-SxcVbCndRAgt4kY-waT0g__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![Error_version_2.1-New.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1735194931171-1734046614912--75b764d9-5b04-4d3f-82d9-54ef2c01160b?Expires=253370764800&Signature=nEBz6bvcN-vtq~62J03Yq09OTOlvx6zEtveDsehUzDhjh9DsVAJKhvs7SN64pwS8b3u3lXlRzOpN1KlE-BVbUioRsdFnZFW2XHBeAq936v-N7miYztXuGtVk7qyQ5aItPC5ceLrOqRWrVe3Bc4-6fjQTGasbj3ikN3mY2Ts6E0tyZl89S2MWqcLqQxixk8TeXtegXHgndl9hP2j3K3ASgivJ6aJwbdMcCXhpg0nTfoI3lI9hnTnui9LNvxE8MPvvqRVcBQsOvnP2sPmerjFJI5HoXZ4cfTs6fiJptQmB1r6zRZHYcy~1i-Aqlg0TEWdY-SxcVbCndRAgt4kY-waT0g__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 :::note
 This feature includes a mandatory authentication check. If you encounter repeated warning messages, consider updating your password.
@@ -67,7 +67,7 @@ Company Admins can configure a session inactivity timeout to enhance security an
 
   5. Check the box to **enable timeout for inactive sessions** and set a timeout limit (30 minutes to 24 hours).
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1735194891809-image.png?Expires=253370764800&Signature=EqcinaeIj5norW41N4Ju2CSIABbsl4OdO1RRf2AWLI62xUdHS89OKcFijkazyNRtqyr2u0pD7A5szPms1OnPFEHyxW1n5uU3qgbW7a7nnwa96nL65X7Vf4Omfv0HGTbIb-I3KLSUxsWbbpRhvBT7a8GDePHi8x38-Z2ti~y8YJL52KxloZsgBQi6DHFK3HpoCZ5owp881vYJIyykRZLSVXGKqavXNYj2voqPbznq4lzMkGU3aXhY7EIfpMzcDBSpfZdzowN65qK1cJueNqRqF4zHUBx61sTw1JXhqlsF0idXzqsaCRt0ne8hElYPGnFFC6qWwJqx3KYJU~3iIGMESA__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1735194891809-image.png?Expires=253370764800&Signature=EqcinaeIj5norW41N4Ju2CSIABbsl4OdO1RRf2AWLI62xUdHS89OKcFijkazyNRtqyr2u0pD7A5szPms1OnPFEHyxW1n5uU3qgbW7a7nnwa96nL65X7Vf4Omfv0HGTbIb-I3KLSUxsWbbpRhvBT7a8GDePHi8x38-Z2ti~y8YJL52KxloZsgBQi6DHFK3HpoCZ5owp881vYJIyykRZLSVXGKqavXNYj2voqPbznq4lzMkGU3aXhY7EIfpMzcDBSpfZdzowN65qK1cJueNqRqF4zHUBx61sTw1JXhqlsF0idXzqsaCRt0ne8hElYPGnFFC6qWwJqx3KYJU~3iIGMESA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 :::note
 The default timeout for inactive sessions is 24 hours if no custom limit is set.

@@ -59,7 +59,7 @@ The recommended learning resources cover the concepts needed to attain the profi
 
   * These assessments are unlimited; you can keep practicing until you can take one.
 
-![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734720871349-34903825252371-305d9077-f222-46fe-8cac-71f054422063?Expires=253370764800&Signature=fLbvYTZQMgQW9j8fglJfEYUq~cdEuepj-nYU6zgaONK5UKOeb9WqvDaR5bhSUQm04QKhXcxm~JgBjPJPCutvhfsWojrUrgR82HSJ1zjr81a8QRC~EdAEl2wTutH1iynZp8u400oJlEQibawUG3~X8H-1VD28Y0T-PxwVx8YmU5OAU4LW7Tacixjcluv4yKHRCU8p2-tFQB2i2YAVDvHLkOrj9OlH4o-UHuzAaB1xvkfoypSeVKGneQYQc1a-YYm8vxHWw2K4V4TydX-pNh~6UWIQOSws~EzX-oMondwYV-dp6yQV2q3YkhjX2wUqLUm9nspjNvopNUr0TdnASN-paA__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734720871349-34903825252371-305d9077-f222-46fe-8cac-71f054422063?Expires=253370764800&Signature=fLbvYTZQMgQW9j8fglJfEYUq~cdEuepj-nYU6zgaONK5UKOeb9WqvDaR5bhSUQm04QKhXcxm~JgBjPJPCutvhfsWojrUrgR82HSJ1zjr81a8QRC~EdAEl2wTutH1iynZp8u400oJlEQibawUG3~X8H-1VD28Y0T-PxwVx8YmU5OAU4LW7Tacixjcluv4yKHRCU8p2-tFQB2i2YAVDvHLkOrj9OlH4o-UHuzAaB1xvkfoypSeVKGneQYQc1a-YYm8vxHWw2K4V4TydX-pNh~6UWIQOSws~EzX-oMondwYV-dp6yQV2q3YkhjX2wUqLUm9nspjNvopNUr0TdnASN-paA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
   * In your practice assessments, you'll have access to an AI Tutor Bot in the form of a Socratic tutor. This assistant is designed to help you learn and understand new skills as you work through real-world coding challenges. The AI assistant can:
 
@@ -71,7 +71,7 @@ The recommended learning resources cover the concepts needed to attain the profi
 
     * Answer questions and guide the way 
 
-![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734720927793-34903806088211-63ff658c-b9a5-414c-a2b8-ad0c8786f72e?Expires=253370764800&Signature=cYdrI9X3bX5kOY4av26GoOA5cYtzZaxB8y5XmOM73gBn3YmGUSRlhI5lr4nIQ8tIUMtVt2cdR1L1VfGfmSFJX~oBHrI~e9uO4RBH~f8gHLr5XukqQTHPRfhcAHl3wjUrK2Mvj64uAYGikI~3aX57w6y3AZpKJDV1vemBpU~qRxu4d8zXzWExs5Yt9EAuqsx6mjZU06Pl5Nsc139wCVKiDsJU7JZ0WogD9SgIN-zV6bvjGIlAuGxCx~zMsf7PyPAw1YChWDb7YGO5UmQ2ZzA-77dB-MArAPdODVA8DVBQsW-MrfA0pLsllZhAgvtojPIpBqelM69PMTCYI3IOUJynnQ__&Key-Pair-Id=K3NV4LZ47N8M46)
+      ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734720927793-34903806088211-63ff658c-b9a5-414c-a2b8-ad0c8786f72e?Expires=253370764800&Signature=cYdrI9X3bX5kOY4av26GoOA5cYtzZaxB8y5XmOM73gBn3YmGUSRlhI5lr4nIQ8tIUMtVt2cdR1L1VfGfmSFJX~oBHrI~e9uO4RBH~f8gHLr5XukqQTHPRfhcAHl3wjUrK2Mvj64uAYGikI~3aX57w6y3AZpKJDV1vemBpU~qRxu4d8zXzWExs5Yt9EAuqsx6mjZU06Pl5Nsc139wCVKiDsJU7JZ0WogD9SgIN-zV6bvjGIlAuGxCx~zMsf7PyPAw1YChWDb7YGO5UmQ2ZzA-77dB-MArAPdODVA8DVBQsW-MrfA0pLsllZhAgvtojPIpBqelM69PMTCYI3IOUJynnQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 ### Earning Proficiency Badge
 

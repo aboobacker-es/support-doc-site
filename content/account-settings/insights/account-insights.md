@@ -25,7 +25,7 @@ On the Home page, click on the Insights tab to view the various analysis in the 
 
   * Interview Questions
 
-![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047070774-?Expires=253370764800&Signature=J5PNQ5K9fOCOlkjpBtJu0pDE1v4cLp5tdD~D4o~b0szbeZjOQemw-Zs60MRfipAgJ6FvPQLfb0Hf-T~oVeQAh1CoKgy5qxvBo6Jvz1XR53w-Y1FWzdY~8bwQJlti9g~zkw~-wddHbLEog-rCziECu3y0bRvmg9zRP-NFtnbjdKiz9zbFikHO-vlgLvJ95DzDhVOKt7zhIEB7e1dbDJ2KzX7kkK~EgcMwfngfdV2pk-WJ7C1kflt1QSWH9XLGPuJ5urlptKAgYHZpucVWWazjUCs0lU5wkjkMFeBpsKHzTtFGNsQUJF7Va-hNnDTFTrxYc2R4rZswCfrdy96vZrxzVQ__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047070774-?Expires=253370764800&Signature=J5PNQ5K9fOCOlkjpBtJu0pDE1v4cLp5tdD~D4o~b0szbeZjOQemw-Zs60MRfipAgJ6FvPQLfb0Hf-T~oVeQAh1CoKgy5qxvBo6Jvz1XR53w-Y1FWzdY~8bwQJlti9g~zkw~-wddHbLEog-rCziECu3y0bRvmg9zRP-NFtnbjdKiz9zbFikHO-vlgLvJ95DzDhVOKt7zhIEB7e1dbDJ2KzX7kkK~EgcMwfngfdV2pk-WJ7C1kflt1QSWH9XLGPuJ5urlptKAgYHZpucVWWazjUCs0lU5wkjkMFeBpsKHzTtFGNsQUJF7Va-hNnDTFTrxYc2R4rZswCfrdy96vZrxzVQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 ### Test Usage Dashboard
 
@@ -39,20 +39,20 @@ The Test Usage dashboard offers a number of tiles that show the overall candidat
 
   * Total Test Attempts and its Trend
 
-![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047071405-?Expires=253370764800&Signature=sqSPp6iW-PVAxAf~JJnDx~DoTNHNOVYB-GCOvzupdFJp8quA4LBXIIkRIkaYvMGpdkGc2gziWrIhwauxxmSEHlR-h~moN2x8tiRJOpWfMU2a-MnCqmeHtrc1CSYt4URTqAkSkOfke184~13PA4rW8vYHVcZkJpYM78HHEsOjjQrOD~A2~9B7mKty3rpWI~XfWBZy6~FUQs2wGe2I~CiXNLzp-cCAW33EO05wAVfeFH0TKmHrZAqUfDQpWKJfc1IzDcfT4bxYNxp-xfhUbtlxa9fPIbMuzAFkY8Nmwno-YRT~6RDvef7XPc6wtVZbVnAk-3XFX2C8rWohEqHHdRSqDg__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047071405-?Expires=253370764800&Signature=sqSPp6iW-PVAxAf~JJnDx~DoTNHNOVYB-GCOvzupdFJp8quA4LBXIIkRIkaYvMGpdkGc2gziWrIhwauxxmSEHlR-h~moN2x8tiRJOpWfMU2a-MnCqmeHtrc1CSYt4URTqAkSkOfke184~13PA4rW8vYHVcZkJpYM78HHEsOjjQrOD~A2~9B7mKty3rpWI~XfWBZy6~FUQs2wGe2I~CiXNLzp-cCAW33EO05wAVfeFH0TKmHrZAqUfDQpWKJfc1IzDcfT4bxYNxp-xfhUbtlxa9fPIbMuzAFkY8Nmwno-YRT~6RDvef7XPc6wtVZbVnAk-3XFX2C8rWohEqHHdRSqDg__&Key-Pair-Id=K3NV4LZ47N8M46)
   * Average Test Rating and its Trend
 
   * Invitation Methods used
 
-![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047072086-?Expires=253370764800&Signature=h0k2ho00ZLWhiOGhdLgUIfnK7H30JY7umOInJpDADgeQae1pezBncXUrOAQj9KjXWcM1KtlpUFRxLlC44x3V7WAWRg524-JQZN21peVdsnE3zXawnFsL0qd2OB3do-eA4YGmR9zq4ViGH9IhL8ga6bhP84W6qlyDtjDJBNBXEBx-5jF~v3HdFDHqYkD5V-HlcQY6sVQQ3kSPbtFXspxotj-9dqwkRlphm2eV34F4GEt2MX89EvZ5Fu5BnuI4wq1CfJ93DXXyAi9yzjCkAjswmM8RsEMDfwvDbzNAcC0kNuk0LR8q4x~-v2gllYLoCHzPPKf1VJX7X6H2jUaILZRvzw__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047072086-?Expires=253370764800&Signature=h0k2ho00ZLWhiOGhdLgUIfnK7H30JY7umOInJpDADgeQae1pezBncXUrOAQj9KjXWcM1KtlpUFRxLlC44x3V7WAWRg524-JQZN21peVdsnE3zXawnFsL0qd2OB3do-eA4YGmR9zq4ViGH9IhL8ga6bhP84W6qlyDtjDJBNBXEBx-5jF~v3HdFDHqYkD5V-HlcQY6sVQQ3kSPbtFXspxotj-9dqwkRlphm2eV34F4GEt2MX89EvZ5Fu5BnuI4wq1CfJ93DXXyAi9yzjCkAjswmM8RsEMDfwvDbzNAcC0kNuk0LR8q4x~-v2gllYLoCHzPPKf1VJX7X6H2jUaILZRvzw__&Key-Pair-Id=K3NV4LZ47N8M46)
   * Total Active Teams and their List 
 
   * Total Active Users and their List
 
-![1.jpg](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047072414-?Expires=253370764800&Signature=KzeqTLhMb33DPD6qLvnjgJAgEIdz0Lil~t7HvwxleiQ8rUHe9xRJ6jzZ52hiGCsG5~k4StQ6XWgO0-ISZqhanJuFABJffTlyb7f1dEOjqLLYtDcEJulbLvPgIYKj4xir9UOibPNuMCRf2nYR-Jzk9TK6m~28hsb7XAXvKr86rn~RhmeKmFNpgGwKqJDMZRYEwQvd-Hbr3nknDO92neduBQdt1U1lMrkxVpav9OVBEgcHQDh7yWVrvksbFX52s5~nKBlfOKhEV9qRj5b96Z5JSOQHjmqPeEWxiDWDtDluG07ZXJhmJIMl2-9Pl~LyEvPgvs-RAwAYdRhMhDphzEzYEQ__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![1.jpg](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047072414-?Expires=253370764800&Signature=KzeqTLhMb33DPD6qLvnjgJAgEIdz0Lil~t7HvwxleiQ8rUHe9xRJ6jzZ52hiGCsG5~k4StQ6XWgO0-ISZqhanJuFABJffTlyb7f1dEOjqLLYtDcEJulbLvPgIYKj4xir9UOibPNuMCRf2nYR-Jzk9TK6m~28hsb7XAXvKr86rn~RhmeKmFNpgGwKqJDMZRYEwQvd-Hbr3nknDO92neduBQdt1U1lMrkxVpav9OVBEgcHQDh7yWVrvksbFX52s5~nKBlfOKhEV9qRj5b96Z5JSOQHjmqPeEWxiDWDtDluG07ZXJhmJIMl2-9Pl~LyEvPgvs-RAwAYdRhMhDphzEzYEQ__&Key-Pair-Id=K3NV4LZ47N8M46)
   * Total Roles Powered by HackerRank and the list of Roles used by organization.
 
-![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047072755-?Expires=253370764800&Signature=jxbcaVP-8p-KsfvO8MT1dYEl9o1ZFy8zPk5zFk9G5KNdgvxl-sJ3lmYA2mUw4vZhSgm-~fSPgOnncCW0MFHGQHPs3IMTc3RD5C-NxlgxWTF7p13453z8QOnzlhvSA9scIkRt7s-zRolzj34XxbI2ARn1MdV~YoR-VTeBX9BRY1vj7EYo1XTdfA3NHcs3us04R3DFOoPxu67~eVKv6LsreQO69J-51rGE2dYR5x9piCat06svxvEvIYsxZdqZVwRfPjYH4Y3~6wlZdk~R6TPRzbIyE9vhLLF5da2sT25YhJ~zf7UluYogQfLxsysuip0XmLK5KjlLgQyMxcWVXer~gQ__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047072755-?Expires=253370764800&Signature=jxbcaVP-8p-KsfvO8MT1dYEl9o1ZFy8zPk5zFk9G5KNdgvxl-sJ3lmYA2mUw4vZhSgm-~fSPgOnncCW0MFHGQHPs3IMTc3RD5C-NxlgxWTF7p13453z8QOnzlhvSA9scIkRt7s-zRolzj34XxbI2ARn1MdV~YoR-VTeBX9BRY1vj7EYo1XTdfA3NHcs3us04R3DFOoPxu67~eVKv6LsreQO69J-51rGE2dYR5x9piCat06svxvEvIYsxZdqZVwRfPjYH4Y3~6wlZdk~R6TPRzbIyE9vhLLF5da2sT25YhJ~zf7UluYogQfLxsysuip0XmLK5KjlLgQyMxcWVXer~gQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 ### Interview Usage Dashboard
 
@@ -66,17 +66,17 @@ The Interview Usage dashboard offers a number of tiles that display an overall i
 
   * Average Interview rating by candidate and interviewer and their trends
 
-![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047073216-?Expires=253370764800&Signature=VJIZxJo23Z5lkTm1DEVv8J9ujKbwjo8JdGyFw4HK98kFApMUb50TK0Fu4xgm6dtdqzKsY9IURfR8mpYsNUqYKTCKZo7JhVwjc9voXCZy7A-H4xweJW9GBEll4jWKuNpP~CQNaXeExAvGFgYRJyDJJdNpeTcWobe98PRphZlDUeozpUdelQTxSbFxPgS4p1MlfJhKwz2Rteeev9uinhtHwrnWr3rmYn9q39WfO-pHDjZsBxtXaqCvmGcKI7JSoB2BVzJqf2CfolfSY6vL8-F~13Z5i7vyDQUiEcixYS3YV-gfd6lzB56cj3NswAX~u11NvGFOpLky-e7PDlIECjNrOg__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047073216-?Expires=253370764800&Signature=VJIZxJo23Z5lkTm1DEVv8J9ujKbwjo8JdGyFw4HK98kFApMUb50TK0Fu4xgm6dtdqzKsY9IURfR8mpYsNUqYKTCKZo7JhVwjc9voXCZy7A-H4xweJW9GBEll4jWKuNpP~CQNaXeExAvGFgYRJyDJJdNpeTcWobe98PRphZlDUeozpUdelQTxSbFxPgS4p1MlfJhKwz2Rteeev9uinhtHwrnWr3rmYn9q39WfO-pHDjZsBxtXaqCvmGcKI7JSoB2BVzJqf2CfolfSY6vL8-F~13Z5i7vyDQUiEcixYS3YV-gfd6lzB56cj3NswAX~u11NvGFOpLky-e7PDlIECjNrOg__&Key-Pair-Id=K3NV4LZ47N8M46)
   * Total number of top interviewers by session usage and rating and list of interviews by session usage and rating
 
-![2.jpg](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047073660-?Expires=253370764800&Signature=c8iKvw52XICQkhQG3VXNhq~n4NHMKGOsWslpKDOufSd4tEJeNIruRlfdrKfnmUe62obTzMgR80DbVMhObLkhv1g2qXyIDUdsZo5uvrfC9-D1qZCgS8bQugHLD9XBlgyx8Qm5dhK7BVZ969QQObtkRwIqceeyCucn1FL~68HYe2zcJOtQiOa6nzkNHZgv3M6b-0iyGA7FNVuPRp8LuBsgR-141OQKMA6QZc2sBEw8u8YhZK-R~~oQJzreA-1MoFM3Kvi~xXPcp3XkNoSh8MJcS9iYWxo-R1~4Dpiz1mR7gkH4-RFr3zRFMx8k4sWdf-TtYFUnA6YCNUPLcNazfX3mPw__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![2.jpg](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047073660-?Expires=253370764800&Signature=c8iKvw52XICQkhQG3VXNhq~n4NHMKGOsWslpKDOufSd4tEJeNIruRlfdrKfnmUe62obTzMgR80DbVMhObLkhv1g2qXyIDUdsZo5uvrfC9-D1qZCgS8bQugHLD9XBlgyx8Qm5dhK7BVZ969QQObtkRwIqceeyCucn1FL~68HYe2zcJOtQiOa6nzkNHZgv3M6b-0iyGA7FNVuPRp8LuBsgR-141OQKMA6QZc2sBEw8u8YhZK-R~~oQJzreA-1MoFM3Kvi~xXPcp3XkNoSh8MJcS9iYWxo-R1~4Dpiz1mR7gkH4-RFr3zRFMx8k4sWdf-TtYFUnA6YCNUPLcNazfX3mPw__&Key-Pair-Id=K3NV4LZ47N8M46)
   * Total interview duration and trends of interview duration
 
   * Total interviewing teams and interview team statistics
 
   * The total number of unique candidates interviewed
 
-![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047074024-?Expires=253370764800&Signature=r3IcWAAeuYh2c97-TOngJdrOVWP8V3CSMy~wwyr1fft1uzdWvY-pgwJn0SG3Vgw380y78DfCaWKhClniwgq26fMKhqgUOS6Gnox8Lyvdy-3jeQFlH5tNmehjdUNZxODacSJxn-cZudRQpUBgPA0ISr4i0OHrZ9A8VdeZnJEN2ZRfEO88ZH9luKb-N3FrNQoypSVkA8kOeM72Vr8T1SCVXbN1985mQEby2gHNQXjkM6J7KASVz0fFLGSrDm~qDPWg-pDnZIxz~VAxFPAVG6poaPmN~sZXzNHXusjVpOFB-uvQXC0vhbkxE~xr1gynyOeV9DFPMCsauyjA19ydkG499A__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047074024-?Expires=253370764800&Signature=r3IcWAAeuYh2c97-TOngJdrOVWP8V3CSMy~wwyr1fft1uzdWvY-pgwJn0SG3Vgw380y78DfCaWKhClniwgq26fMKhqgUOS6Gnox8Lyvdy-3jeQFlH5tNmehjdUNZxODacSJxn-cZudRQpUBgPA0ISr4i0OHrZ9A8VdeZnJEN2ZRfEO88ZH9luKb-N3FrNQoypSVkA8kOeM72Vr8T1SCVXbN1985mQEby2gHNQXjkM6J7KASVz0fFLGSrDm~qDPWg-pDnZIxz~VAxFPAVG6poaPmN~sZXzNHXusjVpOFB-uvQXC0vhbkxE~xr1gynyOeV9DFPMCsauyjA19ydkG499A__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 The Interview URL is available in the detailed report in each of the charts for the respective candidate.
 
@@ -90,12 +90,12 @@ The Interview Question charts display the overall statistics, usage of HackerRan
 
   * List of interview questions and list of interviewers for a particular question
 
-![3.jpg](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047074396-?Expires=253370764800&Signature=m6eSnew9CbjlON9iKPgbHchLoLmGhUCTtW0MpXPbORi~4gZz-xCmUspp56ZftJAJWILf~P1k4S8xeQI21Jq7MS1Eyb9bhQ67lbgnVZc~HVmC-P~aAoxemUbZq5TG~-5k970ArOVAn6EzHxrzBT7iVRfCym79nryugwyitLWQbd1QXol88tyvyh6y~B--fy7Lugy5GCBlNoYjhGEeiqfQpnUCdIbMO-JfU5OTrAa4xOuHZTPuB~hmD39oHZX3AF-x7BP6SUhoLilnKT2z~OULPLF1mCpIsdcC35h3ObAE5P7XrnczQmR9-t2PsHx0QegRvEUayoaa1ANwscVxevX0bg__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![3.jpg](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047074396-?Expires=253370764800&Signature=m6eSnew9CbjlON9iKPgbHchLoLmGhUCTtW0MpXPbORi~4gZz-xCmUspp56ZftJAJWILf~P1k4S8xeQI21Jq7MS1Eyb9bhQ67lbgnVZc~HVmC-P~aAoxemUbZq5TG~-5k970ArOVAn6EzHxrzBT7iVRfCym79nryugwyitLWQbd1QXol88tyvyh6y~B--fy7Lugy5GCBlNoYjhGEeiqfQpnUCdIbMO-JfU5OTrAa4xOuHZTPuB~hmD39oHZX3AF-x7BP6SUhoLilnKT2z~OULPLF1mCpIsdcC35h3ObAE5P7XrnczQmR9-t2PsHx0QegRvEUayoaa1ANwscVxevX0bg__&Key-Pair-Id=K3NV4LZ47N8M46)
   * List of question usage in interviews
 
   * Types of questions
 
-![4.jpg](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047074907-?Expires=253370764800&Signature=qGFYnfhCbh2-yU74oo9UvE8hx~9DQwEiHHvXaB-fKMs3kStPWN6i5p0jkrPatuATJ4emNIp6gQ6Vzg8BAyzDTu5kGTtq4KdJ79RwWKuKAHj-s64~RvfT~2Vvay9ABRTrYxdEQ1B2o1BjGIU7ML6xbgietJIewUm03ejdYTH-oR2aLRxWvgiNDarBAdp1Wn8exRZWovPHPAMai6TFHlR~eQvgxYIe0wqT15NpkseqXqGjcU--RuDZRXv9DLKqOVid2kg5P7zjnUy58GWhoFMcztCeB-TfsFTOj~tUf3lac-bG3YxrPsKWgqu2N130AbIWPPLyRtiBG3Xnmzzl7mgWqQ__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![4.jpg](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047074907-?Expires=253370764800&Signature=qGFYnfhCbh2-yU74oo9UvE8hx~9DQwEiHHvXaB-fKMs3kStPWN6i5p0jkrPatuATJ4emNIp6gQ6Vzg8BAyzDTu5kGTtq4KdJ79RwWKuKAHj-s64~RvfT~2Vvay9ABRTrYxdEQ1B2o1BjGIU7ML6xbgietJIewUm03ejdYTH-oR2aLRxWvgiNDarBAdp1Wn8exRZWovPHPAMai6TFHlR~eQvgxYIe0wqT15NpkseqXqGjcU--RuDZRXv9DLKqOVid2kg5P7zjnUy58GWhoFMcztCeB-TfsFTOj~tUf3lac-bG3YxrPsKWgqu2N130AbIWPPLyRtiBG3Xnmzzl7mgWqQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 ## Additional Features
 

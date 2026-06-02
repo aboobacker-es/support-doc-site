@@ -63,7 +63,7 @@ To enable AI Assistant:
 
   5. Select the **Turn on AI assistant for candidates** checkbox
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2Fe4f5d3a4-9239-4326-8ea9-5c9a7909d1a6-1775476433645-image.png-34574910-2fd0-453f-86d3-209cc6a6a83d?Expires=253370764800&Signature=Z1Mq8zSyTmkoO-LQQM-lu6PWOW9S89kRWdkJv6i3n8TrUCOBmVXUlAsO3fBmJDDa1P4eb8uMkRWwS85hb7TbYYAF-~G63IwHjBK9vy4n635BXoDs-wmAV2KOa1M45b4Zlt7DXQ-T45Z6a7HwcGhuqlV72QCdU3o9WyJN2HIRBF1SaL8g0qPjc7fOG-Bn1gJAEpfVvEt70ZUFVxPpO1BekYqfU-i1nJx~XQ1y9VPGHhFedqmNPg1XT3bZ24qBb1OdZsIw5Ow7EXdUb1JY1EPLBotPAMAeWikv-H4b4SwK0ZGWmtZnxpnXVkmVNhKWFSH6KEd5kC6bhu-WsTbWgEUQng__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2Fe4f5d3a4-9239-4326-8ea9-5c9a7909d1a6-1775476433645-image.png-34574910-2fd0-453f-86d3-209cc6a6a83d?Expires=253370764800&Signature=Z1Mq8zSyTmkoO-LQQM-lu6PWOW9S89kRWdkJv6i3n8TrUCOBmVXUlAsO3fBmJDDa1P4eb8uMkRWwS85hb7TbYYAF-~G63IwHjBK9vy4n635BXoDs-wmAV2KOa1M45b4Zlt7DXQ-T45Z6a7HwcGhuqlV72QCdU3o9WyJN2HIRBF1SaL8g0qPjc7fOG-Bn1gJAEpfVvEt70ZUFVxPpO1BekYqfU-i1nJx~XQ1y9VPGHhFedqmNPg1XT3bZ24qBb1OdZsIw5Ow7EXdUb1JY1EPLBotPAMAeWikv-H4b4SwK0ZGWmtZnxpnXVkmVNhKWFSH6KEd5kC6bhu-WsTbWgEUQng__&Key-Pair-Id=K3NV4LZ47N8M46)
   6. Choose how you want to enable the AI Assistant:
 
      * Select **Always on for new interviews** to enable it by default for all new interviews.
@@ -86,7 +86,7 @@ To enable the AI Assistant for a specific interview:
 
   3. In the **Interview Details** panel, turn on **Enable AI Assistant** under **AI Assistant for Candidate**.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F10e6678d-a652-45ed-a063-65cf2ff11848-1775477373027-image.png-0c53ef42-0d5a-42d3-af3f-5c23c9cc9f23?Expires=253370764800&Signature=Kd7FP5RQ-LNxFwopDGzKv46EC6~ZM6BVWnnwSZtlWfVlyg1Nd4pQTW9nIquUM4voAZsKxFTdXH-I1I0EzaynXeo5-yO1nAFj-uqiPwpYSNSSIU610ii6AZqGN9q1PdLaxe7aMzmhnbjOi6-BGrpNUv-q1MG26AwI4Dq3aog0vm-Vp8NjoooxVxD0B8b~36~kRtztJCvMYXsCMRv937Hhp19yAw-yGt76oCyZDSoawxVX2Yo-QeYILNTizWFip2aOUAkX2cFyjrJNMK5Yixdu7QEa6RVk-asAemsa34dHUEvGtNiekYXE4CF-6mE8TlAKimXNwUHqL6ASpKJy4xVskw__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F10e6678d-a652-45ed-a063-65cf2ff11848-1775477373027-image.png-0c53ef42-0d5a-42d3-af3f-5c23c9cc9f23?Expires=253370764800&Signature=Kd7FP5RQ-LNxFwopDGzKv46EC6~ZM6BVWnnwSZtlWfVlyg1Nd4pQTW9nIquUM4voAZsKxFTdXH-I1I0EzaynXeo5-yO1nAFj-uqiPwpYSNSSIU610ii6AZqGN9q1PdLaxe7aMzmhnbjOi6-BGrpNUv-q1MG26AwI4Dq3aog0vm-Vp8NjoooxVxD0B8b~36~kRtztJCvMYXsCMRv937Hhp19yAw-yGt76oCyZDSoawxVX2Yo-QeYILNTizWFip2aOUAkX2cFyjrJNMK5Yixdu7QEa6RVk-asAemsa34dHUEvGtNiekYXE4CF-6mE8TlAKimXNwUHqL6ASpKJy4xVskw__&Key-Pair-Id=K3NV4LZ47N8M46)
   4. Click **Save Without Inviting** or **Invite Participants**.
 
 For more information, see [📄 Create an Interview](</articles/8404005945>).
@@ -103,7 +103,7 @@ To disable the AI Assistant for a specific question:
 
   3. Turn off the toggle to prevent the candidate from using it.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1f825e46-1420-46ea-a6ba-889f14ec5276-1753699070957-image.png-983d962a-88a0-444f-b725-fdb20b60a6a8?Expires=253370764800&Signature=dp~O0HAliHRN5-lP9mDHLEf-ibcuUD-flYoWsxWL5l0zFygOt8Fl-SZtn7JxzSBc-2ek6~78rldWB1Ymx9b1QN7SJ299rReMsGhJE3ohfjDqE43U3sTx8LDfnOB~JyioOydrm2RbycnshhJwGr8O10LUZNhWa63w~od02BCcUaayQTO-IfxKm8FH3YWGHub2Oxid5LJBPNYjbV-Gx45Rt0p0F6aAMHAEtxp~Lw3lc3~yd~wJXcskr8bdgAoBNcAe6tZ4yNaZDvclcf0tJsJCUGTLI1Owv2T5ZTVQaNxa3kIcjWPBsCifY01-lMcqXOriOuSA8zjSXRQZ3QgCH4ISAQ__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1f825e46-1420-46ea-a6ba-889f14ec5276-1753699070957-image.png-983d962a-88a0-444f-b725-fdb20b60a6a8?Expires=253370764800&Signature=dp~O0HAliHRN5-lP9mDHLEf-ibcuUD-flYoWsxWL5l0zFygOt8Fl-SZtn7JxzSBc-2ek6~78rldWB1Ymx9b1QN7SJ299rReMsGhJE3ohfjDqE43U3sTx8LDfnOB~JyioOydrm2RbycnshhJwGr8O10LUZNhWa63w~od02BCcUaayQTO-IfxKm8FH3YWGHub2Oxid5LJBPNYjbV-Gx45Rt0p0F6aAMHAEtxp~Lw3lc3~yd~wJXcskr8bdgAoBNcAe6tZ4yNaZDvclcf0tJsJCUGTLI1Owv2T5ZTVQaNxa3kIcjWPBsCifY01-lMcqXOriOuSA8zjSXRQZ3QgCH4ISAQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 ## Candidate experience
 
@@ -126,7 +126,7 @@ The system displays a **Pending tool call** dialog while it prepares the request
 
   * **Model switching** : Candidates toggle between available models based on their preference or the task requirements. Currently, the AI Assistant supports **Claude-sonnet-4.6** , **Gemini-3 Flash** , **Gemini-3 Pro,** and **GPT-5.4.** Candidates can also select **Auto Mode,**  which automatically chooses the best model based on response speed.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1773158229248-image.png?Expires=253370764800&Signature=EWblXYJgznQDB7bsm-plegqYKpsbyF2NUhLOFG2qGJTYgJtaGtdzm1eOzc7HodVzehIKHRnRykQ6mmkjvSrbg-cY7AO0oal6-~VobCx6wpVl7a7VxI55~4Fp5uUGiPc9QoiWYvXhJPOOBknsX3mR8qEuO036-ObgCCThNJ0JMAbGnuw61xMyirO-T6JMUz4iji9iFjBA5nezs9OYUXrXibgSpIJL5-kXJyS3SQqxKfRZ~qN2hZ9gle8r6~RN02~zA7kvEMoWc4ujWL0ewhV53-c3oGrRdJKz5xGvDhXQgXtuyghHadQEDYZVyw1kWbv7ZvFn6~b4lr0eTRt8P0XXyQ__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1773158229248-image.png?Expires=253370764800&Signature=EWblXYJgznQDB7bsm-plegqYKpsbyF2NUhLOFG2qGJTYgJtaGtdzm1eOzc7HodVzehIKHRnRykQ6mmkjvSrbg-cY7AO0oal6-~VobCx6wpVl7a7VxI55~4Fp5uUGiPc9QoiWYvXhJPOOBknsX3mR8qEuO036-ObgCCThNJ0JMAbGnuw61xMyirO-T6JMUz4iji9iFjBA5nezs9OYUXrXibgSpIJL5-kXJyS3SQqxKfRZ~qN2hZ9gle8r6~RN02~zA7kvEMoWc4ujWL0ewhV53-c3oGrRdJKz5xGvDhXQgXtuyghHadQEDYZVyw1kWbv7ZvFn6~b4lr0eTRt8P0XXyQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 The AI Assistant operates in the following modes:
 
@@ -159,7 +159,7 @@ During an interview, the interviewer can monitor the candidate’s interaction w
 
   * In **Observation mode** , the interviewer can view all AI Assistant interactions in real time. Live assistant edits and shared diff views remain synchronized between the interviewer and the candidate.
 
-![INTERG.GIF](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1769426035407-INTERG.GIF?Expires=253370764800&Signature=uw3BjvCw8ubKu2pDXDLJgL2TNU~5AC1MBKR4hk4rkOdKA9RC26qmgd8fo92a0ODJDPaGvR2YQwr8~rq1hGCMbp8wv-b0VVuixpP6J8TeWAxDQaJGugCudoF-Al6R6L1SsZluN7re-kP4Lzuj52htRD~~04qf5b1EADBsKVn~E7X0jpak13DJhZyiCf24O65huVsg54tHRmnPcEE-ZR9IirUAVXR77f3enmX7ukcEQ4ThdezjjbcyJmpdr2sBt9PyCfjmAAmSSjnv1Qvo3DgnL5021UmXbe3SA4wGt~2jJehagPXnQxjoiZQJW3eC1TzXD0mz4lUSp4ckD6UkrO-4FQ__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![INTERG.GIF](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1769426035407-INTERG.GIF?Expires=253370764800&Signature=uw3BjvCw8ubKu2pDXDLJgL2TNU~5AC1MBKR4hk4rkOdKA9RC26qmgd8fo92a0ODJDPaGvR2YQwr8~rq1hGCMbp8wv-b0VVuixpP6J8TeWAxDQaJGugCudoF-Al6R6L1SsZluN7re-kP4Lzuj52htRD~~04qf5b1EADBsKVn~E7X0jpak13DJhZyiCf24O65huVsg54tHRmnPcEE-ZR9IirUAVXR77f3enmX7ukcEQ4ThdezjjbcyJmpdr2sBt9PyCfjmAAmSSjnv1Qvo3DgnL5021UmXbe3SA4wGt~2jJehagPXnQxjoiZQJW3eC1TzXD0mz4lUSp4ckD6UkrO-4FQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 This visibility helps interviewers understand what changes occur, why they occur, and how the candidate responds. It also enables interviewers to assess the type of assistance the candidate seeks, such as syntax help, conceptual guidance, or full implementation suggestions.
 

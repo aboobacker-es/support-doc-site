@@ -33,7 +33,7 @@ To configure test invite settings for a test:
 
   4. Go to **Settings > Test Invites.**
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1753694090305-image.png?Expires=253370764800&Signature=Vl6CO00x4UGJDfUDBJTwM9ADVeGsxLkfTnfclf0wohFWyIC1k3gPfGqkeF-RFb1vEqaAhsmtE8JbTdMqMAo4mMdSYxlPbp83MOwViFx-qsx9V0TNoeQ2s5KjSa72m2MK0cHuwxF-26Uf37peTG0fsCHi5c3VUBtshA6skRhJSaDtmczeArBst6QCCf2epSOWTg6ZdJ2~4poQ0xIQ7AEhqZCu61q2cr5UdH3c0NpJljXICR7VWm2-GD3e9BeVmSzuvMFtLbqlOpK5M6K~7d-7AKnt2ICi6tlABOgzt10ZdBFyem3g2dvLOxvJV55geC0626qlkBDqXE-ZJU1ClVKTRA__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1753694090305-image.png?Expires=253370764800&Signature=Vl6CO00x4UGJDfUDBJTwM9ADVeGsxLkfTnfclf0wohFWyIC1k3gPfGqkeF-RFb1vEqaAhsmtE8JbTdMqMAo4mMdSYxlPbp83MOwViFx-qsx9V0TNoeQ2s5KjSa72m2MK0cHuwxF-26Uf37peTG0fsCHi5c3VUBtshA6skRhJSaDtmczeArBst6QCCf2epSOWTg6ZdJ2~4poQ0xIQ7AEhqZCu61q2cr5UdH3c0NpJljXICR7VWm2-GD3e9BeVmSzuvMFtLbqlOpK5M6K~7d-7AKnt2ICi6tlABOgzt10ZdBFyem3g2dvLOxvJV55geC0626qlkBDqXE-ZJU1ClVKTRA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
   
 In the **Test Invites** section, you can configure the following:
@@ -60,14 +60,14 @@ To enable invite expiry:
 
      * **Set time period** :
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1753694131684-image.png?Expires=253370764800&Signature=nGYlYx9eLGEEN4kATsGcAHz6E2rRrx2RJKwuXydyPH68-JFYsWUwRbgpHr6ed6-OvIcCTqSF1nKzrQvYLHXW5Zn3q6peWJ9TucRhTeF6xrO0gBrfocxvrDcl3rriLyJWRNyS863HhlgfkQhcBaW6ObFcef3hIGCdUShhx2~sjFhByA68YHHQ-Ef7NR9M3ggdsGji5j-GEkbAg01xUk~f23NPzC1u~lCsmvtHdJgSv2FkBoOsgjNMUrNK0HnWM8pOKL3TICVdVBLUonVkLrxRE4TcrmB7jay0juuu2xOPYn9ov82WtmRbTwwdNfoEIAGH59bWrXk5kpO0HkUyCJoQyw__&Key-Pair-Id=K3NV4LZ47N8M46)
+       ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1753694131684-image.png?Expires=253370764800&Signature=nGYlYx9eLGEEN4kATsGcAHz6E2rRrx2RJKwuXydyPH68-JFYsWUwRbgpHr6ed6-OvIcCTqSF1nKzrQvYLHXW5Zn3q6peWJ9TucRhTeF6xrO0gBrfocxvrDcl3rriLyJWRNyS863HhlgfkQhcBaW6ObFcef3hIGCdUShhx2~sjFhByA68YHHQ-Ef7NR9M3ggdsGji5j-GEkbAg01xUk~f23NPzC1u~lCsmvtHdJgSv2FkBoOsgjNMUrNK0HnWM8pOKL3TICVdVBLUonVkLrxRE4TcrmB7jay0juuu2xOPYn9ov82WtmRbTwwdNfoEIAGH59bWrXk5kpO0HkUyCJoQyw__&Key-Pair-Id=K3NV4LZ47N8M46)
        1. Select **Set time period**.
 
        2. Enter the number of days the invite remains valid.
 
      * **Set end date** :
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1753694147851-image.png?Expires=253370764800&Signature=uNyNQ0UTdTofkst8Go4bHK0mztq4NVqGCawBBC8Dr-u-j-NIZhkMMikea00JCwFC1tC5dyWCo7-fc1Z2YaFefaJbgIrAKwJdpKx0kwbbF~gZRHR6AAJtPAabtXYeCcyN~sQVtTfwZxFIg2l1po3UWPsu6Dtavjt0jUL9YTKRaJHNrAWJop4LRhIhELDGStCMBBccoQOBLAQEKiEWxbmyMogqFRho2dmxsOq~LwwJfX52AYp5ZbeiaZa3mINSzagnkj6wXdMQxVsdgQIVrSVWOY1JeKqA--PZzlig7~VxBTd3ToWDgh5IypgcAwnmiQhZRh~EbSr6v8i4rp4A5E2Ivw__&Key-Pair-Id=K3NV4LZ47N8M46)
+       ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1753694147851-image.png?Expires=253370764800&Signature=uNyNQ0UTdTofkst8Go4bHK0mztq4NVqGCawBBC8Dr-u-j-NIZhkMMikea00JCwFC1tC5dyWCo7-fc1Z2YaFefaJbgIrAKwJdpKx0kwbbF~gZRHR6AAJtPAabtXYeCcyN~sQVtTfwZxFIg2l1po3UWPsu6Dtavjt0jUL9YTKRaJHNrAWJop4LRhIhELDGStCMBBccoQOBLAQEKiEWxbmyMogqFRho2dmxsOq~LwwJfX52AYp5ZbeiaZa3mINSzagnkj6wXdMQxVsdgQIVrSVWOY1JeKqA--PZzlig7~VxBTd3ToWDgh5IypgcAwnmiQhZRh~EbSr6v8i4rp4A5E2Ivw__&Key-Pair-Id=K3NV4LZ47N8M46)
        1. Select **Set end date**.
 
        2. Choose the specific date on which the invite expires.

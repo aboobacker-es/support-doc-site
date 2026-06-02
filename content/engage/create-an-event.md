@@ -25,14 +25,14 @@ If you are a new user, complete the onboarding flow to learn how Engage supports
 
   4. Enter details about your target audience, such as experience level, location, and skill set. 
 
-![Screenshot 2025-09-24 at 11.32.27 AM.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760520461367-Screenshot2025-09-24at11.32.27AM.png?Expires=253370764800&Signature=a9DjDKxoKVjg1Tb~ye-G4F8Fb5PypzKOqG7sLBmfymuVsLMaRkpm25V-qW7idkSXz5VfsMt5Boiu7WpE4KPdL2v5wTnMeg7NIwLQSFYAL2iWMyedGrHdvsNR-L0jSLJuY3sbIxObNvYHxIiZYfS4Jv7tww4FrMdgw44vIEqqhUcRcjIduP2P4cMnIxdJQaV2IOg-XLwVOq8TxWpZ~MKiVp~fwTuR0n1zSFaFCNFKs0H9HUcXJLWyNEfIDTky6Z7JrT~p1DaRDtj0QHMgpTyWUCaSOct2OgiUcxUNRjmv-1v1ACWIZNeH7GWYbrP0Z9etIx5QEGcpvSKMKj~5FdWB1Q__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![Screenshot 2025-09-24 at 11.32.27 AM.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760520461367-Screenshot2025-09-24at11.32.27AM.png?Expires=253370764800&Signature=a9DjDKxoKVjg1Tb~ye-G4F8Fb5PypzKOqG7sLBmfymuVsLMaRkpm25V-qW7idkSXz5VfsMt5Boiu7WpE4KPdL2v5wTnMeg7NIwLQSFYAL2iWMyedGrHdvsNR-L0jSLJuY3sbIxObNvYHxIiZYfS4Jv7tww4FrMdgw44vIEqqhUcRcjIduP2P4cMnIxdJQaV2IOg-XLwVOq8TxWpZ~MKiVp~fwTuR0n1zSFaFCNFKs0H9HUcXJLWyNEfIDTky6Z7JrT~p1DaRDtj0QHMgpTyWUCaSOct2OgiUcxUNRjmv-1v1ACWIZNeH7GWYbrP0Z9etIx5QEGcpvSKMKj~5FdWB1Q__&Key-Pair-Id=K3NV4LZ47N8M46)
   5. Click **Create Event**. Engage uses AI to generate assets such as a microsite, email event, and coding challenge based on your inputs.
 
   6. Click **Customize the Event**. You will be redirected to the event homepage. 
 
   7. Review the task cards on the homepage. You can edit inputs and regenerate content at any time. Use the tips below each card for best practices and recommendations.
 
-![Screenshot 2025-09-24 at 7.21.17 PM.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760520446219-Screenshot2025-09-24at7.21.17PM.png?Expires=253370764800&Signature=pQ135UQ2J6T4RwiW4rTZIAU2Mey9TXb9jlE0P~ItwTBgyWMO3i6n0cbOIzUGw6cru3iW6vBP8oW40wnhuQRU90-~YzaiQJ388uPxMrz1VBp7W~ewdBq4haFgnPw2oj5Ggv8M6RWVdKfnKAotdecjMagB2G4uIctMMiAdccUYPrgKeF7cCFO3Dx9WGM5mK6K7Wwen23lJztXEhranyFq~OdlHDuXdbyG5rHVj-8tir6AloCHURz-sy9Gp7Uv0yETbX-zYdYjZ2YaS2Y0wdEf0m27e-41ssVuC91QWDgXO4MwlLMwrSgFhMUzlx4x9RRBw5ifxi9AZMMZepQbOreQB1Q__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![Screenshot 2025-09-24 at 7.21.17 PM.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760520446219-Screenshot2025-09-24at7.21.17PM.png?Expires=253370764800&Signature=pQ135UQ2J6T4RwiW4rTZIAU2Mey9TXb9jlE0P~ItwTBgyWMO3i6n0cbOIzUGw6cru3iW6vBP8oW40wnhuQRU90-~YzaiQJ388uPxMrz1VBp7W~ewdBq4haFgnPw2oj5Ggv8M6RWVdKfnKAotdecjMagB2G4uIctMMiAdccUYPrgKeF7cCFO3Dx9WGM5mK6K7Wwen23lJztXEhranyFq~OdlHDuXdbyG5rHVj-8tir6AloCHURz-sy9Gp7Uv0yETbX-zYdYjZ2YaS2Y0wdEf0m27e-41ssVuC91QWDgXO4MwlLMwrSgFhMUzlx4x9RRBw5ifxi9AZMMZepQbOreQB1Q__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 ## Configure event settings
 

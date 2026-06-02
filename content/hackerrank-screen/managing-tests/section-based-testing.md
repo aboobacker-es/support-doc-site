@@ -27,14 +27,14 @@ To add a new section:
 
   5. Select **Add New** next to **Sections**.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2Fa2d0919b-a8ef-4fe5-8b89-6e7d6159fb2f-1758791675589-image.png-b1dd1ed5-8b46-47c2-8d59-170036a8a35b?Expires=253370764800&Signature=Z9hRwWnh1qWX~7i7J2oygDKKDAuCivK9xpEpypLwe5ogU-7pLPRgwaPRPWYiRsuBdsccwCP4ypOjORpLnveqsu2Ij8YaZePJJpyOTgljcr4TJgGEjZcIBTr7VTrczxUjVydvya2NLUWSqdedIrMpWBHTQcMVTvTtOFF1Tg2Hbp7svRo1G4hCKZc52BHtrXFNYjdh6XNxm4JXgIPMpu44Z1otmpE7TjXoIcqnv6xFFVyw9sbvgawAlO15cDsYSe8~SMnKB-ka7~1Ea94fz8gZjgg2jdpMqgbre8KbWe~SaAn4diRISi8wvUj8Ojg0g2X2XDrYhzU-KPLiqtBtXWPciw__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2Fa2d0919b-a8ef-4fe5-8b89-6e7d6159fb2f-1758791675589-image.png-b1dd1ed5-8b46-47c2-8d59-170036a8a35b?Expires=253370764800&Signature=Z9hRwWnh1qWX~7i7J2oygDKKDAuCivK9xpEpypLwe5ogU-7pLPRgwaPRPWYiRsuBdsccwCP4ypOjORpLnveqsu2Ij8YaZePJJpyOTgljcr4TJgGEjZcIBTr7VTrczxUjVydvya2NLUWSqdedIrMpWBHTQcMVTvTtOFF1Tg2Hbp7svRo1G4hCKZc52BHtrXFNYjdh6XNxm4JXgIPMpu44Z1otmpE7TjXoIcqnv6xFFVyw9sbvgawAlO15cDsYSe8~SMnKB-ka7~1Ea94fz8gZjgg2jdpMqgbre8KbWe~SaAn4diRISi8wvUj8Ojg0g2X2XDrYhzU-KPLiqtBtXWPciw__&Key-Pair-Id=K3NV4LZ47N8M46)
   6. Choose one of the following:
 
      * **Add Skill-Based Questions**
 
        1. Select**Add Skill-Based Questions** to create a section using HackerRank-curated questions grouped by skills.
 
-![addskillbasedsection.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F656961af-33c0-4979-9974-182666161d47-1757092959740-addskillbasedsection.gif-eaa27a9e-6182-4d64-a730-48fa6d2e4497?Expires=253370764800&Signature=graVnEe8EkQbody574bOWdP5ZL3msZOLKye5nQpatWXbZDPvdOUr26iyikXUe9YPeu1BR6s55Enf7qZ1U4zU9CNGekbT1i69g-zlVDRcylCuLvYtNVcAkAOGbtDE0fc4GthzPUEQ~~Zcj8EPaVJcqjAMxc7AY9TArFdyhH0vS4eCHFay5-6aYRdZEeYFLjZm7XaMkGxCFZ0JpuWDtL2zfNgbJxEaYBqRExmNL~E1FGFAEXOp8XIejpHvcWTgMOGeiDJiRnoIXQI2B~gSzqfz8t6nJ7LA7flId1FRCrUE7wI5~N6-VUEfjFykRIYAcKreu0TESJCqKGasljcj8d51Rw__&Key-Pair-Id=K3NV4LZ47N8M46)
+          ![addskillbasedsection.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F656961af-33c0-4979-9974-182666161d47-1757092959740-addskillbasedsection.gif-eaa27a9e-6182-4d64-a730-48fa6d2e4497?Expires=253370764800&Signature=graVnEe8EkQbody574bOWdP5ZL3msZOLKye5nQpatWXbZDPvdOUr26iyikXUe9YPeu1BR6s55Enf7qZ1U4zU9CNGekbT1i69g-zlVDRcylCuLvYtNVcAkAOGbtDE0fc4GthzPUEQ~~Zcj8EPaVJcqjAMxc7AY9TArFdyhH0vS4eCHFay5-6aYRdZEeYFLjZm7XaMkGxCFZ0JpuWDtL2zfNgbJxEaYBqRExmNL~E1FGFAEXOp8XIejpHvcWTgMOGeiDJiRnoIXQI2B~gSzqfz8t6nJ7LA7flId1FRCrUE7wI5~N6-VUEfjFykRIYAcKreu0TESJCqKGasljcj8d51Rw__&Key-Pair-Id=K3NV4LZ47N8M46)
        2. Select a **Skill** and **Question type** from the dropdown menu.
 
        3. Click **Add to test**.
@@ -52,7 +52,7 @@ HackerRank automatically selects questions based on the chosen skill and type. T
 
        1. Select **Add Manually** to create custom questions from the library or your own questions. A new section labeled **Untitled** appears at the bottom of the list. 
 
-![addsectionmanually.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2Fe5f8ee8e-4c56-4858-baef-61d82eef7ce2-1758091397939-addsectionmanually.gif-38288118-2300-4fa6-8ee0-a265aa5d99f7?Expires=253370764800&Signature=od3A7zQjhbOsgqij2SqPqRUsR7RfGL2EljaOgqW-YG6wR5RcPwc3DSMPo9ZwRHBWiqkVAEuB~XZY0~ExugOemHLDeehcaSAc5M2FMze~Vs6~0RX8Ms2UsDfty9B3VjCq387CxER63Sj0pgONl5bUAv-UUIfpzwiSmAnyWrtGt9UyIDD-NPwngiioKzXUmbs3ngQdvefrXfccR7t5esGOxUTKg5CGoLnYv5CkBY4~WKFv1vnuPWp0C5SDdrJaBHahWovCBdWu~dFmzHQTyX3A73CJ2GNCUXnI5mL7UDm-U1tdjTNmWXtIwSmLLDgz2MzNm9dqOcedlQXRKqF6Y7lizA__&Key-Pair-Id=K3NV4LZ47N8M46)
+          ![addsectionmanually.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2Fe5f8ee8e-4c56-4858-baef-61d82eef7ce2-1758091397939-addsectionmanually.gif-38288118-2300-4fa6-8ee0-a265aa5d99f7?Expires=253370764800&Signature=od3A7zQjhbOsgqij2SqPqRUsR7RfGL2EljaOgqW-YG6wR5RcPwc3DSMPo9ZwRHBWiqkVAEuB~XZY0~ExugOemHLDeehcaSAc5M2FMze~Vs6~0RX8Ms2UsDfty9B3VjCq387CxER63Sj0pgONl5bUAv-UUIfpzwiSmAnyWrtGt9UyIDD-NPwngiioKzXUmbs3ngQdvefrXfccR7t5esGOxUTKg5CGoLnYv5CkBY4~WKFv1vnuPWp0C5SDdrJaBHahWovCBdWu~dFmzHQTyX3A73CJ2GNCUXnI5mL7UDm-U1tdjTNmWXtIwSmLLDgz2MzNm9dqOcedlQXRKqF6Y7lizA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 :::note
 To rename the section, see****[Configure section settings](<https://support.hackerrank.com/articles/5546852679-section-based-testing#configure-section-settings-6>).
@@ -62,7 +62,7 @@ To rename the section, see****[Configure section settings](<https://support.hack
 
           * **  From the library**
 
-![addmanuallyfromlib.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2Fcaf34a9b-392c-428d-bdb8-c84c04e00539-64bdf2c9-d58d-4d0c-b27d-ec36bdeeb227-1757093697013-addmanuallyfromlib.gif-74a952be-5571-4c29-90b5-b6bff5c3f521-8da1fba3-b14c-47ad-aadc-b1c016028a5f?Expires=253370764800&Signature=EilR3yUN5d5BoL56jaFX7QhT3PGjUnAwAJbQjw3CekXGfZvzrW25HvXstCIWg4yU-t-vyn7Xk4wkjnrTJ3U5qpTQb8o-fxHytUXpGcfQBZSSeJF9feJ~A6nZ9LzAeVq5uAla1JOrKRKMMFot31cIIrI-bglQPmbBKsieyUJAkVxde0rtcVpbgmZ56DqC5UYAy6Pc7Kiv4oxBfHcx8V5FMS9LWxTeDSS3af7tSo7xvbaTZG3Eu5H5nUpFBPDQ4jTSoRhetiDmuZQ4Tr2khIFUHofefoUbFMRx9QwBsxOTL6yodQqbl7jSWqJUzFEzRAEIDWnf6j9zXmjPKErR1hUv6Q__&Key-Pair-Id=K3NV4LZ47N8M46)
+            ![addmanuallyfromlib.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2Fcaf34a9b-392c-428d-bdb8-c84c04e00539-64bdf2c9-d58d-4d0c-b27d-ec36bdeeb227-1757093697013-addmanuallyfromlib.gif-74a952be-5571-4c29-90b5-b6bff5c3f521-8da1fba3-b14c-47ad-aadc-b1c016028a5f?Expires=253370764800&Signature=EilR3yUN5d5BoL56jaFX7QhT3PGjUnAwAJbQjw3CekXGfZvzrW25HvXstCIWg4yU-t-vyn7Xk4wkjnrTJ3U5qpTQb8o-fxHytUXpGcfQBZSSeJF9feJ~A6nZ9LzAeVq5uAla1JOrKRKMMFot31cIIrI-bglQPmbBKsieyUJAkVxde0rtcVpbgmZ56DqC5UYAy6Pc7Kiv4oxBfHcx8V5FMS9LWxTeDSS3af7tSo7xvbaTZG3Eu5H5nUpFBPDQ4jTSoRhetiDmuZQ4Tr2khIFUHofefoUbFMRx9QwBsxOTL6yodQqbl7jSWqJUzFEzRAEIDWnf6j9zXmjPKErR1hUv6Q__&Key-Pair-Id=K3NV4LZ47N8M46)
             1. Click **Add from Library** to open the question library.
 
             2. (Optional) Use filters or the search bar to find a question.
@@ -81,10 +81,10 @@ To configure section settings:
 
   1. Hover over the section name and select the settings icon.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1758791857450-image.png?Expires=253370764800&Signature=EYxOQXkWSV3VyKRguXEjJTG89IGCOCzXzlFYEnIrrPSmH~uJ-Fx7Ew-qS9v3rj8oP43rVKitr3oOTWu8~9yqF9rSXIfl3rqwXmZYctebou25PJaXH~4Jr9Qyrwr8k8TMPm-BtcQUawaqqrqwbXCu7jIKkuMBDfvLql-R7f2v2epI49spLw6UBAT1vgran3i2lAHzFa2eUVRgdU9FrInFunF--PxyzZFtyuO8sUx27bfxZtLdd1M8O6wWvp7t-adiAafEn9JJuKU~XIwmOVwFEYyhr7TV5lUchyBWoVBpc~qbq953yEPGIShpADm3Om9FGuJlz1nepbCQRx9WA2~ZBA__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1758791857450-image.png?Expires=253370764800&Signature=EYxOQXkWSV3VyKRguXEjJTG89IGCOCzXzlFYEnIrrPSmH~uJ-Fx7Ew-qS9v3rj8oP43rVKitr3oOTWu8~9yqF9rSXIfl3rqwXmZYctebou25PJaXH~4Jr9Qyrwr8k8TMPm-BtcQUawaqqrqwbXCu7jIKkuMBDfvLql-R7f2v2epI49spLw6UBAT1vgran3i2lAHzFa2eUVRgdU9FrInFunF--PxyzZFtyuO8sUx27bfxZtLdd1M8O6wWvp7t-adiAafEn9JJuKU~XIwmOVwFEYyhr7TV5lUchyBWoVBpc~qbq953yEPGIShpADm3Om9FGuJlz1nepbCQRx9WA2~ZBA__&Key-Pair-Id=K3NV4LZ47N8M46)
   2. Update the section settings:
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760355178111-image.png?Expires=253370764800&Signature=RBmcdm1I8RHHIjDrq2oyC3SEFXTg3gE7qVgb0HLFn~ugKbqIRrV3mcvquWBfR90yVkbQApXi3Su1pkX7DsSmPNPB-XZubew-ATuXZV8wIA9yyZftk3L9S1wrPFew36olhsi6WEaVHwBLw9WqMGreLWBZaamLJ8UI1LSrWmEQvfo3W2RCLOhdQ7zJMimyvJiR2AQ3VPMHanJnA0fXA~NSmbiITyScY0gTINc9Qisg4fDojks2BioudGtdKL6PSm5glB7uovOBS7Wg1PcnkxIEATV-LL2996ZJHM9v5Wu9IQ7iMgX9kxfnT6cpHlb~BhQhufCp2wRVuv7MbeNoy-tXtw__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760355178111-image.png?Expires=253370764800&Signature=RBmcdm1I8RHHIjDrq2oyC3SEFXTg3gE7qVgb0HLFn~ugKbqIRrV3mcvquWBfR90yVkbQApXi3Su1pkX7DsSmPNPB-XZubew-ATuXZV8wIA9yyZftk3L9S1wrPFew36olhsi6WEaVHwBLw9WqMGreLWBZaamLJ8UI1LSrWmEQvfo3W2RCLOhdQ7zJMimyvJiR2AQ3VPMHanJnA0fXA~NSmbiITyScY0gTINc9Qisg4fDojks2BioudGtdKL6PSm5glB7uovOBS7Wg1PcnkxIEATV-LL2996ZJHM9v5Wu9IQ7iMgX9kxfnT6cpHlb~BhQhufCp2wRVuv7MbeNoy-tXtw__&Key-Pair-Id=K3NV4LZ47N8M46)
      1. **Name** : Enter a section name.
 
      2. **Randomly pick (Optional)** : Select how many questions to show to each candidate.
@@ -147,7 +147,7 @@ To add a question to a section :
 
      * **From the library**
 
-![Addquestion.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F9ad88c40-89ec-4a88-bd08-02c9cae64267-017944ce-026f-44d8-b81d-0eea546e13fb-1757094166355-Addquestion.gif-7e58116f-1f50-4ea7-9640-786baf071953-ecb925f5-a03e-48ce-88a1-e585b47cae60?Expires=253370764800&Signature=tY8aRHnHDUd-206n-LMxC7PziRY1a~FcsEuI2-fZihkq3NmAefp01~aCWW~0keNlI~aBSGdDpJ5XH7SpNyHZ-~7o-68WewFOQ~JmE1w0EyFxK2ViphgMbl0HJu6ma828jKL8d3opVUoo97Z2P~aUp9KKaE8HKHsQo1JZsOO0lfdjVf7OIRyb3GEvAznqj81UrAwIy~iFDXhCkWigjkrYY4GZIEiRpBT5PhIOiaa0Y77L~FMVIndch9Ls37-qTnscoDPNUeAVNgWwkY~4qUrGs6cFq~ht36~MfQ16Jfb5dqb0~EXTtLrlwN9ZD2hmbE2G6I6NQ3Xf4UTayrWyzp-tSQ__&Key-Pair-Id=K3NV4LZ47N8M46)
+       ![Addquestion.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F9ad88c40-89ec-4a88-bd08-02c9cae64267-017944ce-026f-44d8-b81d-0eea546e13fb-1757094166355-Addquestion.gif-7e58116f-1f50-4ea7-9640-786baf071953-ecb925f5-a03e-48ce-88a1-e585b47cae60?Expires=253370764800&Signature=tY8aRHnHDUd-206n-LMxC7PziRY1a~FcsEuI2-fZihkq3NmAefp01~aCWW~0keNlI~aBSGdDpJ5XH7SpNyHZ-~7o-68WewFOQ~JmE1w0EyFxK2ViphgMbl0HJu6ma828jKL8d3opVUoo97Z2P~aUp9KKaE8HKHsQo1JZsOO0lfdjVf7OIRyb3GEvAznqj81UrAwIy~iFDXhCkWigjkrYY4GZIEiRpBT5PhIOiaa0Y77L~FMVIndch9Ls37-qTnscoDPNUeAVNgWwkY~4qUrGs6cFq~ht36~MfQ16Jfb5dqb0~EXTtLrlwN9ZD2hmbE2G6I6NQ3Xf4UTayrWyzp-tSQ__&Key-Pair-Id=K3NV4LZ47N8M46)
        1. Click **Add from Library** to open the question library.
 
        2. (Optional) Use filters or the search bar to find a question.
@@ -203,7 +203,7 @@ To remove a question in a section:
 ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1758792108937-image.png?Expires=253370764800&Signature=LG0pOgKHhnpbR4w5n0k0nqNjnDNHN93GIAa2XDKfyxqktUpMc07Ypw5n8Qk6ZmhYbDZGlYeXR1ifQzrvt6Oi0f~vC2YvKz2R7hoJDaHqp5U-Yv~nsAj9zTWmD9G-lKATwuewF3IyYXPAUPqFDy0YEfn36GsFXwBs45vLt-SfjHuECNLYncMaHkk~T0B9vwNxWfXNZxac09O~T37Fub80zkYtSBQxNQhJ6z~ynfpKlxAHbxkRnkZakr7dtCdYkbSvPRKxCnMWgWjlwXhjuk7xFrpLyhzYfWrXQMEzjkj~a543tYef4mvrrse251Hykv196XYi1Qhui-IUwnqFCze8xA__&Key-Pair-Id=K3NV4LZ47N8M46)
   * Select the **Insights** icon to view question insights. For more information, see [📄 View Test Question Insights](</articles/3255724462>).
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1758792083573-image.png?Expires=253370764800&Signature=gM~paaeMcJgB7a37EL0ig-Q93ad4GS-kUPgDUyWfv3qNUnLEURF3y4EQspcivVIsQg-vdxGmiRbwof8L6isqvcQd8gb2IQrMetxZsBwOttFiBss3w2gSZc~z0TJUeX-NgaBg1WGwzpzPU6CjU7nC2Gy~4qaI9S~ibtdxo7SQU8r1kN~yRxSKX~R6ByOMDh24EzeNvNVeTmjW8X~E1BlE7lqrUj-TovmyUia4JXlVkw-0sgsTUY4ZFioAOhs-y02osQ3Ta9sYgUmdqWpHBfIqJeAn4wiWUTC32v3wVe2eMxK1FzbXans6YkUYiJgSR2FhyrjOR58hOCyEgEKAbbtPfQ__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1758792083573-image.png?Expires=253370764800&Signature=gM~paaeMcJgB7a37EL0ig-Q93ad4GS-kUPgDUyWfv3qNUnLEURF3y4EQspcivVIsQg-vdxGmiRbwof8L6isqvcQd8gb2IQrMetxZsBwOttFiBss3w2gSZc~z0TJUeX-NgaBg1WGwzpzPU6CjU7nC2Gy~4qaI9S~ibtdxo7SQU8r1kN~yRxSKX~R6ByOMDh24EzeNvNVeTmjW8X~E1BlE7lqrUj-TovmyUia4JXlVkw-0sgsTUY4ZFioAOhs-y02osQ3Ta9sYgUmdqWpHBfIqJeAn4wiWUTC32v3wVe2eMxK1FzbXans6YkUYiJgSR2FhyrjOR58hOCyEgEKAbbtPfQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 ## Add a code repository section to a test
 

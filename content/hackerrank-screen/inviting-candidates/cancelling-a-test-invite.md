@@ -27,7 +27,7 @@ To cancel a test invitation:
 
   4. Go to the **Candidates** tab.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2Fbad8f716-dff4-42e5-9963-72616b9a4ff4-1746782811789-image.png-b7cbe039-2522-4131-903b-c276d4325264?Expires=253370764800&Signature=kRMKC-Gtk34kkgFnL55xZQdcNKvxo072cnZiLNLlZ2Ve8NIpMksP--wEKtMQ7gdtIbPaCa9Axh75FB~3QvqvWt0Wfmhwjqs6j5jn4lsOfdhklKiv9bu9FA8beqTgAp2RfGbMJrCW89Y08-s49I4UWOZjPl8dYZy2x6Y2aaUaV322aprhau~3PL68f4LRdXEJe84UD9sU~UrMoX7QmdLrwGYqsd3zgVkwSn2fOfDfnI-MKYsF~KuZTu04-Ch9GnOT1N-ZuBqd6RBR4KlCD-gh603P6YIKrWYGVoYblSyJC72usDC9hWuSyaaRvcA4zUSk~LgLEWRteXTGLbJBZq6XKw__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2Fbad8f716-dff4-42e5-9963-72616b9a4ff4-1746782811789-image.png-b7cbe039-2522-4131-903b-c276d4325264?Expires=253370764800&Signature=kRMKC-Gtk34kkgFnL55xZQdcNKvxo072cnZiLNLlZ2Ve8NIpMksP--wEKtMQ7gdtIbPaCa9Axh75FB~3QvqvWt0Wfmhwjqs6j5jn4lsOfdhklKiv9bu9FA8beqTgAp2RfGbMJrCW89Y08-s49I4UWOZjPl8dYZy2x6Y2aaUaV322aprhau~3PL68f4LRdXEJe84UD9sU~UrMoX7QmdLrwGYqsd3zgVkwSn2fOfDfnI-MKYsF~KuZTu04-Ch9GnOT1N-ZuBqd6RBR4KlCD-gh603P6YIKrWYGVoYblSyJC72usDC9hWuSyaaRvcA4zUSk~LgLEWRteXTGLbJBZq6XKw__&Key-Pair-Id=K3NV4LZ47N8M46)
   5. Select the checkbox next to the candidate’s email address.
 
 :::note
@@ -36,7 +36,7 @@ You can select one or more candidates.
 
   6. Click **More** > **Cancel Invite**.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F571ed502-6938-42c9-8cdf-02bc2e8d5d70-1747047708588-image.png-fe89a736-ec06-4ac4-93f7-a24d72e2b8eb?Expires=253370764800&Signature=hoTLg~OtGvE1ccJjNs~lOv6pHYjrNjPqK8KZnETS7Z08rW9I3QBL8sJt3zY05e5CYutTz4VLksIPpizuZuaEJheEs1gtsNPEaBU1Oy0T3JCBUOM2PAALGWeyAQxxfwMxA--WxnneutzNImgoJrmz66d4ibeL0~KxAYocBnUiPv7LRBjBfgcff2hCTa0Sz3L1cZ3MsmmHcSiUblfE~ickD8JnS72b9sbJ3cQD1M1ugOGU1HiEozCNFUV70-ARTPuYm48cI7YSQLPap~4D-nfBoEGExOHuELEM2Tym1LI2pwe7CzkkK7NLqWyGP8XaHNukSqkBalAkTkIEFhtlR0sxDg__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F571ed502-6938-42c9-8cdf-02bc2e8d5d70-1747047708588-image.png-fe89a736-ec06-4ac4-93f7-a24d72e2b8eb?Expires=253370764800&Signature=hoTLg~OtGvE1ccJjNs~lOv6pHYjrNjPqK8KZnETS7Z08rW9I3QBL8sJt3zY05e5CYutTz4VLksIPpizuZuaEJheEs1gtsNPEaBU1Oy0T3JCBUOM2PAALGWeyAQxxfwMxA--WxnneutzNImgoJrmz66d4ibeL0~KxAYocBnUiPv7LRBjBfgcff2hCTa0Sz3L1cZ3MsmmHcSiUblfE~ickD8JnS72b9sbJ3cQD1M1ugOGU1HiEozCNFUV70-ARTPuYm48cI7YSQLPap~4D-nfBoEGExOHuELEM2Tym1LI2pwe7CzkkK7NLqWyGP8XaHNukSqkBalAkTkIEFhtlR0sxDg__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 The candidate(s) will be removed from the test’s invitation list. The number of canceled invitations is credited back to your company’s account.
 

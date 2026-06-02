@@ -29,19 +29,19 @@ In Lever, follow these steps to conduct a HackerRank Interview with a candidate:
 
   3. Change the candidate's stage.
 
-![Changing_the_candidate_stage.jpg](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047211882-?Expires=253370764800&Signature=Tg3NbB-1Kz5IJ9H1IL7suh4uqehDiCl5nSPk~~zgc5FCTO5A3EiIPWgmxOwKCytItz8cqUtxfDgQjwyOTc5Klf5~vVaO2BXWlTkKoe12d8DAXMgo7ulBYBb4Asu98sr3-H~BYqlkaFnt-DKn4LiE4HoLKw4mhoP3jnpUuAfcLyuKgwEO~sGgFf6dWkyPSaa-rD8qqVOrDtzptX-VCFomvVry5Ya8Ozzi0oVkcNqQBmc~Qc3fobs7FUDnztDdBRoYQZEFvvRUTf3IkfxDafbGnL0KgkgNHOH9QcLEZlbHHU3YjG-o34mBJbLmnifhjdNUxvAUHeTTuOlCTPEwFMlDhA__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![Changing_the_candidate_stage.jpg](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047211882-?Expires=253370764800&Signature=Tg3NbB-1Kz5IJ9H1IL7suh4uqehDiCl5nSPk~~zgc5FCTO5A3EiIPWgmxOwKCytItz8cqUtxfDgQjwyOTc5Klf5~vVaO2BXWlTkKoe12d8DAXMgo7ulBYBb4Asu98sr3-H~BYqlkaFnt-DKn4LiE4HoLKw4mhoP3jnpUuAfcLyuKgwEO~sGgFf6dWkyPSaa-rD8qqVOrDtzptX-VCFomvVry5Ya8Ozzi0oVkcNqQBmc~Qc3fobs7FUDnztDdBRoYQZEFvvRUTf3IkfxDafbGnL0KgkgNHOH9QcLEZlbHHU3YjG-o34mBJbLmnifhjdNUxvAUHeTTuOlCTPEwFMlDhA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 _Changing a candidate's stage in Lever_
 
   4. The Interview link is automatically added in the **links** section of the candidate's profile.
 
-![codepair_link_generated.jpg](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047212256-?Expires=253370764800&Signature=mHtZC4sYn9huKq6o8Rq9FSbnS5nK9d3s~h2ekJ6P3STNkcye721mJPzBvIz2rYCxYMp4WD90Onfgk4T26SAg4m~6W-DmsDkH7t59o~o97WshJpakcU24aepgBrbTOwpp~JkoirptCnuyyMQ2V1i6MH1ToCs~a8~Exi7BK1ERndmac9bFNVDX21deM9usa7fjHb4r1dTqxkIhBt4pwD0dE-dsJ9JlKt07dQ69NEy40N8H0Jb3yZObLwSAt1571rPTCRicGbg85lcQC0gXtMKT~B37mrzTTE6BLzLi9GHmbIwbX6bbzQPVQ9vjanioqWsTCW7DXAf9RSoEYo0rnBWoEg__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![codepair_link_generated.jpg](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047212256-?Expires=253370764800&Signature=mHtZC4sYn9huKq6o8Rq9FSbnS5nK9d3s~h2ekJ6P3STNkcye721mJPzBvIz2rYCxYMp4WD90Onfgk4T26SAg4m~6W-DmsDkH7t59o~o97WshJpakcU24aepgBrbTOwpp~JkoirptCnuyyMQ2V1i6MH1ToCs~a8~Exi7BK1ERndmac9bFNVDX21deM9usa7fjHb4r1dTqxkIhBt4pwD0dE-dsJ9JlKt07dQ69NEy40N8H0Jb3yZObLwSAt1571rPTCRicGbg85lcQC0gXtMKT~B37mrzTTE6BLzLi9GHmbIwbX6bbzQPVQ9vjanioqWsTCW7DXAf9RSoEYo0rnBWoEg__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 _HackerRank Interview scheduling link_
 
   5. Clicking this link directs you to the Interview scheduling form. Use the **QuickPad** to instantly create an interview session link. Share this link with your candidate to start the interview immediately. Alternatively, use the options provided in the form to schedule an interview and automatically send invites to all the participants.
 
-![Setup_CodePair.jpg](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047212615-?Expires=253370764800&Signature=Fflyu2RTo-itafkJ95dmqbcyMeQd9h3DWxGqkf6hTD71-8fxZT3yKBe0RUg870sw9~D2DajAmQXreZey5NJG~qsvAbc6fDmD0i3astn~FGK4t7vRENnlMBjWiL5fW1cOYSGQhTichbL3TBKL-Gi3WNulwO~VIuBiNRCJ3DDDOPqBObKjQFTN9nPcTLW~~TrcMwDBBacI0yiFv~a16M86lhZblZlk6EHOwxpXvRKDRZceCasPI-~Vj1VSUL8D8av61VfvvZQEEkkqq9EtcElWBrtLwF3wYJu1IClFkBGMbDGUQkAVchPmAlvvVfAfhWwBZWihmmxeXigMySKon1805w__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![Setup_CodePair.jpg](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047212615-?Expires=253370764800&Signature=Fflyu2RTo-itafkJ95dmqbcyMeQd9h3DWxGqkf6hTD71-8fxZT3yKBe0RUg870sw9~D2DajAmQXreZey5NJG~qsvAbc6fDmD0i3astn~FGK4t7vRENnlMBjWiL5fW1cOYSGQhTichbL3TBKL-Gi3WNulwO~VIuBiNRCJ3DDDOPqBObKjQFTN9nPcTLW~~TrcMwDBBacI0yiFv~a16M86lhZblZlk6EHOwxpXvRKDRZceCasPI-~Vj1VSUL8D8av61VfvvZQEEkkqq9EtcElWBrtLwF3wYJu1IClFkBGMbDGUQkAVchPmAlvvVfAfhWwBZWihmmxeXigMySKon1805w__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 _HackerRank Interview scheduling form_
 

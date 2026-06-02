@@ -49,7 +49,7 @@ The dashboard consists of two tabs:
 
   * **All Reports** : Displays data of all employees within your department beyond your direct reports.
 
-![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046483938-?Expires=253370764800&Signature=bGHoPbPRRyOtYPcTSj09956ZHRaB~xNt5LqslXs~Vee9Infk2pJ2Jux2lp3o~-vagciDoY8YPpjzdawu3FPLv41XUWdDRdkcDJ1rXBgYyj4pz5qXIIHfHdelHD3qL-mY126ZcJLAdngywgt6L5uzxE3Gaap8dYfhFZAKRtUy8u89B8ZnxGlR6P6-oYn-a9soZrBrJQ-DO4pvaT3MU~58rMd~dMQVmrfj57ka9NqX-TSqT9tky5sB4vQ0bqIMNCnrRyECxVbs7yxjFzlC6sy9-WC9EJt3SkqproWxDutY~uiYxDljaJ47F3Rgj-Kz7QCY02HeKmzfqlXNuEkrIaMdIA__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046483938-?Expires=253370764800&Signature=bGHoPbPRRyOtYPcTSj09956ZHRaB~xNt5LqslXs~Vee9Infk2pJ2Jux2lp3o~-vagciDoY8YPpjzdawu3FPLv41XUWdDRdkcDJ1rXBgYyj4pz5qXIIHfHdelHD3qL-mY126ZcJLAdngywgt6L5uzxE3Gaap8dYfhFZAKRtUy8u89B8ZnxGlR6P6-oYn-a9soZrBrJQ-DO4pvaT3MU~58rMd~dMQVmrfj57ka9NqX-TSqT9tky5sB4vQ0bqIMNCnrRyECxVbs7yxjFzlC6sy9-WC9EJt3SkqproWxDutY~uiYxDljaJ47F3Rgj-Kz7QCY02HeKmzfqlXNuEkrIaMdIA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 #### Search and Export Data
 
@@ -71,4 +71,4 @@ Admins can view a candidate’s certification attempt history to track performan
 
   * Compare score changes across attempts
 
-![Certification Attempt History.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776346507713-CertificationAttemptHistory.gif?Expires=253370764800&Signature=C0DRQHS7-omM3QPTnNAnEwaGsJ6Je93DMSBV1KlbbmGMU80JBt7qWkMTdhKWs64cw3cOfzPyC~mhJz1kWrqY-2NJC7Z5Qx5I57fJO6l4Cj21e2J9V42Ik8YFUcLtzcnbOFAfqkIoCPUxtYweVzugi3iFtIFA5iwnCAgL35Odm0RNTR-VYqSKrPsMWuWKqh84JxJ1QqvJS921Zlc1EEBxbJ6PPJyqIWU-48AVxH7f3VF7KoNtmJDJCP7tVNDl6i2ZG2iyNAVE0pzb1J4JSqUSoOQrRabhE8WFQ92SHNAmDMR~jG~86okZ33k3tdZuZzqEH48R3cA4~NLfkUvAcC0JxA__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![Certification Attempt History.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776346507713-CertificationAttemptHistory.gif?Expires=253370764800&Signature=C0DRQHS7-omM3QPTnNAnEwaGsJ6Je93DMSBV1KlbbmGMU80JBt7qWkMTdhKWs64cw3cOfzPyC~mhJz1kWrqY-2NJC7Z5Qx5I57fJO6l4Cj21e2J9V42Ik8YFUcLtzcnbOFAfqkIoCPUxtYweVzugi3iFtIFA5iwnCAgL35Odm0RNTR-VYqSKrPsMWuWKqh84JxJ1QqvJS921Zlc1EEBxbJ6PPJyqIWU-48AVxH7f3VF7KoNtmJDJCP7tVNDl6i2ZG2iyNAVE0pzb1J4JSqUSoOQrRabhE8WFQ92SHNAmDMR~jG~86okZ33k3tdZuZzqEH48R3cA4~NLfkUvAcC0JxA__&Key-Pair-Id=K3NV4LZ47N8M46)

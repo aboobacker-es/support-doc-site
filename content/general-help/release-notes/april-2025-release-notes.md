@@ -75,7 +75,7 @@ The HackerRank Library is regularly updated with new challenges, enabling you to
 
   * Content additions across the following high-demand job families: 
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1744790398364-image.png?Expires=253370764800&Signature=N1liJCfZkWpNEAEAOidYATCzFLCfjVc~EQHGTjdcrwHe3TcH6UX5KMrtTFuA7qfitevr~E~Hh2hcNEJImMOS8q7EDJKkY7xPGybeKQysykkMXw6t3fKVOm8MuIlMKlDBb3dUh00rDk4~gS84zARcwvV5lutJ3MG0tH9vOtYIsQ10-hzTNgBY0DrBhGDwbUZtOiB5uVRWfFCnXBvVUNQ8UZ9ghCgZLBEZ-VBe1EkCJCv6zBNgLANogvd2-YjQhECME2sFFimF0pRy~u~wANlcllQhHP2kP41xwfhJPe0dwPj8Bjm0glk6ruNG5CV2u4BXEHOA2B-ja9kMzZfh~8g96g__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1744790398364-image.png?Expires=253370764800&Signature=N1liJCfZkWpNEAEAOidYATCzFLCfjVc~EQHGTjdcrwHe3TcH6UX5KMrtTFuA7qfitevr~E~Hh2hcNEJImMOS8q7EDJKkY7xPGybeKQysykkMXw6t3fKVOm8MuIlMKlDBb3dUh00rDk4~gS84zARcwvV5lutJ3MG0tH9vOtYIsQ10-hzTNgBY0DrBhGDwbUZtOiB5uVRWfFCnXBvVUNQ8UZ9ghCgZLBEZ-VBe1EkCJCv6zBNgLANogvd2-YjQhECME2sFFimF0pRy~u~wANlcllQhHP2kP41xwfhJPe0dwPj8Bjm0glk6ruNG5CV2u4BXEHOA2B-ja9kMzZfh~8g96g__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 #### Content Quality Upgrades
 
@@ -93,7 +93,7 @@ Candidates can now expect a smoother, more reliable DevOps assessment experience
 
   * **Seamless recovery with reset options:** The introduction of reset functionality in DevOps questions allows candidates to start fresh without disrupting their environment to reduce stress and enable them to quickly recover from errors, maintaining their momentum during assessments.
 
-![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2Fb3ae2f43-d5fd-4759-acfa-770697e96af7-AD_4nXfVD_fNfJuzpaz8coU18O8jqcOctiHwT07E9EJ4NBE8qMtBC8IUlgPayToyD3DDomJIS9hX6u-P_ERmlmv7Ch05H5mn0WkTc4wUNWZw90V515Ol7demL2dwYPyf9Y7SuUnHe1eb-81031573-516a-480b-88ed-91d4f7251403?Expires=253370764800&Signature=PQT7gdSC32GTFP2rINZZlq74Xllxhkqy81f2CkWSEoSz5tR73OwEb-no4dzht9B-fcJS0hMCRgYRK2gM7gdA3vRVySYeZ-7HnVKeMQZoHnca~eFbUwAj4GVUnG02-bjqqJw34-yhM98OUozRM6EMBNeJ94Kjw1v8~BWdrlUhlLHfnUHPtKdrgcu~cMxGNwcL5FrDW8gCN1Yd7mUdv71z3jbkhH4MjFVIVZD6CPGPfxqlJYoiwEA0Uc1H5UXkiya66HheZhODYwxtB98MnjWX3UIOXYXeEqB5moB9c~~3cBMN2hRghOv-GJP2P2bamfEyUDbxo5Nr0p8ygUeYPSweYQ__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2Fb3ae2f43-d5fd-4759-acfa-770697e96af7-AD_4nXfVD_fNfJuzpaz8coU18O8jqcOctiHwT07E9EJ4NBE8qMtBC8IUlgPayToyD3DDomJIS9hX6u-P_ERmlmv7Ch05H5mn0WkTc4wUNWZw90V515Ol7demL2dwYPyf9Y7SuUnHe1eb-81031573-516a-480b-88ed-91d4f7251403?Expires=253370764800&Signature=PQT7gdSC32GTFP2rINZZlq74Xllxhkqy81f2CkWSEoSz5tR73OwEb-no4dzht9B-fcJS0hMCRgYRK2gM7gdA3vRVySYeZ-7HnVKeMQZoHnca~eFbUwAj4GVUnG02-bjqqJw34-yhM98OUozRM6EMBNeJ94Kjw1v8~BWdrlUhlLHfnUHPtKdrgcu~cMxGNwcL5FrDW8gCN1Yd7mUdv71z3jbkhH4MjFVIVZD6CPGPfxqlJYoiwEA0Uc1H5UXkiya66HheZhODYwxtB98MnjWX3UIOXYXeEqB5moB9c~~3cBMN2hRghOv-GJP2P2bamfEyUDbxo5Nr0p8ygUeYPSweYQ__&Key-Pair-Id=K3NV4LZ47N8M46)
   * **Enhanced scalability:** The platform now supports up to 150 logins per minute (up from 20) and handles up to 1,200 concurrent sessions, so high-volume hiring events and assessments run smoothly without delays.
 
 For more information, see [Answer DevOps Questions](<https://candidatesupport.hackerrank.com/hc/en-us/articles/9065134088723-Answer-DevOps-Questions>).
@@ -275,7 +275,7 @@ Company admins can now further fine-tune access using new entitlements that cont
 
   * **Test Settings > Test Access:** Limit the ability to create public test links or update test expiration settings.
 
-![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F247498ce-dfb0-42ec-b291-287fbc9c2ae9-AD_4nXdTj-ItyNAoLPjJdeXBsmSh5gBXEJYw0LXaUx9mlUG4PYz1l0u8n-QK6oD24fZ-YSZxXMQo3nCfUkRueN8t2gKHxi37fmRJoUhv4hKV5LCf-QSgV1Xoecdwwe4PH9lIIWGw6-5fIw-450456a2-333a-4efc-b31a-84ce01cbeb93?Expires=253370764800&Signature=s-Ob4MB89kpDzcLIIgFPhVNKpGCVFHFVXyOG~-6Loee1ZFhx3Tolr4RSJ8HEXc-WD0uEwBU5E-LUN1rpejKb7SpOWGn8yS0Oj6kxHcM8tf3sqY8xFYrxJ76C8TCvTtCxYSweokWVI~oqMtBkAU1~m5n7TrC5OEBF9rPgAx0fiA6KSmBsBdspzhJErDiGDEdw42ZeCnwQew8fOgQtLjyI1-Y7X1MmQ7PucKXiAGtm7Kv8Dlm7FczGVmBbrKblasnP~H2zVenPXFvgQ21YjOVORpD0UreEnrLgIHG41X13RZjPr-YzO8trgul3DflHeWfw7PazAcLitwOgIwmtLtImJA__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F247498ce-dfb0-42ec-b291-287fbc9c2ae9-AD_4nXdTj-ItyNAoLPjJdeXBsmSh5gBXEJYw0LXaUx9mlUG4PYz1l0u8n-QK6oD24fZ-YSZxXMQo3nCfUkRueN8t2gKHxi37fmRJoUhv4hKV5LCf-QSgV1Xoecdwwe4PH9lIIWGw6-5fIw-450456a2-333a-4efc-b31a-84ce01cbeb93?Expires=253370764800&Signature=s-Ob4MB89kpDzcLIIgFPhVNKpGCVFHFVXyOG~-6Loee1ZFhx3Tolr4RSJ8HEXc-WD0uEwBU5E-LUN1rpejKb7SpOWGn8yS0Oj6kxHcM8tf3sqY8xFYrxJ76C8TCvTtCxYSweokWVI~oqMtBkAU1~m5n7TrC5OEBF9rPgAx0fiA6KSmBsBdspzhJErDiGDEdw42ZeCnwQew8fOgQtLjyI1-Y7X1MmQ7PucKXiAGtm7Kv8Dlm7FczGVmBbrKblasnP~H2zVenPXFvgQ21YjOVORpD0UreEnrLgIHG41X13RZjPr-YzO8trgul3DflHeWfw7PazAcLitwOgIwmtLtImJA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 #### Adding Questions Outside of Interview Templates
 
@@ -357,7 +357,7 @@ The updated Overview page provides administrators with a view of upskilling acti
 
   * **Updated charts and trends** : Improved visualizations highlight onboarding and certification trends over time, with clean charts that reveal patterns in adoption and outcomes.
 
-![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1192c737-c178-42fb-a98c-0a4e89459b2f-AD_4nXeplhgGePqxfveCXj8XYYX2PWibv9dj9DEMDk29I2e07vRFi3WY6X1i2JOZqliVU5V6AoLmwI0fweynoJ1l6ZmurG7Gaviz_1g8257X7ySn2F1El3Da_94cVuehVjLi4X73xXFh-bc58a6df-2d15-4cb4-88c2-dd61a4b22f97?Expires=253370764800&Signature=C1sA6eS1Eng-LRUlrLxQMRLfv-VUPg6hNJGczof6VEKPna~ASn88O598dTLLvT56UEgVg~JxEWDUARxLceljSk65HgSMbdXgEYWBRjtAwMBVjjgXi8yNSySKZxvDvx1Gw3VmRf9Naa40P9kwloLid8PuSVTzp3wSxtkyNAtp9I9eL1Z0Rm3P2VjMczULJHNOBfeGmziHdiEaL~p4qWHjrNrkEdDDnRtAFq9WaHFgIXBGSLg6Lx3yDX7IY0yx~QlUxG0HzETuu4JAL8qwo6SQDU9xixZwefQlx7cgSvVTpT8r9Vi0sC3H78CQPS9t3xm2F5q0UJom~pBx4i-LflsRQw__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1192c737-c178-42fb-a98c-0a4e89459b2f-AD_4nXeplhgGePqxfveCXj8XYYX2PWibv9dj9DEMDk29I2e07vRFi3WY6X1i2JOZqliVU5V6AoLmwI0fweynoJ1l6ZmurG7Gaviz_1g8257X7ySn2F1El3Da_94cVuehVjLi4X73xXFh-bc58a6df-2d15-4cb4-88c2-dd61a4b22f97?Expires=253370764800&Signature=C1sA6eS1Eng-LRUlrLxQMRLfv-VUPg6hNJGczof6VEKPna~ASn88O598dTLLvT56UEgVg~JxEWDUARxLceljSk65HgSMbdXgEYWBRjtAwMBVjjgXi8yNSySKZxvDvx1Gw3VmRf9Naa40P9kwloLid8PuSVTzp3wSxtkyNAtp9I9eL1Z0Rm3P2VjMczULJHNOBfeGmziHdiEaL~p4qWHjrNrkEdDDnRtAFq9WaHFgIXBGSLg6Lx3yDX7IY0yx~QlUxG0HzETuu4JAL8qwo6SQDU9xixZwefQlx7cgSvVTpT8r9Vi0sC3H78CQPS9t3xm2F5q0UJom~pBx4i-LflsRQw__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 For more information, see [Track Developer Progress Using Overview Dashboard](<https://support.hackerrank.com/articles/5272020175-track-developer-progress-using-overview-dashboard>).
 

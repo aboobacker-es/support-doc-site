@@ -41,7 +41,7 @@ Hidden test cases evaluate candidates on diverse edge cases without revealing in
 
   * Display only the candidate's output and debug messages during execution.
 
-![2024-11-22_15-58-35.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734993701188-35754799473555-8d1bb706-e480-45dd-a575-20cc8544d697?Expires=253370764800&Signature=FVpDDpr8vvYYFRy3kj0bLSIAHbU-Im7L~ELckxDWfL2eB8IgReOKzlIZWsEmW7hEJT5bX7NYoD9LRNeUjznFa~fS-xXEtoOHWbpY2re7cYm6QY1bWsjPvYscW89RQ-q703~YcDnp5ceA9ejQ~w3Z5TMRoZSZrq1YgkidsqGO~a0XmHCmA1PEZdG2aszJalISJyCOYdGIgAYCyTl3sFQMapYCkvzOkpJQLciHb-Oan5p-KptGQCYUQoTHFad-O6XuD-VNm57Ys7JqTvFArWMnsL8Z5GBhdPxkJ81uwdtH8NWO~h3bmKZhXUusJ8nLc515EGBEXh0bqCxHA2Zca9yW4w__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![2024-11-22_15-58-35.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734993701188-35754799473555-8d1bb706-e480-45dd-a575-20cc8544d697?Expires=253370764800&Signature=FVpDDpr8vvYYFRy3kj0bLSIAHbU-Im7L~ELckxDWfL2eB8IgReOKzlIZWsEmW7hEJT5bX7NYoD9LRNeUjznFa~fS-xXEtoOHWbpY2re7cYm6QY1bWsjPvYscW89RQ-q703~YcDnp5ceA9ejQ~w3Z5TMRoZSZrq1YgkidsqGO~a0XmHCmA1PEZdG2aszJalISJyCOYdGIgAYCyTl3sFQMapYCkvzOkpJQLciHb-Oan5p-KptGQCYUQoTHFad-O6XuD-VNm57Ys7JqTvFArWMnsL8Z5GBhdPxkJ81uwdtH8NWO~h3bmKZhXUusJ8nLc515EGBEXh0bqCxHA2Zca9yW4w__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 **Example Use Case:** For the same problem of identifying the first non-repeated character:
 

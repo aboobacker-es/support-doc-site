@@ -19,7 +19,7 @@ is_published: true
 
   1. **Access SSO Settings** : Navigate to the top right-hand side of the landing page, click on the down arrow under profile, and select **Settings** , followed by **Single Sign-On**.
 
-![2024-09-04_12-43-58.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046391640-?Expires=253370764800&Signature=rbFiFATLIU74-6m8OPrtnSO7gUElmCXaKZ194H6vtREI05K3p4mImbf93BvUFQSBmSCYtl-CVpPpW-KeB9z00WPXcTHub12zHI~knDYJDSYzc3Ppx96sPQut6YQBCWw3V7TwJWYpApVQ-0CgjwlRxMLTCgTjCFrfw0BUzL-JzThXFZFtPo7ll0LQxMptKNCFj11Umb7P0htr0ODGsAvzkM9oufYJtNzvDHzoE72V9mxwl8FGLtlgElqp86KOREjenzkwDRsb6pAt7jicfV6u6vIa1kgYfUgOYwmlThewYruGyVhLReK6PladQNy5cMxvhXeB4A1Y032h-AbGZ0p3xg__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![2024-09-04_12-43-58.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046391640-?Expires=253370764800&Signature=rbFiFATLIU74-6m8OPrtnSO7gUElmCXaKZ194H6vtREI05K3p4mImbf93BvUFQSBmSCYtl-CVpPpW-KeB9z00WPXcTHub12zHI~knDYJDSYzc3Ppx96sPQut6YQBCWw3V7TwJWYpApVQ-0CgjwlRxMLTCgTjCFrfw0BUzL-JzThXFZFtPo7ll0LQxMptKNCFj11Umb7P0htr0ODGsAvzkM9oufYJtNzvDHzoE72V9mxwl8FGLtlgElqp86KOREjenzkwDRsb6pAt7jicfV6u6vIa1kgYfUgOYwmlThewYruGyVhLReK6PladQNy5cMxvhXeB4A1Y032h-AbGZ0p3xg__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 2\. **Configure SSO:**
 
@@ -39,7 +39,7 @@ is_published: true
 
   * If needed, you can disable SSO at any time by clicking the **Disable SSO** button, which is highlighted in red.
 
-![2024-09-04_12-34-00.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1735004457388-33046957727379-00ff24ff-6911-4f36-9d2f-9ab12ce2ac9b?Expires=253370764800&Signature=hR1P0NKbVj9VG2lZfFgw0a2njq6nCB46P8VTi73QYa7ri6~f1--kjzNLPzX89MV6dP3E4~VH-tdbchUBGXebevu5Zi57SMjcR7--KJ1DczpThl35zVI5s-Q1OaEsOMo~u~IoV8riIX5rr5~FvlmSV4HlG9D2QI2saowp9wFnz1DbwfKEn5nZsXt7REr-OpFRS6mp1Ad~Cu7rhmZx2pcdmxjRnCLW3jmJEqaOJz-qKWU-TIS1wIGcTrPaxvx3qiLqEnzeHguRU04vDR7SYW3WdN6RQ~~mn~A9zhKO86qWXHzxX534YjiyNRFqxY8DXGJzaGcAULWubWH31lF5-o6ajg__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![2024-09-04_12-34-00.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1735004457388-33046957727379-00ff24ff-6911-4f36-9d2f-9ab12ce2ac9b?Expires=253370764800&Signature=hR1P0NKbVj9VG2lZfFgw0a2njq6nCB46P8VTi73QYa7ri6~f1--kjzNLPzX89MV6dP3E4~VH-tdbchUBGXebevu5Zi57SMjcR7--KJ1DczpThl35zVI5s-Q1OaEsOMo~u~IoV8riIX5rr5~FvlmSV4HlG9D2QI2saowp9wFnz1DbwfKEn5nZsXt7REr-OpFRS6mp1Ad~Cu7rhmZx2pcdmxjRnCLW3jmJEqaOJz-qKWU-TIS1wIGcTrPaxvx3qiLqEnzeHguRU04vDR7SYW3WdN6RQ~~mn~A9zhKO86qWXHzxX534YjiyNRFqxY8DXGJzaGcAULWubWH31lF5-o6ajg__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 ## SSO endpoints
 

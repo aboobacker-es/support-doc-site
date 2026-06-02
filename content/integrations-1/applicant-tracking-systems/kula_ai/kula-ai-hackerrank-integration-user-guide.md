@@ -29,12 +29,12 @@ To integrate Kula.ai with HackerRank:
 
   3. Go to **Integrations > Kula.ai**.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760430537345-image.png?Expires=253370764800&Signature=SgUO3r67vFAgLu52xq0b8zNQPk2ii8QWU1gSAXOvB1K8yFBMNYxcJL47BjI7UEepNZZJIlPz1kniL1wi18RaLfoUdpNbC9vwknLANimqg6DgxOi8tzZReszLxAOhAVZNe4pwRly0QR1edrDE8nyChyguCwBFHd98JCXnD0ivQlhGnWkMeQIpaUcvCfJG0oL9nUm6DPvVQEMBh7LnOqGYHplQ0lYl-fTpKb-Zz9HVWGiGPGKBruoIsacb4010~Ni~IKGyQOxxyXjxX3JrO7VlLI61AAq3V5dDah2HQewe7l9NJKYjU5VYB4VsKUqBiwyO218AqWlNOnhSPcCTVW38Yg__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760430537345-image.png?Expires=253370764800&Signature=SgUO3r67vFAgLu52xq0b8zNQPk2ii8QWU1gSAXOvB1K8yFBMNYxcJL47BjI7UEepNZZJIlPz1kniL1wi18RaLfoUdpNbC9vwknLANimqg6DgxOi8tzZReszLxAOhAVZNe4pwRly0QR1edrDE8nyChyguCwBFHd98JCXnD0ivQlhGnWkMeQIpaUcvCfJG0oL9nUm6DPvVQEMBh7LnOqGYHplQ0lYl-fTpKb-Zz9HVWGiGPGKBruoIsacb4010~Ni~IKGyQOxxyXjxX3JrO7VlLI61AAq3V5dDah2HQewe7l9NJKYjU5VYB4VsKUqBiwyO218AqWlNOnhSPcCTVW38Yg__&Key-Pair-Id=K3NV4LZ47N8M46)
   4. Click **Connect**.
 
   5. In the **Configuration** tab, click **Generate an API Token** to generate an API key.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760431378680-image.png?Expires=253370764800&Signature=p2W4BwXDTa2nv0wnYZyfDfU6N6r0sID3ki16sW7cqBML~4x~GUiVMCtUR1IoAK-ce~b1bOw67aPLoJF-YCNmDGIM3xo5plzObgsr6adlHtzxMV3h~293mztvStJn8Da5oGam3QqGZR2NtYsLjje04GxTK-5aWGe15gZuaNDE-39mDQ92KbeoSB88lQkXeptAEjrbFI-4tTPv1x-TcVREY0jPMwxAZYtgsxajdAxG~QJ8TyqXMb3ndjpHnaGm7GlL-ikA9CojRprJ9gO2DYZWPf27DFp4krSAGlPbpw6i7gbxOoLCkcczQH27Gij1d0PEtwT~xZ1K~zrcVLhAwoQNLA__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760431378680-image.png?Expires=253370764800&Signature=p2W4BwXDTa2nv0wnYZyfDfU6N6r0sID3ki16sW7cqBML~4x~GUiVMCtUR1IoAK-ce~b1bOw67aPLoJF-YCNmDGIM3xo5plzObgsr6adlHtzxMV3h~293mztvStJn8Da5oGam3QqGZR2NtYsLjje04GxTK-5aWGe15gZuaNDE-39mDQ92KbeoSB88lQkXeptAEjrbFI-4tTPv1x-TcVREY0jPMwxAZYtgsxajdAxG~QJ8TyqXMb3ndjpHnaGm7GlL-ikA9CojRprJ9gO2DYZWPf27DFp4krSAGlPbpw6i7gbxOoLCkcczQH27Gij1d0PEtwT~xZ1K~zrcVLhAwoQNLA__&Key-Pair-Id=K3NV4LZ47N8M46)
   6. Click **Copy and close** to copy your token. You need this token in Step 2: Share the token with the Kula.ai team.
 
 :::note

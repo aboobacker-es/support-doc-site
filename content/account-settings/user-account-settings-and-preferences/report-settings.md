@@ -15,7 +15,7 @@ You can set up or change your preferences for the Microsoft Excel CSV reports ge
 
   * You can find the Report Settings placed on the left pane under User settings on the settings page. 
 
-![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046748653-?Expires=253370764800&Signature=scxZS3nP9MKibWNoYQ3js6hZbPo2n2ORzvbqZpknITcyWCBmlvgKYdpxPlUDtN33pajsp48jerazcVbofG-U-0uWiaoUR4gqcI31IQ48Fvmku8P~nGE5zW~6m-NdED-d4dxPXh0s23~puyaIHs8c7-08Ru5BN5czyZIoTuItRsIeTSvsqe0c8eD6RAxRLZ2-ERU0YHviIOFuwHv9DKE5wFboTPa4XT-CXMbYufZmakNRo6Z2JjFmE3zFsh2hYsX6xyXP7VvTXgqP3bx5s~kVehaaxFT3pseaQtM59cIM2kSLN5nRIhPVtZc4c9nqcAzWzPzXT1VbCqI1-1e0SQ7VNA__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046748653-?Expires=253370764800&Signature=scxZS3nP9MKibWNoYQ3js6hZbPo2n2ORzvbqZpknITcyWCBmlvgKYdpxPlUDtN33pajsp48jerazcVbofG-U-0uWiaoUR4gqcI31IQ48Fvmku8P~nGE5zW~6m-NdED-d4dxPXh0s23~puyaIHs8c7-08Ru5BN5czyZIoTuItRsIeTSvsqe0c8eD6RAxRLZ2-ERU0YHviIOFuwHv9DKE5wFboTPa4XT-CXMbYufZmakNRo6Z2JjFmE3zFsh2hYsX6xyXP7VvTXgqP3bx5s~kVehaaxFT3pseaQtM59cIM2kSLN5nRIhPVtZc4c9nqcAzWzPzXT1VbCqI1-1e0SQ7VNA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 ## Components of Report Settings
 

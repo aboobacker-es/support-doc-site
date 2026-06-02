@@ -41,13 +41,13 @@ This article provides you with detailed integration steps and also describes how
 
   3. Click**Settings**.
 
-![settings.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047098785-?Expires=253370764800&Signature=ItDyr46xUbsa38as7T~NcnEb6qUDHaqyH~j~XyMGO7dRYLOJeeAeYi5GpKa-89hnHgrYqXisHVjec2rEX1xm67qDmy4BMIiOo4IRHF9t0P~3~AXx5yN7uyLkTK7yvu~MP0QObfaEHwQ45X7rL4x2LicOtnQO2AWwhuCu~w5hnjd~5wKkmECmBggYOIYN3IDnFiTPFQL8U8Nz1XO0OsXmm-E8cnP6x~ssKhZHB8mjpnQzViEK-sZFfA7TU2O6eyDITr2dtY2v~PfxmxAijQ8QNTAG6239gyxj6q2DVVeMIO9-qrjEBtL8xArkmXUUA~TliDEJpPfdfkf0EaWKJLw5JA__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![settings.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047098785-?Expires=253370764800&Signature=ItDyr46xUbsa38as7T~NcnEb6qUDHaqyH~j~XyMGO7dRYLOJeeAeYi5GpKa-89hnHgrYqXisHVjec2rEX1xm67qDmy4BMIiOo4IRHF9t0P~3~AXx5yN7uyLkTK7yvu~MP0QObfaEHwQ45X7rL4x2LicOtnQO2AWwhuCu~w5hnjd~5wKkmECmBggYOIYN3IDnFiTPFQL8U8Nz1XO0OsXmm-E8cnP6x~ssKhZHB8mjpnQzViEK-sZFfA7TU2O6eyDITr2dtY2v~PfxmxAijQ8QNTAG6239gyxj6q2DVVeMIO9-qrjEBtL8xArkmXUUA~TliDEJpPfdfkf0EaWKJLw5JA__&Key-Pair-Id=K3NV4LZ47N8M46)
   4. On the left pane, click**Integrations.** The**Integrations** page is displayed. Scroll down and click **Configure** on the **Lever** option. You can also search the Integration from the Search bar.
 
-![gh_connect.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047099521-?Expires=253370764800&Signature=WBS28J25bqLB3OvmUo0m6HIRNSgBnaQmLsc7spVA4ppuNLrA1WAXCV6UyGAjQhfmYPcmUPLgEV6wL5qDVAUUI-Bwj07L3XeIRvASleE81SX0I3YThQPd~SqKrON6Tu~uj6Ez0D6pzfhQe9h4BpDW0fSSIWoCDL6CEj51Enx2qItQIaeSgWBt9t7CF27blovNvA-MztYHRiM7fwM5NpdjEQ3ZqZPjkwqpA-~~SG4ZEP1A~i92joVrabk~wWq1uPThC6bs5HB3sMeUv~D6QnJpoRAQOFw~6pIwGdctCmMmOvsCRdxJy5WWtBFEiEtHTlMFyZs8w~n86OPZDXXF9WLbPA__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![gh_connect.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047099521-?Expires=253370764800&Signature=WBS28J25bqLB3OvmUo0m6HIRNSgBnaQmLsc7spVA4ppuNLrA1WAXCV6UyGAjQhfmYPcmUPLgEV6wL5qDVAUUI-Bwj07L3XeIRvASleE81SX0I3YThQPd~SqKrON6Tu~uj6Ez0D6pzfhQe9h4BpDW0fSSIWoCDL6CEj51Enx2qItQIaeSgWBt9t7CF27blovNvA-MztYHRiM7fwM5NpdjEQ3ZqZPjkwqpA-~~SG4ZEP1A~i92joVrabk~wWq1uPThC6bs5HB3sMeUv~D6QnJpoRAQOFw~6pIwGdctCmMmOvsCRdxJy5WWtBFEiEtHTlMFyZs8w~n86OPZDXXF9WLbPA__&Key-Pair-Id=K3NV4LZ47N8M46)
   5. Click **Generate API Token** to generate the API token.
 
-![integ_lever.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047099928-?Expires=253370764800&Signature=BiO9pP-Xx7e6BMmaiPUeAs81j9G2noK2FI3GNJ~PlfDoE-hZCQipRT5c9DF0i4yV6Soz7xRZ4OBeeKeielTP4b2yGGqWwkRcc5N-IDqqpXNqQnjD1DQN8MOZtha1xVTmdFpRHldCtn~diuOqxN9pITZjrssZ-YFgB90WMdhs~ZM0yv1rvnknCh7HWlqH5IBlUF3HcjQYFdxZRvPdU92KuuV02NdPsoMNF1-5D1dR29OycrGHUV5IJY9ayBSCV8vj0WXJWwc5tw7V1N6uXGU4xfe05rLodV4kQH7F8ET44vlOa31jmgv4ayJi93DQd6X9UipByW81Qh0haRJcv0Isfw__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![integ_lever.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047099928-?Expires=253370764800&Signature=BiO9pP-Xx7e6BMmaiPUeAs81j9G2noK2FI3GNJ~PlfDoE-hZCQipRT5c9DF0i4yV6Soz7xRZ4OBeeKeielTP4b2yGGqWwkRcc5N-IDqqpXNqQnjD1DQN8MOZtha1xVTmdFpRHldCtn~diuOqxN9pITZjrssZ-YFgB90WMdhs~ZM0yv1rvnknCh7HWlqH5IBlUF3HcjQYFdxZRvPdU92KuuV02NdPsoMNF1-5D1dR29OycrGHUV5IJY9ayBSCV8vj0WXJWwc5tw7V1N6uXGU4xfe05rLodV4kQH7F8ET44vlOa31jmgv4ayJi93DQd6X9UipByW81Qh0haRJcv0Isfw__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 A unique API Key is displayed. 
 
@@ -75,7 +75,7 @@ When a new user is added to the Lever account, the user needs this key to set up
 
   2. Scroll down on the page to the **Interviewing** section, and enable the **HackerRank - Tests** option. 
 
-![HackerRank_Tests_option_in_Lever.jpg](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047100303-?Expires=253370764800&Signature=Z2Qo0aI8jTOMxedGmYTqb3Bh0kKRf4BJVqNpfr73uTu7ClYmaKo3nuyWso8DJVJIOAGSPtSoHdnLKdqCUW9pTYv-Z5--WpJHSoEdozY9EzXl9s-jiVqucKDOygVfl7oq4csCH5571MYMTRyCz1fZgXDYad6Q8KNG7TXdwzGdAtb~jequl4KGlNJ9giKwim4FNp1enhmcynMqoA4gF-m~tIPbil39GCjjVlGAUxndaFbYM2QDf2TlpSYpgHACwhs6nfJO7JNCAG7X7Pnq0Xtw80mRWRBOxZCdJgwBuemmJABFBFaZljoIHboCxMUzVjHLsYMYsYiuo2O9GPZsOV5ohw__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![HackerRank_Tests_option_in_Lever.jpg](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047100303-?Expires=253370764800&Signature=Z2Qo0aI8jTOMxedGmYTqb3Bh0kKRf4BJVqNpfr73uTu7ClYmaKo3nuyWso8DJVJIOAGSPtSoHdnLKdqCUW9pTYv-Z5--WpJHSoEdozY9EzXl9s-jiVqucKDOygVfl7oq4csCH5571MYMTRyCz1fZgXDYad6Q8KNG7TXdwzGdAtb~jequl4KGlNJ9giKwim4FNp1enhmcynMqoA4gF-m~tIPbil39GCjjVlGAUxndaFbYM2QDf2TlpSYpgHACwhs6nfJO7JNCAG7X7Pnq0Xtw80mRWRBOxZCdJgwBuemmJABFBFaZljoIHboCxMUzVjHLsYMYsYiuo2O9GPZsOV5ohw__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 _Enabling the "HackerRank Tests" integration in Lever_
 
@@ -85,7 +85,7 @@ _Enabling the "HackerRank Tests" integration in Lever_
 
   5. Click on the **Done** button.
 
-![verify_token.jpg](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047100762-?Expires=253370764800&Signature=WIuI3d6FA6bu1wJunKTN3frL6qabImcSVIH267j5DcgZvDkftJ1q9~kubAfBfIMcEbz68zkoPqxBfwlB8EIi-y10ioRphUBmixl2Z9IWXpvuzi6L7BFJuxWiUgtxsjt~pNDWP6Jj3vRfWlukFw7JPjvT0Ly5YQEoSgTg1rncxqRKrbIvJW4Y8--lxYLLT7SvUIo-kEFaJxpr3PbAaxhxztyMDiVYholzDCzdk4XZmiNLwuTv74ppLA~i~bPa7P49geu9M3IEjbRLSqIohb9CzT-l4-fMaeH1kTOyWIH44lGUn-wwsCNjwI-MZhRwfoZXydNo36W2dm5m9NzeNV0h0Q__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![verify_token.jpg](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047100762-?Expires=253370764800&Signature=WIuI3d6FA6bu1wJunKTN3frL6qabImcSVIH267j5DcgZvDkftJ1q9~kubAfBfIMcEbz68zkoPqxBfwlB8EIi-y10ioRphUBmixl2Z9IWXpvuzi6L7BFJuxWiUgtxsjt~pNDWP6Jj3vRfWlukFw7JPjvT0Ly5YQEoSgTg1rncxqRKrbIvJW4Y8--lxYLLT7SvUIo-kEFaJxpr3PbAaxhxztyMDiVYholzDCzdk4XZmiNLwuTv74ppLA~i~bPa7P49geu9M3IEjbRLSqIohb9CzT-l4-fMaeH1kTOyWIH44lGUn-wwsCNjwI-MZhRwfoZXydNo36W2dm5m9NzeNV0h0Q__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 _Verifying the authentication request from Lever to HackerRank Tests_
 
@@ -135,7 +135,7 @@ In the Send test window,
 
   4. Click on the **Send Test** to send the HackerRank Test email invite.
 
-![choose_a_Test.jpg](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047102635-?Expires=253370764800&Signature=jl1miRmAyTkNUVbrEyHpBx6vwRFbFFhvYPZ3wGR5agn-xGKpH-8HItr1xH62h-8CKHNkO1sCTzVVP6GXLoxl5rcznPwmW2OKo9Avyp8ws-2GYZEZD-DfvrI4ZqyAb7iA6auIY6F8QrPyhbHwrj509fwMLOHxrkOnssbQUPVkVnvwdl71hlKgBncFulabJDaygUlgr3HYlflz9oGZbsut0TgZj1aeSgKvW046YkjMXqCzGjoF4p2rEZn~8V4~HG6xPi2Edl4RingVkPm0ZoTbR4kL6QJTNtW8lX8s91XiC270drKIElJxl3ql8mQ2WGV4Fxy3VNnpG0rz01Scf1Jj6A__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![choose_a_Test.jpg](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047102635-?Expires=253370764800&Signature=jl1miRmAyTkNUVbrEyHpBx6vwRFbFFhvYPZ3wGR5agn-xGKpH-8HItr1xH62h-8CKHNkO1sCTzVVP6GXLoxl5rcznPwmW2OKo9Avyp8ws-2GYZEZD-DfvrI4ZqyAb7iA6auIY6F8QrPyhbHwrj509fwMLOHxrkOnssbQUPVkVnvwdl71hlKgBncFulabJDaygUlgr3HYlflz9oGZbsut0TgZj1aeSgKvW046YkjMXqCzGjoF4p2rEZn~8V4~HG6xPi2Edl4RingVkPm0ZoTbR4kL6QJTNtW8lX8s91XiC270drKIElJxl3ql8mQ2WGV4Fxy3VNnpG0rz01Scf1Jj6A__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 When the Test invite is sent, you can see the **Pending** status in the candidate's profile.
 

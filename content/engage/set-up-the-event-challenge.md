@@ -23,7 +23,7 @@ To review recommended questions:
 
   4. Click the arrow icon next to a question to preview it. The question opens in a pop-up window.
 
-![set1.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760516747602-set1.png?Expires=253370764800&Signature=ek5fV93Hf6mjXVQl59eo8jhQZP0bg0ddl4npUSsKMCXygtH38J1Hh9HkKj5i3EHRWddi~Gb5XTXvH4c3VznOz6jfLi1g-66pTw6HdZVYkO4e54euhlqZ0FnFbExxrsC8zxrCZywz-5FGAJUdI9jWAbx6GUryZz9jnyHUbD6yVA7zotP~x4zB8IPJx3C~RHtLpspNW6lJ1E9~oiKEB5QfZXJQGrHsvlTOLFRMmC6ZHkgy1Js1faggVc6E~yJYNLleZi0lAWwEOLpPD1Vg8O2DwREYMWvHqqjsNhhFLMrLQ~HehYbS~Ol8yHVKv~TME7axcMTCkeHDzlohTTWy29NDQw__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![set1.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760516747602-set1.png?Expires=253370764800&Signature=ek5fV93Hf6mjXVQl59eo8jhQZP0bg0ddl4npUSsKMCXygtH38J1Hh9HkKj5i3EHRWddi~Gb5XTXvH4c3VznOz6jfLi1g-66pTw6HdZVYkO4e54euhlqZ0FnFbExxrsC8zxrCZywz-5FGAJUdI9jWAbx6GUryZz9jnyHUbD6yVA7zotP~x4zB8IPJx3C~RHtLpspNW6lJ1E9~oiKEB5QfZXJQGrHsvlTOLFRMmC6ZHkgy1Js1faggVc6E~yJYNLleZi0lAWwEOLpPD1Vg8O2DwREYMWvHqqjsNhhFLMrLQ~HehYbS~Ol8yHVKv~TME7axcMTCkeHDzlohTTWy29NDQw__&Key-Pair-Id=K3NV4LZ47N8M46)
   5. Review all the recommended questions before publishing the challenge.
 
 :::note

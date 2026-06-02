@@ -19,28 +19,28 @@ To create a multiple choice question:
 
   3. Click **Create Question**.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1771491010257-image.png?Expires=253370764800&Signature=opPvkp5AYbc080mRAIIX2ZIfyH173mdGucVN1e5o-Uz57gt7uKNAcnYP4pyg2YBXJ7TZqRBuG4dJ-h8Jk-P7z5-2JGzk9aXa5SJa~SHaQ4GGtSM15ddHX0OoITACY0DVkRqer3LRrzv47zomneVT42006BFDxDwWg6~9ONYbJXEOeU4Hfifnrhg8qk31bdW-T17PZLPdeO4FFWZpeu1mvAbEc8HG72iNGyvj5yL7YlqNcSwPb0juUD9NzdA9P34TCB5NMa8vZpkgqLqF9YtFJXxW46zwQcA3CZ1su0tZzbjSNxmKEYg51KHS6H1zpLdcGMCn7x5hDsT2-F9dShcZeQ__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1771491010257-image.png?Expires=253370764800&Signature=opPvkp5AYbc080mRAIIX2ZIfyH173mdGucVN1e5o-Uz57gt7uKNAcnYP4pyg2YBXJ7TZqRBuG4dJ-h8Jk-P7z5-2JGzk9aXa5SJa~SHaQ4GGtSM15ddHX0OoITACY0DVkRqer3LRrzv47zomneVT42006BFDxDwWg6~9ONYbJXEOeU4Hfifnrhg8qk31bdW-T17PZLPdeO4FFWZpeu1mvAbEc8HG72iNGyvj5yL7YlqNcSwPb0juUD9NzdA9P34TCB5NMa8vZpkgqLqF9YtFJXxW46zwQcA3CZ1su0tZzbjSNxmKEYg51KHS6H1zpLdcGMCn7x5hDsT2-F9dShcZeQ__&Key-Pair-Id=K3NV4LZ47N8M46)
   4. Select **Multiple Choice** under **General**.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1771491060023-image.png?Expires=253370764800&Signature=Db-11iTizOuzbD3IHzEb5JicnCrSqG0Gfc6FLBuTNNq-e1zbeFK8vKhFTK3g7GZfUxW6~X6mi8GcTbuubcLu3N3qHSX1DDu-uwvmxVlU7ekXDOgP5aA3LVZAIdCWhAewCR1BntxIw2RfnfVWtkkWO0OOSUeGIxjx9IuNutZPl66JlpvT7rFIpBFRBtgwbAll~i-Ko5KIw-fiDM38VzBM69W0Jrhu-kM7pIih-35otdS7H4lg70BnQQZfy8~3HuMgRKVMyXdFQmYP42~aOB65RyB2omCoI44qVjGNY23H64w70wsvR3qKb2VRMrRtO7VLUycVqEh2MjR28IgkazLhag__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1771491060023-image.png?Expires=253370764800&Signature=Db-11iTizOuzbD3IHzEb5JicnCrSqG0Gfc6FLBuTNNq-e1zbeFK8vKhFTK3g7GZfUxW6~X6mi8GcTbuubcLu3N3qHSX1DDu-uwvmxVlU7ekXDOgP5aA3LVZAIdCWhAewCR1BntxIw2RfnfVWtkkWO0OOSUeGIxjx9IuNutZPl66JlpvT7rFIpBFRBtgwbAll~i-Ko5KIw-fiDM38VzBM69W0Jrhu-kM7pIih-35otdS7H4lg70BnQQZfy8~3HuMgRKVMyXdFQmYP42~aOB65RyB2omCoI44qVjGNY23H64w70wsvR3qKb2VRMrRtO7VLUycVqEh2MjR28IgkazLhag__&Key-Pair-Id=K3NV4LZ47N8M46)
   5. In the **Problem details** section: 
 
      1. Enter the **Question name.**
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1771491109363-image.png?Expires=253370764800&Signature=K~P1HaAJfZ00n~DSORn5xWVfnuNVQ3jZ5XfgUQlWkB6wt-6LGMgXRddy-kMR9dmAsc5LBwdn~ABDh2m0QvHVmDDhS2EDr254AulQWALuwq56v6lSt2AslN8tGljGjhdBTI748-hYlU-3J6bEErpCgFjZ3D45zATfY4jqEmM0QQ8v2RQlVBC76CDdLcdEFFSleXIv7xBHhfbpGgThYXftGVWtsuEfdQ762lKqo2a6wiPj6RnkUGkgjhafn~eLiKQ1dtsLh-B35KS7fnaWqmkCDQF9iwu9n5UesoH32Uilb8iuutU2qeEtMzTNynEqp44yGqB3qK0gXEtnvTwkC1yXEA__&Key-Pair-Id=K3NV4LZ47N8M46)
+        ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1771491109363-image.png?Expires=253370764800&Signature=K~P1HaAJfZ00n~DSORn5xWVfnuNVQ3jZ5XfgUQlWkB6wt-6LGMgXRddy-kMR9dmAsc5LBwdn~ABDh2m0QvHVmDDhS2EDr254AulQWALuwq56v6lSt2AslN8tGljGjhdBTI748-hYlU-3J6bEErpCgFjZ3D45zATfY4jqEmM0QQ8v2RQlVBC76CDdLcdEFFSleXIv7xBHhfbpGgThYXftGVWtsuEfdQ762lKqo2a6wiPj6RnkUGkgjhafn~eLiKQ1dtsLh-B35KS7fnaWqmkCDQF9iwu9n5UesoH32Uilb8iuutU2qeEtMzTNynEqp44yGqB3qK0gXEtnvTwkC1yXEA__&Key-Pair-Id=K3NV4LZ47N8M46)
      2. Describe the problem in the **Problem description** field. You can use the formatting menu to format the text or to include elements such as tables or images.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1771491088048-image.png?Expires=253370764800&Signature=ONTDr6aTj7gR35OAxlLUsuxu7cuzNOSfG5Ya5JheYnbe75X0luprZq9XWYkVxUWafnJfgQmdvfx0Douvi6tqyrSNYk-8wXZCPPodNH9-dTUdP2jlCCYcR3qBIyYwvx1gKJ0yNNzXkzDS2NQMTcmIuE-MX7I188vQTWob7zUwpsIBDjsuV~Q2h8vzpMSXNsnuXTkxgxiqBC~8q2N~Xbi6Z~rpl7Z80Kgd6ix66feObOMuuMpJ5OjQWEu~VkxDXCiXoFY0UARbsQh9jXqOzfUBPyjV4Cn542YhOZiV3pQD~tZYDfdJbqf0DJtOmu74ofM4hffmUIGa8~UDodppk~mQCA__&Key-Pair-Id=K3NV4LZ47N8M46)
+        ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1771491088048-image.png?Expires=253370764800&Signature=ONTDr6aTj7gR35OAxlLUsuxu7cuzNOSfG5Ya5JheYnbe75X0luprZq9XWYkVxUWafnJfgQmdvfx0Douvi6tqyrSNYk-8wXZCPPodNH9-dTUdP2jlCCYcR3qBIyYwvx1gKJ0yNNzXkzDS2NQMTcmIuE-MX7I188vQTWob7zUwpsIBDjsuV~Q2h8vzpMSXNsnuXTkxgxiqBC~8q2N~Xbi6Z~rpl7Z80Kgd6ix66feObOMuuMpJ5OjQWEu~VkxDXCiXoFY0UARbsQh9jXqOzfUBPyjV4Cn542YhOZiV3pQD~tZYDfdJbqf0DJtOmu74ofM4hffmUIGa8~UDodppk~mQCA__&Key-Pair-Id=K3NV4LZ47N8M46)
      3. Select the **Type:**
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1771491167548-image.png?Expires=253370764800&Signature=sxuZO15R2wATvu1tPaI8a36FsV73f1kCVNuygwoSP1f2M4lbOg6V5rLqWAFRNah0gq13DgpprFLqhJEhkeTjnf4Bfa4-wSFmsd6houPGFRkB74T6YaSWCRu71SQQlRDvZiiTf-x7UH0oSEd72e90MY0hMWax65SDITQwEEvpPUXVz4RNubUsEZuB3wOqncRGrlbzKeVHEEMn8ZYH8KGZk46raWsh-nEceAi95cybBRJdvQ4SCB3hOLAKn1aH-~SqoAI-WMdKc17ASvb9vyEFGX-H3-JwVJo2dohftEjZnB-Jx9wQYyqSHoK0e0VOSLvJU5z00aCR8TO47pB0d7mp3Q__&Key-Pair-Id=K3NV4LZ47N8M46)
+        ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1771491167548-image.png?Expires=253370764800&Signature=sxuZO15R2wATvu1tPaI8a36FsV73f1kCVNuygwoSP1f2M4lbOg6V5rLqWAFRNah0gq13DgpprFLqhJEhkeTjnf4Bfa4-wSFmsd6houPGFRkB74T6YaSWCRu71SQQlRDvZiiTf-x7UH0oSEd72e90MY0hMWax65SDITQwEEvpPUXVz4RNubUsEZuB3wOqncRGrlbzKeVHEEMn8ZYH8KGZk46raWsh-nEceAi95cybBRJdvQ4SCB3hOLAKn1aH-~SqoAI-WMdKc17ASvb9vyEFGX-H3-JwVJo2dohftEjZnB-Jx9wQYyqSHoK0e0VOSLvJU5z00aCR8TO47pB0d7mp3Q__&Key-Pair-Id=K3NV4LZ47N8M46)
         * **Single Correct Answer** : Select this option if only one answer is correct.
 
         * **Multiple Correct Answers** : Select this option if more than one answer is correct.
 
      4. Enter the answer options in the **Choices** field.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1771491148739-image.png?Expires=253370764800&Signature=IJuNJO2jmyp52eybMCBBYrKk5BcCY0zB2VLCjtmxsWLV~BbJP-~qX0rpMkrycrsYBb~jDdzAcSoifACXrIjf1HqFPv7P0DkHOTCF4qCfUhro8u9oLqZKQMoFgidbOqX6E~e0SdFAOehYLuczwa-yQ1KGAjdU2A6zBvipjjyagSaX9mfOrO4TF3C2qXKbjZzmxw0lZxqdkEUOBGaW6Be26c7RszODZ-GWHAJta6rMJDkF~mf~3HlmUAiehkgBFhMrNfclrntiJdVquu1Uoi2VWnNhGmO8exfsCfrl50HqHaZQrt8eUSYLzxElOc4fixE6iMrrgxyu8QKpD1OFFDd8rA__&Key-Pair-Id=K3NV4LZ47N8M46)
+        ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1771491148739-image.png?Expires=253370764800&Signature=IJuNJO2jmyp52eybMCBBYrKk5BcCY0zB2VLCjtmxsWLV~BbJP-~qX0rpMkrycrsYBb~jDdzAcSoifACXrIjf1HqFPv7P0DkHOTCF4qCfUhro8u9oLqZKQMoFgidbOqX6E~e0SdFAOehYLuczwa-yQ1KGAjdU2A6zBvipjjyagSaX9mfOrO4TF3C2qXKbjZzmxw0lZxqdkEUOBGaW6Be26c7RszODZ-GWHAJta6rMJDkF~mf~3HlmUAiehkgBFhMrNfclrntiJdVquu1Uoi2VWnNhGmO8exfsCfrl50HqHaZQrt8eUSYLzxElOc4fixE6iMrrgxyu8QKpD1OFFDd8rA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 By default, the system provides four options. You can update the choices in the following ways:
 
@@ -60,7 +60,7 @@ By default, the system provides four options. You can update the choices in the 
 
   6. In the **Question properties** section:
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1771491414477-image.png?Expires=253370764800&Signature=MVnI2YLXzErZ-D5GNtt1jbOPxn0cFA9EnSj5PgFazmNz4nQKighPWaP9wXguSD3TTUsXav-Obs8Vy-1gHeFUF4tDduLQepL2lWTJtaWf0YgjWYeTK0QwLt~ZCU0rXyLcmq0ZoeE6W~MixZmaKskseZVG1avqwJwugQ3ZluSp6iYSlyau9GaeHdarB1zjby3qwx1a4ZIDaqAYYSdkV7utgcKmr4mHKT~b9MJ8fCr2NCtoEqHEPhgiY-4nc3bDqUNb~h-pPBVVWEXozk6X3wwLxSt2lXiRwMZZEcYtp33y~o5nEWCn4csSgz8lxgoBaic7403JvCDiYgdkP2AD8huUGA__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1771491414477-image.png?Expires=253370764800&Signature=MVnI2YLXzErZ-D5GNtt1jbOPxn0cFA9EnSj5PgFazmNz4nQKighPWaP9wXguSD3TTUsXav-Obs8Vy-1gHeFUF4tDduLQepL2lWTJtaWf0YgjWYeTK0QwLt~ZCU0rXyLcmq0ZoeE6W~MixZmaKskseZVG1avqwJwugQ3ZluSp6iYSlyau9GaeHdarB1zjby3qwx1a4ZIDaqAYYSdkV7utgcKmr4mHKT~b9MJ8fCr2NCtoEqHEPhgiY-4nc3bDqUNb~h-pPBVVWEXozk6X3wwLxSt2lXiRwMZZEcYtp33y~o5nEWCn4csSgz8lxgoBaic7403JvCDiYgdkP2AD8huUGA__&Key-Pair-Id=K3NV4LZ47N8M46)
      1. Enter the **Score** based on difficulty. 
 
      2. Add **Recommended time** in minutes.
@@ -69,7 +69,7 @@ By default, the system provides four options. You can update the choices in the 
 
   7. (Optional) Add **Interviewer guidelines** for internal use, such as evaluation notes and hints.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1771491456863-image.png?Expires=253370764800&Signature=urkbPswFnfLCfyJ55QzVIED4ILUGETfctEIWKZf4y1cv2-sDNW7td~2unlgkhdW7d6xjfFv2HOUeqlZKohNCPe70Gj0lVannWVpL~6YkD~y9O0MOv2La8GaVev5heNrApAXCrp8RyCW8CmHiU1rvGIee3qVofYXzjf5UxfIXKRm~Qf-TFe5kNWNr3HE1WluwozdHTvAIgVTXhobdKL9TKYjduXfVsga5gdhjklq2dg0FoziX-ODWE3AjCIS6347ZLDn3Ee~9oPJ09ER9KwpKCyHXS942AB8WrGaYOaHfeD9Ox-sW0dTtH1MgK7geVNjyozBVZS8LVuRuwcUjZwDd0Q__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1771491456863-image.png?Expires=253370764800&Signature=urkbPswFnfLCfyJ55QzVIED4ILUGETfctEIWKZf4y1cv2-sDNW7td~2unlgkhdW7d6xjfFv2HOUeqlZKohNCPe70Gj0lVannWVpL~6YkD~y9O0MOv2La8GaVev5heNrApAXCrp8RyCW8CmHiU1rvGIee3qVofYXzjf5UxfIXKRm~Qf-TFe5kNWNr3HE1WluwozdHTvAIgVTXhobdKL9TKYjduXfVsga5gdhjklq2dg0FoziX-ODWE3AjCIS6347ZLDn3Ee~9oPJ09ER9KwpKCyHXS942AB8WrGaYOaHfeD9Ox-sW0dTtH1MgK7geVNjyozBVZS8LVuRuwcUjZwDd0Q__&Key-Pair-Id=K3NV4LZ47N8M46)
   8. Click **Save question**.
 
 :::note
@@ -86,10 +86,10 @@ To bulk upload multiple choice questions:
 
   1. In the **Problem details** section, click **Bulk Upload**.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1771491509828-image.png?Expires=253370764800&Signature=DGRx32jFFeBK6OWCPgCRwe5Ddb0FOqBLltkDrM6a8tX4M6~TtCB4mxa6befjwNKBWO5LGnV8UOf6Br7PIzJxCZmKwIxs0cZ7KkDqfWXTRNI2UQKm0OeB2lSGNKY4iP3Sd4L014R6rZc6smOjH07X1YGi5kMJIJHkAQ9ZuijdYOWLrul7mVmYh7sCRUHP1wY7a3lh06H1IdsQVxi~GKi1Ygnymj3OfKEE6eCKogrPnF2rJFMoN79bUOQFariSFb-1cHl3-xEVOvvCSmmJo1ExR~LXckRMhuwW3ZZtjLq3488aTBEBA2RR2nFWPFFt6EOacS9KwfsC62~62MKT8gd9Qg__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1771491509828-image.png?Expires=253370764800&Signature=DGRx32jFFeBK6OWCPgCRwe5Ddb0FOqBLltkDrM6a8tX4M6~TtCB4mxa6befjwNKBWO5LGnV8UOf6Br7PIzJxCZmKwIxs0cZ7KkDqfWXTRNI2UQKm0OeB2lSGNKY4iP3Sd4L014R6rZc6smOjH07X1YGi5kMJIJHkAQ9ZuijdYOWLrul7mVmYh7sCRUHP1wY7a3lh06H1IdsQVxi~GKi1Ygnymj3OfKEE6eCKogrPnF2rJFMoN79bUOQFariSFb-1cHl3-xEVOvvCSmmJo1ExR~LXckRMhuwW3ZZtjLq3488aTBEBA2RR2nFWPFFt6EOacS9KwfsC62~62MKT8gd9Qg__&Key-Pair-Id=K3NV4LZ47N8M46)
   2. Click **Browse File** to upload a file.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1771491528954-image.png?Expires=253370764800&Signature=QTVBtjz4pthXTdP~z1naqzbF-UtQxQ7AaULsjZ~qY~tfUQDh4vGWiG~YPXZH~Ug-5akkBSJ1aGsNdRnWhzzi4uAgwITodwzQKXr2gOkG1hiErDWx7A8xsq1fShfmQ6q6fdXHj0W~iP6boHo~zXebTttb3RIaWYD5D5OqE~iBYXGKefYSevRzc0lUTVP4XPVgp4gxrgHMVaCdGrvuQQaYNa6bcsMa9~jtCwnFqx~OlqKZShVdgszLzFf2z~EebfnLBkOc2SmfOUVZg38rQzNT9-mFBXpl-IquQ3sUyBtiyVsbezWBj1mR2hfnlqz5-A1C~faJL6pxl8TLfRi-T97E6g__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1771491528954-image.png?Expires=253370764800&Signature=QTVBtjz4pthXTdP~z1naqzbF-UtQxQ7AaULsjZ~qY~tfUQDh4vGWiG~YPXZH~Ug-5akkBSJ1aGsNdRnWhzzi4uAgwITodwzQKXr2gOkG1hiErDWx7A8xsq1fShfmQ6q6fdXHj0W~iP6boHo~zXebTttb3RIaWYD5D5OqE~iBYXGKefYSevRzc0lUTVP4XPVgp4gxrgHMVaCdGrvuQQaYNa6bcsMa9~jtCwnFqx~OlqKZShVdgszLzFf2z~EebfnLBkOc2SmfOUVZg38rQzNT9-mFBXpl-IquQ3sUyBtiyVsbezWBj1mR2hfnlqz5-A1C~faJL6pxl8TLfRi-T97E6g__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 :::note
 You can click**Undo Upload** to undo the upload.

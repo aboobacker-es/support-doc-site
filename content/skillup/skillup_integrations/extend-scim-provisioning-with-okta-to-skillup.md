@@ -27,12 +27,12 @@ To extend your existing HackerRank for Work–Okta integration to manage SkillUp
 
   2. Go to **Applications > HackerRank for Work**.
 
-![skillup.1.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1762352880856-skillup.1.png?Expires=253370764800&Signature=BtRq6c8bA9V3s92DBv~KupNs05GCILO82XSezijTP6tXemL0~NPBA225T2KH3HUmIwdi9bkS85giV8bBdyw-RtCbOFIN4ZblXUBocjs9ccgQHNjd4KTzbt2M-xgHnU~LgvoNoUuayYHQPIlKM6nOUc-UpJdSqsr2uPDMfAj5ITvKUAJNzKmxz7JsxXaTyh0WQPcg9yiNEq-dff1JYUFJK2Gzk9kI3QL~uSgs1l1AHf2nL9j9bMymtKv7jn6WvCbfyhYvyceXtCkKsWzUeH8zN32Jzre7rWWoIdBs3pQSnJDrmn8Z0A2WgFDDO9eQU0UXzsw94LeIjst8-AYYEfUT3A__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![skillup.1.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1762352880856-skillup.1.png?Expires=253370764800&Signature=BtRq6c8bA9V3s92DBv~KupNs05GCILO82XSezijTP6tXemL0~NPBA225T2KH3HUmIwdi9bkS85giV8bBdyw-RtCbOFIN4ZblXUBocjs9ccgQHNjd4KTzbt2M-xgHnU~LgvoNoUuayYHQPIlKM6nOUc-UpJdSqsr2uPDMfAj5ITvKUAJNzKmxz7JsxXaTyh0WQPcg9yiNEq-dff1JYUFJK2Gzk9kI3QL~uSgs1l1AHf2nL9j9bMymtKv7jn6WvCbfyhYvyceXtCkKsWzUeH8zN32Jzre7rWWoIdBs3pQSnJDrmn8Z0A2WgFDDO9eQU0UXzsw94LeIjst8-AYYEfUT3A__&Key-Pair-Id=K3NV4LZ47N8M46)
   3. Select the **Provisioning** tab.
 
   4. Update the mappings to include SkillUp-specific attributes.
 
-![skillup1.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1762352905245-skillup1.png?Expires=253370764800&Signature=F6NeMV7n1Ddf3ppjENQJo0fhn3uuOLumeEBD4BOQYMZulMntrTHTx8-Y~ESFC1I94TiKArHyUkpRED3f-sk04WlOMBKsiO4PzjfIN7GsocH1Mu6uJNlU-uTa6u1tCN2XURp9QMn1Tc7pd08MdCEeE6S74hA626~LVzJ65zVwRpoUqEP0H8lXtb~ymhi4UFhljY5DpcxHi8awKM38SK5KL0eFduwAb0k5i7eCY01HUxhKG9q-qsa-8JC~3vBkC0gevQcpE2Z-smUA6Om~VESm0WftubeH9CNGkLr3Acx0MO4JTAGkEAsW6trdomwKGn5GqXPeNtpC9CXLrFA1D97r-Q__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![skillup1.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1762352905245-skillup1.png?Expires=253370764800&Signature=F6NeMV7n1Ddf3ppjENQJo0fhn3uuOLumeEBD4BOQYMZulMntrTHTx8-Y~ESFC1I94TiKArHyUkpRED3f-sk04WlOMBKsiO4PzjfIN7GsocH1Mu6uJNlU-uTa6u1tCN2XURp9QMn1Tc7pd08MdCEeE6S74hA626~LVzJ65zVwRpoUqEP0H8lXtb~ymhi4UFhljY5DpcxHi8awKM38SK5KL0eFduwAb0k5i7eCY01HUxhKG9q-qsa-8JC~3vBkC0gevQcpE2Z-smUA6Om~VESm0WftubeH9CNGkLr3Acx0MO4JTAGkEAsW6trdomwKGn5GqXPeNtpC9CXLrFA1D97r-Q__&Key-Pair-Id=K3NV4LZ47N8M46)
      1. **Modify existing attributes:** Mark the following attributes as **Not Required** :
 
         * `Role`

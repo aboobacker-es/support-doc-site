@@ -27,7 +27,7 @@ It’s now easier and faster for you to launch and maintain role-based assessmen
 
   * Reorder assessment sections
 
-![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734984405133-28298429907091-9a1ce230-59fc-4398-bf5a-de3f650c7740?Expires=253370764800&Signature=li21Vqzaq6rIRUA8tsJFTol4wSYmU03xUC6u0SkaswJy7dPcFitg-geYZK06oAaBG8rqzUYu4snIDwsbXGkLqGqHTJazYG0fd-v720ckok9XBIhmmfSH3nShQMZoRvS4HaPWjjwSZV2QBj2-aRcmVA8mAVijck156SOPRNswD-RxWV7XajpJOrsEz~P~IJ2ZOXIg3YfS2BCL1vfUN-pMlMRLwvq67A0mIERs8UjDnz5r3oL-p~GI43QaayTT1kUiG5wMUnfYD-A-oPjXnKgfXHKE5JVhKFfjDySbjCtZ6zCSS0lDmh1WodDzYXQu7JrwcR8G5wHHb58K8gfs7hAD0Q__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734984405133-28298429907091-9a1ce230-59fc-4398-bf5a-de3f650c7740?Expires=253370764800&Signature=li21Vqzaq6rIRUA8tsJFTol4wSYmU03xUC6u0SkaswJy7dPcFitg-geYZK06oAaBG8rqzUYu4snIDwsbXGkLqGqHTJazYG0fd-v720ckok9XBIhmmfSH3nShQMZoRvS4HaPWjjwSZV2QBj2-aRcmVA8mAVijck156SOPRNswD-RxWV7XajpJOrsEz~P~IJ2ZOXIg3YfS2BCL1vfUN-pMlMRLwvq67A0mIERs8UjDnz5r3oL-p~GI43QaayTT1kUiG5wMUnfYD-A-oPjXnKgfXHKE5JVhKFfjDySbjCtZ6zCSS0lDmh1WodDzYXQu7JrwcR8G5wHHb58K8gfs7hAD0Q__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 Learn more here[📄 HackerRank Certified Assessments](</docs/3147b674-5cbb-4bde-9528-7699bb64b1a7/articles/88775787-e555-4456-bc3b-f0ac9317ed60>)
 
@@ -41,7 +41,7 @@ Assess candidates' database skills using improved database question creation wor
 
   * Intuitive interface for creating database questions across MySQL, PostgreSQL, Oracle, MS SQL and DB2
 
-![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734984433347-28298414579987-18eb4f20-edc2-4ca3-88ec-a41c25ca63d1?Expires=253370764800&Signature=gHyWZSejpTMqCUgUu52c2c4bRHJmGVtCntqakgFyma1TxOTmDPZBnA6mjxHVP2WYUF6-cuLloNxSTZHJ7n1IAH3zZ~jJ0JAMDOy1GBltcY99HzKuvkouzWLKUWUd5~DHuH-p0VGPxQG7H~Vfz3mj824T3z5fnBc0UN6Az0YIDfzDJVkgYU9wD-~fN26ieOqHRycTM4C5tZngKv9kEmzKfRj0c9KxuRoXdpTckqbnTFUXLwpxoMBXGYwxL3NW8U1H6whj2DZCiZnmlGUz8Yyt4YeMlaLRw08l6SgRbqfZgZ9vAAKEtb7QAWiFgUPgYt6f0uPgJq6ngZlvAMB7hX1vmA__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734984433347-28298414579987-18eb4f20-edc2-4ca3-88ec-a41c25ca63d1?Expires=253370764800&Signature=gHyWZSejpTMqCUgUu52c2c4bRHJmGVtCntqakgFyma1TxOTmDPZBnA6mjxHVP2WYUF6-cuLloNxSTZHJ7n1IAH3zZ~jJ0JAMDOy1GBltcY99HzKuvkouzWLKUWUd5~DHuH-p0VGPxQG7H~Vfz3mj824T3z5fnBc0UN6Az0YIDfzDJVkgYU9wD-~fN26ieOqHRycTM4C5tZngKv9kEmzKfRj0c9KxuRoXdpTckqbnTFUXLwpxoMBXGYwxL3NW8U1H6whj2DZCiZnmlGUz8Yyt4YeMlaLRw08l6SgRbqfZgZ9vAAKEtb7QAWiFgUPgYt6f0uPgJq6ngZlvAMB7hX1vmA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 Learn more here[📄 Creating a Database Engineer Question](</docs/3147b674-5cbb-4bde-9528-7699bb64b1a7/articles/ee4f3129-f88d-48d1-bf2b-869f84a4910c>)
 
@@ -73,11 +73,11 @@ The updated summary reports now offer enhanced readability and better responsive
 
   * Seek function within the player view for navigation through proctoring images.
 
-![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734984937027-28298429918739-1fb74d45-1619-433d-a6d7-fbde1b162cc8?Expires=253370764800&Signature=cdWzBnTa7mduDwsrYQPqtz1jyQ4DoP9dLUE2~RKAE0kMNyEuyrB6WHVfO1GTi5xxVoIx3W6PndIy~-ZLzVCiTA-dnxV4SulwDew4KrfFa~E8oYe0mEcbqwqFKqFumeCcaC~eAIo~-mAZxSJNtXkFly8017PkPi5l0QCmJIArsmIe2SHjwqBnLI82v5KiBonowDGywi~c~tqZGyjipJGtmqKqdbT8LpVCHjd2X4ujBzIlDfHlVBhiVdU5heWSVnjBRc5kGsmNdDBTMbHK3rP3ZeDMi7r1yYLPKhMOo~YWRBBFn-DuxDxIIQb~ayP3-silEhFkrnAKtHW2FYVLEpdmoQ__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734984937027-28298429918739-1fb74d45-1619-433d-a6d7-fbde1b162cc8?Expires=253370764800&Signature=cdWzBnTa7mduDwsrYQPqtz1jyQ4DoP9dLUE2~RKAE0kMNyEuyrB6WHVfO1GTi5xxVoIx3W6PndIy~-ZLzVCiTA-dnxV4SulwDew4KrfFa~E8oYe0mEcbqwqFKqFumeCcaC~eAIo~-mAZxSJNtXkFly8017PkPi5l0QCmJIArsmIe2SHjwqBnLI82v5KiBonowDGywi~c~tqZGyjipJGtmqKqdbT8LpVCHjd2X4ujBzIlDfHlVBhiVdU5heWSVnjBRc5kGsmNdDBTMbHK3rP3ZeDMi7r1yYLPKhMOo~YWRBBFn-DuxDxIIQb~ayP3-silEhFkrnAKtHW2FYVLEpdmoQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
   * Summary report can now be opened in a new tab. 
 
-![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734984955454-28298429923603-7bd8660f-fec7-4c31-a98d-30c09408f94b?Expires=253370764800&Signature=u7jf7~WkDeMuqgcQeERXxvNhyDTsJnkAmPJobiZdlvVt2TgbJIA10n0YofrEqkG7mLjQvWX9~zkon9MM0zSAdvv14tVAC0mACsez-Cyn3D20pJktRQRJSbiAC3B4fxvC1hIbeDg~5OFhxcLI91X752YKzaH-iLcC3sLQzaY1tKNmGU99cUFRQRqUrArk9wR58w0LzVW6~uktuNNWZIPFj989clGSipG9jYiKlzRux71ySas2ny~j2T96870ksiUawnHjDUo9LlQQhxVQPgoLg7p-S9R5v8h6DagR3JS8mYrKwufRT8~6rhhSJcK4dXbmLze7LS~ZwGLnR2WbUpw8Jw__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734984955454-28298429923603-7bd8660f-fec7-4c31-a98d-30c09408f94b?Expires=253370764800&Signature=u7jf7~WkDeMuqgcQeERXxvNhyDTsJnkAmPJobiZdlvVt2TgbJIA10n0YofrEqkG7mLjQvWX9~zkon9MM0zSAdvv14tVAC0mACsez-Cyn3D20pJktRQRJSbiAC3B4fxvC1hIbeDg~5OFhxcLI91X752YKzaH-iLcC3sLQzaY1tKNmGU99cUFRQRqUrArk9wR58w0LzVW6~uktuNNWZIPFj989clGSipG9jYiKlzRux71ySas2ny~j2T96870ksiUawnHjDUo9LlQQhxVQPgoLg7p-S9R5v8h6DagR3JS8mYrKwufRT8~6rhhSJcK4dXbmLze7LS~ZwGLnR2WbUpw8Jw__&Key-Pair-Id=K3NV4LZ47N8M46)
 
   * Improved responsiveness of the summary report
 
@@ -99,7 +99,7 @@ Users will be notified proactively about blocked domains within the IDE environm
 
   * Clear identification of domains which need to be safelisted 
 
-![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734984529483-28298414593171-6f769814-9840-4507-97ad-8f655749c91a?Expires=253370764800&Signature=pPmvyhhG9G-ciI3B2tdRyBQb9uqkwXib0QIDfowgj6ICn-l~NYiJxTNdjaMaoEEAAoMzm0tX5V06Dd6JVQASn9obuckfgkii-LKY69C7H3g3hlZo34a~IVYFVcL9~usvDG9axhiCGEMn7YcVYamoZwu3HZcFSatoYhoWBEHzIgaughShlFjtFoMZArTKXpSEPY1TIfOcghqb873yD058OszAcLcMfhDO8~-phVLLs6uTyoBaD3SpKAEnZL4K-0Hq1~tR4f6~6anSkrYrk7sjXGhfW6-PVbrv2dxSZb4H84Qvzbw2Ha1wul~hjHWWJ9RmrvUx4qtdvKTY6GoPqlmJig__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734984529483-28298414593171-6f769814-9840-4507-97ad-8f655749c91a?Expires=253370764800&Signature=pPmvyhhG9G-ciI3B2tdRyBQb9uqkwXib0QIDfowgj6ICn-l~NYiJxTNdjaMaoEEAAoMzm0tX5V06Dd6JVQASn9obuckfgkii-LKY69C7H3g3hlZo34a~IVYFVcL9~usvDG9axhiCGEMn7YcVYamoZwu3HZcFSatoYhoWBEHzIgaughShlFjtFoMZArTKXpSEPY1TIfOcghqb873yD058OszAcLcMfhDO8~-phVLLs6uTyoBaD3SpKAEnZL4K-0Hq1~tR4f6~6anSkrYrk7sjXGhfW6-PVbrv2dxSZb4H84Qvzbw2Ha1wul~hjHWWJ9RmrvUx4qtdvKTY6GoPqlmJig__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 Learn more here[📄 Safelist / Whitelist URLs for HackerRank](</docs/3147b674-5cbb-4bde-9528-7699bb64b1a7/articles/efe9d978-dccb-4b74-a8f0-fc9217f12aac>)
 
@@ -133,7 +133,7 @@ Elevate the candidate’s coding experience with the code reset option, empoweri
 
   * Track code revisions, evaluate scores, and select the perfect version for your candidate's success.
 
-![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046095526-?Expires=253370764800&Signature=s5UIc9v7UZ9dc1n8~BZ-voUqDa~PolfGbjf61XtVzV~wGodvbLPhVkCZ11NNo1n600QrzPTqOOPv3peJ25I3Mdmpu4qM-0Qmd3yh40fXkumW0ycQUzeMLU11f6vCzIAcBQErpOJhIo~mBYWmVj34vbm7UiVJ1gNAB4vOwWXXyzs58507s-REey~Wuev2~4T5u5CeGcykyCnI4jkEbvnjhfDRE8U3rVlllYtBci4ukbjr7~VB1DLGAka79ur45-LGyxEHFClbudFvJSoiGSF1HXPly25KDMus-vwXIcmTFpPJfNa2wcfkLKX6mV0UCfJjl0q4rLTHBJqhYqK9JWHwcA__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046095526-?Expires=253370764800&Signature=s5UIc9v7UZ9dc1n8~BZ-voUqDa~PolfGbjf61XtVzV~wGodvbLPhVkCZ11NNo1n600QrzPTqOOPv3peJ25I3Mdmpu4qM-0Qmd3yh40fXkumW0ycQUzeMLU11f6vCzIAcBQErpOJhIo~mBYWmVj34vbm7UiVJ1gNAB4vOwWXXyzs58507s-REey~Wuev2~4T5u5CeGcykyCnI4jkEbvnjhfDRE8U3rVlllYtBci4ukbjr7~VB1DLGAka79ur45-LGyxEHFClbudFvJSoiGSF1HXPly25KDMus-vwXIcmTFpPJfNa2wcfkLKX6mV0UCfJjl0q4rLTHBJqhYqK9JWHwcA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 ### Copy-Paste Tracking for Sentence Completion and Subjective Questions
 
@@ -149,7 +149,7 @@ New bulk upload features improve the creation process for MCQs and Sentence comp
 
   * Ability to add images to Sentence Completion and MCQs using the XLSX format
 
-![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046095939-?Expires=253370764800&Signature=UiL-q3Q2wq~SIlNAnXTJ0IZuiy9UydfSCFapgqM8RsG9eF-PkBQeiOwaocliB-xRvM5FNqh7mAFZOX65PdniBJVLWSPXLEApr10F~-sFi6~WEtKu-qqWhP4AlQMc6eTn49vku~Fv69bmttBJD9xaecFcg3z7eJ4U9FRPyeXW2ghOadG2PCKoe11c45evevu9jjQGRxK43j~5-8kJq-BJzZ1log~272Q34sdzNzUjPx04qWSdmXXfyTEJrYByO8smuHBcFg60mB3NNoUmXP-stj9vLIrBCd5C4r9FK2u9R-EW1qJk9fvHRwLTsqEZHD1ZkWoWYJBuQOK9YU7gLrHLjQ__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046095939-?Expires=253370764800&Signature=UiL-q3Q2wq~SIlNAnXTJ0IZuiy9UydfSCFapgqM8RsG9eF-PkBQeiOwaocliB-xRvM5FNqh7mAFZOX65PdniBJVLWSPXLEApr10F~-sFi6~WEtKu-qqWhP4AlQMc6eTn49vku~Fv69bmttBJD9xaecFcg3z7eJ4U9FRPyeXW2ghOadG2PCKoe11c45evevu9jjQGRxK43j~5-8kJq-BJzZ1log~272Q34sdzNzUjPx04qWSdmXXfyTEJrYByO8smuHBcFg60mB3NNoUmXP-stj9vLIrBCd5C4r9FK2u9R-EW1qJk9fvHRwLTsqEZHD1ZkWoWYJBuQOK9YU7gLrHLjQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 Learn more here[📄 How to Bulk Upload MCQ and Sentence Completion Questions](</docs/3147b674-5cbb-4bde-9528-7699bb64b1a7/articles/5f255eae-0368-41b0-b827-4ae515604b5e>)
 
@@ -185,11 +185,11 @@ This is an opt in feature. You can reach out to your account manager or HackerRa
 
   * Modify User Roles: Admins can adjust up to 30 entitlements at the user role level, which will adjust the capabilities of all users with that user role.
 
-![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734985001685-28298429939475-49f20bf8-7abd-4c03-9458-404dd51a0673?Expires=253370764800&Signature=LS1bk5e9QPYFo~irusK2OMJwMKGeTvMTw5kLTA9KxlLl5vT~rxYUqrPNeglvJJS4ACHkOKP6pRTuiXHDwWWcnfOjN1eqWyB4XozAkq8drxlpnc42RCoKEL~ckIAWRbt1ADOPocd9~cKHvBPEc9CQPkgTKFDU3-luPzKoSQnsxXomnBNXhLxSCbOtxTOSEJs-Vywc9O3jmdexqR7Z~wFu0IayOJJ6XnSnip7bWxaMUAU2weHCIlJ6lSYwW0a4TJCgVBgFYsl06EAMdSdY56TRKMffEXq0AH7F~vUG27Mx20A7O9GDXo3HRKzj84Jni5gCvmxjPh4GxUMpdOPwsEefjQ__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734985001685-28298429939475-49f20bf8-7abd-4c03-9458-404dd51a0673?Expires=253370764800&Signature=LS1bk5e9QPYFo~irusK2OMJwMKGeTvMTw5kLTA9KxlLl5vT~rxYUqrPNeglvJJS4ACHkOKP6pRTuiXHDwWWcnfOjN1eqWyB4XozAkq8drxlpnc42RCoKEL~ckIAWRbt1ADOPocd9~cKHvBPEc9CQPkgTKFDU3-luPzKoSQnsxXomnBNXhLxSCbOtxTOSEJs-Vywc9O3jmdexqR7Z~wFu0IayOJJ6XnSnip7bWxaMUAU2weHCIlJ6lSYwW0a4TJCgVBgFYsl06EAMdSdY56TRKMffEXq0AH7F~vUG27Mx20A7O9GDXo3HRKzj84Jni5gCvmxjPh4GxUMpdOPwsEefjQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
   * Modify Individual Users: Admins can adjust those same entitlements on specific users, to further customize the capabilities beyond their user role definition.
 
-![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734985024256-28298429941267-bdaaca55-c5d0-442c-ada6-7183d02f9998?Expires=253370764800&Signature=T-tfxiMpgn0knDv6txnToMWVPQmz8cOy~-xgC8nZzLjAhdMiktDL2wOmQ3n5K-UpV63N8YyvGyEynqnqSoJ-4NDh0Kb~kMKs9hJU2PMajFidqtRhr0HgfXjG823qgjGOzzpbkNu42zH0AQFYYe1aqruFXKHj3Z-rM6PK-bNzG9qlul129n0Zfy535yJ5w8Uce~B~DNdrn-jBl2nqzFTNzSoqXsHgbv5cAqiT9cnQgf3sSs7TSV2Sk8~2KjYhtZ8OzW7JBviu2XIAhLvUrut3PUYssEDBCRfaWdNm5xaVNW2SkY8Jk0PXEQX~dxJysOhL3xHdXQjOpwWGYxzobOyr6A__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734985024256-28298429941267-bdaaca55-c5d0-442c-ada6-7183d02f9998?Expires=253370764800&Signature=T-tfxiMpgn0knDv6txnToMWVPQmz8cOy~-xgC8nZzLjAhdMiktDL2wOmQ3n5K-UpV63N8YyvGyEynqnqSoJ-4NDh0Kb~kMKs9hJU2PMajFidqtRhr0HgfXjG823qgjGOzzpbkNu42zH0AQFYYe1aqruFXKHj3Z-rM6PK-bNzG9qlul129n0Zfy535yJ5w8Uce~B~DNdrn-jBl2nqzFTNzSoqXsHgbv5cAqiT9cnQgf3sSs7TSV2Sk8~2KjYhtZ8OzW7JBviu2XIAhLvUrut3PUYssEDBCRfaWdNm5xaVNW2SkY8Jk0PXEQX~dxJysOhL3xHdXQjOpwWGYxzobOyr6A__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 Learn more here[📄 Flexible User Roles](</docs/3147b674-5cbb-4bde-9528-7699bb64b1a7/articles/9375027c-bbec-437d-b155-ec3e6e08b2f2>)
 
@@ -203,13 +203,13 @@ The new changes include:
 
   * Active integrations displayed more visibly
 
-![Screenshot 2024-04-22 at 12.02.38 PM.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046098010-?Expires=253370764800&Signature=DG6aSU76omY3BW0xi8vUVt8GbkY4pPCEwBjOa2pJC7AU1rUZwZdbPqy0kVbXkbDA4tmXZinxzPAJU9wWevimsBvYfM45r0WeXiMh~JebYhH8t47gIF8vJLPP76aBaUOwdUOgM-xg0TCMKmfIY27lsXyIY66QEkYYpIa6NzSJgKI7jP2P5VnMDomguoqmPhfsgI-NfSknIBjyeryjFn4H55FP38zWBEzosixQTcQSygh9uXN3UgPUTzOvxHDsWNNUHWdT6VwbGclRXqfEm4mAS63F~me05vbPz3-uykYBr6CYNfScYCmsODxqXBq~~6GEpgWlpSOAVzvQoFEOMLteSg__&Key-Pair-Id=K3NV4LZ47N8M46)![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046098443-?Expires=253370764800&Signature=R4brF6bSh2euQ-ufuUP6k9XNSJJm4BZ2ubd~I6sWlFSZHWXSl~L2ALD-GtHROoURfAWnGXNLZ4xc1ofCRJKCp0Y3dutlfk0czO3L-ocEf2Sj4GMu11mvoERKljE5CDEYgPqhECJYw3loHLU6GTAND4xHcuBY2W4P5aDeMV1FNKcCA1HYBKc6xz0fZTOt7UXWOIRKQ2ZgLJIPnl7ypimWHqRiI2ZSbWIvhuSYJaT229FfDIBbjF5AqZOlfjai5DZIzv7-NE5bBC4mn2qts~oHkc9r1qqqIYn~Mo79KaZwjSBHqYUVycTnsURRU0J99MdHSEQIU8z~y726uwB7t6QJOw__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![Screenshot 2024-04-22 at 12.02.38 PM.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046098010-?Expires=253370764800&Signature=DG6aSU76omY3BW0xi8vUVt8GbkY4pPCEwBjOa2pJC7AU1rUZwZdbPqy0kVbXkbDA4tmXZinxzPAJU9wWevimsBvYfM45r0WeXiMh~JebYhH8t47gIF8vJLPP76aBaUOwdUOgM-xg0TCMKmfIY27lsXyIY66QEkYYpIa6NzSJgKI7jP2P5VnMDomguoqmPhfsgI-NfSknIBjyeryjFn4H55FP38zWBEzosixQTcQSygh9uXN3UgPUTzOvxHDsWNNUHWdT6VwbGclRXqfEm4mAS63F~me05vbPz3-uykYBr6CYNfScYCmsODxqXBq~~6GEpgWlpSOAVzvQoFEOMLteSg__&Key-Pair-Id=K3NV4LZ47N8M46)![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046098443-?Expires=253370764800&Signature=R4brF6bSh2euQ-ufuUP6k9XNSJJm4BZ2ubd~I6sWlFSZHWXSl~L2ALD-GtHROoURfAWnGXNLZ4xc1ofCRJKCp0Y3dutlfk0czO3L-ocEf2Sj4GMu11mvoERKljE5CDEYgPqhECJYw3loHLU6GTAND4xHcuBY2W4P5aDeMV1FNKcCA1HYBKc6xz0fZTOt7UXWOIRKQ2ZgLJIPnl7ypimWHqRiI2ZSbWIvhuSYJaT229FfDIBbjF5AqZOlfjai5DZIzv7-NE5bBC4mn2qts~oHkc9r1qqqIYn~Mo79KaZwjSBHqYUVycTnsURRU0J99MdHSEQIU8z~y726uwB7t6QJOw__&Key-Pair-Id=K3NV4LZ47N8M46)
 
   * Significantly reduced page load times 
 
   * Logging for integration token generation and deletion
 
-![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046098847-?Expires=253370764800&Signature=PRwd5SJcFnr-aFJ-zDmlfWGA0Nep5OdtpkPAIIcSKu2xGOUIyjtqJtMbGO-6L2QmlEzOKPBjRkMSRARoaHo5~ujUl~GQbAIYwVgE4U2oXoBNiYmAMqN6ipi9LjBWwCuXMR6gxUc3N3~ujY7HLRdu57Mk3yE9VQzp1utLEFwz6YRM-38ad7gACK~hhD0bCMr8~p7BKH9SXXYTWQeq-kWU42bAbCyWXGmIBqeR50-cSPmRdGYj31rrDptOUqb0hqnX-lBh4bNhyqQIgP6TBiobDKkDBPghWp0yHg-fLAurS5y0qNpveqd5s-Xt1tetUEnkHmaPe7LWDh0rJTl3zC8k8Q__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046098847-?Expires=253370764800&Signature=PRwd5SJcFnr-aFJ-zDmlfWGA0Nep5OdtpkPAIIcSKu2xGOUIyjtqJtMbGO-6L2QmlEzOKPBjRkMSRARoaHo5~ujUl~GQbAIYwVgE4U2oXoBNiYmAMqN6ipi9LjBWwCuXMR6gxUc3N3~ujY7HLRdu57Mk3yE9VQzp1utLEFwz6YRM-38ad7gACK~hhD0bCMr8~p7BKH9SXXYTWQeq-kWU42bAbCyWXGmIBqeR50-cSPmRdGYj31rrDptOUqb0hqnX-lBh4bNhyqQIgP6TBiobDKkDBPghWp0yHg-fLAurS5y0qNpveqd5s-Xt1tetUEnkHmaPe7LWDh0rJTl3zC8k8Q__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 To get a feel of the new Integrations page for Lever (as an example), see the [Lever Configuration guide](<https://support.hackerrank.com/articles/7177093032-lever---hackerrank-tests-integration#obtaining-the-lever-api-key-from-hackerrank-for-work-7>).
 
@@ -235,39 +235,39 @@ Learn more [here](<https://support.hackerrank.com/articles/4624433684-hackerrank
 
   * Role Mastery Roadmap: Features competency radar for skill mapping and a curated Learning Plan for development.
 
-![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046099541-?Expires=253370764800&Signature=Te0h6kIY2xYdYw5WuvWIwoh5rxlCJgcc-paX6Stddf3p7RqIfqZtJJbkKMm8db3Qp4Ssl2~ZZMCY33mF-FtPrxfVantWdZbEjVH5UjasU3YMD8-wc55t3eUG1aWJllMJeuaIwB0zg87yE~sIzlHzycD1eWKznK1DggDQe~bPLLpNoAqSG9RCMgFSYOQAotKXPlSyoDNj~xnqdTQtcnwql75FosI36tnyhcyG1OpqSlWje30k-FQivAE-b7sdj0NR3aw6JCtvIRYILYvMFooAV6aMazmhasIh8KRJF3o1upHLkbDtPAJJZMSiQHxuzQmCL6kOXuEXP96tz9Bo6aUadQ__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046099541-?Expires=253370764800&Signature=Te0h6kIY2xYdYw5WuvWIwoh5rxlCJgcc-paX6Stddf3p7RqIfqZtJJbkKMm8db3Qp4Ssl2~ZZMCY33mF-FtPrxfVantWdZbEjVH5UjasU3YMD8-wc55t3eUG1aWJllMJeuaIwB0zg87yE~sIzlHzycD1eWKznK1DggDQe~bPLLpNoAqSG9RCMgFSYOQAotKXPlSyoDNj~xnqdTQtcnwql75FosI36tnyhcyG1OpqSlWje30k-FQivAE-b7sdj0NR3aw6JCtvIRYILYvMFooAV6aMazmhasIh8KRJF3o1upHLkbDtPAJJZMSiQHxuzQmCL6kOXuEXP96tz9Bo6aUadQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
   * Skills Directory: Catalogs 20 skills across various categories including AI & ML, Software Engineering, Cloud among others, with curated learning resources and AI support.
 
-![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046100285-?Expires=253370764800&Signature=WvJ-yFJbDY8oytL~cnIEGD6yz2gHeMfspp~iaUquMo7NLS-Axgh7CT6GkF0A2GVpu-ajYiVbGG-Xim0aj~l6riAVmRciaRNuc1a-sUEcl3Y5ztqhBYQCTcPYKnLO~nMb-5qFvIqj-ULLTLolO6J1TZ5RYRWcWPHiKu3KhabpyQa6aO4y2-e9nj9AbKSPLiPG2F7ZU4OIY80fLGl5OEz-C-J8WjglfxAjojMc9dwhmRPVKkVXVqjDK2gx69tD6~jA~Nf5PPXOAjJvDClc27SlaNMQL4K6EInKU-Y2h4FQwdw1-pl9Y4yal6rLscbGfZqqh5r8eKYBKMjA4wuZp8NKxQ__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046100285-?Expires=253370764800&Signature=WvJ-yFJbDY8oytL~cnIEGD6yz2gHeMfspp~iaUquMo7NLS-Axgh7CT6GkF0A2GVpu-ajYiVbGG-Xim0aj~l6riAVmRciaRNuc1a-sUEcl3Y5ztqhBYQCTcPYKnLO~nMb-5qFvIqj-ULLTLolO6J1TZ5RYRWcWPHiKu3KhabpyQa6aO4y2-e9nj9AbKSPLiPG2F7ZU4OIY80fLGl5OEz-C-J8WjglfxAjojMc9dwhmRPVKkVXVqjDK2gx69tD6~jA~Nf5PPXOAjJvDClc27SlaNMQL4K6EInKU-Y2h4FQwdw1-pl9Y4yal6rLscbGfZqqh5r8eKYBKMjA4wuZp8NKxQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
   * Roles Directory: Lists 19 roles across various categories including AI & ML, Software Engineering, Cloud among others, detailing pre-requisite skills, role readiness, and certifications.
 
-![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046100963-?Expires=253370764800&Signature=Nxq8KmdPMOKhxzhLKYX34spkVf2MYqXj6J5fggxYI6d~ENqE5yZG135DHlHLWiBHWcE0Yn2HD0pgqmAf0-KXycnwv-B3BNiecu4XsBX6HLXvQlG87XjjiniOIKeheZ8Lsr-2DLjbllgP44yVHA9ixDAjVgceqjHCUOmwlYzCEmzDAaaeYE7-DGu1wYqT2hgvJalbCr3Tba-5Ij7wXS0X6rPYbr8EfzIQ89qTsMai6nh1fIDyLdvjcGUvZZStHmYBBfvpbM0i5k0txjCst~NGSkagXacR8Wa0w3zvNwoGVC3dqFdpsWkpTa3am1mIdeE0eVC6va2YZ6dQaJkfs7OlTQ__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046100963-?Expires=253370764800&Signature=Nxq8KmdPMOKhxzhLKYX34spkVf2MYqXj6J5fggxYI6d~ENqE5yZG135DHlHLWiBHWcE0Yn2HD0pgqmAf0-KXycnwv-B3BNiecu4XsBX6HLXvQlG87XjjiniOIKeheZ8Lsr-2DLjbllgP44yVHA9ixDAjVgceqjHCUOmwlYzCEmzDAaaeYE7-DGu1wYqT2hgvJalbCr3Tba-5Ij7wXS0X6rPYbr8EfzIQ89qTsMai6nh1fIDyLdvjcGUvZZStHmYBBfvpbM0i5k0txjCst~NGSkagXacR8Wa0w3zvNwoGVC3dqFdpsWkpTa3am1mIdeE0eVC6va2YZ6dQaJkfs7OlTQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
   * Skill Profile: Allows developers to craft detailed bios, link professional profiles, and display skill badges and role certifications.
 
-![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046101889-?Expires=253370764800&Signature=pdnidVc0TehQwa-J5GrEupsHCIJr2P~eIyqnYoBzLoiU2KUywkxSKIMykL6336rt~DarthK83ltI9Ip7meiJuaCZ0QCnTJtXg3l-a-ZE5dLUgzOznLLJsZCPnOnN0AlicDi8gHVP0APahGjV4FPk~9ecbQeqp1iJNpSxYCKoSU0LM1jxFFBIK0EUZ1bRxYVeOiRq9Ik9vodvnjeLyebJ1ANtS4fAeFCUtslVmccKKQJBBIm9WDTNqjlf2vkvANpM9D-9R~erabJzGp7Q-1CTRm0xG9sbXbU5FGaisAlkNX1BEHW8HW87Fu0~c7ChPzQprguuHdotiP0U-AFOWvrDoA__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046101889-?Expires=253370764800&Signature=pdnidVc0TehQwa-J5GrEupsHCIJr2P~eIyqnYoBzLoiU2KUywkxSKIMykL6336rt~DarthK83ltI9Ip7meiJuaCZ0QCnTJtXg3l-a-ZE5dLUgzOznLLJsZCPnOnN0AlicDi8gHVP0APahGjV4FPk~9ecbQeqp1iJNpSxYCKoSU0LM1jxFFBIK0EUZ1bRxYVeOiRq9Ik9vodvnjeLyebJ1ANtS4fAeFCUtslVmccKKQJBBIm9WDTNqjlf2vkvANpM9D-9R~erabJzGp7Q-1CTRm0xG9sbXbU5FGaisAlkNX1BEHW8HW87Fu0~c7ChPzQprguuHdotiP0U-AFOWvrDoA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
   * AI Assistant: Provides socratic tutoring for enhanced learning during practice assessments.
 
-![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046102539-?Expires=253370764800&Signature=iSyqDk4~lainsGBEE2VVsg3DR1Mk8oQWll-TadOsMLJzvrCJZJSa8ojCJBepNmCMIr926rA0RKbq76ZgTPtgjhFAqOVaR~OLtJv~qq7WugNOtu8fQuU3ODtVMpP78tix-G~gV0MO5sQ7Qofz9jiAltsUnPgc2OhqI-WCtEFvhXBz53VXj9rp2tS1cAhnEU4Ztho8XnMM3e2HzJxjPy76Qf9a~~S1pro2NV8yXzZ2mYKw98K-1iir2WvzsnFPOd6sivekPrWedpKAeaVoYb3J9Pyz0nB8fch2Hk4fflfDGKO7is7w29sxshUt1VZYCS0RnKk9No0S-C7apkL-WHyXJA__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046102539-?Expires=253370764800&Signature=iSyqDk4~lainsGBEE2VVsg3DR1Mk8oQWll-TadOsMLJzvrCJZJSa8ojCJBepNmCMIr926rA0RKbq76ZgTPtgjhFAqOVaR~OLtJv~qq7WugNOtu8fQuU3ODtVMpP78tix-G~gV0MO5sQ7Qofz9jiAltsUnPgc2OhqI-WCtEFvhXBz53VXj9rp2tS1cAhnEU4Ztho8XnMM3e2HzJxjPy76Qf9a~~S1pro2NV8yXzZ2mYKw98K-1iir2WvzsnFPOd6sivekPrWedpKAeaVoYb3J9Pyz0nB8fch2Hk4fflfDGKO7is7w29sxshUt1VZYCS0RnKk9No0S-C7apkL-WHyXJA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 **Employer Portal:**
 
   * Company Overview: A dashboard that outlines certified developer strength, upskilling trends and skills distribution across the organization.
 
-![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046103327-?Expires=253370764800&Signature=Rw7e63sJMgKhq40mnHUf9zx~oPvHyGcvIalVVMsgFZ7KPSwQZvAITXjfgeKwldSUPNmdTwyXTOwK-93vl12ykC1GtvMSZcHkXdn~Ga-tahOPA30W4Gg0nyL74TeLKz8FWtXpRpHfztuVdOE5iMCx2EF4YlEGQhv789YyQxJEoiW8jhyI4sRS2I4dDNJWvCRfNDmyNFipmlk1pMDLq8IwbdG9AFXS5ygi8tS1ezdt87Ere9u-sn2K7lcCGUMkZrarHqx1QRgDxY79D~93DGN6JB-jOEm3yv2F9KY9PuW-DkxOLRS52yjB4xmXcQreCUFhD0EfrmWNBQV-a7K~rA4Wiw__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046103327-?Expires=253370764800&Signature=Rw7e63sJMgKhq40mnHUf9zx~oPvHyGcvIalVVMsgFZ7KPSwQZvAITXjfgeKwldSUPNmdTwyXTOwK-93vl12ykC1GtvMSZcHkXdn~Ga-tahOPA30W4Gg0nyL74TeLKz8FWtXpRpHfztuVdOE5iMCx2EF4YlEGQhv789YyQxJEoiW8jhyI4sRS2I4dDNJWvCRfNDmyNFipmlk1pMDLq8IwbdG9AFXS5ygi8tS1ezdt87Ere9u-sn2K7lcCGUMkZrarHqx1QRgDxY79D~93DGN6JB-jOEm3yv2F9KY9PuW-DkxOLRS52yjB4xmXcQreCUFhD0EfrmWNBQV-a7K~rA4Wiw__&Key-Pair-Id=K3NV4LZ47N8M46)
 
   * Talent Directory: Filters and organizes developer talent by verified skills.
 
   * Assign Tasks: Aids in the assignment of role certifications and skill badges for developer growth.
 
-![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046104044-?Expires=253370764800&Signature=UmT7SsBSXDCA1Br7x6u-wecoZQOhgB62W488D6xm2LU12Gbc3skdPQaHrHdSRFxigfhujeEw3E0fJxcFW4DuhOwiy30z-GaJi~Pxdf6bdY-Tmgvoip9BWh6qqJZooJW7tVmJDufO1ierw0Go0PEPwrCQI0cbRN8C2t2QR9I5cu6zxdYPCgXWg7yw0HWO3SjG~d4jPqTfra3QtKJcOqSPZDpPXVOomHiCW48tthZoGDWTL9~sJkHMbDj2HsgrKICTtbGyY0aDZr625wvzFs1qenv6KLCZjkREXhKveUti2wNY0RwBuX4N6-f1~ZzWCd5A3sQXWiyX6ZTVbls6j9Iw9g__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046104044-?Expires=253370764800&Signature=UmT7SsBSXDCA1Br7x6u-wecoZQOhgB62W488D6xm2LU12Gbc3skdPQaHrHdSRFxigfhujeEw3E0fJxcFW4DuhOwiy30z-GaJi~Pxdf6bdY-Tmgvoip9BWh6qqJZooJW7tVmJDufO1ierw0Go0PEPwrCQI0cbRN8C2t2QR9I5cu6zxdYPCgXWg7yw0HWO3SjG~d4jPqTfra3QtKJcOqSPZDpPXVOomHiCW48tthZoGDWTL9~sJkHMbDj2HsgrKICTtbGyY0aDZr625wvzFs1qenv6KLCZjkREXhKveUti2wNY0RwBuX4N6-f1~ZzWCd5A3sQXWiyX6ZTVbls6j9Iw9g__&Key-Pair-Id=K3NV4LZ47N8M46)
 
   * Administrative Tools: Streamlines the process for inviting and onboarding new employees, with an emphasis on role-specific categorization.
 
-![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046105060-?Expires=253370764800&Signature=Q55xuP85bq8H-wikKbFa8OZlCMXXDzLUpbFPCftGjvYn~1dIQUifA8JbOQisjiwVzDAef62tRoLO8PNnNjh3FkBwpavsPipZU-JeO2-73EvqOpWhpgfs61e6JDrxjgwJi3Uf4LLahAmvlivx6S8Q40oyF0BhkQakmkdn11nXnC2oZ9mEoCwby8euMymyevrx-nZslpqskNja27PGOhDH2onpTeUOKeSRwf75m-YZIFQlIFPG71ncoBYzegDmDbjhV1Tg7PwP8ESLLLUY5PYV96LarJU1xtpjQUGmgmXYkWRlS5Zm1P2gWujT55I15kibifntVwwTOABdi-yFBmzPng__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046105060-?Expires=253370764800&Signature=Q55xuP85bq8H-wikKbFa8OZlCMXXDzLUpbFPCftGjvYn~1dIQUifA8JbOQisjiwVzDAef62tRoLO8PNnNjh3FkBwpavsPipZU-JeO2-73EvqOpWhpgfs61e6JDrxjgwJi3Uf4LLahAmvlivx6S8Q40oyF0BhkQakmkdn11nXnC2oZ9mEoCwby8euMymyevrx-nZslpqskNja27PGOhDH2onpTeUOKeSRwf75m-YZIFQlIFPG71ncoBYzegDmDbjhV1Tg7PwP8ESLLLUY5PYV96LarJU1xtpjQUGmgmXYkWRlS5Zm1P2gWujT55I15kibifntVwwTOABdi-yFBmzPng__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 ## New Product: Engage
 
@@ -275,14 +275,14 @@ Engage helps you promote your tech brand to developers in the language they unde
 
   * Attract tech talent: Engage's AI co-pilot sets up event microsites to pull in registrations by highlighting your tech brand.
 
-![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046105573-?Expires=253370764800&Signature=T60a3sBNiT39OjwHrzDjnHMd811enArpfEAZzRf-BnGyEEkRf-HrvecHvxCIJauu5RmthOXFm6H8r3L29EnA0DLUYmxxvU3aAXPZ8QsUAHnPLSGBSPuZEHEfVzBkgD4BKq80KYBYPGI0t16PxCIAAMkzeHdxEeH22aNsfd8Ox2VkGelLE6Ydb3Vl0-IFeINc-Jf-HLD70KqOpbker6~xFVRwL8VW7V3NcB5EkoBP2j57ayS6r1K2zokSw4B1pcAXnkud0hBaAEK9RPyX5sAcLkWVApR3JPO3Rv4SQVowWPW4DfafSds94bcJLpDy8TvptpB4wpjP6D~7NPOwG8hI8g__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046105573-?Expires=253370764800&Signature=T60a3sBNiT39OjwHrzDjnHMd811enArpfEAZzRf-BnGyEEkRf-HrvecHvxCIJauu5RmthOXFm6H8r3L29EnA0DLUYmxxvU3aAXPZ8QsUAHnPLSGBSPuZEHEfVzBkgD4BKq80KYBYPGI0t16PxCIAAMkzeHdxEeH22aNsfd8Ox2VkGelLE6Ydb3Vl0-IFeINc-Jf-HLD70KqOpbker6~xFVRwL8VW7V3NcB5EkoBP2j57ayS6r1K2zokSw4B1pcAXnkud0hBaAEK9RPyX5sAcLkWVApR3JPO3Rv4SQVowWPW4DfafSds94bcJLpDy8TvptpB4wpjP6D~7NPOwG8hI8g__&Key-Pair-Id=K3NV4LZ47N8M46)
 
   * Host real-world challenges: Engage provides challenges that closely resemble the industry problems developers intend to solve.
 
-![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046106340-?Expires=253370764800&Signature=fFTHbzD3zSkTEcYC5ubepXshnUJhMaTMV8nRDPGfLL6HQimkaj~30QaPMeo7so-sq7QQIRcOerf1uhv6Hg1TSjWMnNJE2~ZDKtVuQ1XyLYmyoLzrt40ELDWHRits0uq2BteE3BVzoi9ESkx3W8HUa36EL1Y3~c~PKebUkmdKqP~DfFqGHMlKv1pe240E4fYaedrWAmP-eHaTRuSdKhrWZGAgnTT8PI03JHxiGwqWboPzJYL3rVAjU~pieia9plgZi1a7c9j7ECzPgJ9ASDm4pD9rz9gL46oocHzXaNjNMECaPfB9DeP3RMqBQKDOG02kSXib95m1HXMX0QutI2l1mw__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046106340-?Expires=253370764800&Signature=fFTHbzD3zSkTEcYC5ubepXshnUJhMaTMV8nRDPGfLL6HQimkaj~30QaPMeo7so-sq7QQIRcOerf1uhv6Hg1TSjWMnNJE2~ZDKtVuQ1XyLYmyoLzrt40ELDWHRits0uq2BteE3BVzoi9ESkx3W8HUa36EL1Y3~c~PKebUkmdKqP~DfFqGHMlKv1pe240E4fYaedrWAmP-eHaTRuSdKhrWZGAgnTT8PI03JHxiGwqWboPzJYL3rVAjU~pieia9plgZi1a7c9j7ECzPgJ9ASDm4pD9rz9gL46oocHzXaNjNMECaPfB9DeP3RMqBQKDOG02kSXib95m1HXMX0QutI2l1mw__&Key-Pair-Id=K3NV4LZ47N8M46)
 
   * Manage candidate relationships: Engage ensures that candidates are kept warm through meaningful and personalized engagements.
 
-![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046106795-?Expires=253370764800&Signature=rlZfC9~NBP61d0Zcp4wVyO6DQ-EQHUjqA8-U1sT2Xim4sXX5hqPApZv1VGtHXB8l81EvTwXXmROEWrtGPT7pOMKhqPgnNjb-FiBkM0kKbGq2oCn47j1bU62XLqIXyJZwaK7~zIRLpPybzAOWr0fS~usr8S8~MXcokFQMMoxdtoh9yArYVHab1rR94t2A-tMlkrXCU~fPwnihxPXR6hhgtrnkaLi8oH2K2TS2W-EkS~CREq5-FpQXT7ZYU~aBVEgAD6NTYdh1l1GDwj37GjfK4dfm7-bUYqlNuH0Lhdujf284X-ELo4p24O8LbQXj1oyL8TrPjabvHfN23eb~udAWIQ__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046106795-?Expires=253370764800&Signature=rlZfC9~NBP61d0Zcp4wVyO6DQ-EQHUjqA8-U1sT2Xim4sXX5hqPApZv1VGtHXB8l81EvTwXXmROEWrtGPT7pOMKhqPgnNjb-FiBkM0kKbGq2oCn47j1bU62XLqIXyJZwaK7~zIRLpPybzAOWr0fS~usr8S8~MXcokFQMMoxdtoh9yArYVHab1rR94t2A-tMlkrXCU~fPwnihxPXR6hhgtrnkaLi8oH2K2TS2W-EkS~CREq5-FpQXT7ZYU~aBVEgAD6NTYdh1l1GDwj37GjfK4dfm7-bUYqlNuH0Lhdujf284X-ELo4p24O8LbQXj1oyL8TrPjabvHfN23eb~udAWIQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 To understand more about the Engage product, see the Engage support article:[📄 HackerRank Engage](</docs/3147b674-5cbb-4bde-9528-7699bb64b1a7/articles/dae50d43-6d17-4b5b-848c-3123444c5cd3>)

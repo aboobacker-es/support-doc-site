@@ -41,7 +41,7 @@ You can import questions from the candidate’s test after the interview has sta
 
   4. Click **Use**.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1758787714161-image.png?Expires=253370764800&Signature=ONrAfBx0Dmd3~sF3cHtJeJrzmVbXqRue4tQjXA6Ozgb5uAgztFm9JfpPQVDpHpuk5JL1lVQrNuzyw1JnO2pkYWkdFgEn4S24ug1oBWwaRFItUFAGEdQmmNRluHP-DG0ramm2mKqH7D-5B1eqqC9N5O8grjy9MjXoTX4ntFmcT1LFGEGWJuV-BbFGmTkGzlbf~y~6CyO03LmRpF1DR1Sjes1UZX0qEWnVCgm7edvY6gK51R3xShx0sQle6uvdcyheba0OFTaPx-iOgk~rhVzsQoflfnw7gWaO1V9u0N8Jkclh02knG584m3XFhTKHYkmdZMNw6iXHdSY0FNB8wiHU7A__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1758787714161-image.png?Expires=253370764800&Signature=ONrAfBx0Dmd3~sF3cHtJeJrzmVbXqRue4tQjXA6Ozgb5uAgztFm9JfpPQVDpHpuk5JL1lVQrNuzyw1JnO2pkYWkdFgEn4S24ug1oBWwaRFItUFAGEdQmmNRluHP-DG0ramm2mKqH7D-5B1eqqC9N5O8grjy9MjXoTX4ntFmcT1LFGEGWJuV-BbFGmTkGzlbf~y~6CyO03LmRpF1DR1Sjes1UZX0qEWnVCgm7edvY6gK51R3xShx0sQle6uvdcyheba0OFTaPx-iOgk~rhVzsQoflfnw7gWaO1V9u0N8Jkclh02knG584m3XFhTKHYkmdZMNw6iXHdSY0FNB8wiHU7A__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 The selected questions open in separate tabs, allowing you to evaluate them in real time with the candidate. Click **View Full Test Report** to open the candidate’s test report within the interview.
 

@@ -19,7 +19,7 @@ The interviews platform provides a split view interface that lets the users see 
 
   * This will split your screen into two parts where you can see your code and the I/O Console side by side.
 
-![image5.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046223624-?Expires=253370764800&Signature=Eh5Vlv80Gp4cporEd~Wl9-J64fcEWTJ-gYaa~rYe88~PhRFF5xLPr3Ee3DDR1an3ukwek~Fei8wDr96hZEIOCfwlS0cbc841zqny9NltUq3~zUV5TRNMROEyxx2LcxbS6OIJ2eA99VeSlBrZSFWu9gVFco3a1QxFnYXv-I4IIAN-vTfYwCrNJVlhRgjN-5OBTuFyL2N9Il2ZLjkD9dlikVG3WE1iuloy4fiLms0Ut~3EGjbd2I97Zjpk~ZVLa1RWNngtmcrnI1Wcu2HYFFEijCB3ARENv63m~OVvRg88XXIzRp67miV3rxKSaf5Bm-ga-GZaWBqKtr2UYe058iF8fQ__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![image5.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046223624-?Expires=253370764800&Signature=Eh5Vlv80Gp4cporEd~Wl9-J64fcEWTJ-gYaa~rYe88~PhRFF5xLPr3Ee3DDR1an3ukwek~Fei8wDr96hZEIOCfwlS0cbc841zqny9NltUq3~zUV5TRNMROEyxx2LcxbS6OIJ2eA99VeSlBrZSFWu9gVFco3a1QxFnYXv-I4IIAN-vTfYwCrNJVlhRgjN-5OBTuFyL2N9Il2ZLjkD9dlikVG3WE1iuloy4fiLms0Ut~3EGjbd2I97Zjpk~ZVLa1RWNngtmcrnI1Wcu2HYFFEijCB3ARENv63m~OVvRg88XXIzRp67miV3rxKSaf5Bm-ga-GZaWBqKtr2UYe058iF8fQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 ### Using Custom Input
 
@@ -27,16 +27,16 @@ The interviews platform provides a split view interface that lets the users see 
 
   * In case of a successful compilation, the result will be displayed in the **Your Output** space.
 
-![image3.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046224115-?Expires=253370764800&Signature=DTonz8rAs3rqyE1DqBDnKdYkZJ324zgOv7qf8mHu818CkAw5M-k8GksEXBZuqRDmdsLb68qyhDGQqUU1vpnM1NiGQXQrR79lR1SKROBDpCBfU0JHKPvTN4xhmS0oX2xm3ztTNRusmlPkFRuu~vvPysyqZbmOQ7vxmrvHMCf1TFQ56~eHNCYWpMgi7aDZHrA2kOgRWZcKbMUFoK1Dp~cLVQ4jWN3~k~4LenSQUQlv5uNkug1fyJe6hhKnc5hQfeVifBSPpiHZx8oZEVKMj7Kx-HUfDxXVKTD3rApXPfFKzyVrQDVO3bV5xHGiIVbmsW-olqGdJN3ToaG8kJUw45iTcQ__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![image3.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046224115-?Expires=253370764800&Signature=DTonz8rAs3rqyE1DqBDnKdYkZJ324zgOv7qf8mHu818CkAw5M-k8GksEXBZuqRDmdsLb68qyhDGQqUU1vpnM1NiGQXQrR79lR1SKROBDpCBfU0JHKPvTN4xhmS0oX2xm3ztTNRusmlPkFRuu~vvPysyqZbmOQ7vxmrvHMCf1TFQ56~eHNCYWpMgi7aDZHrA2kOgRWZcKbMUFoK1Dp~cLVQ4jWN3~k~4LenSQUQlv5uNkug1fyJe6hhKnc5hQfeVifBSPpiHZx8oZEVKMj7Kx-HUfDxXVKTD3rApXPfFKzyVrQDVO3bV5xHGiIVbmsW-olqGdJN3ToaG8kJUw45iTcQ__&Key-Pair-Id=K3NV4LZ47N8M46)
   * If you want to stop the Run Code process, you can click on the **Abort** button that appears once you click on the Run Code.
 
-![image2.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046224552-?Expires=253370764800&Signature=dblyX1CSlZ0hQLBzMKyYee2gSWXFUTJrCTk~WjO4NjyShBRvJqsDFBnVpeKKNc9U3mgSs0UKXy6C6NTa8ojzIEC~j9u8F0A6M0Gm~eIG7DzM49WhHizmIt8xD5x~B74FqtHSYfgASt0uuVJpyWVdpxZ4PfnsWexA4CzhnP9ls03cVcU7Y8S0G-Ka6V3B8teXXjr7owCxxsLNN5V3Hi7yehDn5TkbD73OcrzNHX~C8BZzupABn4tZd1DZu3hrBEmahEG0u4kLfnjMZ5WRDGWc4sjU-4MJMX8lzerbFgW~Hk6cg12YKj4gu0WULf6PeAib-Bq5B83rIx2xTg4jAmyfjw__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![image2.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046224552-?Expires=253370764800&Signature=dblyX1CSlZ0hQLBzMKyYee2gSWXFUTJrCTk~WjO4NjyShBRvJqsDFBnVpeKKNc9U3mgSs0UKXy6C6NTa8ojzIEC~j9u8F0A6M0Gm~eIG7DzM49WhHizmIt8xD5x~B74FqtHSYfgASt0uuVJpyWVdpxZ4PfnsWexA4CzhnP9ls03cVcU7Y8S0G-Ka6V3B8teXXjr7owCxxsLNN5V3Hi7yehDn5TkbD73OcrzNHX~C8BZzupABn4tZd1DZu3hrBEmahEG0u4kLfnjMZ5WRDGWc4sjU-4MJMX8lzerbFgW~Hk6cg12YKj4gu0WULf6PeAib-Bq5B83rIx2xTg4jAmyfjw__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 ### Running the Test Cases
 
   * In case of a successful compilation of the custom input, you will see a message on the top of the tab that says, “**Compilation successful. You can now Run the Tests”** this clickable notation will run your test cases and take you to the Test Cases tab where you can access the results.
 
-![image1.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046225043-?Expires=253370764800&Signature=kWpFm~pwbagD37YwZIfqzsqxgXqYp7PgiU-5KkWAi1x9Kst~c-F1AQ5KHfGM6uv8jkYBQ8IQ4TKuvi2-jt8OGTWcFlOJE62gF2Faw9Apdc2mfl77bqneCQ6qpgiRNZpaXWayGQW4yCjx41G6lP1rVUW3O6osm50iVuyVWhULwBFGIEUGf-2aKGhEQSjD6JNHUp9QTPBphgcI42o~ABsKhRcXskhj25C5GP4TNSiQPgJwzxNIcQLrAczwt3B9ALfCDUDcc70L2vpr-yyNNDSnrBNSqMPDEQD99R4t2BGucotimVggXHvmcFAKs~OKqOky~G8Ydz4Ww~0gaIr8Ddpk8w__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![image1.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046225043-?Expires=253370764800&Signature=kWpFm~pwbagD37YwZIfqzsqxgXqYp7PgiU-5KkWAi1x9Kst~c-F1AQ5KHfGM6uv8jkYBQ8IQ4TKuvi2-jt8OGTWcFlOJE62gF2Faw9Apdc2mfl77bqneCQ6qpgiRNZpaXWayGQW4yCjx41G6lP1rVUW3O6osm50iVuyVWhULwBFGIEUGf-2aKGhEQSjD6JNHUp9QTPBphgcI42o~ABsKhRcXskhj25C5GP4TNSiQPgJwzxNIcQLrAczwt3B9ALfCDUDcc70L2vpr-yyNNDSnrBNSqMPDEQD99R4t2BGucotimVggXHvmcFAKs~OKqOky~G8Ydz4Ww~0gaIr8Ddpk8w__&Key-Pair-Id=K3NV4LZ47N8M46)
   * You can also click on the Test Cases tab at the top of the console to access the test cases directly. You must click on the Run Tests at the bottom of the page to run your test cases. 
 
   * Once you run your test cases by either method, you will see the result at the top of the Test Cases tab. 
@@ -47,7 +47,7 @@ The interviews platform provides a split view interface that lets the users see 
 
   * Input, output, and expected output will be displayed for the selected test case.
 
-![image4.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046225473-?Expires=253370764800&Signature=K0WNErEjF05ss8j0jxBetLQpDkFmeHC~vRCemx9Wu5ftOnb0O8PL89cav7B3M8~Ls24ooYkK-TnADVMb588amIyqFL2BoJko9wX5a9XztnPVgLnj-5Gt9tWMxpVhI4SFzyk9qPWl5Hgdx4qdFB3bcpS5mcYQ4Sezkzk3VkRkop7-PYRQof3vjORpvHTTyzu7JBgTYj-k7h1WOOTlf~QHJRUh8cGyjRggNs-1vNGyE-KKewS5VVQwPaksRLKIchl0zaVC8ju6DdKzEBqyMT6QhhfVsNEFArpNZjBDoTDfWNDA3sOlLwLSyETVQfAaUvVPSxyY6vabwg98l6twyXApAw__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![image4.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046225473-?Expires=253370764800&Signature=K0WNErEjF05ss8j0jxBetLQpDkFmeHC~vRCemx9Wu5ftOnb0O8PL89cav7B3M8~Ls24ooYkK-TnADVMb588amIyqFL2BoJko9wX5a9XztnPVgLnj-5Gt9tWMxpVhI4SFzyk9qPWl5Hgdx4qdFB3bcpS5mcYQ4Sezkzk3VkRkop7-PYRQof3vjORpvHTTyzu7JBgTYj-k7h1WOOTlf~QHJRUh8cGyjRggNs-1vNGyE-KKewS5VVQwPaksRLKIchl0zaVC8ju6DdKzEBqyMT6QhhfVsNEFArpNZjBDoTDfWNDA3sOlLwLSyETVQfAaUvVPSxyY6vabwg98l6twyXApAw__&Key-Pair-Id=K3NV4LZ47N8M46)
   * Hidden test cases (the ones with the lock icon) are not visible to the candidate.
 
 You can also expand and collapse these fields, as shown in the below graphic.

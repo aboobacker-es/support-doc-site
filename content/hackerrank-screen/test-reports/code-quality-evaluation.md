@@ -85,7 +85,7 @@ If you disagree with a comment, you can choose to ignore it. The grade is automa
 
   * **C** : Poor quality code; significant issues.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1753775152427-image.png?Expires=253370764800&Signature=kUbAz2b8Or660AQrayRlYqUNAX29m3aEEmGpPu5W5tshba2Ohq5ivbmN3ecTbZnDMWYrI3NK4yImAY399wrElovcGwtUCWYNFYS3LkrJM-QQ1PMTY-iC5Nha6CwrmgXweuzy4A2ULeLSTCSo5Z2~~vbdpVz3GEoZ4dBqi2dAPWC92FNKCeWjsWyKqUH3~2O7Jm3JPSxqbs6axe0goJr8JIxZsMUPZgNDMQDGuYuCkLpoTRb44Yax4X3F8dBHE-Pf1GchMZ9LdknxdJtaKN66Z-Tf-LjGpx~~A92SSqXwt-6SFzxze7t7Tuvynm0evvfvXPVCNzXN47Q9wkaEhB8HaQ__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1753775152427-image.png?Expires=253370764800&Signature=kUbAz2b8Or660AQrayRlYqUNAX29m3aEEmGpPu5W5tshba2Ohq5ivbmN3ecTbZnDMWYrI3NK4yImAY399wrElovcGwtUCWYNFYS3LkrJM-QQ1PMTY-iC5Nha6CwrmgXweuzy4A2ULeLSTCSo5Z2~~vbdpVz3GEoZ4dBqi2dAPWC92FNKCeWjsWyKqUH3~2O7Jm3JPSxqbs6axe0goJr8JIxZsMUPZgNDMQDGuYuCkLpoTRb44Yax4X3F8dBHE-Pf1GchMZ9LdknxdJtaKN66Z-Tf-LjGpx~~A92SSqXwt-6SFzxze7t7Tuvynm0evvfvXPVCNzXN47Q9wkaEhB8HaQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 :::note
 If a user ignores a violation, the code quality grade is recalculated in real time to reflect the updated assessment.

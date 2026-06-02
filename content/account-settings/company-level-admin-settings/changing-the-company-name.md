@@ -27,7 +27,7 @@ To update the company name and sender name:
 
   5. In the **Company Details** section:
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1764239664536-image.png?Expires=253370764800&Signature=Lw0jo2~B~uGOoDbFttdHVZo3fS2OxKdLF7f106G4kR3YlLw0T7L3cbmsfkCJ3hGjLRAYpAZFnLb3yWhfNruZPAPeAEUUMt2-RHsGPoummxapW76vlnBT4utrY5DIuCPXKMCWMYJU9pEV9fcmCdY6PoCnmDvc5Gd~2fRH1ec8g65J3kJn3BlDvBIf-ex~Qlv2nMeEQFabpvz~2x~yqgSaBx-PvLwtwPdE5Ej0r9ZP3LnIsFixWjH2CTY1lIM5ydsp1uB-SzUW6PNdKAZg4Z4JYSnJIGfwl9qOLiRFFSQBsIV3VseuFiFAQ-ogBfcg85KcIqA1iCGsJEeTixEf-X2GSw__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1764239664536-image.png?Expires=253370764800&Signature=Lw0jo2~B~uGOoDbFttdHVZo3fS2OxKdLF7f106G4kR3YlLw0T7L3cbmsfkCJ3hGjLRAYpAZFnLb3yWhfNruZPAPeAEUUMt2-RHsGPoummxapW76vlnBT4utrY5DIuCPXKMCWMYJU9pEV9fcmCdY6PoCnmDvc5Gd~2fRH1ec8g65J3kJn3BlDvBIf-ex~Qlv2nMeEQFabpvz~2x~yqgSaBx-PvLwtwPdE5Ej0r9ZP3LnIsFixWjH2CTY1lIM5ydsp1uB-SzUW6PNdKAZg4Z4JYSnJIGfwl9qOLiRFFSQBsIV3VseuFiFAQ-ogBfcg85KcIqA1iCGsJEeTixEf-X2GSw__&Key-Pair-Id=K3NV4LZ47N8M46)
      * Enter the updated company name in the **Company Name** field.
 
      * Enter the sender name you want candidates to see in the **Send Invites As** field.

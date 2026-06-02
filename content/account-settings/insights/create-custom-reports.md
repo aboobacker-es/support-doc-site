@@ -77,7 +77,7 @@ Use the tooltips (ⓘ) beside each field to view its description, or refer to th
 
   7. (Optional) Apply filters to refine the data.
 
-![ARTICLE REPORT 1.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1769066824357-ARTICLEREPORT1.gif?Expires=253370764800&Signature=cCbiyRsFgtgHRu-~zvyyEmBXEoNSWjN49PYEo5vGwMzH~GYHsEPjflX5qZMmYfVaP8eN~lLU5lkiIzvjTwjZVFisstSTmMYtY52CW1VHy80N1ksFIy5k3Y-4JOyRxSeELdGelW~B~4uW~xjyE~rG3j~3I486dyADvRCVTO~wba5YEWBt8QEUA8RPvAsXqqHC4c76Z8wOApWd1dl1AAIGY2JXz1zA~T9DWbl~H0a64Cu1PfRHdCNn5YzBBjjsNjdODqqU6smHk3PxlVe~l1WJGxCp4F~28yJ460hWEcoTB5nD-0VXj3PX40lgVWZJxmMCYfAAkT7itIJBoR3bfaVvXw__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![ARTICLE REPORT 1.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1769066824357-ARTICLEREPORT1.gif?Expires=253370764800&Signature=cCbiyRsFgtgHRu-~zvyyEmBXEoNSWjN49PYEo5vGwMzH~GYHsEPjflX5qZMmYfVaP8eN~lLU5lkiIzvjTwjZVFisstSTmMYtY52CW1VHy80N1ksFIy5k3Y-4JOyRxSeELdGelW~B~4uW~xjyE~rG3j~3I486dyADvRCVTO~wba5YEWBt8QEUA8RPvAsXqqHC4c76Z8wOApWd1dl1AAIGY2JXz1zA~T9DWbl~H0a64Cu1PfRHdCNn5YzBBjjsNjdODqqU6smHk3PxlVe~l1WJGxCp4F~28yJ460hWEcoTB5nD-0VXj3PX40lgVWZJxmMCYfAAkT7itIJBoR3bfaVvXw__&Key-Pair-Id=K3NV4LZ47N8M46)
      1. Click **Filter Data**.
 
      2. Select a field to filter on (for example, Test ID).
@@ -106,7 +106,7 @@ Use the tooltips (ⓘ) beside each field to view its description, or refer to th
 
   8. (Optional) Apply aggregation to group or summarize numeric data.
 
-![ARTICLE REPORT 2.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1769066859727-ARTICLEREPORT2.gif?Expires=253370764800&Signature=loGC~4vMcqR215bNdEfGm3UTOJPk5e2j4esN6hba0bw8qJ-JDqresEp~T53JQXr3BjIHnRozwsQjOBpalU12jteBiyWrgo4sPrHFQwr7uOXhfqIz2HtWhrKaMV3BaV1k5iyXqaLxzHqeVGAcR7d7AjnXkBhr8vSxnsszqzG7w1BrJ4vKO4ClxKocBd6tM8hJkge8~1Z0Eoa-xloLnTU3MKOba9TaNQ-W0VIeCM~fvn2lEtTosZJZO7ZazsMj84GtmvW3-eX4ltNp7ZI6I5GH4LymmLp89Lv1tQfHnUFSD5j087~LOCpoUnizS6dkT-60VxUjxJ6MJsebV5I8su0itQ__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![ARTICLE REPORT 2.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1769066859727-ARTICLEREPORT2.gif?Expires=253370764800&Signature=loGC~4vMcqR215bNdEfGm3UTOJPk5e2j4esN6hba0bw8qJ-JDqresEp~T53JQXr3BjIHnRozwsQjOBpalU12jteBiyWrgo4sPrHFQwr7uOXhfqIz2HtWhrKaMV3BaV1k5iyXqaLxzHqeVGAcR7d7AjnXkBhr8vSxnsszqzG7w1BrJ4vKO4ClxKocBd6tM8hJkge8~1Z0Eoa-xloLnTU3MKOba9TaNQ-W0VIeCM~fvn2lEtTosZJZO7ZazsMj84GtmvW3-eX4ltNp7ZI6I5GH4LymmLp89Lv1tQfHnUFSD5j087~LOCpoUnizS6dkT-60VxUjxJ6MJsebV5I8su0itQ__&Key-Pair-Id=K3NV4LZ47N8M46)
      1. Click **Aggregate**.
 
      2. Select a field (for example, Test Score)

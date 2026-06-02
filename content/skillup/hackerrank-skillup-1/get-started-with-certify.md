@@ -25,7 +25,7 @@ To begin using the Certify experience:
 
   2. Go to the **Certify** tab.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1745153743788-image.png?Expires=253370764800&Signature=Qe8dQsYz5YIRV8OvIzO0DM82sEs7KPWN8lDEoX7SLI0TPrVAwqUkGjlpZetH1-sx60bwO3-Yri4GS-eUzw4S8e5UIn14SGmk82H4JJmfSGVc~VAEmkHwFfB5Y64flNw1RhZtOYHEEiJXvFbd3bMAAKXrOTN5a6cIv0SSZpDFBwxFO-RiJej39CJpZNMXwV0ZDqEaqJygoNam2JamwR7KWpDb1scoDGfxBPJ5K6kMfF8dLHWyVPMVSBQU~j5zP9gl0s-XRqRT8M48k8e7-F-qO8yhAJf5CA8jRqnJhliQK1SApLBV~hSxx0S1S3gljEET23KEtbUNRUxYIm2esZjSsw__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1745153743788-image.png?Expires=253370764800&Signature=Qe8dQsYz5YIRV8OvIzO0DM82sEs7KPWN8lDEoX7SLI0TPrVAwqUkGjlpZetH1-sx60bwO3-Yri4GS-eUzw4S8e5UIn14SGmk82H4JJmfSGVc~VAEmkHwFfB5Y64flNw1RhZtOYHEEiJXvFbd3bMAAKXrOTN5a6cIv0SSZpDFBwxFO-RiJej39CJpZNMXwV0ZDqEaqJygoNam2JamwR7KWpDb1scoDGfxBPJ5K6kMfF8dLHWyVPMVSBQU~j5zP9gl0s-XRqRT8M48k8e7-F-qO8yhAJf5CA8jRqnJhliQK1SApLBV~hSxx0S1S3gljEET23KEtbUNRUxYIm2esZjSsw__&Key-Pair-Id=K3NV4LZ47N8M46)
   3. Select a role certification track (for example, _Frontend Developer - React_).
 
   4. Review the list of required practice challenges.

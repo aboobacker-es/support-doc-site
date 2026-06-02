@@ -185,7 +185,7 @@ A dual-layer QA process is applied to maintain high submission standards:
 
   * **Style and documentation checks:** In addition to functional correctness, each solution follow idiomatic coding style, include helpful comments, and avoid anti-patterns. These checks are essential for fine-tuning developer assistants and code explanation models.
 
-![2ndimage.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1750661521227-2ndimage.png?Expires=253370764800&Signature=f5XqprH57Z8Y2iCWmpFuUyGc1-VbNFeoTeE8S8uKmPo-rSQS7Tn53W451Z1IwrPsHjXE7h6enLyUJ7K5m~~RgoX9ikhbQmSX3hEAhgDR4K~Osi-dFHkyc2PvccLQGEJw6TJqtWrLO7Jr6hVK537sTd--Wme2LIUL5oF8qBCbZKUSgOTCavPW9Jd-pgAHHi7oRpnFaXRZ6ojZ7AD-zI-fCi2bbZrmQJNJ4CXgOESkRf2Wew1yPn-4rQzcJ1oXVZuZwbcn~LTVauFLbL-cp5wPeCrWvQhkHs087OEaVJcTZUcb2Ne4aUNPuJs7DajsAMB9XYx50UMt3J2-rx27KlrIiQ__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![2ndimage.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1750661521227-2ndimage.png?Expires=253370764800&Signature=f5XqprH57Z8Y2iCWmpFuUyGc1-VbNFeoTeE8S8uKmPo-rSQS7Tn53W451Z1IwrPsHjXE7h6enLyUJ7K5m~~RgoX9ikhbQmSX3hEAhgDR4K~Osi-dFHkyc2PvccLQGEJw6TJqtWrLO7Jr6hVK537sTd--Wme2LIUL5oF8qBCbZKUSgOTCavPW9Jd-pgAHHi7oRpnFaXRZ6ojZ7AD-zI-fCi2bbZrmQJNJ4CXgOESkRf2Wew1yPn-4rQzcJ1oXVZuZwbcn~LTVauFLbL-cp5wPeCrWvQhkHs087OEaVJcTZUcb2Ne4aUNPuJs7DajsAMB9XYx50UMt3J2-rx27KlrIiQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 ## Model evaluation
 

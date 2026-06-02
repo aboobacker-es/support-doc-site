@@ -23,7 +23,7 @@ You can create labels for the tests in HackerRank. The labels are nothing but a 
 
   3. From the left panel, click on the **General** settings and scroll down. You can find the **Labels** section.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1736767029852-image.png?Expires=253370764800&Signature=pfFroTkoy~tyqiFUhCOJvDQo1grgh9z~Cg2sylU5b8liS1kQGnh~e-pAc4~AF4p2yjRa4aioWEzhN-Qc~V26imHxXtcinSJjfUlsL7jBPIkmrKJFj8IHU7NGHxt0w~Bttyr8TjaWJ2bjNE-Z4j3kXqJ2iB1oaOmBT46kBKD2LGbFIX7Xn41Ck3kez3CzenDqBOGf-AUYUedUeSpQokr9eahTrEjddWSW7WxJUo1SWvsJbg0yd3ZbiEbFJ27G24y0HNKaZvzKjoXFFNNqW4lGKU-Jeav4P9gOuVKtS-F9OR05FTk8ZNTSW45PyMRpndOGa3xz9W2hbzM1ctjKwXy2ZQ__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1736767029852-image.png?Expires=253370764800&Signature=pfFroTkoy~tyqiFUhCOJvDQo1grgh9z~Cg2sylU5b8liS1kQGnh~e-pAc4~AF4p2yjRa4aioWEzhN-Qc~V26imHxXtcinSJjfUlsL7jBPIkmrKJFj8IHU7NGHxt0w~Bttyr8TjaWJ2bjNE-Z4j3kXqJ2iB1oaOmBT46kBKD2LGbFIX7Xn41Ck3kez3CzenDqBOGf-AUYUedUeSpQokr9eahTrEjddWSW7WxJUo1SWvsJbg0yd3ZbiEbFJ27G24y0HNKaZvzKjoXFFNNqW4lGKU-Jeav4P9gOuVKtS-F9OR05FTk8ZNTSW45PyMRpndOGa3xz9W2hbzM1ctjKwXy2ZQ__&Key-Pair-Id=K3NV4LZ47N8M46)
   4. Type your custom labels in the box under Labels. 
 
   5. Click on the **Enter** option after typing each label to add them. 
@@ -50,4 +50,4 @@ You can use test labels to find a required test quickly and efficiently. However
 
   4. Once you select the required labels, tests with relevant information get displayed.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1736767112525-image.png?Expires=253370764800&Signature=Q-ASd~rdgJsPYd1YWY-V05xDVMx7H14WLOqidMWj8HtVpq0HiJhSqvVn3jDXlqbKH-~sqJOYuBGbprxCweIIDdXYIXA1UubAF00H9Lk1P47EaUMA~4R7-ZP7t~TaqST~96pG2JTvULlw7V4Hj9SvD-TaTyn4zVLnfROlVoBsV2KfCtNlwinvCCIjHL1pV8PhcpDPZ1z5pug4c5p21Gd1HHN2HfcgLHAvtAO5C7dD8wLtFEIg2laNHKeWMImOCaAA123aqcaS-1ZudPmxrYAQhZZf~o4ask9Sh8bRMM6yeNIBTMomVh8boBQiXDFAcoF0TRNbQAHPA~RkuzbNp9tbEA__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1736767112525-image.png?Expires=253370764800&Signature=Q-ASd~rdgJsPYd1YWY-V05xDVMx7H14WLOqidMWj8HtVpq0HiJhSqvVn3jDXlqbKH-~sqJOYuBGbprxCweIIDdXYIXA1UubAF00H9Lk1P47EaUMA~4R7-ZP7t~TaqST~96pG2JTvULlw7V4Hj9SvD-TaTyn4zVLnfROlVoBsV2KfCtNlwinvCCIjHL1pV8PhcpDPZ1z5pug4c5p21Gd1HHN2HfcgLHAvtAO5C7dD8wLtFEIg2laNHKeWMImOCaAA123aqcaS-1ZudPmxrYAQhZZf~o4ask9Sh8bRMM6yeNIBTMomVh8boBQiXDFAcoF0TRNbQAHPA~RkuzbNp9tbEA__&Key-Pair-Id=K3NV4LZ47N8M46)

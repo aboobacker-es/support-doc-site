@@ -35,7 +35,7 @@ To configure email settings:
 
   4. Go to **Settings > Emails.**
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1759742909047-image.png?Expires=253370764800&Signature=Tk--K6Q3O8j7nEhyYKrHEf0QRWl3TInrjANEzctyiEoaC7-1vSkMyY75FiBondcaVeZFDiQ49Z1OJ4W-M~oUm5cQjMLogaanHkz5drCU0tikRPuZK5apzu218vCePeYVXXnOUARbLcSdf5hd2f9gd5o5B~81YYzRAstKmsc4nGn00Y0VtJ~f3wbQDllurohXyuJJUMBKggSEvpY0NzysxwTRWPEG6CeGGJonZeVgePcO-2vFnGDcmCxckLbtf9lusQ90emqRj23k-xDgQqB1cgZDn87xfsXKVewCJvCFAVFQbD4TEMLf5UhK~1MQJcGwTVO3QDiCGkfIYxp~G0vvFw__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1759742909047-image.png?Expires=253370764800&Signature=Tk--K6Q3O8j7nEhyYKrHEf0QRWl3TInrjANEzctyiEoaC7-1vSkMyY75FiBondcaVeZFDiQ49Z1OJ4W-M~oUm5cQjMLogaanHkz5drCU0tikRPuZK5apzu218vCePeYVXXnOUARbLcSdf5hd2f9gd5o5B~81YYzRAstKmsc4nGn00Y0VtJ~f3wbQDllurohXyuJJUMBKggSEvpY0NzysxwTRWPEG6CeGGJonZeVgePcO-2vFnGDcmCxckLbtf9lusQ90emqRj23k-xDgQqB1cgZDn87xfsXKVewCJvCFAVFQbD4TEMLf5UhK~1MQJcGwTVO3QDiCGkfIYxp~G0vvFw__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 In the **Emails** section, you can:
 
@@ -111,7 +111,7 @@ To enable and customize reminder emails:
 
   2. Select one of the following options:
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1759740620117-image.png?Expires=253370764800&Signature=hFTZH0LwzO7CvE5xHn9OTnqHv3RhOl12MBaUwSjGrMtB6yaEiekWcFqMG0ZzxD1duAFkif2YFX6NhKIk--oKvH7-fBQkepfz-Cdpd1gM8YB3bWYuOpThmxCiKoogRf-U3EjXiOrSGcKMYcF9AZu733NS~7SiZ0koZ7REI8p-8~Vdx1uNKRkBA1PE6so9Ip5Gsh~~lDUfagsKWujKuEnDGHb7UEU78V-DZgsluiFJt4yZI21g3vdP~~Tel~9N3Zflsl5ICgF6f68IJbv9zXDxh5waakDvxBd7hczdUFzfi~3lfcxFCZ-Ddk~IZtwb-U6Z2onQemwqPcF1QpEOBBCX1w__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1759740620117-image.png?Expires=253370764800&Signature=hFTZH0LwzO7CvE5xHn9OTnqHv3RhOl12MBaUwSjGrMtB6yaEiekWcFqMG0ZzxD1duAFkif2YFX6NhKIk--oKvH7-fBQkepfz-Cdpd1gM8YB3bWYuOpThmxCiKoogRf-U3EjXiOrSGcKMYcF9AZu733NS~7SiZ0koZ7REI8p-8~Vdx1uNKRkBA1PE6so9Ip5Gsh~~lDUfagsKWujKuEnDGHb7UEU78V-DZgsluiFJt4yZI21g3vdP~~Tel~9N3Zflsl5ICgF6f68IJbv9zXDxh5waakDvxBd7hczdUFzfi~3lfcxFCZ-Ddk~IZtwb-U6Z2onQemwqPcF1QpEOBBCX1w__&Key-Pair-Id=K3NV4LZ47N8M46)
      * If the test has an expiration date, select how many days before the expiration date to send the reminder.
 
      * If the test has no expiration date, select how many days after the invite to send the reminder.

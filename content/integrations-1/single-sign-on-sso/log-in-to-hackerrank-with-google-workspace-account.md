@@ -29,7 +29,7 @@ If your company uses SSO, you can configure Google Workspace as your SSO provide
 
   2. Click **Continue with Google** to log in to your HackerRank account.
 
-![google_login.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046348350-?Expires=253370764800&Signature=vJZggOfzKRLkb0LwZSn~5OCkQPEyPj0b5JlCpQE3YrAzcf97rtY0yZrvpON2IE9qrYSJaNketjNs-hhW5Ke3cl4usbOpNuElk0zCtaMQ60QiYh~wZvuDU42NS4GdlQrK~sZXeHp-~EaKIyKo4zJoChAb5voX1Hl1QBcaygzjf0CtyZ632uSsx1WxuAKCMVEv0SkMrFidBoeTZjOGTEgfGnljf9zBxrHCcneRE24n0crvYStkN9yfTFYtr2nYvP7cngs6yJNMwL0IlmDmnLrCwFFDlij8JKoQE~mMrRFbw73vEIDhC9h8~NJ1DJaf8MhDZuySgpJ99M1LAer3sTafeA__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![google_login.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046348350-?Expires=253370764800&Signature=vJZggOfzKRLkb0LwZSn~5OCkQPEyPj0b5JlCpQE3YrAzcf97rtY0yZrvpON2IE9qrYSJaNketjNs-hhW5Ke3cl4usbOpNuElk0zCtaMQ60QiYh~wZvuDU42NS4GdlQrK~sZXeHp-~EaKIyKo4zJoChAb5voX1Hl1QBcaygzjf0CtyZ632uSsx1WxuAKCMVEv0SkMrFidBoeTZjOGTEgfGnljf9zBxrHCcneRE24n0crvYStkN9yfTFYtr2nYvP7cngs6yJNMwL0IlmDmnLrCwFFDlij8JKoQE~mMrRFbw73vEIDhC9h8~NJ1DJaf8MhDZuySgpJ99M1LAer3sTafeA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 The Choose an account page is displayed that shows all your Google for Work accounts.
 

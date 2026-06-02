@@ -25,14 +25,14 @@ To update team settings:
 
   4. Go to the **Teams** tab.
 
-![teams.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1772519528971-teams.png?Expires=253370764800&Signature=AVFn9-Dd5I64moLcEc0jK0pamD9-~7VWqqsS-3K3gne6RcW4er4CzWVz4iq5ZKbQdzQkCh9cktXf8dXV-fYSm9cl1jRkZsHeo43-6lVN5hw2IhUSsPOY3b6E2eC-bgXioKEA-Wuuy~OvtPHYzIBqgMnBaFPJbqPUUG1Jnig1J11hhEpnGFNEGXvMJzAiORJboaVpcbvwTqSPrOkVjUNIS0JIesWjyod7OcMsY6qNf44FxKZP06O4W3sLn27yy-NNnkQ-3SeSdUDpsk6jupxe00krmCobjsYFQpHZkAT4MSQ0-pmV3tNded3La0IaRHaZiPnt-AZsF0zT~3jF0TuNAA__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![teams.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1772519528971-teams.png?Expires=253370764800&Signature=AVFn9-Dd5I64moLcEc0jK0pamD9-~7VWqqsS-3K3gne6RcW4er4CzWVz4iq5ZKbQdzQkCh9cktXf8dXV-fYSm9cl1jRkZsHeo43-6lVN5hw2IhUSsPOY3b6E2eC-bgXioKEA-Wuuy~OvtPHYzIBqgMnBaFPJbqPUUG1Jnig1J11hhEpnGFNEGXvMJzAiORJboaVpcbvwTqSPrOkVjUNIS0JIesWjyod7OcMsY6qNf44FxKZP06O4W3sLn27yy-NNnkQ-3SeSdUDpsk6jupxe00krmCobjsYFQpHZkAT4MSQ0-pmV3tNded3La0IaRHaZiPnt-AZsF0zT~3jF0TuNAA__&Key-Pair-Id=K3NV4LZ47N8M46)
   5. Select the team you want to update.
 
   6. Select the **Settings** tab.
 
   7. Update the **Name** , **Region** , or **Department** fields as needed.
 
-![update_team3.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1772519660312-update_team3.png?Expires=253370764800&Signature=Ltd0fSqV9zrZPTIBc3OPrFglqbbr9OOgBdBFIs0j~EfYbKZiiP2E~I9xkUBIiAMb40dUcqFdiOeQTnpsSdZQPxk3JVw~e6BrA8Kr5GK~Ku1PNVyhOgRnIef-ggK64vwjD5z0T9PwWfXwDSfIz12t6rXELuAzAZfI3Y~TXbftsAbVYoHw718~Y0Bcdx3TDorplHdJO5YguY0Lzl8e-AUlhEHwQzzbM3NreFusBI0J70trEYYHhZsLiqsCgLnwd6wL5fSg8-B4RyeACjmNVKRyOFRYL7vyBbbLZ4E5tIgPbtSMmz55oSuyTopLnCmCmGBMGwWiKDdDaLewYQeImHlrcA__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![update_team3.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1772519660312-update_team3.png?Expires=253370764800&Signature=Ltd0fSqV9zrZPTIBc3OPrFglqbbr9OOgBdBFIs0j~EfYbKZiiP2E~I9xkUBIiAMb40dUcqFdiOeQTnpsSdZQPxk3JVw~e6BrA8Kr5GK~Ku1PNVyhOgRnIef-ggK64vwjD5z0T9PwWfXwDSfIz12t6rXELuAzAZfI3Y~TXbftsAbVYoHw718~Y0Bcdx3TDorplHdJO5YguY0Lzl8e-AUlhEHwQzzbM3NreFusBI0J70trEYYHhZsLiqsCgLnwd6wL5fSg8-B4RyeACjmNVKRyOFRYL7vyBbbLZ4E5tIgPbtSMmz55oSuyTopLnCmCmGBMGwWiKDdDaLewYQeImHlrcA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 The system automatically saves all changes.
 

@@ -23,7 +23,7 @@ HackerRank Insights, powered by Highcharts, provides powerful analytics to evalu
 
   2. Click on **Insights** to view the test insights page.
 
-![2024-10-23_15-04-03.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046533349-?Expires=253370764800&Signature=ZXgu3E2qpVkwUC5~K0JLBRL2blzywAeQXap0urJET7jmgE6StE7pt-L~YRkPqWQow8pkqh8xerT2IsxJz4KO~8DjbKvsjuwn70m0ceSqgU7FV4~wHUX5--hcnrDJVyZaH57aMdnOU4osxg-WEkFfLuI5SAorjZgQVd1GWk0h3oP4HlrmJq79XBqrAuNBymRNrrbzcQLutk2E4pl0qGQf-z4WlQznJngTcGyS3gDYdgWgTOA8~PGrwLbBzFKQxYBwpVcFgeyQ2viUgxF2scPxE6WfzYJv6O9B3pcK75WrFUa8cxxQ1ULPhEAAzL7Vtv~t0DY5Vi-OVL~9PP8RJqYGQw__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![2024-10-23_15-04-03.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046533349-?Expires=253370764800&Signature=ZXgu3E2qpVkwUC5~K0JLBRL2blzywAeQXap0urJET7jmgE6StE7pt-L~YRkPqWQow8pkqh8xerT2IsxJz4KO~8DjbKvsjuwn70m0ceSqgU7FV4~wHUX5--hcnrDJVyZaH57aMdnOU4osxg-WEkFfLuI5SAorjZgQVd1GWk0h3oP4HlrmJq79XBqrAuNBymRNrrbzcQLutk2E4pl0qGQf-z4WlQznJngTcGyS3gDYdgWgTOA8~PGrwLbBzFKQxYBwpVcFgeyQ2viUgxF2scPxE6WfzYJv6O9B3pcK75WrFUa8cxxQ1ULPhEAAzL7Vtv~t0DY5Vi-OVL~9PP8RJqYGQw__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 ## Basic Functionality of Insights
 
@@ -83,7 +83,7 @@ For each question in the test, the graphs display the median and average scores 
 
   * Average Time per Question
 
-![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046534103-?Expires=253370764800&Signature=M3ggdfKYjbC9RpggXGS5lFSTsBfhCUFZrzrBPQEAqrL4~EcJMe5xIyH4bj3J6LHZxGQMr-Dm81vcgcDRDsKGDxoTrOA81vWex8FQoqlkdsFclpXHZtot4gp~m0qizIZYb6~mB2h-SqVeDHXxV1Qx005Cu~KMtbsVANTKYHzy95u3wC4z5SRuLeEzXouvWQ~Xm3Wj2ak5aeofYzVhQ1fIJVAQsvJPQcSVShOOqKGdUSY3R-03dnrmPVMbWk~ZLb8VuxYn0Ydzlh~RtH6SmUJnSmkdC5Q9ohZW-HbEioCogMpZDQj~k2aklB0lvuPl2gxWLDfZBbb4zLpv-0R3~BmhUA__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046534103-?Expires=253370764800&Signature=M3ggdfKYjbC9RpggXGS5lFSTsBfhCUFZrzrBPQEAqrL4~EcJMe5xIyH4bj3J6LHZxGQMr-Dm81vcgcDRDsKGDxoTrOA81vWex8FQoqlkdsFclpXHZtot4gp~m0qizIZYb6~mB2h-SqVeDHXxV1Qx005Cu~KMtbsVANTKYHzy95u3wC4z5SRuLeEzXouvWQ~Xm3Wj2ak5aeofYzVhQ1fIJVAQsvJPQcSVShOOqKGdUSY3R-03dnrmPVMbWk~ZLb8VuxYn0Ydzlh~RtH6SmUJnSmkdC5Q9ohZW-HbEioCogMpZDQj~k2aklB0lvuPl2gxWLDfZBbb4zLpv-0R3~BmhUA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 ### Performance Funnel - All Candidates
 

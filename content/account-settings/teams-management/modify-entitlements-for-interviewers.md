@@ -23,10 +23,10 @@ To modify entitlements for interviewers in a team:
 
   3. Select **Teams Management** from the drop-down menu.
 
-![team manage.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1773208948896-teammanage.png?Expires=253370764800&Signature=kxcmobInAPAfzZvgI~7U9sX8xf~02aOTjop5JQHUny1ruVBKLokYjmlLYSaCSSMZjdho9C0Zs5v0MmT0WWGOwi0GiOenbioIJH3L62dPvZtr6i1PWhRBXUn7NJCWSHsF2Y9Yo7P1ZxcoS2N~tMlJz6Y3Hk~Vtc0cMAs2EHOv5FUcqrPTMS3fK-ubIsv747-a-Oh2oiCpkuIQ9e8~uIbN3qpigIkzOeqgCTnUa5zyYH7DcXawbO9Gi2VrRqdE6iLOWmHqZk8xfo0tY8EuFVmzsztLvX~hG~kFEpY7ayUL5UYfu8aR3vWQKwJ~uKJNcrUNggX8oPf9kWWE7ZUVfnPXYQ__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![team manage.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1773208948896-teammanage.png?Expires=253370764800&Signature=kxcmobInAPAfzZvgI~7U9sX8xf~02aOTjop5JQHUny1ruVBKLokYjmlLYSaCSSMZjdho9C0Zs5v0MmT0WWGOwi0GiOenbioIJH3L62dPvZtr6i1PWhRBXUn7NJCWSHsF2Y9Yo7P1ZxcoS2N~tMlJz6Y3Hk~Vtc0cMAs2EHOv5FUcqrPTMS3fK-ubIsv747-a-Oh2oiCpkuIQ9e8~uIbN3qpigIkzOeqgCTnUa5zyYH7DcXawbO9Gi2VrRqdE6iLOWmHqZk8xfo0tY8EuFVmzsztLvX~hG~kFEpY7ayUL5UYfu8aR3vWQKwJ~uKJNcrUNggX8oPf9kWWE7ZUVfnPXYQ__&Key-Pair-Id=K3NV4LZ47N8M46)
   4. Go to **User Roles > Interviewer**.
 
-![interview entitlement.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1773209163006-interviewentitlement.png?Expires=253370764800&Signature=irYJGvOMZfMxkypULqDxP~BExNo~k6vDPQEboIYcOLNReIdDsCj3Szb-E0UY531ktraW4RqXMKXMMjbNfsQqzO42Dl28ZAujHM6Nwl3ZHDZ7c6FqIIRjqrmqebi38aD6~ZmDYD0c8--F0XFCNxKbKg1AjuthUlxapk~QSMh4hJV1d4i-rRSJ~THazBqoVlTgQHjAWMqnjVl8PWMkWwzvfngs0tKlzYEGdOsM4WApbfZrX20Jq3nd5vYgbsjjfrYSeJtUt39cf9mbyo6nJtPu04hTonI~YOIPaViTGCGDlQrj2T-PGPaEd~W8emJpCFObZwvbr-FLlNJXGAEm4Yn5kw__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![interview entitlement.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1773209163006-interviewentitlement.png?Expires=253370764800&Signature=irYJGvOMZfMxkypULqDxP~BExNo~k6vDPQEboIYcOLNReIdDsCj3Szb-E0UY531ktraW4RqXMKXMMjbNfsQqzO42Dl28ZAujHM6Nwl3ZHDZ7c6FqIIRjqrmqebi38aD6~ZmDYD0c8--F0XFCNxKbKg1AjuthUlxapk~QSMh4hJV1d4i-rRSJ~THazBqoVlTgQHjAWMqnjVl8PWMkWwzvfngs0tKlzYEGdOsM4WApbfZrX20Jq3nd5vYgbsjjfrYSeJtUt39cf9mbyo6nJtPu04hTonI~YOIPaViTGCGDlQrj2T-PGPaEd~W8emJpCFObZwvbr-FLlNJXGAEm4Yn5kw__&Key-Pair-Id=K3NV4LZ47N8M46)
   5. Review and update the entitlements as needed.
 
 ## Available interviewer entitlements

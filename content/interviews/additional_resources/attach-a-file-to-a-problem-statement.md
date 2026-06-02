@@ -13,17 +13,17 @@ You can support your problem statement by attaching a relevant file while creati
 
   * In the **Problem Description** area, click on the **Link** option.
 
-![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046406707-?Expires=253370764800&Signature=PkXg2ccpSeEEbtZvi7XiTorP5xKym-JZdW3HlyQHDy2dE5D6Ebkqb0wlgWkv6unf2C37ybohrCArVpt3XcwHT-ljTp6VmrnOQ3pHMU4xgMFdvwmx5B0JfOPl7nTKL46aycrUchpkAsUgQcDiwxe3eaH0RaTKCx9nnjs3J6eO67HGabkQi6mh1T5w7WmdlSllJRZ4sxefxh3164lN78JO9HS-Ejnq38xbTNGudawonpMv2qJeZt90gUB4-as5HRM9X~SJgV-i251ODb-ORRcXj8JREZE2H6AIlIyEuYwtVrSCC4qfTOjA0qr7iafto6lEjNrEfgq5YPNtpUifSOcQRA__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046406707-?Expires=253370764800&Signature=PkXg2ccpSeEEbtZvi7XiTorP5xKym-JZdW3HlyQHDy2dE5D6Ebkqb0wlgWkv6unf2C37ybohrCArVpt3XcwHT-ljTp6VmrnOQ3pHMU4xgMFdvwmx5B0JfOPl7nTKL46aycrUchpkAsUgQcDiwxe3eaH0RaTKCx9nnjs3J6eO67HGabkQi6mh1T5w7WmdlSllJRZ4sxefxh3164lN78JO9HS-Ejnq38xbTNGudawonpMv2qJeZt90gUB4-as5HRM9X~SJgV-i251ODb-ORRcXj8JREZE2H6AIlIyEuYwtVrSCC4qfTOjA0qr7iafto6lEjNrEfgq5YPNtpUifSOcQRA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
   * The **Add Link** dialog box will appear. In the **Text Display** field, enter the text you want to display as a clickable link for file access.
 
   * Select the **Upload a document** option, then choose the file you want to upload. The **URL** field will automatically be populated with the file’s link.
 
-![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046407067-?Expires=253370764800&Signature=bQFoBOumCiJX9gdPPl05dOUcmF3DqkjgwDZCXIIt-rGcMh5vt-aZO78uEozJ-Hm~kKdaZw16uCNoGOrqRgKcvkp8qx9LJ60tiGfaOEOZtkQs-YSmFvBJF2D5XgKAdmBWnQjtO1BwV8o9uYwAeol4-sSqwzoZ7~Jyfrj2L3jq9F9tjsMQNbQD8mNO7Fk4utLunRsj20p7XrcIJNZCFZ5jqiCibSQh3ECqqZoKEFgPPdmyHG91yukvCGqyVPk2h6r31UQZdPnl8Juf-RfT50q-2ryOA84R4yq9584WBWY1Fc0rzKsIp0uWV5J4PtIOvh5JZY5Xi6zQOOKeP9XNCbZ7EA__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046407067-?Expires=253370764800&Signature=bQFoBOumCiJX9gdPPl05dOUcmF3DqkjgwDZCXIIt-rGcMh5vt-aZO78uEozJ-Hm~kKdaZw16uCNoGOrqRgKcvkp8qx9LJ60tiGfaOEOZtkQs-YSmFvBJF2D5XgKAdmBWnQjtO1BwV8o9uYwAeol4-sSqwzoZ7~Jyfrj2L3jq9F9tjsMQNbQD8mNO7Fk4utLunRsj20p7XrcIJNZCFZ5jqiCibSQh3ECqqZoKEFgPPdmyHG91yukvCGqyVPk2h6r31UQZdPnl8Juf-RfT50q-2ryOA84R4yq9584WBWY1Fc0rzKsIp0uWV5J4PtIOvh5JZY5Xi6zQOOKeP9XNCbZ7EA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
   * Click **OK**. The specified text will appear as a link for candidates to access the file.
 
-![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046407484-?Expires=253370764800&Signature=B2-1S5WeT6y1fr4UznWyaueHaezL8Ro2nWApq7QU~IMopXH3OUGEPhCyE1VSkeBeupfyWTcg6ZeFVOsOhMqanzt~cEFcU-xc4SLOTPP00COVmdiF1J31NBt8Sm~xaKhLa~qsZ4dyyymbwxkGIGxZBNc2EZW~A1Hd37L9qXV-M2QjDJWOpjPj3-l3RuCcyc8ZKAgUA3ct9pEW90WMRL9Vhx~2K2MI~hlOa2BGCK96qmpAQcnlV8yNotfRGtQ5fg9pKQlIM~J9itXdBfhmIdtzu51A7ot34lFjLUlxBZfkjYQzcL6jSaV7Xo~blMMZWQozGg7-k0OGLMj1tZfELbDcJA__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046407484-?Expires=253370764800&Signature=B2-1S5WeT6y1fr4UznWyaueHaezL8Ro2nWApq7QU~IMopXH3OUGEPhCyE1VSkeBeupfyWTcg6ZeFVOsOhMqanzt~cEFcU-xc4SLOTPP00COVmdiF1J31NBt8Sm~xaKhLa~qsZ4dyyymbwxkGIGxZBNc2EZW~A1Hd37L9qXV-M2QjDJWOpjPj3-l3RuCcyc8ZKAgUA3ct9pEW90WMRL9Vhx~2K2MI~hlOa2BGCK96qmpAQcnlV8yNotfRGtQ5fg9pKQlIM~J9itXdBfhmIdtzu51A7ot34lFjLUlxBZfkjYQzcL6jSaV7Xo~blMMZWQozGg7-k0OGLMj1tZfELbDcJA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 :::note
 Supported file extensions are .jpg, .jpeg, .png, .gif, .svg, .webp, .heic, .heif, .bmp, .pdf, .doc, .docx, .xls, .xlsx, .ppt, .pptx, .odt, .ods, .odp, .txt, .csv, .md, .rtf, .tsv, .json, .XML, .zip.

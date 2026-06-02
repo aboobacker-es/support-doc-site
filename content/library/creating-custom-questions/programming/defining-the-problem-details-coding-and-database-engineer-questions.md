@@ -23,7 +23,7 @@ It is recommended that you use these templates to define your Coding and Databas
 
   2. On the extreme right of the toolbar, click on the **Use content templates** option.
 
-![Use Templates.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046717053-?Expires=253370764800&Signature=g-V3y5JVTegRayaPtjxxWrIijdCiX1VhBCBsmT1JphY2ScvD-P-TfFV72H3zhLOwkGuJEeNMhWxnM9wX-kwHCqmFGO-hdTSaB5KIi3xMJW7RORcmP-L1MU6ItpTiSRLVlRZXTAXwFhtrj5v0VDdKLMxHWt6Y4xOKGwMEveQLm1sq82m2xYFdm38V-qSvQWdq~hCmhTT9IX644L3njRkAszNaBOn134EXtn1ZfCITw2gN6AnQAZ~plsZHUiqpm-V3rMumCsHxeNVQIeZc3-ukwhHDV1Fb6fPbhsmMczD250UaE5t1Td2bbuMdfZHafXWmPtwMTqvpzrlQ6Tc-NXsTVA__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![Use Templates.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046717053-?Expires=253370764800&Signature=g-V3y5JVTegRayaPtjxxWrIijdCiX1VhBCBsmT1JphY2ScvD-P-TfFV72H3zhLOwkGuJEeNMhWxnM9wX-kwHCqmFGO-hdTSaB5KIi3xMJW7RORcmP-L1MU6ItpTiSRLVlRZXTAXwFhtrj5v0VDdKLMxHWt6Y4xOKGwMEveQLm1sq82m2xYFdm38V-qSvQWdq~hCmhTT9IX644L3njRkAszNaBOn134EXtn1ZfCITw2gN6AnQAZ~plsZHUiqpm-V3rMumCsHxeNVQIeZc3-ukwhHDV1Fb6fPbhsmMczD250UaE5t1Td2bbuMdfZHafXWmPtwMTqvpzrlQ6Tc-NXsTVA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
  The following templates are available for selection:
 
@@ -47,13 +47,13 @@ HackerRank's Database Question Template| Recommended for Database Engineer-type 
 
   
   
-![Templates.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046717817-?Expires=253370764800&Signature=TZ~uUDGQb57qfWM95BlPuGPf4qdsyrCg1aGJwvW4Vjdm-V0xz8DPr265U5H80yBiVAsYAzyvSnNDXbpMtJZ7HtFuv45t4LNhXgfTKji~ry7kpTNekuvJ8IgQpnDXRh1sLDj7uY-GY3Vm7jcl7fEscvCAzcO0bt-9aEm1yO25u2gLarOnwL33XbUK33g6U-ycwX8syzTvGkI8vZBjIQ~ySL5LwKqrfvr-ncYLiq7CHc5A6fQZipNVB9Jo3G0SBJIZ48nP3OJo0qqfn0Cnn6kJFKhMvM6GY0HPs89yuBhvYfr~~bwXStsCX3nb-hV6I~aUftvtmZIvwDjau~m2VJXnXw__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![Templates.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046717817-?Expires=253370764800&Signature=TZ~uUDGQb57qfWM95BlPuGPf4qdsyrCg1aGJwvW4Vjdm-V0xz8DPr265U5H80yBiVAsYAzyvSnNDXbpMtJZ7HtFuv45t4LNhXgfTKji~ry7kpTNekuvJ8IgQpnDXRh1sLDj7uY-GY3Vm7jcl7fEscvCAzcO0bt-9aEm1yO25u2gLarOnwL33XbUK33g6U-ycwX8syzTvGkI8vZBjIQ~ySL5LwKqrfvr-ncYLiq7CHc5A6fQZipNVB9Jo3G0SBJIZ48nP3OJo0qqfn0Cnn6kJFKhMvM6GY0HPs89yuBhvYfr~~bwXStsCX3nb-hV6I~aUftvtmZIvwDjau~m2VJXnXw__&Key-Pair-Id=K3NV4LZ47N8M46)
 
   3. You can select the required template based on your question type. The template format is added to your **Problem description**  area.
 
   4. Detail the question as per the format.
 
-![Problem Description.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046718167-?Expires=253370764800&Signature=vJIK~hCUp4aYrFCypvgaMpLptqhoxWYnrkEo66BzrTFvy5-ErqyuOD6vcv0D2E40Nx266WlvnWCXXvIzuKJSSw-JgHtYkhEY4HAjR8jWvQPJejCoDSxKnOYUM3j~007-rsjym6OlFURcK8DBAwZO3VixNbUM9LCKx8Y6eCCPcLY0VhaR2EQPea4DaL1C4A4hhjMBwoZKGkLEHJh9Q5a3LaNUBx-bc~6WPuRZYtwdG0L6dm~kKH7jLPDawa~T6dqrwVU3V9x4lqjAMiSwsapn~X9EgcOPLwhmca2RAboCjdKcU~feFX8Pvy95Ao85MSYwLfXk-t70THAau37uyXm8tg__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![Problem Description.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046718167-?Expires=253370764800&Signature=vJIK~hCUp4aYrFCypvgaMpLptqhoxWYnrkEo66BzrTFvy5-ErqyuOD6vcv0D2E40Nx266WlvnWCXXvIzuKJSSw-JgHtYkhEY4HAjR8jWvQPJejCoDSxKnOYUM3j~007-rsjym6OlFURcK8DBAwZO3VixNbUM9LCKx8Y6eCCPcLY0VhaR2EQPea4DaL1C4A4hhjMBwoZKGkLEHJh9Q5a3LaNUBx-bc~6WPuRZYtwdG0L6dm~kKH7jLPDawa~T6dqrwVU3V9x4lqjAMiSwsapn~X9EgcOPLwhmca2RAboCjdKcU~feFX8Pvy95Ao85MSYwLfXk-t70THAau37uyXm8tg__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 **For example** :
 

@@ -31,7 +31,7 @@ Tailor your outreach by identifying specific candidate personas based on roles, 
 
   * Segment candidates to create targeted messaging for each persona.
 
-![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046747073-?Expires=253370764800&Signature=oqNXduKDIXQYtksWj-SXHU5vuCglOUu04ow~ebmd4v4vbBjbHU49k0xwMrtpUSe5BJEc8CxHrbqoGrnY7NVnwiFrQmArpnhfrI8ymih-K7daWyS6fQoLBU1kbpiY-u8TPp4FkjxTbBsV3L5TidDmdD46uCcPFwfz3iRcXaOenu7UeUlY2DUTskGt8Sb4gmM0fL6tpI0~X5aQ9gIoA5izj8rKfK8dMW7AWeFfPyxUZP4keSZjU1oTWT~X9~H8yevzjVNZYgJGNmWWfwrgQOxEfXJuSZrWQSv0R7D7DgoHd3pWuAQIKo1hUixQaXMneEV34CltNw3DA~PaHnWHh7-lEw__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046747073-?Expires=253370764800&Signature=oqNXduKDIXQYtksWj-SXHU5vuCglOUu04ow~ebmd4v4vbBjbHU49k0xwMrtpUSe5BJEc8CxHrbqoGrnY7NVnwiFrQmArpnhfrI8ymih-K7daWyS6fQoLBU1kbpiY-u8TPp4FkjxTbBsV3L5TidDmdD46uCcPFwfz3iRcXaOenu7UeUlY2DUTskGt8Sb4gmM0fL6tpI0~X5aQ9gIoA5izj8rKfK8dMW7AWeFfPyxUZP4keSZjU1oTWT~X9~H8yevzjVNZYgJGNmWWfwrgQOxEfXJuSZrWQSv0R7D7DgoHd3pWuAQIKo1hUixQaXMneEV34CltNw3DA~PaHnWHh7-lEw__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 ## Personalize Your Outreach
 

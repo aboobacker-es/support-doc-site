@@ -24,7 +24,7 @@ The **Email Sequences** tab displays all candidate-facing emails, including the 
 
   4. Select the email you want to edit, and update the content as needed.
 
-![engageenhance.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760520920417-engageenhance.gif?Expires=253370764800&Signature=mD7LgTfRd7DDGVgBG2YBnaIwKDoNrVEOJcwgC7kf7viodDmRvqGM9lyPikP0H780GtlB3JuUi2NJcvjMKmCt-pq26CBaOrWIW444mx4vbX3H-pyogH5ro10GQtzrXFLu6~KoEvmk9k6nR7XjAlNQiE4tPWI072D2jZmK49BPqvUz~mTZR7UgOiAcPGRITYrr2XHP4ixYJWtn8-dE-tkcMm3fD5E94Tf1yp0STs4TtALMsOTikk2ymtORczU9KNC9TOy0yf5uwlyYe5mdQ3OoaFgS7TtWGQ0I4ppGySNnP9otMvjR~8ljXDbxpOBUxQtFmiZoZVRgNKN78oReuJnSzw__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![engageenhance.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760520920417-engageenhance.gif?Expires=253370764800&Signature=mD7LgTfRd7DDGVgBG2YBnaIwKDoNrVEOJcwgC7kf7viodDmRvqGM9lyPikP0H780GtlB3JuUi2NJcvjMKmCt-pq26CBaOrWIW444mx4vbX3H-pyogH5ro10GQtzrXFLu6~KoEvmk9k6nR7XjAlNQiE4tPWI072D2jZmK49BPqvUz~mTZR7UgOiAcPGRITYrr2XHP4ixYJWtn8-dE-tkcMm3fD5E94Tf1yp0STs4TtALMsOTikk2ymtORczU9KNC9TOy0yf5uwlyYe5mdQ3OoaFgS7TtWGQ0I4ppGySNnP9otMvjR~8ljXDbxpOBUxQtFmiZoZVRgNKN78oReuJnSzw__&Key-Pair-Id=K3NV4LZ47N8M46)
      * For Engagement Emails, a **Review Required** label appears if edits are pending. You must review and update the content.
 
 :::note
@@ -67,10 +67,10 @@ To create a broadcast email:
 
   4. Click **Add Email**.
 
-![Screenshot 2025-09-25 at 10.44.51 AM.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760520873834-Screenshot2025-09-25at10.44.51AM.png?Expires=253370764800&Signature=KEp0s0-iiEo5~NKd5b4Dq8bIfVZprxGBqnAODixmWGIKCAnsGPtZ3NywEU8IjT5RLghPo8vlI2rKdgQJGGk1N7fHFK8zhOo8IJ0XibAdQgHavElMDKQr6ZOhCXiBulOgGgl2ZVZ-OjLeTX50xSOZvuMV7SLBbD0flDyWc7hfG86dlk9CwtuBsVIsHdkLXtGKkjdqrnvdGKQgqdJBOZIG-PdmNMese-OteSmWiY2e0m0GVclQWnYKQDHcK8VMIh-PIA44NETOtMTz2qKFo1x9MdJ9yfuTJ~l0LHIiFJ~NdptdtH-K-VrciclrMBNARPuDR9kwkIUvVyJ2rksS9JNlxw__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![Screenshot 2025-09-25 at 10.44.51 AM.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760520873834-Screenshot2025-09-25at10.44.51AM.png?Expires=253370764800&Signature=KEp0s0-iiEo5~NKd5b4Dq8bIfVZprxGBqnAODixmWGIKCAnsGPtZ3NywEU8IjT5RLghPo8vlI2rKdgQJGGk1N7fHFK8zhOo8IJ0XibAdQgHavElMDKQr6ZOhCXiBulOgGgl2ZVZ-OjLeTX50xSOZvuMV7SLBbD0flDyWc7hfG86dlk9CwtuBsVIsHdkLXtGKkjdqrnvdGKQgqdJBOZIG-PdmNMese-OteSmWiY2e0m0GVclQWnYKQDHcK8VMIh-PIA44NETOtMTz2qKFo1x9MdJ9yfuTJ~l0LHIiFJ~NdptdtH-K-VrciclrMBNARPuDR9kwkIUvVyJ2rksS9JNlxw__&Key-Pair-Id=K3NV4LZ47N8M46)
   5. Apply filters in the email editor to target specific candidates.
 
-![Screenshot 2025-09-25 at 10.45.28 AM.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760520894820-Screenshot2025-09-25at10.45.28AM.png?Expires=253370764800&Signature=PBGap4HBMQJ6xjHlf-zoWGqff7RzgXrDCEShL4iIsA4gzaQsqJ08gdYWKx0KtoMYnjGz-YYGpd-i-uL13yv6oKcHkAGG-9bzxbprHMu45Ju26cXGbeVVYFBBmuiHcmIM477hX8dtIVfQeZt5KjM6EV9d7IFASiPtQCWOhh9zR2YAY19QLSMjJQhPQeG24RsAUGS8-F7GZ-TeQjYmqs1cgytITMXP8~T~q3MmAPRQn5Y08tiY08LgqKf8UaNMXOaHuLjNk1ubnV-Gw6DBb7GSu4qsJOGFQWvp0DsVcNUc62zaHWcE9IEBovueUGVUlt3fM8Z7gPDfVelbvzkOX9T5ZQ__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![Screenshot 2025-09-25 at 10.45.28 AM.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760520894820-Screenshot2025-09-25at10.45.28AM.png?Expires=253370764800&Signature=PBGap4HBMQJ6xjHlf-zoWGqff7RzgXrDCEShL4iIsA4gzaQsqJ08gdYWKx0KtoMYnjGz-YYGpd-i-uL13yv6oKcHkAGG-9bzxbprHMu45Ju26cXGbeVVYFBBmuiHcmIM477hX8dtIVfQeZt5KjM6EV9d7IFASiPtQCWOhh9zR2YAY19QLSMjJQhPQeG24RsAUGS8-F7GZ-TeQjYmqs1cgytITMXP8~T~q3MmAPRQn5Y08tiY08LgqKf8UaNMXOaHuLjNk1ubnV-Gw6DBb7GSu4qsJOGFQWvp0DsVcNUc62zaHWcE9IEBovueUGVUlt3fM8Z7gPDfVelbvzkOX9T5ZQ__&Key-Pair-Id=K3NV4LZ47N8M46)
   6. Compose the email content.
 
   7. (Optional) Click **Save as Draft** if you are not ready to send the message.

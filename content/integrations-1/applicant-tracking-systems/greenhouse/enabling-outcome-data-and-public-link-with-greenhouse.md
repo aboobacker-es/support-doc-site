@@ -45,15 +45,15 @@ If you are a Greenhouse customer, you can unlock the offered stage by providing 
 
   * Open the **Settings** tab and go to **API Credential Management.**
 
-![API_Credential_Management.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047208557-?Expires=253370764800&Signature=MfkEvAgtwF0MqpQdk0Y~~tlESLk82xxyekv6fdUOE7-STJFoF7zJYlUGFefVLj0vn9N8TImYx5gVU5ZxG9gNdgppq6MssGv0FJSPGBWtQ20k2p7tT1hIiBQQ~rZzvpjy9mBg4SoUWegHtoWfw5iz9lizCQxj~gj7-mtWdg98--E-nHjbgsMkiJjGV60T6sgnd97iOv3zgs5L1uBeQ2hLc~qjekAyEerSQtaMDIKf8CWPoTGavzTUnIHmZz30usEBadnzhAyDsfChpHukq4ubq8U9a~RMyqBKz92pBCO1WmqFcyIn3Na4JvqNWEWacKS-Jc92x48TK2Zi3gXNYeE-Rg__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![API_Credential_Management.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047208557-?Expires=253370764800&Signature=MfkEvAgtwF0MqpQdk0Y~~tlESLk82xxyekv6fdUOE7-STJFoF7zJYlUGFefVLj0vn9N8TImYx5gVU5ZxG9gNdgppq6MssGv0FJSPGBWtQ20k2p7tT1hIiBQQ~rZzvpjy9mBg4SoUWegHtoWfw5iz9lizCQxj~gj7-mtWdg98--E-nHjbgsMkiJjGV60T6sgnd97iOv3zgs5L1uBeQ2hLc~qjekAyEerSQtaMDIKf8CWPoTGavzTUnIHmZz30usEBadnzhAyDsfChpHukq4ubq8U9a~RMyqBKz92pBCO1WmqFcyIn3Na4JvqNWEWacKS-Jc92x48TK2Zi3gXNYeE-Rg__&Key-Pair-Id=K3NV4LZ47N8M46)
 
   * Click **Create a New API Key.**
 
-![Create_New_API_Key.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047208950-?Expires=253370764800&Signature=qO6pp-YoifGKsMvUytjxzjj34A0MAz8kok6tKGb5grESZbtXa9JSI2Fa32E0RAjIfcE17Dejf31wp~Lr1Gd5PscXwAdImVtBQ8e53fc4DktC7BwJbJfJq4HGs4jyONPfdhXjaAPhJbVwjBV0GuhRZ4sRsrfaa6Y9RwpavEVGrDk7Zgky7DnRX1YFgxBlIR2e28nYMnhMzWGERORzkJJyiZ0j94z33jBIFST1VlsaW2rIGV3bw86-2jGJOVGsSKT6y8GmsGM1ciezsSAV2XR-vHouBUJgrBDqVwW5oNsi1C0DHGk4k28b7IJ2qPTuQiIfo92bYtNRKu-LFGq4nbqfKA__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![Create_New_API_Key.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047208950-?Expires=253370764800&Signature=qO6pp-YoifGKsMvUytjxzjj34A0MAz8kok6tKGb5grESZbtXa9JSI2Fa32E0RAjIfcE17Dejf31wp~Lr1Gd5PscXwAdImVtBQ8e53fc4DktC7BwJbJfJq4HGs4jyONPfdhXjaAPhJbVwjBV0GuhRZ4sRsrfaa6Y9RwpavEVGrDk7Zgky7DnRX1YFgxBlIR2e28nYMnhMzWGERORzkJJyiZ0j94z33jBIFST1VlsaW2rIGV3bw86-2jGJOVGsSKT6y8GmsGM1ciezsSAV2XR-vHouBUJgrBDqVwW5oNsi1C0DHGk4k28b7IJ2qPTuQiIfo92bYtNRKu-LFGq4nbqfKA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
   * Enter key name, choose Harvest Key, and create the key.
 
-![Create_New_Credentials.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047209289-?Expires=253370764800&Signature=F5baogiUnXrRS2brsHBAgLYwtXq7n61F19io2VTM8hVx4~wbSt6mY2A~Kx0iXq7NlkDayrgahMwPjg19RrffN5mnIrBJfR7jYxfIVLXb3YlKYnVOWmHoibSaZfScNYBjaf3B8FLcxaAq1rwxHvBk~rn8QP38ty9MdvuqsVJoIiQcwRHl3kQtECY3JfJP5KE2EtkMdVm-fMdBxN9pKPWKg-q0KlJcwxP4rzHpNetP4riE-gos7HKG7RgkQ4e56wMSCdbf7MO1Vtlg5Sxp4Z8kDg0XK1pRKKeoXHyEUC2E3zkJwFAl1G7-BD9K0NqrDbd9XIz3eKuoZ2HmXjo0qrvuKQ__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![Create_New_Credentials.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047209289-?Expires=253370764800&Signature=F5baogiUnXrRS2brsHBAgLYwtXq7n61F19io2VTM8hVx4~wbSt6mY2A~Kx0iXq7NlkDayrgahMwPjg19RrffN5mnIrBJfR7jYxfIVLXb3YlKYnVOWmHoibSaZfScNYBjaf3B8FLcxaAq1rwxHvBk~rn8QP38ty9MdvuqsVJoIiQcwRHl3kQtECY3JfJP5KE2EtkMdVm-fMdBxN9pKPWKg-q0KlJcwxP4rzHpNetP4riE-gos7HKG7RgkQ4e56wMSCdbf7MO1Vtlg5Sxp4Z8kDg0XK1pRKKeoXHyEUC2E3zkJwFAl1G7-BD9K0NqrDbd9XIz3eKuoZ2HmXjo0qrvuKQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
   * For Outcome Data, choose the following permissions:  
 Under “Applications”  
@@ -86,7 +86,7 @@ DELETE: Remove Candidate Tags
 
   * Don’t forget to click Update to save the permissions.
 
-![Permissions.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047209686-?Expires=253370764800&Signature=IYz-KeUxtYnQxw1Io0JCA1wkd9PRXnEnMLgwW-NNpAhopRwqrHPdOLGEfned7-anAkL9S7lEsudkBIrzVhZWp~CQFjhPK4QOOXm6uyXsl4eSR9XQVrDWLl23UKO6n1eYNCQdBKbtAwlwj0FLPzKrmU0hq5t8DFfjpJCxL1Qww6bgqlCLYmaEnzk0KaeSQ7pk4k7TvGiUGz4-~eaELjm~xvldbuWddVNvIKx6ly9cWnDv8GoBbMhxG3-FfOW9yPs2il1PSeIjmZamr196pX0TKXLJeq8UoRJp-Oj3jPh42w-Y7JQ2EoDfI2fyYIC13rNWzC3q7eABpFjx6KFEJ57hTA__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![Permissions.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047209686-?Expires=253370764800&Signature=IYz-KeUxtYnQxw1Io0JCA1wkd9PRXnEnMLgwW-NNpAhopRwqrHPdOLGEfned7-anAkL9S7lEsudkBIrzVhZWp~CQFjhPK4QOOXm6uyXsl4eSR9XQVrDWLl23UKO6n1eYNCQdBKbtAwlwj0FLPzKrmU0hq5t8DFfjpJCxL1Qww6bgqlCLYmaEnzk0KaeSQ7pk4k7TvGiUGz4-~eaELjm~xvldbuWddVNvIKx6ly9cWnDv8GoBbMhxG3-FfOW9yPs2il1PSeIjmZamr196pX0TKXLJeq8UoRJp-Oj3jPh42w-Y7JQ2EoDfI2fyYIC13rNWzC3q7eABpFjx6KFEJ57hTA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 #### Inside HackerRank
 
@@ -94,7 +94,7 @@ DELETE: Remove Candidate Tags
 
   * In the Greenhouse API Key step, enter the Harvest API token you created on Greenhouse, and click **Save**.
 
-![Greenhouse_API_KEy.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047210113-?Expires=253370764800&Signature=qCHAwAXRlFlUV~QCaeUuglvL7vHivAgLfS9g-z7GKXuSN-b3vAyv5y6rZQVKTP6U1MZNx5Syc1k4l9Hv9gRue2CC7KVjVRYKwDeOnR2OMkCiWaibnq7bsuOhCHQ5OfEjNo~LwY4auAhyk~VFwd6EJ8GIQ2nxWOvsBsCSWvqDlrspAPQJyqTQL3DcyETmLePszcR6sp53pC2vXl-O-0Li9qaUQ-H9SUVJDkvH~QMJdlqGKxjBibRCTGePk96PBn8QzfOVkaeMd69ZdftmJe0j4fkxCLen7Uqoq3d~9TOql~SF0HIF5cFZ4Utfl5o-bjFzPXvrgMMG2PssF7gIasDHUA__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![Greenhouse_API_KEy.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047210113-?Expires=253370764800&Signature=qCHAwAXRlFlUV~QCaeUuglvL7vHivAgLfS9g-z7GKXuSN-b3vAyv5y6rZQVKTP6U1MZNx5Syc1k4l9Hv9gRue2CC7KVjVRYKwDeOnR2OMkCiWaibnq7bsuOhCHQ5OfEjNo~LwY4auAhyk~VFwd6EJ8GIQ2nxWOvsBsCSWvqDlrspAPQJyqTQL3DcyETmLePszcR6sp53pC2vXl-O-0Li9qaUQ-H9SUVJDkvH~QMJdlqGKxjBibRCTGePk96PBn8QzfOVkaeMd69ZdftmJe0j4fkxCLen7Uqoq3d~9TOql~SF0HIF5cFZ4Utfl5o-bjFzPXvrgMMG2PssF7gIasDHUA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 #### For Outcome Data
 
@@ -102,10 +102,10 @@ DELETE: Remove Candidate Tags
 
   * Once done, it will verify the permissions for the key and if everything goes well, you will see the green check box.
 
-![Candidate_Benchmarking.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047210480-?Expires=253370764800&Signature=HczMH85X02nR1HQPVs0VsW5ldsMrdwGFoN1-dMREaMeSEnyRQ79jK~~GVf3qQ2-YjqPqdt2zqJLSnGAuHANqn0XMsVuXavsWvmsa9tee1386JKYRnf8Rn6J~MhmKuoHKnD6SG7DIhQdTO1-sWvDPt6RIYfhL5xl6KpxnZELUFj6lwrocyYnX0Z-EqhuFkwI~NCCa~tqvcq93h7sYKmZl2DsJ-PUx6aA02Zlo5M7SacSLUuavhIs3kRL3Ira4EMv6iZF1XRV1KJXyaizQKo5jIrU4uZpIb0osIQ13lPI-~fV6JT79VL0Qi4NYkILgluWVz5GYpMXwFimGQSlOlx1uTA__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![Candidate_Benchmarking.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047210480-?Expires=253370764800&Signature=HczMH85X02nR1HQPVs0VsW5ldsMrdwGFoN1-dMREaMeSEnyRQ79jK~~GVf3qQ2-YjqPqdt2zqJLSnGAuHANqn0XMsVuXavsWvmsa9tee1386JKYRnf8Rn6J~MhmKuoHKnD6SG7DIhQdTO1-sWvDPt6RIYfhL5xl6KpxnZELUFj6lwrocyYnX0Z-EqhuFkwI~NCCa~tqvcq93h7sYKmZl2DsJ-PUx6aA02Zlo5M7SacSLUuavhIs3kRL3Ira4EMv6iZF1XRV1KJXyaizQKo5jIrU4uZpIb0osIQ13lPI-~fV6JT79VL0Qi4NYkILgluWVz5GYpMXwFimGQSlOlx1uTA__&Key-Pair-Id=K3NV4LZ47N8M46)
   * In case your key is missing permissions, you will see an error message. In this case, go back to Greenhouse and enable proper permissions for Outcome Data then come back and click “Try Again”
 
-![Candidate_Benchmarking_Try_Again.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047210779-?Expires=253370764800&Signature=EBWc4tzFTIufZWnj2eyX6wzEU73E1xO6LbL28qHpaMbyqpK9iDAu4gkOQBT-tpuEyYcbdBnWa9VRsfHReeSEJyzkMqu9JvdOegvyMjRxrAfiWRWasGRUzLiP-3h6gyKjXK2kaJDALQz1oI4VeL~z~I7UjOu9XESdGjovIvbZjDRN5fKgncZ51z9bWcjXkqcnDDbyQqa1e1MqzBRGi67B-f1knXiL5nrrALjpXJdieCP545apdDyvGWIKgNV4XmJEqSXUfJcU0gxGKsA2qaD5-b9nA3v9HgDAkkWT3M2or~vZa10oY38RCsvxAzIRcc5cYAQc7Y5MK1R~S~o3gL59fw__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![Candidate_Benchmarking_Try_Again.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047210779-?Expires=253370764800&Signature=EBWc4tzFTIufZWnj2eyX6wzEU73E1xO6LbL28qHpaMbyqpK9iDAu4gkOQBT-tpuEyYcbdBnWa9VRsfHReeSEJyzkMqu9JvdOegvyMjRxrAfiWRWasGRUzLiP-3h6gyKjXK2kaJDALQz1oI4VeL~z~I7UjOu9XESdGjovIvbZjDRN5fKgncZ51z9bWcjXkqcnDDbyQqa1e1MqzBRGi67B-f1knXiL5nrrALjpXJdieCP545apdDyvGWIKgNV4XmJEqSXUfJcU0gxGKsA2qaD5-b9nA3v9HgDAkkWT3M2or~vZa10oY38RCsvxAzIRcc5cYAQc7Y5MK1R~S~o3gL59fw__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 #### For Public Link
 

@@ -33,10 +33,10 @@ To delete a test:
 
   5. Select **Delete**.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1756374693063-image.png?Expires=253370764800&Signature=DhkYRlUflBaTukTc9JCFHG89eN8jPQLOyQ5o83aiOOMz4TTjoiIPdjriRSsoqbk238z4b1ZpA011jpvVTQXClK3TrOeWkiQO3kfx4BABjQxvmAgKf4EQxpcE12tOGc76phowdYVMGgcukap3vIGvFmVBMrMrmPs4k0kyylkDgoOHw7goqfcRzkBxnhW0xfpOdK3HSnofWAPxvGvMEsyM458zGuYOciOWmArfW8WZRbhCKlKKLtErEekNeTigE5Kbfe4h9gzU-o94rWCOKkjbAyNMZv0EQG2S7uylrYyW7TW8WPE~h1PKQIHwqEDKso2MskJ-lv6tWA4WrbDM2OyQig__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1756374693063-image.png?Expires=253370764800&Signature=DhkYRlUflBaTukTc9JCFHG89eN8jPQLOyQ5o83aiOOMz4TTjoiIPdjriRSsoqbk238z4b1ZpA011jpvVTQXClK3TrOeWkiQO3kfx4BABjQxvmAgKf4EQxpcE12tOGc76phowdYVMGgcukap3vIGvFmVBMrMrmPs4k0kyylkDgoOHw7goqfcRzkBxnhW0xfpOdK3HSnofWAPxvGvMEsyM458zGuYOciOWmArfW8WZRbhCKlKKLtErEekNeTigE5Kbfe4h9gzU-o94rWCOKkjbAyNMZv0EQG2S7uylrYyW7TW8WPE~h1PKQIHwqEDKso2MskJ-lv6tWA4WrbDM2OyQig__&Key-Pair-Id=K3NV4LZ47N8M46)
   6. In the confirmation dialog, click **Delete anyway** to confirm. A success message appears.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1756374710326-image.png?Expires=253370764800&Signature=bPpqVRp41kF09XPxURRtf4BDutMhyC0RK8b5XaX2BVqFdspY8O9c52EKtGKIQKzW70ENUL4RzMXES65E-wRmHpeRY96I~0G01KBNjizOAFoV8U8KPHRPNCHrpx~QTqLRFidZlndKr-AvSl9HAvKT~lBjR-cEbFf~olZHMf67xMRJotA-66ClL8TLbQpY9T62rehBVSfNgkZJ6bi-VP5EYVWqRgRs37IxF6vuf3zVaUppRJ6wWX90HnFgStXZXLIM2rwWp4WgQa2-7Z0LqDu0HIsuuHrEgL3mHCh3LGPLksJoozk0bgzTB7jnQvMo-t2KJF~EHINFgKcCJ-VFM8V7dQ__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1756374710326-image.png?Expires=253370764800&Signature=bPpqVRp41kF09XPxURRtf4BDutMhyC0RK8b5XaX2BVqFdspY8O9c52EKtGKIQKzW70ENUL4RzMXES65E-wRmHpeRY96I~0G01KBNjizOAFoV8U8KPHRPNCHrpx~QTqLRFidZlndKr-AvSl9HAvKT~lBjR-cEbFf~olZHMf67xMRJotA-66ClL8TLbQpY9T62rehBVSfNgkZJ6bi-VP5EYVWqRgRs37IxF6vuf3zVaUppRJ6wWX90HnFgStXZXLIM2rwWp4WgQa2-7Z0LqDu0HIsuuHrEgL3mHCh3LGPLksJoozk0bgzTB7jnQvMo-t2KJF~EHINFgKcCJ-VFM8V7dQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 :::note
 If you share a test with a candidate and then delete it, the candidate can no longer access the test.

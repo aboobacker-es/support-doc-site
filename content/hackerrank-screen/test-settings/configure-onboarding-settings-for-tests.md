@@ -25,7 +25,7 @@ To configure onboarding settings:
 
   4. Go to **Settings > Onboarding.**
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1759745313384-image.png?Expires=253370764800&Signature=uw2uTsxA2IVKvWkmZ4M13m6WhGu9FyBp9ag42TKJywtxjH7nuwGrRkLR9yFO6DbugFtrrdLl1wxOnmUlksknuZKExhLKYq-QCSgZ5qMGrqwcksqOykAPNfDGwYt6LluIVFT1LilXid1Ig~viBXluyy6ltZJvdDcJO~xAzQgFXOa0LYZup5idy7MvVw3DfBlmBZV5GcMifsbRB~bNIFj~44~rctDTYBnXwWPj1Za7bJ1W62h2FzV4IsjGxmry~qQ-sR9gC2ftfKd-pGcEQn5Tz82PUExPoLsvNN17YW4e0eHQLHpS7az1-NwzJpqF7dhf1qyzzcjQgEk1-vPjBH0Ygg__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1759745313384-image.png?Expires=253370764800&Signature=uw2uTsxA2IVKvWkmZ4M13m6WhGu9FyBp9ag42TKJywtxjH7nuwGrRkLR9yFO6DbugFtrrdLl1wxOnmUlksknuZKExhLKYq-QCSgZ5qMGrqwcksqOykAPNfDGwYt6LluIVFT1LilXid1Ig~viBXluyy6ltZJvdDcJO~xAzQgFXOa0LYZup5idy7MvVw3DfBlmBZV5GcMifsbRB~bNIFj~44~rctDTYBnXwWPj1Za7bJ1W62h2FzV4IsjGxmry~qQ-sR9gC2ftfKd-pGcEQn5Tz82PUExPoLsvNN17YW4e0eHQLHpS7az1-NwzJpqF7dhf1qyzzcjQgEk1-vPjBH0Ygg__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 In the **Onboarding** section, you can:
 

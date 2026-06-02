@@ -25,14 +25,14 @@ HackerRank displays logs only for the API calls that are made to the endpoints l
 
   4. From the view of active integrations, choose the specific integration for which you wish to view logs. For example Ashby from the below screenshot. 
 
-![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046168484-?Expires=253370764800&Signature=KHk4irG7kLrKIB0moe4M-ZCtTQJC5bk4hVVEu0ZNxlenayh-qUeLvrLBmds~lhc2uBFlcIgsxhi5vn3zD~CK5DDA8EkgxJvGSVQNbx48hiDM4v4WUBGZ7Dm36w9fxf3bjTZl~sCKdfAXyageZsya-MAV7G8jKz7h6dC24XgAjOT8ZZuowp0RjwYHtsaamO~uF9aL5pH-tospT~PA1QBqyyjSotX2hjQgkAtR-sa9DcVn~Ej71gQ8eTUxH-MUPTAkaCrdnaVaFZzm~-Ydu~iP0hrj~GoFOw72hnNNHO2RcKivM6rWUCDGKNKn792WrP08vkyVXiGgt9YHHTVgoGBzMw__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046168484-?Expires=253370764800&Signature=KHk4irG7kLrKIB0moe4M-ZCtTQJC5bk4hVVEu0ZNxlenayh-qUeLvrLBmds~lhc2uBFlcIgsxhi5vn3zD~CK5DDA8EkgxJvGSVQNbx48hiDM4v4WUBGZ7Dm36w9fxf3bjTZl~sCKdfAXyageZsya-MAV7G8jKz7h6dC24XgAjOT8ZZuowp0RjwYHtsaamO~uF9aL5pH-tospT~PA1QBqyyjSotX2hjQgkAtR-sa9DcVn~Ej71gQ8eTUxH-MUPTAkaCrdnaVaFZzm~-Ydu~iP0hrj~GoFOw72hnNNHO2RcKivM6rWUCDGKNKn792WrP08vkyVXiGgt9YHHTVgoGBzMw__&Key-Pair-Id=K3NV4LZ47N8M46)
   5. After selecting an integration, you will see tabs such as Configuration, Token Activity, and Logs. Click on the **Logs** tab.
 
   6. In the logs section, you can view the integration activity logs. You can search logs by recruiter email or apply filters based on date, status, and request method to narrow down the logs you need to view.
 
   7. If needed, you can download the logs for offline analysis or record-keeping by clicking on the download icon located near the filter settings.You will be able to get log results for a custom date range for an ATS instance and download a report in CSV format.
 
-![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046168903-?Expires=253370764800&Signature=gyeu1QeCyPUTwNJZzl91OaKr3mSuLTMcITih7mAZb-cYvTMbU-ozBrmaXEWhOIfq~VYnDLiC-t-h9DTltcYPwtn6AxVHRN5o0MDU41uCZO7Jjih041Nd58uMAy2vpNIxpei~NadNpkYYhvfVaB1ecCaD0bEXLCu1cug8ALJIwuQ7LC97u8H3~sFUohvmWHTrgi6nOVfJqcuEYFJKh1GIDsO-kszYQu6u84YPpuFEAXl9P-is33-lMOjtBWBDOfKtTjd~7xuAq1gMdDlHUV09CAyXJve0J2fVh-xUyAbEQaO3xaldqd-MxxzPe-zVlNBEZ7vmVdIy5UxfaJ74rjmp2g__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046168903-?Expires=253370764800&Signature=gyeu1QeCyPUTwNJZzl91OaKr3mSuLTMcITih7mAZb-cYvTMbU-ozBrmaXEWhOIfq~VYnDLiC-t-h9DTltcYPwtn6AxVHRN5o0MDU41uCZO7Jjih041Nd58uMAy2vpNIxpei~NadNpkYYhvfVaB1ecCaD0bEXLCu1cug8ALJIwuQ7LC97u8H3~sFUohvmWHTrgi6nOVfJqcuEYFJKh1GIDsO-kszYQu6u84YPpuFEAXl9P-is33-lMOjtBWBDOfKtTjd~7xuAq1gMdDlHUV09CAyXJve0J2fVh-xUyAbEQaO3xaldqd-MxxzPe-zVlNBEZ7vmVdIy5UxfaJ74rjmp2g__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 ## Availability 
 

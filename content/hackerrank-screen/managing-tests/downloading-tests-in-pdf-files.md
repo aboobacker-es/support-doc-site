@@ -27,7 +27,7 @@ To download the test as a PDF:
 
   5. Select **Download as PDF**.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1756445447131-image.png?Expires=253370764800&Signature=tkr5jMQ9vrN~D4IXH4zR8K~JQszQ3p~d90vvxiCpMI-l-0366h0cxb9PkKipgjLUcY3~QGoKHc6bb6Xn5EZUfGnWUMgaDUkcPvpuIa7jYxmqN9CvDELm6CnuylH5-vQUP8DAjjTxtuoqXIWIN9MubyNyeBK8C7J~48k2PzTvfsm8m7qJbVZ5YPy8twXd2l3C5UOkSas6HHg6HyV~ENQ7WSl6gcz6NPdedUl9fz-cD0fGLoVz1EXorznOItDqr17VjxwYrg8gGQ4NAyzYusN5prUfZyKZLM1KGmAUReq8x6PRfDSKU8STOyeR33T6ZBibg90lWcAqU7WsIc~IQmRPMg__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1756445447131-image.png?Expires=253370764800&Signature=tkr5jMQ9vrN~D4IXH4zR8K~JQszQ3p~d90vvxiCpMI-l-0366h0cxb9PkKipgjLUcY3~QGoKHc6bb6Xn5EZUfGnWUMgaDUkcPvpuIa7jYxmqN9CvDELm6CnuylH5-vQUP8DAjjTxtuoqXIWIN9MubyNyeBK8C7J~48k2PzTvfsm8m7qJbVZ5YPy8twXd2l3C5UOkSas6HHg6HyV~ENQ7WSl6gcz6NPdedUl9fz-cD0fGLoVz1EXorznOItDqr17VjxwYrg8gGQ4NAyzYusN5prUfZyKZLM1KGmAUReq8x6PRfDSKU8STOyeR33T6ZBibg90lWcAqU7WsIc~IQmRPMg__&Key-Pair-Id=K3NV4LZ47N8M46)
 
   
 A **Download Test as PDF** dialog box appears with two options:

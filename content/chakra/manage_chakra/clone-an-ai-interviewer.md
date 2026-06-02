@@ -25,10 +25,10 @@ To clone an AI interviewer:
 
   4. Click the more option menu in the upper-right corner.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2Fb57a171d-d716-426a-9926-71362e1c4e70-1776246129185-image.png-5a84afee-7421-4d34-96d1-10ae4bb21bcf?Expires=253370764800&Signature=kX4IjJmlRbPNN6YY3oY-feA3kUF507UAMB1~w~F1s8u~0OcOT7mALbyxWFmdY7tnSYEfDRN0mKTF4khxVg952DFBFTjzue7C6fMIDkW2NT2PYz8iClvdNUMu3VVhKTBUnyzz6A69q~PJlvGKzSwXPutMuf7NEb9NzYlLlkfbganL-nFKoKs1XDIn~JJUHSOWvN6qYoeJ37l9201HKg1hodh8VvDH3BvKQmKRSYlauT0DbIMvWP0ZF4E5aYxidYR~QFf1KDGciM87X-GhICfzVx2vqMXYI6Hg5~v9lq9UUdJMNk1-6SEuebNMa56zwQFmB12R6Ug1Dsf9dneQstJ6OA__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2Fb57a171d-d716-426a-9926-71362e1c4e70-1776246129185-image.png-5a84afee-7421-4d34-96d1-10ae4bb21bcf?Expires=253370764800&Signature=kX4IjJmlRbPNN6YY3oY-feA3kUF507UAMB1~w~F1s8u~0OcOT7mALbyxWFmdY7tnSYEfDRN0mKTF4khxVg952DFBFTjzue7C6fMIDkW2NT2PYz8iClvdNUMu3VVhKTBUnyzz6A69q~PJlvGKzSwXPutMuf7NEb9NzYlLlkfbganL-nFKoKs1XDIn~JJUHSOWvN6qYoeJ37l9201HKg1hodh8VvDH3BvKQmKRSYlauT0DbIMvWP0ZF4E5aYxidYR~QFf1KDGciM87X-GhICfzVx2vqMXYI6Hg5~v9lq9UUdJMNk1-6SEuebNMa56zwQFmB12R6Ug1Dsf9dneQstJ6OA__&Key-Pair-Id=K3NV4LZ47N8M46)
   5. Select **Duplicate**.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F4965f4a5-6985-4de4-9926-e2ce73bce9fa-1776246104176-image.png-06020c94-b2fd-42b3-b0d8-6d3a37d3974a?Expires=253370764800&Signature=SUkGx~7-ftn00dzWBb01dBsyVU40VtPfX5CEfew5BfRhueY9EAxtI0kBRkAj3UeCdj5UWsbYPdOF4P1Q8df1val-SPGBl6C8LoHsvhZqwtbS2JzQCCnIAGX1wDlsZyuqZbrUmCanC--mH4I1BQIXxnHcjEp9cZ4Qam9Mdn4Mhbetd5ccw92eWEYI-wXrr6Ue40eBKxieZ5RHMgEm2BJF-0oIK5aB-dDJmUgjKSj5RqXjdSqSV8t0BxKUMbdggSEWmlkabqkuv5e67LjaV1Qaqi9UKqqIyR7YXy67-3yFpxMGQbieWLzW-thGpx8cORrPTM7Co5GzhMSIxd7NeygemQ__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F4965f4a5-6985-4de4-9926-e2ce73bce9fa-1776246104176-image.png-06020c94-b2fd-42b3-b0d8-6d3a37d3974a?Expires=253370764800&Signature=SUkGx~7-ftn00dzWBb01dBsyVU40VtPfX5CEfew5BfRhueY9EAxtI0kBRkAj3UeCdj5UWsbYPdOF4P1Q8df1val-SPGBl6C8LoHsvhZqwtbS2JzQCCnIAGX1wDlsZyuqZbrUmCanC--mH4I1BQIXxnHcjEp9cZ4Qam9Mdn4Mhbetd5ccw92eWEYI-wXrr6Ue40eBKxieZ5RHMgEm2BJF-0oIK5aB-dDJmUgjKSj5RqXjdSqSV8t0BxKUMbdggSEWmlkabqkuv5e67LjaV1Qaqi9UKqqIyR7YXy67-3yFpxMGQbieWLzW-thGpx8cORrPTM7Co5GzhMSIxd7NeygemQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 Chakra creates a copy of the AI interviewer and opens it in a new window. 
 

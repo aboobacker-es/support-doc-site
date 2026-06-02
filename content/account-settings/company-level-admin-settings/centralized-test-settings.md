@@ -23,7 +23,7 @@ For more details, refer to [**Test Settings and Configuration**](<https://hacker
 
   2. In the left-hand menu, navigate to **Test Settings**.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1735196396454-image.png?Expires=253370764800&Signature=ijA5M50n9MseNXTp8VsMn6wAJ2Gvmi14IPSQOYrjd~AXW3Sdz3EOqG5k0xDtVfMtKxieXxLXghrQa3MBGPHKAMtHC4C40cmaICwf-1E4mkMg0n6fEghC-ec2IBDkG5YnLfUVlvnNbx72MelicLD1PcJtR8fIAVmjEvF4a1ozKRRkqvxTxtYU~7DhGWDvbBpW0vexuaVOWOIFHkN8gSVzaVHpE0~CtjWEPa8SouODUDv41Q0kLOQ9rYP~FJWTyMJPdV~H4rNkQQpBuKtXSjgJpcpuIMl43PBVVKp4GAEIbL3bI8EPAnN3iz1C4RGWH2gVqKx10dmdb6gkApGsOl7VhQ__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1735196396454-image.png?Expires=253370764800&Signature=ijA5M50n9MseNXTp8VsMn6wAJ2Gvmi14IPSQOYrjd~AXW3Sdz3EOqG5k0xDtVfMtKxieXxLXghrQa3MBGPHKAMtHC4C40cmaICwf-1E4mkMg0n6fEghC-ec2IBDkG5YnLfUVlvnNbx72MelicLD1PcJtR8fIAVmjEvF4a1ozKRRkqvxTxtYU~7DhGWDvbBpW0vexuaVOWOIFHkN8gSVzaVHpE0~CtjWEPa8SouODUDv41Q0kLOQ9rYP~FJWTyMJPdV~H4rNkQQpBuKtXSjgJpcpuIMl43PBVVKp4GAEIbL3bI8EPAnN3iz1C4RGWH2gVqKx10dmdb6gkApGsOl7VhQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 ### Applying Centralized Settings
 
@@ -59,7 +59,7 @@ Manage the default settings for email communication with candidates during the s
 
   * **Reminder Emails** : Set conditions for reminders with or without expiration dates.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1735196490692-image.png?Expires=253370764800&Signature=h-z-UaiAmd04dNElFu6AijBsQx-Q7xQipLa2C0f48R~TeoUqAaIqAezgaMBek8MufyRnJLENZ3P7NZUQnKOvvDu9YJ51OvZy9PjSKsY04dZiAYJC9h8wApuv-bOHmNjxtx1ZJ7k3~aGbnBArbUkGjxCdxoAJ64Xf~BWxq1O2waUWaIbkQ4JgmTpgpt0SykJ9bqebuGiQJA2JHxTEKWdVXUmpvliHsl2iSdQ07xmP6EXcOC~ssLkyiDAXIC3IFQivUV1XrK3murTYBsO1afqdwF6z8ETZLQwhMRsyzZPI9nIJg479gVjIJAGXMkQFjbU4K1KTrZ9niOa68BLgdoPGGQ__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1735196490692-image.png?Expires=253370764800&Signature=h-z-UaiAmd04dNElFu6AijBsQx-Q7xQipLa2C0f48R~TeoUqAaIqAezgaMBek8MufyRnJLENZ3P7NZUQnKOvvDu9YJ51OvZy9PjSKsY04dZiAYJC9h8wApuv-bOHmNjxtx1ZJ7k3~aGbnBArbUkGjxCdxoAJ64Xf~BWxq1O2waUWaIbkQ4JgmTpgpt0SykJ9bqebuGiQJA2JHxTEKWdVXUmpvliHsl2iSdQ07xmP6EXcOC~ssLkyiDAXIC3IFQivUV1XrK3murTYBsO1afqdwF6z8ETZLQwhMRsyzZPI9nIJg479gVjIJAGXMkQFjbU4K1KTrZ9niOa68BLgdoPGGQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 :::note
 To enable the **Reminder Email** toggle, at least one valid value must be entered for "Reminder Email with Expiration" or "Reminder Email without Expiration.
@@ -92,7 +92,7 @@ Control proctoring settings for all tests, such as enabling **Image Proctoring**
 
   * **Photo Identification vs. Image Proctoring** : These settings are mutually exclusive.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1735196685957-image.png?Expires=253370764800&Signature=LYda660j-GUsopMnL0dETVnp3R7QWeaTt5YOQ0uar0pQvYkfljDs8cSFReHyhNLO1Z7rFMT~qNAlyfV1Ecc7TACIY23FDCy12urJ2T0aDSgZ02OAlZOYVvPOCX4rp4LUM362-0vEWX2jBiPDltWtbbHLJ2bdoSw~nc5ysylGHstBXXcwEuxKvSQyXHvwxC739QlSH1iTS4Ln3RhEAcBphFZPEdn78Id45IasZSyjlhFYnESOXNd9z20VnDTJPFTcMZJSpTKAV0rdX1phj2EU7Z15WIwfxudoCrvepvqpITjFZcj6MO4ZQ1U-cSxPqcGH9pVBYleiF0wbIKnYj1LwkA__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1735196685957-image.png?Expires=253370764800&Signature=LYda660j-GUsopMnL0dETVnp3R7QWeaTt5YOQ0uar0pQvYkfljDs8cSFReHyhNLO1Z7rFMT~qNAlyfV1Ecc7TACIY23FDCy12urJ2T0aDSgZ02OAlZOYVvPOCX4rp4LUM362-0vEWX2jBiPDltWtbbHLJ2bdoSw~nc5ysylGHstBXXcwEuxKvSQyXHvwxC739QlSH1iTS4Ln3RhEAcBphFZPEdn78Id45IasZSyjlhFYnESOXNd9z20VnDTJPFTcMZJSpTKAV0rdX1phj2EU7Z15WIwfxudoCrvepvqpITjFZcj6MO4ZQ1U-cSxPqcGH9pVBYleiF0wbIKnYj1LwkA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
   * The table below outlines valid combinations:
 

@@ -19,10 +19,10 @@ To create a diagram question:
 
   3. Click **Create Question**.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1763547032277-image.png?Expires=253370764800&Signature=gLJCpAah0QySk40h62pPpYAMI9z~QvJ7ClkZVpp40qgMTC9gtUxp07P823FGxU-lJcDpI3VIQYGtAfT-NCUvO~qZhHKWDZWmgMSV1ZZtDmYFzAxkrTFpODRpfVYl2j7J3n0oEQK~advAUPvxcjVECFFPixnD6HHud~sVPNRnUdQpzOlG3sLi25NOT9ad2pL~aphLjy4D9-uS44GbAYL05xAKuPXoG6Aah~7wkmfSXIOIJho1z9I9T5sBXks81yVJygjYr9KdzQuhg9~W6HcVWgRMMd36sJh7DFaZWnbjcXkb-yGvBuUTB6v5XH0gzXzzdIB0FwSHl-vbaGg6og8YJQ__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1763547032277-image.png?Expires=253370764800&Signature=gLJCpAah0QySk40h62pPpYAMI9z~QvJ7ClkZVpp40qgMTC9gtUxp07P823FGxU-lJcDpI3VIQYGtAfT-NCUvO~qZhHKWDZWmgMSV1ZZtDmYFzAxkrTFpODRpfVYl2j7J3n0oEQK~advAUPvxcjVECFFPixnD6HHud~sVPNRnUdQpzOlG3sLi25NOT9ad2pL~aphLjy4D9-uS44GbAYL05xAKuPXoG6Aah~7wkmfSXIOIJho1z9I9T5sBXks81yVJygjYr9KdzQuhg9~W6HcVWgRMMd36sJh7DFaZWnbjcXkb-yGvBuUTB6v5XH0gzXzzdIB0FwSHl-vbaGg6og8YJQ__&Key-Pair-Id=K3NV4LZ47N8M46)
   4. Select **Diagram** under **General**.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1763547042729-image.png?Expires=253370764800&Signature=LZu2fhGkWfRJqSDi42Tt-ng7H9rzkKT3pG27ll4M1kY3wMngjEYmlukiYAp6uFunBh--7q3jlAXY6mq7~~59os0-eei0D5-NcyFEm3UA2G-2w1W0ixIREPimRXN-hgh0INxypsN8o2Zpr-5qDASdbA3~WUvaqSPlP8iYz9EAYZxRh6oQyMCE1XfsMteuf3UMypT-CBkNVJQYAqGhlDTTmorzOfRicnzPuAPP~x5WU9dlY4pz8SFcqWJ8RikT-V4hLqPceZSmCStCHie0c5AcrRNvRnMNyWNn4f~2fOUZongqH5qhAvlCGpLxrlT0rZukwHJk~X~G5iu-1uK~qM4gtQ__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1763547042729-image.png?Expires=253370764800&Signature=LZu2fhGkWfRJqSDi42Tt-ng7H9rzkKT3pG27ll4M1kY3wMngjEYmlukiYAp6uFunBh--7q3jlAXY6mq7~~59os0-eei0D5-NcyFEm3UA2G-2w1W0ixIREPimRXN-hgh0INxypsN8o2Zpr-5qDASdbA3~WUvaqSPlP8iYz9EAYZxRh6oQyMCE1XfsMteuf3UMypT-CBkNVJQYAqGhlDTTmorzOfRicnzPuAPP~x5WU9dlY4pz8SFcqWJ8RikT-V4hLqPceZSmCStCHie0c5AcrRNvRnMNyWNn4f~2fOUZongqH5qhAvlCGpLxrlT0rZukwHJk~X~G5iu-1uK~qM4gtQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 ### Step 1: Question Details
 

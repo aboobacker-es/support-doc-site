@@ -46,15 +46,15 @@ You must be using the Lever Applicant Tracking System (ATS).
 
      * If your Lever Integration(s) need to be set up, refer to the[📄 Lever - HackerRank Tests Integration](</docs/3147b674-5cbb-4bde-9528-7699bb64b1a7/articles/3d334428-956d-47ea-9992-a4b609bb67e0>) article.
 
-![image5.jpg](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1735338033117-image5.jpg-c9eab7d9-4282-441e-9fb8-9a924b456023?Expires=253370764800&Signature=g290Vf0Ck3m1kcf74I0-xMhw9JgfimOo3pLc1FlxdOVqdDEz1q6MOGyOCmv4SKloJS8J7Gf4-nAOeXEHigH1VSkemCsEPPYuh-KBdmJB2DaYjnVCJkfqWbJ-E5YJvzN6L1R-QpgpjVFsAqdklZMBRDhzUVx-T0psgq8bZnFEHnCeS3Mbg~cDrjvuVqEaKpFAXxYJcEn8z~2IMpdsE0oaYRNgPz0fPUHPMCLBNsAPJSt9t6rpJ~RE20d2ZvEJzq5TdIcwaPFthRFPEqYXhpW6ihpz9X8~EeQVkmD~sdiCvWwh67oS5Az0CatQOxpC-q86u~BOYzwT1DN1PuB6SAOWiw__&Key-Pair-Id=K3NV4LZ47N8M46)
+       ![image5.jpg](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1735338033117-image5.jpg-c9eab7d9-4282-441e-9fb8-9a924b456023?Expires=253370764800&Signature=g290Vf0Ck3m1kcf74I0-xMhw9JgfimOo3pLc1FlxdOVqdDEz1q6MOGyOCmv4SKloJS8J7Gf4-nAOeXEHigH1VSkemCsEPPYuh-KBdmJB2DaYjnVCJkfqWbJ-E5YJvzN6L1R-QpgpjVFsAqdklZMBRDhzUVx-T0psgq8bZnFEHnCeS3Mbg~cDrjvuVqEaKpFAXxYJcEn8z~2IMpdsE0oaYRNgPz0fPUHPMCLBNsAPJSt9t6rpJ~RE20d2ZvEJzq5TdIcwaPFthRFPEqYXhpW6ihpz9X8~EeQVkmD~sdiCvWwh67oS5Az0CatQOxpC-q86u~BOYzwT1DN1PuB6SAOWiw__&Key-Pair-Id=K3NV4LZ47N8M46)
 
   4. Then, within **Lever** , you'll need to access **Settings** and click on the Integrations and API tab, to ensure that the HackerRank Tests integration is connected. 
 
-![API_Integrations_within_Lever_.jpg](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1735338069383-API_Integrations_within_Lever_.jpg-531c2e45-d094-4cc9-ae21-480913694684?Expires=253370764800&Signature=b2pD7Dbo4pbpiS805qK2vXwn4Hlt85ZPJ6c~j7ggSiwTEwpq1ABlvC3MtrQ~QH3CV8HDxaLbclyPlWivF7enjXWVK~G20oU4dZH0MoHg929~8ZeRxZa-NoklyJLN2dHbhFgNyDEnwmXR5pfHhAR36U4NZt7ZF-TH8yFSmiJ8PhguOLb2IW9rJf7OepH05J3u8owqmAPDYcPfvIfHctBC~L-DpeUyNNZQ9anJtfxTFxj9SAf0yhqjgnt6dJT06WFeOod-j7rJ8neD2OX21HaIpconkm0dDsWlXK65vEF09bbonQvqan9XTX~4IuHvAtS-U6Ep1I9IXYP62JjbyJmMHg__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![API_Integrations_within_Lever_.jpg](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1735338069383-API_Integrations_within_Lever_.jpg-531c2e45-d094-4cc9-ae21-480913694684?Expires=253370764800&Signature=b2pD7Dbo4pbpiS805qK2vXwn4Hlt85ZPJ6c~j7ggSiwTEwpq1ABlvC3MtrQ~QH3CV8HDxaLbclyPlWivF7enjXWVK~G20oU4dZH0MoHg929~8ZeRxZa-NoklyJLN2dHbhFgNyDEnwmXR5pfHhAR36U4NZt7ZF-TH8yFSmiJ8PhguOLb2IW9rJf7OepH05J3u8owqmAPDYcPfvIfHctBC~L-DpeUyNNZQ9anJtfxTFxj9SAf0yhqjgnt6dJT06WFeOod-j7rJ8neD2OX21HaIpconkm0dDsWlXK65vEF09bbonQvqan9XTX~4IuHvAtS-U6Ep1I9IXYP62JjbyJmMHg__&Key-Pair-Id=K3NV4LZ47N8M46)
 
   5. After checking on the connection status of HackerRank Tests, scroll up to the top of the page and access the **API Credentials Tab  **(At the top of the screen)
 
-![Lever_Integrations_and_API___API_Credentials_Tab_Access_Image.jpg](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1735338092215-Lever_Integrations_and_API___API_Credentials_Tab_Access_Image.jpg-3842be90-686c-4291-9ce0-3ade8c3266c1?Expires=253370764800&Signature=cFvGLQv2pZ0I7ZjKC1ipGeyE1SQtAWpkuJUHGXCCrYmhbEE9Hnc~Sscp3HqQugheNCX5hRR0DemwhGIO8PDh5mIwR-rP9VzMdaZKe79xFVGZQLBXTD-lDtLQB0cwCUcEjVF3pMseAD81kc-kvQsL-4rAts0uItrr93FshNq11u09alHObQGg801t1-TMkQnvpE0oA6VrbzkllHrDc6lRYZC0vGI~rUpRYz1EdjM2W3kEkmkmfGSWAQPGszjSpf6b0R2nrh1xlVgBOsMlnLgKwlYB1-8xz-bv~S23VvKjFUhAa0O5LKphvY7HNkTDcAl3KwlK7DaBTYwJn8tOKybqKg__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![Lever_Integrations_and_API___API_Credentials_Tab_Access_Image.jpg](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1735338092215-Lever_Integrations_and_API___API_Credentials_Tab_Access_Image.jpg-3842be90-686c-4291-9ce0-3ade8c3266c1?Expires=253370764800&Signature=cFvGLQv2pZ0I7ZjKC1ipGeyE1SQtAWpkuJUHGXCCrYmhbEE9Hnc~Sscp3HqQugheNCX5hRR0DemwhGIO8PDh5mIwR-rP9VzMdaZKe79xFVGZQLBXTD-lDtLQB0cwCUcEjVF3pMseAD81kc-kvQsL-4rAts0uItrr93FshNq11u09alHObQGg801t1-TMkQnvpE0oA6VrbzkllHrDc6lRYZC0vGI~rUpRYz1EdjM2W3kEkmkmfGSWAQPGszjSpf6b0R2nrh1xlVgBOsMlnLgKwlYB1-8xz-bv~S23VvKjFUhAa0O5LKphvY7HNkTDcAl3KwlK7DaBTYwJn8tOKybqKg__&Key-Pair-Id=K3NV4LZ47N8M46)
 
   6. From the **API Credentials t** ab, scroll down to the **Lever API credentials** section**.**(As seen highlighted above within the API Credentials tab)
 
@@ -68,7 +68,7 @@ You must be using the Lever Applicant Tracking System (ATS).
 
         * Scroll down past the **Read endpoints** section (as seen below) to access the **Write endpoints** section.
 
-![Endpoint_Sections.jpg](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1735338121317-Endpoint_Sections.jpg-f71c5d9f-44c0-4880-9a05-bb9da97fd0a2?Expires=253370764800&Signature=eTQ0CUsCuw0fiI-OtxlMlT~wZ4DYGFq8yxBbVbaKAb8eLGNbU0BnRM2yfixatFMfwpo5xzjXcDgw9dWPHw5byYwuwCHG6uD7yUjW3-n6C4cs3p6sAB7f8Pi7QIt0ow0nzt~-ysoes~oiexOviyGRCoh5cIp1vpfYx26UZRsvSwB9cAA8KmHvZzGxxQBlXp9sgr9opKeQe7dWuflK5i4BWtLEW8XicxF5ZlJS~6mklus6yULOwPeOUF8iWN9qq8RFOGMQd6U-XOD6WkkuvD00hgilvESlridZJ0I3caq9CqCg834FVTagXXvp5QEjT-SB1TZl~31DPEHQ8ymo5GKPXw__&Key-Pair-Id=K3NV4LZ47N8M46)
+          ![Endpoint_Sections.jpg](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1735338121317-Endpoint_Sections.jpg-f71c5d9f-44c0-4880-9a05-bb9da97fd0a2?Expires=253370764800&Signature=eTQ0CUsCuw0fiI-OtxlMlT~wZ4DYGFq8yxBbVbaKAb8eLGNbU0BnRM2yfixatFMfwpo5xzjXcDgw9dWPHw5byYwuwCHG6uD7yUjW3-n6C4cs3p6sAB7f8Pi7QIt0ow0nzt~-ysoes~oiexOviyGRCoh5cIp1vpfYx26UZRsvSwB9cAA8KmHvZzGxxQBlXp9sgr9opKeQe7dWuflK5i4BWtLEW8XicxF5ZlJS~6mklus6yULOwPeOUF8iWN9qq8RFOGMQd6U-XOD6WkkuvD00hgilvESlridZJ0I3caq9CqCg834FVTagXXvp5QEjT-SB1TZl~31DPEHQ8ymo5GKPXw__&Key-Pair-Id=K3NV4LZ47N8M46)
 
   7. Select the**Integration** option from the left-hand pane.
 
@@ -86,7 +86,7 @@ Clicking on **ATS Settings** takes you back to the ATS integration setup page, s
 
   1. After the configuration, candidates taking a particular test from a public link are added to your ATS in this Job. Click **Choose Job** and select the appropriate job role for which candidates are taking this test.
 
-![ATS5.jpg](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047086042-?Expires=253370764800&Signature=QsqxzU7TWCr~VQQPfFpTfBLh1PBdj2SrJNqr1oYMLldt1MKXsb6TowzDnTdhdX927hE7VLQOD2r-LtxF8U~GNfRBu5VzUK01~0IfglvgRVSH61pY84jwES1CY95x2mA4CpYNwANdjkNSqiTLxYqUMttfZjXRxCb55EQGTHtPS~mFxyR0sSq2l8fYk1Mr-seV9RIB0~rXhggAd5cQ2B~h-KHktUaTJPIGUNj6SRgdU2GJLe8bUgC578ohSBX175X5ltrPICfk0oSVBjbSVi2FzZp1V8rMl8KtJOy3~yoRVxfGn8yml4zwro1~A2qj-sBcrkrMjehTjOc-F8J89F8Eww__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![ATS5.jpg](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047086042-?Expires=253370764800&Signature=QsqxzU7TWCr~VQQPfFpTfBLh1PBdj2SrJNqr1oYMLldt1MKXsb6TowzDnTdhdX927hE7VLQOD2r-LtxF8U~GNfRBu5VzUK01~0IfglvgRVSH61pY84jwES1CY95x2mA4CpYNwANdjkNSqiTLxYqUMttfZjXRxCb55EQGTHtPS~mFxyR0sSq2l8fYk1Mr-seV9RIB0~rXhggAd5cQ2B~h-KHktUaTJPIGUNj6SRgdU2GJLe8bUgC578ohSBX175X5ltrPICfk0oSVBjbSVi2FzZp1V8rMl8KtJOy3~yoRVxfGn8yml4zwro1~A2qj-sBcrkrMjehTjOc-F8J89F8Eww__&Key-Pair-Id=K3NV4LZ47N8M46)
   2. Mapping a job from the ATS to the test can fail under the following circumstances:
 
      * **The job has no owner** \- You can see a prompt screen where you can assign an appropriate HackerRank for Work user as the owner for the job.
@@ -97,7 +97,7 @@ Clicking on **ATS Settings** takes you back to the ATS integration setup page, s
 
   3. After you choose a job that is mapped to the test successfully, the candidate test reports are pushed to your ATS. You can change the job that is mapped for the particular test, or remove the mapping.
 
-![Change_job_-_ATS.jpg](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047086332-?Expires=253370764800&Signature=EMJBMtvIxK373c5tWiZgdsS1281e78wp-y4x1XMqma2Fdgtx99N-81fLWooIEXH-fCTGZkwPgZZZDbafvB3HmaEqIp331sQNwab7PLr53szwZu9~CwfoMqU8bHvT6ShuQlSYIZuaVnMGeJk665Y07BAnA415JZPzNUqv76aZLR3ky97T-GR~yVrFY4aAMsDn3UgLFAsPfUYVmEzzWxKfL7uaeMKqgLSqQ5nVLtHmPfc38-sS6o1wTqooRCWtPQ31BULgnVO6JMB49q2o3pIP0i018QsU~UPrHZmRZpG6hqoV3a-e0SCLRSbyZnEfzuYx550-73iPPdVLwOIA6wvnQA__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![Change_job_-_ATS.jpg](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047086332-?Expires=253370764800&Signature=EMJBMtvIxK373c5tWiZgdsS1281e78wp-y4x1XMqma2Fdgtx99N-81fLWooIEXH-fCTGZkwPgZZZDbafvB3HmaEqIp331sQNwab7PLr53szwZu9~CwfoMqU8bHvT6ShuQlSYIZuaVnMGeJk665Y07BAnA415JZPzNUqv76aZLR3ky97T-GR~yVrFY4aAMsDn3UgLFAsPfUYVmEzzWxKfL7uaeMKqgLSqQ5nVLtHmPfc38-sS6o1wTqooRCWtPQ31BULgnVO6JMB49q2o3pIP0i018QsU~UPrHZmRZpG6hqoV3a-e0SCLRSbyZnEfzuYx550-73iPPdVLwOIA6wvnQA__&Key-Pair-Id=K3NV4LZ47N8M46)
   4. With a successful test to job mapping, on your ATS, you should be able to see the candidate test reports and other details every time a candidate attempts the test.
 
 For example, on Lever, sign in and navigate to the **Candidates** section for the job mapped to the public test link. You can see the candidate's test report, score, and test name as shown. This information is also available in the Activity Feed.

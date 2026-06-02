@@ -113,7 +113,7 @@ To view AI Fluency evaluation details for a specific question in the detailed re
 
   4. Go to the **Candidate Evaluation** tab and locate the **AI Fluency** section to view the following details: 
 
-![ai fluecny.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1770806088966-aifluecny.png?Expires=253370764800&Signature=VdHLEBqPqIDytR0q9iQzv9I9YA9SvFzWJh2EVKOBpLZDCwkcd46760PhB3FdIyyZ-VzVx-yF1~5nVY14ejarF42P4liSzdDjRuxxjyf1A9L-Ssqv8ask7XYDcc-2zBf1QomZnnxWtWNm65tR01ZIjWJoXnYUBp4MPVDhX~IfBGitksbSnsRyS6lAamyfZbuwT4LtOExYUcoC2baddJBLIOgyOCydJOaFoUYoCfiDHseJWi~gTGtvZdeFt4WPJFkV6qRGPQcXv0pOqvtlMzWook-9YNnFtaQKM~5KOtTsvQqZgy1PuTKXa5ytjZ9WGa5PnLWW7DuyX0AFmHrebUf8WQ__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![ai fluecny.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1770806088966-aifluecny.png?Expires=253370764800&Signature=VdHLEBqPqIDytR0q9iQzv9I9YA9SvFzWJh2EVKOBpLZDCwkcd46760PhB3FdIyyZ-VzVx-yF1~5nVY14ejarF42P4liSzdDjRuxxjyf1A9L-Ssqv8ask7XYDcc-2zBf1QomZnnxWtWNm65tR01ZIjWJoXnYUBp4MPVDhX~IfBGitksbSnsRyS6lAamyfZbuwT4LtOExYUcoC2baddJBLIOgyOCydJOaFoUYoCfiDHseJWi~gTGtvZdeFt4WPJFkV6qRGPQcXv0pOqvtlMzWook-9YNnFtaQKM~5KOtTsvQqZgy1PuTKXa5ytjZ9WGa5PnLWW7DuyX0AFmHrebUf8WQ__&Key-Pair-Id=K3NV4LZ47N8M46)
      * Overall AI Fluency grade (A, B, or C)
 
      * Brief explanation of the grade

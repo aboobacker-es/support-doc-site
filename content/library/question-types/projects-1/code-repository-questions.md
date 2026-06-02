@@ -55,17 +55,17 @@ To create a Code Repository question:
 
   3. Click **Create Question**.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776834293691-image.png?Expires=253370764800&Signature=pzg8osGSoV8PeXEruRfIXIMzmHV~R-iH1o3d4IiwcG2UQYZhoAL~wRcilWk2e7H84mlwxDP7TvkcQcoQ7S-C2Goa-0qCtrmZpWKJuYBfUV7Wa5EFko8T2bVpn~93rTynR~c8vC81egSO-G2Tm6vsG5IF6J0g3zWOuHrbEXOZjTSdh8Rhs1lSKc6WEGVqo3MCtua634fYdo90o7fr744eyemib~AO2lGBccJ29Yue5hIFSda4sm9ARuN0fmW2LG7iouLU~1B2bRapZZjbia5bxx7QzqdcGs0Z5bLehOf551iClcnBlB0QI7Q6nOO9XOb73MnggoHlqVEDeeXdUTrL~w__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776834293691-image.png?Expires=253370764800&Signature=pzg8osGSoV8PeXEruRfIXIMzmHV~R-iH1o3d4IiwcG2UQYZhoAL~wRcilWk2e7H84mlwxDP7TvkcQcoQ7S-C2Goa-0qCtrmZpWKJuYBfUV7Wa5EFko8T2bVpn~93rTynR~c8vC81egSO-G2Tm6vsG5IF6J0g3zWOuHrbEXOZjTSdh8Rhs1lSKc6WEGVqo3MCtua634fYdo90o7fr744eyemib~AO2lGBccJ29Yue5hIFSda4sm9ARuN0fmW2LG7iouLU~1B2bRapZZjbia5bxx7QzqdcGs0Z5bLehOf551iClcnBlB0QI7Q6nOO9XOb73MnggoHlqVEDeeXdUTrL~w__&Key-Pair-Id=K3NV4LZ47N8M46)
   4. Select **Code Repository** under **Projects**.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776834307663-image.png?Expires=253370764800&Signature=oeBU2KUVtBsISCQTfIh7e53zInIn0LK8k2N55X4HMtaisCrUQiH8u0NKLJ0TGITyP5Ap-hLDt47r3HjNQeAuXbCsQ3QrYOU7mp8RD7~2w4LipOkG3NQ~ukjw0odorZJURPi1B6Re4UE-NWC80BjZd2j-tNrkkET5CQ4LpQv~jWkSOTftU2AMfS0sODLVfvJqcl7HpwPiJiNBALuLy835yWjtgYBUR-EOvhZlH3Gp7uJXEaLjIWu5ezXjttBYQ7Z3EsIUkPtYF5~Vdu0OwEmVTket~fHcISEmj8VMmMLFzXEO~HfWJucotn1Z5LGJPHU8cEKUwp0mU942Y6AlfmaHOg__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776834307663-image.png?Expires=253370764800&Signature=oeBU2KUVtBsISCQTfIh7e53zInIn0LK8k2N55X4HMtaisCrUQiH8u0NKLJ0TGITyP5Ap-hLDt47r3HjNQeAuXbCsQ3QrYOU7mp8RD7~2w4LipOkG3NQ~ukjw0odorZJURPi1B6Re4UE-NWC80BjZd2j-tNrkkET5CQ4LpQv~jWkSOTftU2AMfS0sODLVfvJqcl7HpwPiJiNBALuLy835yWjtgYBUR-EOvhZlH3Gp7uJXEaLjIWu5ezXjttBYQ7Z3EsIUkPtYF5~Vdu0OwEmVTket~fHcISEmj8VMmMLFzXEO~HfWJucotn1Z5LGJPHU8cEKUwp0mU942Y6AlfmaHOg__&Key-Pair-Id=K3NV4LZ47N8M46)
   5. Select the project environment.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776834348747-image.png?Expires=253370764800&Signature=CvJSMaPaZNS37-~OEqItmwTNRDSoCGc4GWliKpe3-mWPvu0~HOG3qamwqQXqzV7DwHx322DG3ogXfvO~QC~38tDoAizdSQFyf--CgKQohemISYP4JkxqNtTOJ4BmDLKPIFXzs6VJ2DtQgMT4nHSoBqjTN4aaB9eyLr7L8KfjnIX0WJ0iqN227ZGM8bXi97YkEB2lDb3myJ2NyEXOvb-e3qs-SovAJArf3eulHakyFHC6Bg5f2DzzrtW9no~IwXqlSMoFaaaJnrzFGu4erzCk3DDoaPOVf884DD650R-0CdNfEfk48COEs0VwRU4hUbcVDPVgrog3jbNmQnBvVrOSdg__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776834348747-image.png?Expires=253370764800&Signature=CvJSMaPaZNS37-~OEqItmwTNRDSoCGc4GWliKpe3-mWPvu0~HOG3qamwqQXqzV7DwHx322DG3ogXfvO~QC~38tDoAizdSQFyf--CgKQohemISYP4JkxqNtTOJ4BmDLKPIFXzs6VJ2DtQgMT4nHSoBqjTN4aaB9eyLr7L8KfjnIX0WJ0iqN227ZGM8bXi97YkEB2lDb3myJ2NyEXOvb-e3qs-SovAJArf3eulHakyFHC6Bg5f2DzzrtW9no~IwXqlSMoFaaaJnrzFGu4erzCk3DDoaPOVf884DD650R-0CdNfEfk48COEs0VwRU4hUbcVDPVgrog3jbNmQnBvVrOSdg__&Key-Pair-Id=K3NV4LZ47N8M46)
 
   6. Upload a ZIP file of your repository to set up your project environment.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776834390729-image.png?Expires=253370764800&Signature=uD4f7VJ-rPqUlc0ho8ph46mXgZyzU64SJfOJ2hD6v~kr68eIgU9mE6TrOvaiu79TIH60UCut93aCMl8tq~P30XsghNsSn9mCUTIf7PUQipfH6irTP0GNt~WF5OGC2JRcGggH71VWWPu14T4LlvF3lCjcfZaEBQANcIkYUDM2LYMu6AvlGp7IwL1gPnUgTCB-RX5LZpiGhCusyDbEFY0d4pyEpaO4PBw9S0Yddq-RopWeaW6MfFSjb43RFCeBjrai8WEnyQBXfjlO8v~6yflnvK8HRHDT-M90SW4Q2eUsSouUKQf~1COkldUYwp0zLXmhbG2N7qjLwBf1Qu2szp6qfA__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776834390729-image.png?Expires=253370764800&Signature=uD4f7VJ-rPqUlc0ho8ph46mXgZyzU64SJfOJ2hD6v~kr68eIgU9mE6TrOvaiu79TIH60UCut93aCMl8tq~P30XsghNsSn9mCUTIf7PUQipfH6irTP0GNt~WF5OGC2JRcGggH71VWWPu14T4LlvF3lCjcfZaEBQANcIkYUDM2LYMu6AvlGp7IwL1gPnUgTCB-RX5LZpiGhCusyDbEFY0d4pyEpaO4PBw9S0Yddq-RopWeaW6MfFSjb43RFCeBjrai8WEnyQBXfjlO8v~6yflnvK8HRHDT-M90SW4Q2eUsSouUKQf~1COkldUYwp0zLXmhbG2N7qjLwBf1Qu2szp6qfA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 :::note
 The ZIP file size must not exceed 5 MB.
@@ -83,7 +83,7 @@ The ZIP file size must not exceed 5 MB.
 
      1. Review the generated install, run, and test commands.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776834426244-image.png?Expires=253370764800&Signature=GhIN5mQcGrmkJog0JBf9Obdtu~h2ag1q1c-G8inswvuSmNDa18MjBkYm7L4foDr5Zt609TI9EpdhC9XHlZdmyPwQzrFEEtlwNsIslKKxpNhikPaHOyCw-R4xEoUEa8JLdoUg0XEAMFk9NRjg1Za6~sp-D~MwEoSiYexZiiD0k9FJBeBUgYC0Y995eqROe6RQ9Ot~9wXyuUUi8v87d9ZGDB0stZYA7e2JNvRrSZNhq97sQ8dWZ0DjWurnueY5HJVtJieQuMdonNYDevsImNO7Su-4pIBeU0sy4xKZiTY4LnqX4eT7eB5pHs~dzeEqNWz0E7XG3P6CgxpTkzAMlAyP-w__&Key-Pair-Id=K3NV4LZ47N8M46)
+        ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776834426244-image.png?Expires=253370764800&Signature=GhIN5mQcGrmkJog0JBf9Obdtu~h2ag1q1c-G8inswvuSmNDa18MjBkYm7L4foDr5Zt609TI9EpdhC9XHlZdmyPwQzrFEEtlwNsIslKKxpNhikPaHOyCw-R4xEoUEa8JLdoUg0XEAMFk9NRjg1Za6~sp-D~MwEoSiYexZiiD0k9FJBeBUgYC0Y995eqROe6RQ9Ot~9wXyuUUi8v87d9ZGDB0stZYA7e2JNvRrSZNhq97sQ8dWZ0DjWurnueY5HJVtJieQuMdonNYDevsImNO7Su-4pIBeU0sy4xKZiTY4LnqX4eT7eB5pHs~dzeEqNWz0E7XG3P6CgxpTkzAMlAyP-w__&Key-Pair-Id=K3NV4LZ47N8M46)
         * If the repository includes a README file, the platform may extract commands from it.
 
 :::note
@@ -96,7 +96,7 @@ You can add custom port labels in the `hackerrank.yml` using the `ports_settings
 
   11. In the AI Assistant panel, choose the type of task you want to create:
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776834445524-image.png?Expires=253370764800&Signature=tsHmopTErBFGRpw0sCV-9ADBgcLLmT3sk43ihP0ugOuAVhSc7pTPvzs1u8V4Ou-ycvVfwNwQDr1fLuG3lL4Uktq5QnA5Fz7Dw3FtR2aRq2dvfh7paWFMGiOU2rl8aVhI98yUpOsPE3Mm~DnUGs9T2PGSLX7-HcKlSUU~BL1k-XYu1jxJ2NbKzBDSY10ANCvk3qg2ltY8fcQRg1C5xwZLzOZpNgon8Dz6bJJlgR2Y-SjDCuU0vfk2-J1K1Onog8HrP6ldQYMUh7uHZq8J50h7H0NlQJXMfSGjnnf7pgjsVBJ3d7X3kcwwNDqULCiC9nGjoLWcgkXksAAL67mu7qbYvA__&Key-Pair-Id=K3NV4LZ47N8M46)
+      ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776834445524-image.png?Expires=253370764800&Signature=tsHmopTErBFGRpw0sCV-9ADBgcLLmT3sk43ihP0ugOuAVhSc7pTPvzs1u8V4Ou-ycvVfwNwQDr1fLuG3lL4Uktq5QnA5Fz7Dw3FtR2aRq2dvfh7paWFMGiOU2rl8aVhI98yUpOsPE3Mm~DnUGs9T2PGSLX7-HcKlSUU~BL1k-XYu1jxJ2NbKzBDSY10ANCvk3qg2ltY8fcQRg1C5xwZLzOZpNgon8Dz6bJJlgR2Y-SjDCuU0vfk2-J1K1Onog8HrP6ldQYMUh7uHZq8J50h7H0NlQJXMfSGjnnf7pgjsVBJ3d7X3kcwwNDqULCiC9nGjoLWcgkXksAAL67mu7qbYvA__&Key-Pair-Id=K3NV4LZ47N8M46)
      * Feature Building
 
      * Bug Fixing
@@ -113,7 +113,7 @@ The AI Assistant suggests tasks based on the repository.
 
   14. Click **Submit**.
 
-![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776834057216-pasted-image-8.png?Expires=253370764800&Signature=HCylp8s-31hahkNVoygKU4x-iir2k99zhddhpeSt~CqIMlq9hm8k60hLuCdQ2vggtz1mpvAdNAXsiQyogn0zZCxcJEfciwyUwMz7f8QVEiwqqV3ERC~t2hvm4I7M8hGebH4k-FaJ3zDI~S3aUARMe5qvvP428MtMg5o1dbWUHyR0Z7MzKBnGfja4AAtbe~6pFmSsI3iYFx5wAnLDRdghDONeAxuXai0a-TTdf4cAWSuK0yyQFkiVfpslIfe7l0ZK1r~WHAQq1TFsgbD86u4XcyvKfTnuumDwK3cI~7g-aMgqbp--aZ6x0wFDb211Em7Zcs~ei2PB7NLze1n0Rwtn3Q__&Key-Pair-Id=K3NV4LZ47N8M46)
+      ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776834057216-pasted-image-8.png?Expires=253370764800&Signature=HCylp8s-31hahkNVoygKU4x-iir2k99zhddhpeSt~CqIMlq9hm8k60hLuCdQ2vggtz1mpvAdNAXsiQyogn0zZCxcJEfciwyUwMz7f8QVEiwqqV3ERC~t2hvm4I7M8hGebH4k-FaJ3zDI~S3aUARMe5qvvP428MtMg5o1dbWUHyR0Z7MzKBnGfja4AAtbe~6pFmSsI3iYFx5wAnLDRdghDONeAxuXai0a-TTdf4cAWSuK0yyQFkiVfpslIfe7l0ZK1r~WHAQq1TFsgbD86u4XcyvKfTnuumDwK3cI~7g-aMgqbp--aZ6x0wFDb211Em7Zcs~ei2PB7NLze1n0Rwtn3Q__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 The AI Assistant may ask follow-up questions. Enter the requested details to proceed.  
 After confirmation, the AI Assistant generates:
@@ -132,7 +132,7 @@ After confirmation, the AI Assistant generates:
 
   16. Click **Publish**.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776834585803-image.png?Expires=253370764800&Signature=X2SubTuNpHTIwBrRrsb12AAkPktb5DpjSBVPJDCgZISoHqLoZJZW6ed-yTBCBsIkZKDxkCm-JLYfTirXIGYhKG-aKBxwPkcgLh39iD~LqbWxkrWq8FwT64Rnu3HsBYP-VWmdg7btUeZug2yUmHLQdoOTiypYbqwLvE~oA7mIuEc6xpe7yLtv7W6fqbhGaiE5O3oBiKrob5Bxgjcj1xsfepxWBr9J4cOH4Yfg4P4cvD-eXqzDcwfhhgUrL5KQjhB3omLdGiR-~LHU7~ZJ-gUwe971pIDwxAhzQgXr2mMl8lqkIYN3LokYsBK7PMJrRF-4FxrmnwYQeAtr35nu-6i5EA__&Key-Pair-Id=K3NV4LZ47N8M46)
+      ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776834585803-image.png?Expires=253370764800&Signature=X2SubTuNpHTIwBrRrsb12AAkPktb5DpjSBVPJDCgZISoHqLoZJZW6ed-yTBCBsIkZKDxkCm-JLYfTirXIGYhKG-aKBxwPkcgLh39iD~LqbWxkrWq8FwT64Rnu3HsBYP-VWmdg7btUeZug2yUmHLQdoOTiypYbqwLvE~oA7mIuEc6xpe7yLtv7W6fqbhGaiE5O3oBiKrob5Bxgjcj1xsfepxWBr9J4cOH4Yfg4P4cvD-eXqzDcwfhhgUrL5KQjhB3omLdGiR-~LHU7~ZJ-gUwe971pIDwxAhzQgXr2mMl8lqkIYN3LokYsBK7PMJrRF-4FxrmnwYQeAtr35nu-6i5EA__&Key-Pair-Id=K3NV4LZ47N8M46)
   17. Wait for validation to complete.  
 After successful validation, the platform saves the question.
 
@@ -156,7 +156,7 @@ To add a question to an existing code repository:
 
   3. Click **Create another task**.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776834656557-image.png?Expires=253370764800&Signature=sm9c3QjawgMMQSCGZ2mieY8pHvP31MEcWYMGtIVXjkAMM2Iz1OEgcY7VOHhzclWRczSHGX9PueNf-MUQWfIxheaeuvYF0OWxaNh2os95FM0BUy8Bc4ERDlWiV7dFzKvNxvEoihxOLxowcRSG0vDQNXoxWfvOK2ob-AOSZKwsBIXWEG9B7uCWv1Pnx7XlGE4KaYNSCjjFukOt86FZrldmRb56qQfDeQhvhk6BSqRkqB5ST-0Bpj~JGQrS90xhkK--sJFZl9fJj1Yo0RgzNLxEGa~fOy~9CspktsO0oMelwURALxl5Mj7CniTU73OWuLyp2YoZVlKwE7wif2fzkcnMhw__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776834656557-image.png?Expires=253370764800&Signature=sm9c3QjawgMMQSCGZ2mieY8pHvP31MEcWYMGtIVXjkAMM2Iz1OEgcY7VOHhzclWRczSHGX9PueNf-MUQWfIxheaeuvYF0OWxaNh2os95FM0BUy8Bc4ERDlWiV7dFzKvNxvEoihxOLxowcRSG0vDQNXoxWfvOK2ob-AOSZKwsBIXWEG9B7uCWv1Pnx7XlGE4KaYNSCjjFukOt86FZrldmRb56qQfDeQhvhk6BSqRkqB5ST-0Bpj~JGQrS90xhkK--sJFZl9fJj1Yo0RgzNLxEGa~fOy~9CspktsO0oMelwURALxl5Mj7CniTU73OWuLyp2YoZVlKwE7wif2fzkcnMhw__&Key-Pair-Id=K3NV4LZ47N8M46)
   4. Follow the steps in [Creating a Code Repository question](<https://support.hackerrank.com/articles/1900882930-code-repository-questions#creating-a-code-repository-question>) to create a new task.
 
 ## Editing an existing Code Repository question
@@ -169,7 +169,7 @@ To edit an existing Code Repository question:
 
   3. Click **Edit**.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776834673246-image.png?Expires=253370764800&Signature=n2OQQ1MPjhBwbCqsM-wZaZcDRaHnl1BdYa42pucEpJsMHwS-vWSKtE7Af3KWYNLz8a9s8qgAH1JxUhFX~u8qavd2i2odlooySTE~6l04XVyKSYrpiMN8GmIcMbSuSVHG7oRM6vjOk3r83DmU6duBkO3A1dkShPLsMx8NQEyLYvYdwUXuQ6PGzaXbphq7basc5gD5IYrBl3Dc2V-qBkPktUAAgEf02B3ufVpU~At960pOnSCXjczLU3cf0uH05UW78PmuxuPakwX6v5lCpZL~H09~PSW5YJbvEesuVn6T2Ueh9IuazenHAa4r3YIvxXwL5glvORzvn6F4Ie58kfu~bQ__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776834673246-image.png?Expires=253370764800&Signature=n2OQQ1MPjhBwbCqsM-wZaZcDRaHnl1BdYa42pucEpJsMHwS-vWSKtE7Af3KWYNLz8a9s8qgAH1JxUhFX~u8qavd2i2odlooySTE~6l04XVyKSYrpiMN8GmIcMbSuSVHG7oRM6vjOk3r83DmU6duBkO3A1dkShPLsMx8NQEyLYvYdwUXuQ6PGzaXbphq7basc5gD5IYrBl3Dc2V-qBkPktUAAgEf02B3ufVpU~At960pOnSCXjczLU3cf0uH05UW78PmuxuPakwX6v5lCpZL~H09~PSW5YJbvEesuVn6T2Ueh9IuazenHAa4r3YIvxXwL5glvORzvn6F4Ie58kfu~bQ__&Key-Pair-Id=K3NV4LZ47N8M46)
   4. Update the required sections in the Code Repository interface.
 
   5. Click **Publish** to validate and save your changes.

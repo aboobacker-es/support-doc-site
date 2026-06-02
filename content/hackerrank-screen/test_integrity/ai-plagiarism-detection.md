@@ -65,7 +65,7 @@ This feature can be enabled from Test Settings.
 
   * Click on **Agree & Enable** from the following popup. 
 
-![7c6722ef-474f-4575-86f8-7df538645a7a.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046211204-?Expires=253370764800&Signature=d2dZ-F~HtkYN4R3ATZYqBEHek8ITIvA45yhX0DSw1vUiDSFpJnZHe723RlAWREKs4Zak4mQBHB3RFyW7hKqTAYMk0Oh9gbajPL51sX8fd7yGmjFeQJGEsUFb6zlD56PVqV7qxgbSrrUS7EMmX6Z5PFrO1JfQ7zGvjKS9qIIkb2j4EIyFqEXoIBaTZtZWXS7twt0oDOkVOAlg-qbkIiimtXRv56A1njUrnrnaa7HrdC8XN81LbdF88u99Iw~ke5mZctdsnmfGRGKzzUVegwGjX0UNg3tj2XTcg0VxmesFvA~Qjy~GnOiFOLNAscqB0l3syok1WsZLSeTYM9vecdhb~g__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![7c6722ef-474f-4575-86f8-7df538645a7a.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046211204-?Expires=253370764800&Signature=d2dZ-F~HtkYN4R3ATZYqBEHek8ITIvA45yhX0DSw1vUiDSFpJnZHe723RlAWREKs4Zak4mQBHB3RFyW7hKqTAYMk0Oh9gbajPL51sX8fd7yGmjFeQJGEsUFb6zlD56PVqV7qxgbSrrUS7EMmX6Z5PFrO1JfQ7zGvjKS9qIIkb2j4EIyFqEXoIBaTZtZWXS7twt0oDOkVOAlg-qbkIiimtXRv56A1njUrnrnaa7HrdC8XN81LbdF88u99Iw~ke5mZctdsnmfGRGKzzUVegwGjX0UNg3tj2XTcg0VxmesFvA~Qjy~GnOiFOLNAscqB0l3syok1WsZLSeTYM9vecdhb~g__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 ## Candidate Consent
 
@@ -99,7 +99,7 @@ When a candidate's test attempt is flagged for plagiarism, it is categorized as 
 
   4. In the question details, the **Keystroke Codeplayer** lets you quickly understand why a candidate was flagged for plagiarism. You can navigate to the relevant portions of their coding journey where potential suspicious activity may have occurred.
 
-![CodeSimilarity.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1761737395059-CodeSimilarity.gif?Expires=253370764800&Signature=h~LGe7FRkjEljf64dTPFCnlmeXVlqzNjwq2DfUGI26w28xQ92L1-IkSg88ARVGqFHaW0J~CK7jmzqbqRgT7FrMgSk85o2-OGAjiD1BMrEaFgEYYTpxBy8PgWQx7Qk5P98HNv3lRc~lpHbeZkNoVo8-PzW6w2bZVRtW-AxzD~zJw3KorRSyTdEq6oBlgiMVQb23U-1l1N9tkLH1VbZcD8CO7fiS5HQTVzWt02iaV6wfbJGTNCpSKoReMoNfx3srq-U~PnnvBEpCJvbWiUtSNYBdBigslnUYeoiIPs6EcvEJoseVGCMi84Y4rIQkt8J0naYupgreNBkrnFe4Ff~KG5bA__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![CodeSimilarity.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1761737395059-CodeSimilarity.gif?Expires=253370764800&Signature=h~LGe7FRkjEljf64dTPFCnlmeXVlqzNjwq2DfUGI26w28xQ92L1-IkSg88ARVGqFHaW0J~CK7jmzqbqRgT7FrMgSk85o2-OGAjiD1BMrEaFgEYYTpxBy8PgWQx7Qk5P98HNv3lRc~lpHbeZkNoVo8-PzW6w2bZVRtW-AxzD~zJw3KorRSyTdEq6oBlgiMVQb23U-1l1N9tkLH1VbZcD8CO7fiS5HQTVzWt02iaV6wfbJGTNCpSKoReMoNfx3srq-U~PnnvBEpCJvbWiUtSNYBdBigslnUYeoiIPs6EcvEJoseVGCMi84Y4rIQkt8J0naYupgreNBkrnFe4Ff~KG5bA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 ### Understanding the Reasons for Flagging
 

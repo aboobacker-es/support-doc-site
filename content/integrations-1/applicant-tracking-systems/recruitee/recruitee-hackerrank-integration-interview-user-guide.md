@@ -25,15 +25,15 @@ To invite candidates to a HackerRank interview:
 
   2. Go to the **Candidates** tab.
 
-![1.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1770276508729-1.png?Expires=253370764800&Signature=HZK7SNkaySKo4hOe8DNkyPghCImzCNwMn5U9B7lpvTuwcehFCqMUwT8uE-kQ2yUL5xxuk8jXUI6LicxE~H-9xL-4eB8EkHDNatBhBtLtM8YYpSqf97dTfXAb44o8xy9Vi76MY5XoweOVyP3nFMhSqLAlJhHOZHcBxKCpaCK5QWASvYgsY-kOTRUxWvG3XbK7vkpQNQK-FgD9r31vZT9vPKC~Necm3Az-Kt-Bez3VksIrCUYwdVOAzmL38qhH5oZ1FIeHIUQqgmqlnAj5EkQOARVDGjkkDBi1rHfIKDVfJH-iKAqi-4F-CkhAU~lwo5opa2IA-HzfkUdNYC5Ge1hdSw__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![1.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1770276508729-1.png?Expires=253370764800&Signature=HZK7SNkaySKo4hOe8DNkyPghCImzCNwMn5U9B7lpvTuwcehFCqMUwT8uE-kQ2yUL5xxuk8jXUI6LicxE~H-9xL-4eB8EkHDNatBhBtLtM8YYpSqf97dTfXAb44o8xy9Vi76MY5XoweOVyP3nFMhSqLAlJhHOZHcBxKCpaCK5QWASvYgsY-kOTRUxWvG3XbK7vkpQNQK-FgD9r31vZT9vPKC~Necm3Az-Kt-Bez3VksIrCUYwdVOAzmL38qhH5oZ1FIeHIUQqgmqlnAj5EkQOARVDGjkkDBi1rHfIKDVfJH-iKAqi-4F-CkhAU~lwo5opa2IA-HzfkUdNYC5Ge1hdSw__&Key-Pair-Id=K3NV4LZ47N8M46)
   3. Select a candidate profile.
 
   4. Click the more option menu and select **Start HackerRank Interview**.
 
-![1.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1770228890367-1.png?Expires=253370764800&Signature=OPieLgVm~NTMkuCkQBayE0uDTPyyprx~OREBvADKMtvL29cje-KfsHLmy82foh3H6Tchln7tG0LRQO6zoTjxyl3sDISuRf39bUnOLTWxI4170ARcGDizLTZxrxGwEQunsdPxoPCMuCWEDTRV2erdaBGkwc2JQrpWUlNwuUMVSE~KdWg68da8HAeoX6F71T1brROoiPvI9I13P2OCzmMbutuZN6xxVqoGDZJ3-Ecg83iuSye1ISRMwcSlCguCP8d2WybWYcjWQQvLrqKUyeMw-wPzTGYA4JB63t8xPmJv3c-bNCGp0LUcFAZfrt~Csw9tqrDPBAmbbhUDidGSb39Wbg__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![1.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1770228890367-1.png?Expires=253370764800&Signature=OPieLgVm~NTMkuCkQBayE0uDTPyyprx~OREBvADKMtvL29cje-KfsHLmy82foh3H6Tchln7tG0LRQO6zoTjxyl3sDISuRf39bUnOLTWxI4170ARcGDizLTZxrxGwEQunsdPxoPCMuCWEDTRV2erdaBGkwc2JQrpWUlNwuUMVSE~KdWg68da8HAeoX6F71T1brROoiPvI9I13P2OCzmMbutuZN6xxVqoGDZJ3-Ecg83iuSye1ISRMwcSlCguCP8d2WybWYcjWQQvLrqKUyeMw-wPzTGYA4JB63t8xPmJv3c-bNCGp0LUcFAZfrt~Csw9tqrDPBAmbbhUDidGSb39Wbg__&Key-Pair-Id=K3NV4LZ47N8M46)
   5. In the **Start HackerRank Interview** dialog:
 
-![2.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1770228912547-2.png?Expires=253370764800&Signature=AfjF9mkhZmN5vlQHpW0JZzpg6jP9IJsvnOgABx2zF6ZtxPJA9DzdomFtbKDnH2d1PfMjVjGb27KNNa-ASyaJQZLf7Jy9R12U~T7hur8pla6oDk~c4PSOHSKgc2o6hdTUnRT8b-aSi39cPBMT-RQE6EZBqVuiOlQmp~grfQl-03WsqXWAq~Vr1tFwfWqkWFY7KDqKvCwyPam2-IJ7uz7K0Axc1CmmXJHg~rAWTJxZwocR6xuwWCd6D6-z15l3z7exXQ9ZuOtTSF4qJmaOHlYPOtrbLhZgk2-33i1zXbn2xsFMW45Ke8gDKW7Oph-ggUVXCTrHSzUnOCR4aEWVCpGspA__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![2.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1770228912547-2.png?Expires=253370764800&Signature=AfjF9mkhZmN5vlQHpW0JZzpg6jP9IJsvnOgABx2zF6ZtxPJA9DzdomFtbKDnH2d1PfMjVjGb27KNNa-ASyaJQZLf7Jy9R12U~T7hur8pla6oDk~c4PSOHSKgc2o6hdTUnRT8b-aSi39cPBMT-RQE6EZBqVuiOlQmp~grfQl-03WsqXWAq~Vr1tFwfWqkWFY7KDqKvCwyPam2-IJ7uz7K0Axc1CmmXJHg~rAWTJxZwocR6xuwWCd6D6-z15l3z7exXQ9ZuOtTSF4qJmaOHlYPOtrbLhZgk2-33i1zXbn2xsFMW45Ke8gDKW7Oph-ggUVXCTrHSzUnOCR4aEWVCpGspA__&Key-Pair-Id=K3NV4LZ47N8M46)
      * Review the candidate name and email address.
 
      * Enter the title of the Interview in the **Interview title** field.

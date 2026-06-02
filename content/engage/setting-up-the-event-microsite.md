@@ -23,7 +23,7 @@ To access microsite editor:
 
   3. In the left panel, select **Microsite**.
 
-![Screenshot 2025-09-24 at 7.26.07 PM.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760519883537-Screenshot2025-09-24at7.26.07PM.png?Expires=253370764800&Signature=C528oboUNCYZmF7mS48DLQT5WjO4aLJRScFbKk9dotTwZFy~9XmQTEfy1USRE5l35VxAB3AvmYiEZq3aEx1Yv-W5h-5PVsqb2OBAxm~F-0a1~c5-DChtzeldTCUKSTkxbhhnGhXQ0rMSlrE54XrM5w8d5rCnyxE-XI3i9cOt-so2PYWqDrlX67J9GwvG-I00dY-ofbumNKVufvr8I0etBmLT7sC1pMA85sM6zT4Dw-WrzvtgouCppR0XwhMjjVvpFkQUgXBQ7IVvXDv5ZDABnBxiMUp4QC0kxO8lmf6Mu6Fz7Pi~QKlyt-A3ztLZQvEulYCX~mNyr9~SDiBpNdhM4w__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![Screenshot 2025-09-24 at 7.26.07 PM.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760519883537-Screenshot2025-09-24at7.26.07PM.png?Expires=253370764800&Signature=C528oboUNCYZmF7mS48DLQT5WjO4aLJRScFbKk9dotTwZFy~9XmQTEfy1USRE5l35VxAB3AvmYiEZq3aEx1Yv-W5h-5PVsqb2OBAxm~F-0a1~c5-DChtzeldTCUKSTkxbhhnGhXQ0rMSlrE54XrM5w8d5rCnyxE-XI3i9cOt-so2PYWqDrlX67J9GwvG-I00dY-ofbumNKVufvr8I0etBmLT7sC1pMA85sM6zT4Dw-WrzvtgouCppR0XwhMjjVvpFkQUgXBQ7IVvXDv5ZDABnBxiMUp4QC0kxO8lmf6Mu6Fz7Pi~QKlyt-A3ztLZQvEulYCX~mNyr9~SDiBpNdhM4w__&Key-Pair-Id=K3NV4LZ47N8M46)
   4. Click **Edit**.
 
 ### Steps 2: Update content layout
@@ -36,7 +36,7 @@ Use the **Content** tab to add or modify microsite sections:
 
   * Generate a banner image using AI.
 
-![engage3.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760521145731-engage3.gif?Expires=253370764800&Signature=ObsYu~dI071g~FVYbJJkyDjyOpinZJBXHtKt5a8hd-xFhUxYgpUGqxYEuzGHQc24Lbw88qx8Gitagi97RshWfAVBtnZemfVQDmGt5ukRxhn1oskf6GfT6B7YhLG7FUsjVj-mBPM6jPFtU34Evdh3NAVgmWShvagfQQwwf-EpDNPtSzoZpHtUcUkujNXE8jBKL9TQN2FQ4uZrDDf5YkyG3BB9OJnUDZPjUe~bwQOnryyg6GjMFr2r2dcIeScul4FuTxuLELeO0zGo3XBEyycUYOiE0tByM6v~qXujWOYqNp3JGkiP2GQ3kWjdGQtMqzUIKikpL9jTNNaK34emXAf4UQ__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![engage3.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760521145731-engage3.gif?Expires=253370764800&Signature=ObsYu~dI071g~FVYbJJkyDjyOpinZJBXHtKt5a8hd-xFhUxYgpUGqxYEuzGHQc24Lbw88qx8Gitagi97RshWfAVBtnZemfVQDmGt5ukRxhn1oskf6GfT6B7YhLG7FUsjVj-mBPM6jPFtU34Evdh3NAVgmWShvagfQQwwf-EpDNPtSzoZpHtUcUkujNXE8jBKL9TQN2FQ4uZrDDf5YkyG3BB9OJnUDZPjUe~bwQOnryyg6GjMFr2r2dcIeScul4FuTxuLELeO0zGo3XBEyycUYOiE0tByM6v~qXujWOYqNp3JGkiP2GQ3kWjdGQtMqzUIKikpL9jTNNaK34emXAf4UQ__&Key-Pair-Id=K3NV4LZ47N8M46)
     1. Edit the section that includes your event name.
 
     2. In the **Cover Photo/Video** section, select the **Image** tab.
@@ -62,7 +62,7 @@ Use the **Content** tab to add or modify microsite sections:
 ![Screenshot 2025-09-24 at 7.31.43 PM.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760519953595-Screenshot2025-09-24at7.31.43PM.png?Expires=253370764800&Signature=MfOybgdo2Ul5cVrvit7Eedk985j~cxuz4uoDsSGHTpCYyz~Z3zWOewZgi5P93fapo6zU0NjvrREzBjZVp2JkwP8WW32dFaJGtGz3CQPiC8IVowHDEnaLkwnx1tUtiGYAYu23cPic5axjvbs7E6jZbWYxgfM8eXltzloLDIkHbNw-Eqnp9Iv-YfzvINlfyapXuEN7Y4OYdzScRpVxezb~mMGU-r5hx7zYJQh6LzNGNyJa~zlDpfGe5bj~wFMRpSZrZZSRBDnJ45Y1PqPLmSfjQoGRWBwraqV~AA0emoIcy0gbuvtim7PYK3G7oAVAvGiJEKm7KBhGoPTtpTZfgFZCDg__&Key-Pair-Id=K3NV4LZ47N8M46)
   * In the **Event Timeline** section:
 
-![Engage4.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760522555913-Engage4.gif?Expires=253370764800&Signature=L6so5rme~iFdQlFOZf4Cf1lUnA0mQk~KPy8CjvIWufpOsp~dGSd9hflNfYJmUADV5SlrpLsez6eWfjpasDAv4nwO8SN3gT-uwu09WImfYcSjd-CDEPkcpHgxU75z-o5XjKEkYSRWgKoWMz2RklFNoVH81k5vB3f~96eOXZ1x3cbp1NwsPQhL9sJ-u~iS4cvX6UZHtxWS0YWjM84JNj30hCsaOUncR7tvS9MPAsHX~mMNYWOdnQI2HQfA4CNWYBrjIL0KfAUia4Oq3lkgKfGDrBKIhv-8HxEd7uukuTcUNp3LzkxfAO7pu7w4GQ2bH-~2LbkTAEihdSnxRIcVCEimXw__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![Engage4.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760522555913-Engage4.gif?Expires=253370764800&Signature=L6so5rme~iFdQlFOZf4Cf1lUnA0mQk~KPy8CjvIWufpOsp~dGSd9hflNfYJmUADV5SlrpLsez6eWfjpasDAv4nwO8SN3gT-uwu09WImfYcSjd-CDEPkcpHgxU75z-o5XjKEkYSRWgKoWMz2RklFNoVH81k5vB3f~96eOXZ1x3cbp1NwsPQhL9sJ-u~iS4cvX6UZHtxWS0YWjM84JNj30hCsaOUncR7tvS9MPAsHX~mMNYWOdnQI2HQfA4CNWYBrjIL0KfAUia4Oq3lkgKfGDrBKIhv-8HxEd7uukuTcUNp3LzkxfAO7pu7w4GQ2bH-~2LbkTAEihdSnxRIcVCEimXw__&Key-Pair-Id=K3NV4LZ47N8M46)
     * Display key dates, such as the **registration deadline** and **coding challenge** round.
 
     * Select **\+ Add Round** to include other events, such as webinars or interview stages.
@@ -107,4 +107,4 @@ To publish:
 
   2. Preview your microsite using the link at the top of the page and share it with your marketing team to begin promoting the event.
 
-![Screenshot 2025-09-24 at 7.36.25 PM.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760520150473-Screenshot2025-09-24at7.36.25PM.png?Expires=253370764800&Signature=kdpW67QT6Kmdcp7jpJXwE713cM4ZkOzBthfHa6V1YTNAOQ5zg3srVKO0Rz-XGgelL09mze4buHqwlLkMqzkjc8XNFX3YAWUtpAKw~oyROWbYOQc3rXLHy-zTx4XjCl9M~9q~1Grg-jqCtg11Arba9UUdBVECwWhbwIUovg8PY7iGzMH1z~kvTcA9gPG7MwbyvAl4VnKnxI-EdMeeq0NLBAz~UuGjFlpSkMojbTbUJwQFFX7uhqWdhrP-elkvvGN6cnFRpFtkniKGsKci43xHW2OOkB~rWjFZfOhemolPiQ5A9Ec7PwcGg24QIbx7miOF5t5CLsv-4fNFYzpdQRiQVg__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![Screenshot 2025-09-24 at 7.36.25 PM.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760520150473-Screenshot2025-09-24at7.36.25PM.png?Expires=253370764800&Signature=kdpW67QT6Kmdcp7jpJXwE713cM4ZkOzBthfHa6V1YTNAOQ5zg3srVKO0Rz-XGgelL09mze4buHqwlLkMqzkjc8XNFX3YAWUtpAKw~oyROWbYOQc3rXLHy-zTx4XjCl9M~9q~1Grg-jqCtg11Arba9UUdBVECwWhbwIUovg8PY7iGzMH1z~kvTcA9gPG7MwbyvAl4VnKnxI-EdMeeq0NLBAz~UuGjFlpSkMojbTbUJwQFFX7uhqWdhrP-elkvvGN6cnFRpFtkniKGsKci43xHW2OOkB~rWjFZfOhemolPiQ5A9Ec7PwcGg24QIbx7miOF5t5CLsv-4fNFYzpdQRiQVg__&Key-Pair-Id=K3NV4LZ47N8M46)

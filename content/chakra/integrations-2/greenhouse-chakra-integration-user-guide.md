@@ -35,10 +35,10 @@ To add an AI Interviewer**** stage to a job interview plan in Greenhouse:
 
   5. Click **Add stage.**
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776787504838-image.png?Expires=253370764800&Signature=hwaU9P2x7v79ngpIn2IOCWUB9-Qvfs0I7T4HxpGYMHtrknGvhMylOEb2gki~oXiKzfhKQftECHvA~2gI1I4uxrETps-lzggZ5A3beIy0o6xMX-7rSlSSLmC2BTF~d-43Dhz31A4InrqAWdcISgfOL8JuSXS98f~fUb3yhZ0OfXmdEQVk0IbPRyLg8h069El3JoNBYcUCQGZDeThzz2kLRprRl6Vh3FTtmMHiyRvluvn6xHPsrwwM6wKAArDSh5YTxcDFKmau6bCLfi0t1OshajcSPtYzgV2whhpu~NZU1VSM0TkojpQ65XlEbra-ILKe4eLSdNawQTAQajn62LynKA__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776787504838-image.png?Expires=253370764800&Signature=hwaU9P2x7v79ngpIn2IOCWUB9-Qvfs0I7T4HxpGYMHtrknGvhMylOEb2gki~oXiKzfhKQftECHvA~2gI1I4uxrETps-lzggZ5A3beIy0o6xMX-7rSlSSLmC2BTF~d-43Dhz31A4InrqAWdcISgfOL8JuSXS98f~fUb3yhZ0OfXmdEQVk0IbPRyLg8h069El3JoNBYcUCQGZDeThzz2kLRprRl6Vh3FTtmMHiyRvluvn6xHPsrwwM6wKAArDSh5YTxcDFKmau6bCLfi0t1OshajcSPtYzgV2whhpu~NZU1VSM0TkojpQ65XlEbra-ILKe4eLSdNawQTAQajn62LynKA__&Key-Pair-Id=K3NV4LZ47N8M46)
   6. In the **Add Stage** dialog, select **HackerRank Assessment**. 
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776788741903-image.png?Expires=253370764800&Signature=Wl-bEvbiCgEhb6m-vXpwZ~2MofTA~8wxINggWgTFe4USQqZeR~Zp6K6dL-vKRjjIg1iZwsrutStYCkqmqAHWLmZKi1mK8pupJZDslIQISsDWaFX7HTWuJ5jGEbCEmXfiDkz4iTSWrdqM8cMO1me9xq52PYJrbHWq4wNJKU6RUBwW~ikJ9xMgS6ce8qJTUbXQCzwWwYJtyqGWaZs6yyGj9wdUNK-dBK~vq66s5QCQc0onEEudcZuyi3oSVoda5aJWJ8UJg2Da3skdse8rfqpPKoxZwrNoqOgh3turU-Vc8pJ1SoyJLXFMY4jtzeveB6lYzq7ohMXGvpyXdrRZEYkIiw__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776788741903-image.png?Expires=253370764800&Signature=Wl-bEvbiCgEhb6m-vXpwZ~2MofTA~8wxINggWgTFe4USQqZeR~Zp6K6dL-vKRjjIg1iZwsrutStYCkqmqAHWLmZKi1mK8pupJZDslIQISsDWaFX7HTWuJ5jGEbCEmXfiDkz4iTSWrdqM8cMO1me9xq52PYJrbHWq4wNJKU6RUBwW~ikJ9xMgS6ce8qJTUbXQCzwWwYJtyqGWaZs6yyGj9wdUNK-dBK~vq66s5QCQc0onEEudcZuyi3oSVoda5aJWJ8UJg2Da3skdse8rfqpPKoxZwrNoqOgh3turU-Vc8pJ1SoyJLXFMY4jtzeveB6lYzq7ohMXGvpyXdrRZEYkIiw__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 :::note
 If **HackerRank Assessment** does not appear in the stage list, the integration is not configured correctly. For more information, see [📄 Greenhouse - HackerRank Integration Guide](</articles/1406188460>).
@@ -48,12 +48,12 @@ If **HackerRank Assessment** does not appear in the stage list, the integration 
 
   8. Click the edit icon next to the stage to rename it to match your hiring workflow. For example, HackerRank AI Interviewer.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776789157149-image.png?Expires=253370764800&Signature=ZlTLiiNjqW00KX2tH7a2pbQ532iRk6aoRap7f1AtRhR60iDaAxQU4IYztuwZzAGIn9J6ww-cWKXbhrQaIed7O8nvA9YBH3o7x8VzOHL9AgQ3ymF~tnfegVWJFD28tpKMFbMs-fyaK2gqV~-gMZraKP-iZAMsPfsdoBPWRpptDv097tz9Kc0tGgQzjOJcNhYtatAhlU5FteeNU1ApoGUR7xnHUWHGRNKnLfSslKHtthUxy9CJHTkozufd~n8889W56UzgtoF-cQuQlQJgVreC0vF50ZbWJOBNbW-Dfn-WDnuegwLyPJhAbBK70c~u~rH85CcUa5q9HIkO3huksRzqoQ__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776789157149-image.png?Expires=253370764800&Signature=ZlTLiiNjqW00KX2tH7a2pbQ532iRk6aoRap7f1AtRhR60iDaAxQU4IYztuwZzAGIn9J6ww-cWKXbhrQaIed7O8nvA9YBH3o7x8VzOHL9AgQ3ymF~tnfegVWJFD28tpKMFbMs-fyaK2gqV~-gMZraKP-iZAMsPfsdoBPWRpptDv097tz9Kc0tGgQzjOJcNhYtatAhlU5FteeNU1ApoGUR7xnHUWHGRNKnLfSslKHtthUxy9CJHTkozufd~n8889W56UzgtoF-cQuQlQJgVreC0vF50ZbWJOBNbW-Dfn-WDnuegwLyPJhAbBK70c~u~rH85CcUa5q9HIkO3huksRzqoQ__&Key-Pair-Id=K3NV4LZ47N8M46)
   9. Click **Edit Interview** next to the **AI Interviewer** stage.
 
   10. Select the AI interviewer from the **Test name** drop-down.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776789311168-image.png?Expires=253370764800&Signature=eQBrWfkGHYc4FSB4Ped6GoEp7emETb7dRNgkeXZouvnG5su~vrJc2woHtS43foRybVFoeFWQhaoxSzog62Ws3qCGvSRhXReucyRdh6bgXqTVOqwjp3MUY0LjVyZj-4v6eCPsmuTASipZ8op96L6Vu-CRapLcyCogQP6001x9C~T9-yLUrDmJFlW8eDnuJGPVROXSBz5yCp2yjfN~sR5xuGIjQWeJIXV1obUTCXKPjGI9E5XxAhz3wW2t~Ib~q7tHAy9jX6k2koEFzbyRv1G6pMtHGYnqSLhLLZcPgdP5R~YA8Vo3mpBV4DPJh2MfHwxferbDeX49e22e1I1RhHngyA__&Key-Pair-Id=K3NV4LZ47N8M46)
+      ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776789311168-image.png?Expires=253370764800&Signature=eQBrWfkGHYc4FSB4Ped6GoEp7emETb7dRNgkeXZouvnG5su~vrJc2woHtS43foRybVFoeFWQhaoxSzog62Ws3qCGvSRhXReucyRdh6bgXqTVOqwjp3MUY0LjVyZj-4v6eCPsmuTASipZ8op96L6Vu-CRapLcyCogQP6001x9C~T9-yLUrDmJFlW8eDnuJGPVROXSBz5yCp2yjfN~sR5xuGIjQWeJIXV1obUTCXKPjGI9E5XxAhz3wW2t~Ib~q7tHAy9jX6k2koEFzbyRv1G6pMtHGYnqSLhLLZcPgdP5R~YA8Vo3mpBV4DPJh2MfHwxferbDeX49e22e1I1RhHngyA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 :::tip
 Move the **AI Interviewer** stage to the appropriate position in the interview plan.
@@ -73,7 +73,7 @@ To schedule an AI interview in Greenhouse:
 
   3. Click **Move stage** and select the **AI Interviewer** stage.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776789643082-image.png?Expires=253370764800&Signature=OHAw-PaatFiYBQ5kAkJoEh5d4AAC5KsaCf2PsVtunRbdyikfYVQgTiXBOJEpbIIZZBvtFBvYV1tgX6Gt9n7Mm8vJ5zIWw90nfwP1FbNxn72sGI4d2k~Y1jTtuW-P8kzr7rmCWWUg~lVBB8ZYW-4lP~tANtxBdRzf4tvlsOyjhetC6EUHWLPujg1yx8EUnW0TMQB2MfKqBk0CHXTzWFUVAiXbKzkwCCdLHtdktSKpuv~lmnITtIGbYITCHeDFwpIkh~WDjzhwjQOHglRWo8K0ECvnt5Az9arHueKcUcXAf-Mo76aGbsr8JQ01Fpi5FEPohZqKWN3p5VgYGtFl-6Y7wQ__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776789643082-image.png?Expires=253370764800&Signature=OHAw-PaatFiYBQ5kAkJoEh5d4AAC5KsaCf2PsVtunRbdyikfYVQgTiXBOJEpbIIZZBvtFBvYV1tgX6Gt9n7Mm8vJ5zIWw90nfwP1FbNxn72sGI4d2k~Y1jTtuW-P8kzr7rmCWWUg~lVBB8ZYW-4lP~tANtxBdRzf4tvlsOyjhetC6EUHWLPujg1yx8EUnW0TMQB2MfKqBk0CHXTzWFUVAiXbKzkwCCdLHtdktSKpuv~lmnITtIGbYITCHeDFwpIkh~WDjzhwjQOHglRWo8K0ECvnt5Az9arHueKcUcXAf-Mo76aGbsr8JQ01Fpi5FEPohZqKWN3p5VgYGtFl-6Y7wQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 Greenhouse sends the candidate an email with the AI interview link.
 

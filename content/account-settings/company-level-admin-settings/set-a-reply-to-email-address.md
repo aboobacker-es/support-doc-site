@@ -27,7 +27,7 @@ To configure a reply-to email address:
 
   4. In the left panel, select **Company Settings** under the **Company** section.
 
-![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F9d1944fb-c511-4f13-81c4-6dca4934a897-AD_4nXceIE7mTg_lZuWHJbU5epY_KnCDzulME-7xqrKnW-E_QFjK5EnqbCl2GZx6jpAne0U8Sg3nRwr2AUiDD2SZhY_tdlbnGqvMyLhUvN-d01plR75Mon6hCA-QO4VY8h2dJGTKO905-62670e9a-cc0b-47d0-9194-b523faa99214?Expires=253370764800&Signature=SstYsisox2qh99NS2uVt9lAJrMF3jAVZtHsmvlMi6VS39nD~vTi5Pof~2rAYK-pTblWIt7EiKzI4Pj4grbvSzijqPpXfXcrhUV9GhGqWfnD9GGH~5zNWsa3j42X~8fnbyAU8GSuIY0ZWlrKfI9B~UQEfs1QEZ-TURJYoU7x-mSaW60hLHws62RShdQmUXAaKjLSdRBNfWGGg9GjKGrzfbakICokswWOlnXqP5i2lNbzF1F70uXjkjrGs-7-GC5Et-6YE0~fPNppguvBhiW4Vg1mWER6IoOFNZnh0RIjt2U0ohxqEnprMYFqstzfOoQ22L9PNmXZo3ql51tpZbvTDRg__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F9d1944fb-c511-4f13-81c4-6dca4934a897-AD_4nXceIE7mTg_lZuWHJbU5epY_KnCDzulME-7xqrKnW-E_QFjK5EnqbCl2GZx6jpAne0U8Sg3nRwr2AUiDD2SZhY_tdlbnGqvMyLhUvN-d01plR75Mon6hCA-QO4VY8h2dJGTKO905-62670e9a-cc0b-47d0-9194-b523faa99214?Expires=253370764800&Signature=SstYsisox2qh99NS2uVt9lAJrMF3jAVZtHsmvlMi6VS39nD~vTi5Pof~2rAYK-pTblWIt7EiKzI4Pj4grbvSzijqPpXfXcrhUV9GhGqWfnD9GGH~5zNWsa3j42X~8fnbyAU8GSuIY0ZWlrKfI9B~UQEfs1QEZ-TURJYoU7x-mSaW60hLHws62RShdQmUXAaKjLSdRBNfWGGg9GjKGrzfbakICokswWOlnXqP5i2lNbzF1F70uXjkjrGs-7-GC5Et-6YE0~fPNppguvBhiW4Vg1mWER6IoOFNZnh0RIjt2U0ohxqEnprMYFqstzfOoQ22L9PNmXZo3ql51tpZbvTDRg__&Key-Pair-Id=K3NV4LZ47N8M46)
   5. Scroll to the **Set a Reply-to Email Address** section.
 
   6. Select the **Configure a universal reply-to email address** checkbox.

@@ -35,7 +35,7 @@ To enable automatic tab lock and hide:
 
   5. Select the **Enable Automatic lock** checkbox.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1758765764584-image.png?Expires=253370764800&Signature=I3I4IDjtZZYDsc43mW5mw~nhBSlyLMWvQAaXBFNQtCUXeM5oPBWxHM06ihdgLs4CVob4~gbeWaqSjRo-tFBxp7fqJxj3dHcSMLUI3gF-2Z3Ideb3Htt-G2N9bo7OEA760iye3byaOL~0PQ0k3XTQF2l5r5M6yrLKK5uesVfUtRkBCuVoQFTX3gIM5qGYGyMFKr3dM2zut0A7ktzPhHXzFvofoYDeJsFG5xxvb1U1t1VE8n2qEZvBKnIv6YwQtQDNbApsJXskNVTCpfSBXZDe405On-~zcXMzfgH~IKuWWAtPitWyckoC4LSsSWXiukTFLfZA1nn-Xb9BZRaa3luwEw__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1758765764584-image.png?Expires=253370764800&Signature=I3I4IDjtZZYDsc43mW5mw~nhBSlyLMWvQAaXBFNQtCUXeM5oPBWxHM06ihdgLs4CVob4~gbeWaqSjRo-tFBxp7fqJxj3dHcSMLUI3gF-2Z3Ideb3Htt-G2N9bo7OEA760iye3byaOL~0PQ0k3XTQF2l5r5M6yrLKK5uesVfUtRkBCuVoQFTX3gIM5qGYGyMFKr3dM2zut0A7ktzPhHXzFvofoYDeJsFG5xxvb1U1t1VE8n2qEZvBKnIv6YwQtQDNbApsJXskNVTCpfSBXZDe405On-~zcXMzfgH~IKuWWAtPitWyckoC4LSsSWXiukTFLfZA1nn-Xb9BZRaa3luwEw__&Key-Pair-Id=K3NV4LZ47N8M46)
   6. Click **Save**.
 
 When enabled, this setting applies to all interviews in the account.

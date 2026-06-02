@@ -19,7 +19,7 @@ To create a test:
 
   3. Click **Create Test**.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1757090442855-image.png?Expires=253370764800&Signature=GhYW3T2Y74DcUJripozEeE15zIO5~AOqnudMnjHk6A0L9OOgbfeqbwpUr3dWLWcmN-q1B9helYUZ~Scdr8rQmiHJI7ffNDi-K8B20HuOmv~Q4-JRiD7BCto5ksL1w~tGuOnW~naxtasKvOfyWMtU1hdPJOltJkiNMcMRdrS3ImXqb~TTrQa7Oq0yrWYcGnNZ-S7-iQW9D1Vj3WNIiygB5fd3yfp5Nx5p-BTZ3ns0tjBBOIAXYxkbCKwy5wK-FQNi~3HJ2rIZWtynMmyxmXKKVv7k6SGK9zlHG-FFszqWrEeX8rtumFHcGlZUbMc~VayagaD3PIO2-D7WH5F30ZjPvw__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1757090442855-image.png?Expires=253370764800&Signature=GhYW3T2Y74DcUJripozEeE15zIO5~AOqnudMnjHk6A0L9OOgbfeqbwpUr3dWLWcmN-q1B9helYUZ~Scdr8rQmiHJI7ffNDi-K8B20HuOmv~Q4-JRiD7BCto5ksL1w~tGuOnW~naxtasKvOfyWMtU1hdPJOltJkiNMcMRdrS3ImXqb~TTrQa7Oq0yrWYcGnNZ-S7-iQW9D1Vj3WNIiygB5fd3yfp5Nx5p-BTZ3ns0tjBBOIAXYxkbCKwy5wK-FQNi~3HJ2rIZWtynMmyxmXKKVv7k6SGK9zlHG-FFszqWrEeX8rtumFHcGlZUbMc~VayagaD3PIO2-D7WH5F30ZjPvw__&Key-Pair-Id=K3NV4LZ47N8M46)
 
   
 You can create a test using one of the following methods:

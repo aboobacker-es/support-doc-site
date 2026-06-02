@@ -25,7 +25,7 @@ You can use various filters to search and view relevant reports. You can filter 
 
   4. On the left pane, you have the **Candidate Status  **filters, which allow you to filter the precise list of candidates based on your requirements.  
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1737351323781-image.png?Expires=253370764800&Signature=KCXTYcEubH7YyaWmNJ~9p4cKnb7UfYqJiJs2w268eYUKgu7DR8DWaZFM~~N7rgQSehX~oEfzGyac~b2zcDxZIqCdbcZbAqmSmpPpbo0cWNCp3bmMz~Jnw7I7nd6SWO1jMU22dCGpLEnrTbmEgzoBgl1YpYoYzahQgR5Z-Z4ao2DY2zO3yuHCB1jkn4RIDGUI7Wt21~zHXrZBc3N17ySJlCd-SnU~DUI6h3wubdmV8NBGreSD0QOBBMNOHpmpt1x1ChuFADBwxnySxwzCaicvWUA9oiLrg4y58Aoi5rwSUcv0idvldBhjG78ga7bptdtX1uZXvYrPlfrs96krghJBiQ__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1737351323781-image.png?Expires=253370764800&Signature=KCXTYcEubH7YyaWmNJ~9p4cKnb7UfYqJiJs2w268eYUKgu7DR8DWaZFM~~N7rgQSehX~oEfzGyac~b2zcDxZIqCdbcZbAqmSmpPpbo0cWNCp3bmMz~Jnw7I7nd6SWO1jMU22dCGpLEnrTbmEgzoBgl1YpYoYzahQgR5Z-Z4ao2DY2zO3yuHCB1jkn4RIDGUI7Wt21~zHXrZBc3N17ySJlCd-SnU~DUI6h3wubdmV8NBGreSD0QOBBMNOHpmpt1x1ChuFADBwxnySxwzCaicvWUA9oiLrg4y58Aoi5rwSUcv0idvldBhjG78ga7bptdtX1uZXvYrPlfrs96krghJBiQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 :::note
 The report list automatically refreshes to display the appropriate data when you enter or select any of the filters.
@@ -45,4 +45,4 @@ The available default filters are:
 
   * You can also add a separate filter by clicking the **Add Filter**  from the **Filters** section.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1737351656866-image.png?Expires=253370764800&Signature=TfsWVGFRYN2SAxiFBcEodwlaBE5CGnMhWjGN5c45-gogqAIz83BM9iLEV4IO~fGUMwvhyzVl~tveuqQophbS0TP6ljj2Rl92fEtCxP2YYnZ374Jtin09Sn1E5L8nwVua0IDiv~U6VDy0iTQrcTIsQk4EO1DiFHPL2WcKGCpJmPBkAHjKO0QvITSpRcjx-~ToDFW2G3k4GLuxhyHJnPk4FSLZFgGE2aBt5oocVVVkGZjoRe1V0~5ryIPDstP1SfBlaF2O6G1G9-B-p4Q1GsVxtO-sRxOm3TkPvFftnVu1M5BvFYg6Bixti4eLJ5v4sNvDrHJ3z6-dO-G44o6PSTXSXA__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1737351656866-image.png?Expires=253370764800&Signature=TfsWVGFRYN2SAxiFBcEodwlaBE5CGnMhWjGN5c45-gogqAIz83BM9iLEV4IO~fGUMwvhyzVl~tveuqQophbS0TP6ljj2Rl92fEtCxP2YYnZ374Jtin09Sn1E5L8nwVua0IDiv~U6VDy0iTQrcTIsQk4EO1DiFHPL2WcKGCpJmPBkAHjKO0QvITSpRcjx-~ToDFW2G3k4GLuxhyHJnPk4FSLZFgGE2aBt5oocVVVkGZjoRe1V0~5ryIPDstP1SfBlaF2O6G1G9-B-p4Q1GsVxtO-sRxOm3TkPvFftnVu1M5BvFYg6Bixti4eLJ5v4sNvDrHJ3z6-dO-G44o6PSTXSXA__&Key-Pair-Id=K3NV4LZ47N8M46)

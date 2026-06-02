@@ -87,13 +87,13 @@ Candidates will now enjoy the latest VSCode and JupyterLab IDE versions during a
 
   * The Explorer view in VSCode can now be moved to make more space for coding while solving problems. Some audio and video files can be previewed inside the IDE.
 
-![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046065375-?Expires=253370764800&Signature=TLrnojl6cl~Z~MLExDazXyrgXisvnESWdtRzNEGMmsrxTTOL4sGIt6OcbZURnb7fnRy-suHawdAnZ6ewajUKLrhuH4XsTk60xMEpQSGZzx~fC~I77MFCKlQNsvOFOcpnnzzjrPeNfoPPttDKWLKRwXqqSoJuKUEdau1fd0hyxSWf8N-cvZtnv4bOmfrQ~xVa0v6sXBaxBF6AThtqgO32Ozp780yLUhwtRTxQI-iJUXUJh7Nv8rhhWGBEHP28Hq-ADNiLxh8pCaxmh5OGfVywURzNXH-O63uew6LLNlxVNhhX~sZkx8QID~7gX57iZbZR6O~hIq59W6eDkJqa3PYOOw__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046065375-?Expires=253370764800&Signature=TLrnojl6cl~Z~MLExDazXyrgXisvnESWdtRzNEGMmsrxTTOL4sGIt6OcbZURnb7fnRy-suHawdAnZ6ewajUKLrhuH4XsTk60xMEpQSGZzx~fC~I77MFCKlQNsvOFOcpnnzzjrPeNfoPPttDKWLKRwXqqSoJuKUEdau1fd0hyxSWf8N-cvZtnv4bOmfrQ~xVa0v6sXBaxBF6AThtqgO32Ozp780yLUhwtRTxQI-iJUXUJh7Nv8rhhWGBEHP28Hq-ADNiLxh8pCaxmh5OGfVywURzNXH-O63uew6LLNlxVNhhX~sZkx8QID~7gX57iZbZR6O~hIq59W6eDkJqa3PYOOw__&Key-Pair-Id=K3NV4LZ47N8M46)
 
   * JupyterLab now includes a virtual scrollbar for notebooks in windowed mode, with an optional scrollbar, delineating the active cell and selected cells. This allows users to navigate and jump to specific cells with ease.
 
   * Candidates can now benefit from improved screen reader support with accessibility view, to ensure all users can navigate the editor and terminal effectively. 
 
-![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046066054-?Expires=253370764800&Signature=P5cdECIhZa5XgqWZeCLqqTzK5w0tgBVZfZJxxvHTanLT9dawsd3dv4M1rYq7pU~YiMTygN3N-EIZAjz3ZpWR~2CWLTq8YWwkNLHcPvmX1QL4jeiG7pMm54tDEVk8Q8~0CJkbYwyRyAptoZCSUOp9mYCCtt3HLfSGse6bm4cLjzO~qktazTF9uFsGktwrFIC1A~YlYQiMcNl09gXoNXIJiaJx~VgZTJJ6c-ifJfU86QirGrpxfTt3idgLll8NocSHARn14sOTq4eif3otRIXsHDxE9t4-PI65gW28SU1PkVM12ungWMF9s9X0vKZu9cxeYHbf5DpjsbkrbdYGgLb2Ng__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046066054-?Expires=253370764800&Signature=P5cdECIhZa5XgqWZeCLqqTzK5w0tgBVZfZJxxvHTanLT9dawsd3dv4M1rYq7pU~YiMTygN3N-EIZAjz3ZpWR~2CWLTq8YWwkNLHcPvmX1QL4jeiG7pMm54tDEVk8Q8~0CJkbYwyRyAptoZCSUOp9mYCCtt3HLfSGse6bm4cLjzO~qktazTF9uFsGktwrFIC1A~YlYQiMcNl09gXoNXIJiaJx~VgZTJJ6c-ifJfU86QirGrpxfTt3idgLll8NocSHARn14sOTq4eif3otRIXsHDxE9t4-PI65gW28SU1PkVM12ungWMF9s9X0vKZu9cxeYHbf5DpjsbkrbdYGgLb2Ng__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 All these improvements ensure that candidates have the latest and familiar tools while working on Fullstack, Frontend, Backend, and data science questions.
 
@@ -215,19 +215,19 @@ We have introduced 4 grid templates as below:
 
   1. A grid of videos or images that allows users to create custom sections to share additional information about their employees or their company.
 
-![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046071802-?Expires=253370764800&Signature=PDaBsU60N3Y1d-vGm2VyUMe~3d9cTMhFc7Bg~sBME7ca7LRoZzJM5fHI94wdO~BO5eaXtYPNDRdZtn8tG79C1A-FXbt0HJR7lemI8bt1qGgcoAQQ6P8UIYfTop9GKSiAea7A3F4JoMGHSAQxkbEPeRiCXWMp~abPsbUFMaeDzSFsavmqK-dyxPec0ufO0IRtcnNsA0Sy5eM45VvAf~GDs-eqLaDCf~is1hXa6KyNNJlLyVw6T60RwDLCqypN68Nqs27KtBDQabgtefdBRaW8fIdWnLYvATfdDp627MwFKebX0ARMu~j4rCkbxWi9wC89bsY2uQP8Myp1GfQUlMSfOw__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046071802-?Expires=253370764800&Signature=PDaBsU60N3Y1d-vGm2VyUMe~3d9cTMhFc7Bg~sBME7ca7LRoZzJM5fHI94wdO~BO5eaXtYPNDRdZtn8tG79C1A-FXbt0HJR7lemI8bt1qGgcoAQQ6P8UIYfTop9GKSiAea7A3F4JoMGHSAQxkbEPeRiCXWMp~abPsbUFMaeDzSFsavmqK-dyxPec0ufO0IRtcnNsA0Sy5eM45VvAf~GDs-eqLaDCf~is1hXa6KyNNJlLyVw6T60RwDLCqypN68Nqs27KtBDQabgtefdBRaW8fIdWnLYvATfdDp627MwFKebX0ARMu~j4rCkbxWi9wC89bsY2uQP8Myp1GfQUlMSfOw__&Key-Pair-Id=K3NV4LZ47N8M46)
 
   2. A grid of images with title and subtitle that allows users to create custom sections to share information about their leadership team or team members.
 
-![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046072255-?Expires=253370764800&Signature=Ac4rqDfTm3piSexCSL7v1~YFAPdiAo4rdHWu8iJ9l9WviBdxV6zsChqD0Zo0Y4EfC0tjU9oX0Xo86-ECQWOC5GxFGXdTFJOEBUlxtLwM2gAPssz15MVIbRfh4yyoaATLb3nlt5yINDc2j0mfbiCdvhQuuvABZoHBoHG2Iflx0dNTPCYTidBH6e~oGlgmBulzcRE1zi7VxiY4iloNTNfFTyCNJ7bs3jt~rrQsIfiPSEXYA-B6a8TxIAERdcnmobOkD19~z2uLut4J9B9TdWrzuVaJH529FXiiBGyktBddo2vpafkhoQwu70dF5j6e08Ikhg-eBPSnKJ-nRjphAX89Ig__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046072255-?Expires=253370764800&Signature=Ac4rqDfTm3piSexCSL7v1~YFAPdiAo4rdHWu8iJ9l9WviBdxV6zsChqD0Zo0Y4EfC0tjU9oX0Xo86-ECQWOC5GxFGXdTFJOEBUlxtLwM2gAPssz15MVIbRfh4yyoaATLb3nlt5yINDc2j0mfbiCdvhQuuvABZoHBoHG2Iflx0dNTPCYTidBH6e~oGlgmBulzcRE1zi7VxiY4iloNTNfFTyCNJ7bs3jt~rrQsIfiPSEXYA-B6a8TxIAERdcnmobOkD19~z2uLut4J9B9TdWrzuVaJH529FXiiBGyktBddo2vpafkhoQwu70dF5j6e08Ikhg-eBPSnKJ-nRjphAX89Ig__&Key-Pair-Id=K3NV4LZ47N8M46)
 
   3. A text-only grid with title and subtitle that allows users to create custom sections to share any important details that need to stand out.
 
-![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046072682-?Expires=253370764800&Signature=LNZkNlz9rhtN8SPatcwD7euAYjR9S0rjSFi5z3QhrHnJPsJ2s8URemumOLZWR9Fa3B42KJodhv5Q~eCARydOKjWSpQNKARhRb7QfOgQ~oZ6lc2oK1fcgurDt0GwRzicf92O6jjBtmFUjL2GLxCsIzs4h9P2otff7XS1~0e7gDZaCbSs9u6Fb4yDpsLwu2X0LnltBGO4gi68FnYXo9qZQFql-kViQyGp0FcpOlq1DdDSP3ruXD~7Ga7h0IpZK10vOoJQFzgkiPSK5am0-KsfX3-wbh1X1VXcHZOgvLA4X7g4DIY06Zqir0CiZeAWuxrFlhXVRPcaJr80uMSezFEIwmQ__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046072682-?Expires=253370764800&Signature=LNZkNlz9rhtN8SPatcwD7euAYjR9S0rjSFi5z3QhrHnJPsJ2s8URemumOLZWR9Fa3B42KJodhv5Q~eCARydOKjWSpQNKARhRb7QfOgQ~oZ6lc2oK1fcgurDt0GwRzicf92O6jjBtmFUjL2GLxCsIzs4h9P2otff7XS1~0e7gDZaCbSs9u6Fb4yDpsLwu2X0LnltBGO4gi68FnYXo9qZQFql-kViQyGp0FcpOlq1DdDSP3ruXD~7Ga7h0IpZK10vOoJQFzgkiPSK5am0-KsfX3-wbh1X1VXcHZOgvLA4X7g4DIY06Zqir0CiZeAWuxrFlhXVRPcaJr80uMSezFEIwmQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
   4. A title and image layout that allows users to showcase their prominent event banners.
 
-![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046073080-?Expires=253370764800&Signature=RZamGNsFZza1F2~ERdBd~6cPF0T9-MDDFL5cqubJpLITL860GEd5mXHffEGo~Vwz5u9ggAA7cuh2GoCOHvdUak4BY9~R9-2YblxlQUYv56IQvtjkvaLNne4xgZCCkMJ7DIMkNsc599Cl4GplgD84rkOydBQJw7j5FpvZesoOIW77U65hPqk0VO0JwpTamLO0CKPIFRLhrzIBZqTW~JNLxOl-~WQ87jMhNtp~oS6ArTLV-IRt~UWTJk3FGg048g1pLI2Kw3OMxQrW6XblXarlodMmMnpel9HEUYjDzPDer~8tFWQcqXKZsfrg2zsacnQ-LdPZ2Sykg0wCSDS9hZqAiw__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046073080-?Expires=253370764800&Signature=RZamGNsFZza1F2~ERdBd~6cPF0T9-MDDFL5cqubJpLITL860GEd5mXHffEGo~Vwz5u9ggAA7cuh2GoCOHvdUak4BY9~R9-2YblxlQUYv56IQvtjkvaLNne4xgZCCkMJ7DIMkNsc599Cl4GplgD84rkOydBQJw7j5FpvZesoOIW77U65hPqk0VO0JwpTamLO0CKPIFRLhrzIBZqTW~JNLxOl-~WQ87jMhNtp~oS6ArTLV-IRt~UWTJk3FGg048g1pLI2Kw3OMxQrW6XblXarlodMmMnpel9HEUYjDzPDer~8tFWQcqXKZsfrg2zsacnQ-LdPZ2Sykg0wCSDS9hZqAiw__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 Learn more here[📄 Setting up the Event Microsite](</docs/3147b674-5cbb-4bde-9528-7699bb64b1a7/articles/50800ac1-a072-45fe-8069-7d3cfd3f2162>)
 

@@ -27,7 +27,7 @@ The AI assistant supports:
 
   * On-demand execution of selected notebook cells
 
-![AI Assistant for Data Science Questions \(AI add-on\).gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776161637815-AIAssistantforDataScienceQuestions%2528AIadd-on%2529.gif?Expires=253370764800&Signature=o4Ba5B~WDa7EBgse1CfBf30YXQfh3xufYY0avdCqivX9oJHViJxQffT~QRpmb6FuI3nHqtFKzFDr6ZzL3GO0hHe0SLl0h4UtdO4yk~SyTsdiiHsoMZrrXQ4BALwlgLqLp19FJ7niytA-c1V1WOdPQx1snz4ifL2PbqkXhvhC0D1~YmEx4DizuHFPH37QJUATB8qVrt60fKvAkUCamUjbwd~6qhodbB~Tdd6n-yKCH~aegjGkNzusbViy~T3o9-lFQElP1aB~3Ow4-xio~~qZ~p~Adv7MHwHSNCnEB8MU3FsEc4w9W7Puk7L44mpMC8how4GHdIEGLqwJLdaYfC4V5g__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![AI Assistant for Data Science Questions \(AI add-on\).gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776161637815-AIAssistantforDataScienceQuestions%2528AIadd-on%2529.gif?Expires=253370764800&Signature=o4Ba5B~WDa7EBgse1CfBf30YXQfh3xufYY0avdCqivX9oJHViJxQffT~QRpmb6FuI3nHqtFKzFDr6ZzL3GO0hHe0SLl0h4UtdO4yk~SyTsdiiHsoMZrrXQ4BALwlgLqLp19FJ7niytA-c1V1WOdPQx1snz4ifL2PbqkXhvhC0D1~YmEx4DizuHFPH37QJUATB8qVrt60fKvAkUCamUjbwd~6qhodbB~Tdd6n-yKCH~aegjGkNzusbViy~T3o9-lFQElP1aB~3Ow4-xio~~qZ~p~Adv7MHwHSNCnEB8MU3FsEc4w9W7Puk7L44mpMC8how4GHdIEGLqwJLdaYfC4V5g__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 For more information, see [📄 AI-Assisted Tests](</articles/1152916770>)and [AI Assistant in Tests](<https://candidatesupport.hackerrank.com/articles/7634558376-ai-assistant-in-tests>).
 
@@ -181,15 +181,15 @@ Candidates now see confirmation dialogs at key steps during a test to prevent ac
 
   * **Incomplete submission check:** A confirmation dialog highlights unanswered sections before submitting a test.
 
-![Incomplete submission check.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776162325596-Incompletesubmissioncheck.gif?Expires=253370764800&Signature=IdhiVXjjGN0p-2tfVH9ulhAAk9prM6Mctenjv9SfzjaxhOO~61XtiCY-rDfjCi1SYxiEVtLnKboYelL1HVDvabvzye5WTcxto6NF3CrJ-rPkWBKGW9AJzzAR4Nl6S9-q~H~nxmaWZlMT60OlMv~fAoQDyXZPhWuQj6h3K6pp~R2-59GRLwsV7ZZbr9bgALSdibapwIwrq4Ft~cb1J3Gu7roS2SLNZitQbf3lu~wtCSs575cAsuTtZSaG-hs5jhonRoqBBdR85LGNFicbYwZQFXuhQc2C6SJGndZqgazq184By5hYQWlQMw9KoLS8zGQkgbaPz5Q4Jj6tGpE1LR2PQQ__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![Incomplete submission check.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776162325596-Incompletesubmissioncheck.gif?Expires=253370764800&Signature=IdhiVXjjGN0p-2tfVH9ulhAAk9prM6Mctenjv9SfzjaxhOO~61XtiCY-rDfjCi1SYxiEVtLnKboYelL1HVDvabvzye5WTcxto6NF3CrJ-rPkWBKGW9AJzzAR4Nl6S9-q~H~nxmaWZlMT60OlMv~fAoQDyXZPhWuQj6h3K6pp~R2-59GRLwsV7ZZbr9bgALSdibapwIwrq4Ft~cb1J3Gu7roS2SLNZitQbf3lu~wtCSs575cAsuTtZSaG-hs5jhonRoqBBdR85LGNFicbYwZQFXuhQc2C6SJGndZqgazq184By5hYQWlQMw9KoLS8zGQkgbaPz5Q4Jj6tGpE1LR2PQQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
   * **Section change confirmation:** A confirmation dialog appears when moving to a new section that cannot be revisited.
 
-![Section change confirmation.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776162353131-Sectionchangeconfirmation.gif?Expires=253370764800&Signature=Y0W1-I48yJ3RHPQYSMnQwGv189zif0ZQLWj7NrqNaRiq5XpJud9dxfkmYN~GEfxYn1q~eWB757Xmzeh~As7ZQTAW0CRTzS0vHBSkagULiL1ZTJgeFxhX4T4hoJYDriWXO-rKJUyUnVTb~FpG7LtCZArL9vkU~pFwKzL6IwOx2z8PHZ-q0DEuqKAbIf~9m4QFIV9Yw78amkwsYwGhOnfiXtZoUnAQvEFkS010svw60l7p7ZPcn15bLTYoNmk5QvKHclBOrXURBtI2k5lc-AW~w98HJJ0~f9iclAHE3JhmeNl6lZlny8txThdLi-g7cNO03YiJwGAHDsgvjLUdgmh~7Q__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![Section change confirmation.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776162353131-Sectionchangeconfirmation.gif?Expires=253370764800&Signature=Y0W1-I48yJ3RHPQYSMnQwGv189zif0ZQLWj7NrqNaRiq5XpJud9dxfkmYN~GEfxYn1q~eWB757Xmzeh~As7ZQTAW0CRTzS0vHBSkagULiL1ZTJgeFxhX4T4hoJYDriWXO-rKJUyUnVTb~FpG7LtCZArL9vkU~pFwKzL6IwOx2z8PHZ-q0DEuqKAbIf~9m4QFIV9Yw78amkwsYwGhOnfiXtZoUnAQvEFkS010svw60l7p7ZPcn15bLTYoNmk5QvKHclBOrXURBtI2k5lc-AW~w98HJJ0~f9iclAHE3JhmeNl6lZlny8txThdLi-g7cNO03YiJwGAHDsgvjLUdgmh~7Q__&Key-Pair-Id=K3NV4LZ47N8M46)
 
   * **Final submission confirmation:** A confirmation dialog ensures candidates understand that the test cannot be modified after submission.
 
-![Final submission confirmation.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776162379996-Finalsubmissionconfirmation.gif?Expires=253370764800&Signature=lOGsU64HQLL9Of75yq7Cc4sTSs7qtjPSyjH7lxrrppKCc7roffIfbiYbfePQ6U1x3s8AxRhtQvu7WY6F6uSB3ir23y0DQmjyVtb4jO8Hp2uSh13fBNoWp3lHgG3nNFDXnEspUfE1AkGmBOQ2iLGieYyzXTCoDFFRSArlOFN84h8qhtkdhH-WB6g3U8r8dG4t~MeEcZYr7vqbjjfNRnsTEaSVrBsH2BZAiGKZjOsYWuJuuzsKzCzsscjjnlTWoeq8T6TZr8vjtW0nn8LazmIIKX-fuaIOHNcW7Q0sA5RDDvPSqlDt1V0Li8QMKVBsccxky4Pda59YFySREEVipxzJew__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![Final submission confirmation.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776162379996-Finalsubmissionconfirmation.gif?Expires=253370764800&Signature=lOGsU64HQLL9Of75yq7Cc4sTSs7qtjPSyjH7lxrrppKCc7roffIfbiYbfePQ6U1x3s8AxRhtQvu7WY6F6uSB3ir23y0DQmjyVtb4jO8Hp2uSh13fBNoWp3lHgG3nNFDXnEspUfE1AkGmBOQ2iLGieYyzXTCoDFFRSArlOFN84h8qhtkdhH-WB6g3U8r8dG4t~MeEcZYr7vqbjjfNRnsTEaSVrBsH2BZAiGKZjOsYWuJuuzsKzCzsscjjnlTWoeq8T6TZr8vjtW0nn8LazmIIKX-fuaIOHNcW7Q0sA5RDDvPSqlDt1V0Li8QMKVBsccxky4Pda59YFySREEVipxzJew__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 #### Time Accommodation Visibility on Test Landing Page
 

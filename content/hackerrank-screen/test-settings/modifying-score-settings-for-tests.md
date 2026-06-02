@@ -25,7 +25,7 @@ To modify evaluation settings:
 
   4. Go to **Settings > Evaluation.**  
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1753694266247-image.png?Expires=253370764800&Signature=aN4D7t3so567f7~ZadXN80P4MfIus3SdLxH~Rj1aGfpIVmD0lO5iCCHZT4yX-sKy~atJkp0lGoOoaCHCC176X8xRMPl2W5BCGoEWnG5soc08~qZrq9jZt8W6s1ICd1YHtBNkeI7XqEg-k-1UmrsK3mAS~YH4LLzdzIbFy0R7e1Dp~kPPJI4roy9Ugi7Qd8iO-yofFW7X78kwcGjRKHwKfaaJjtR9XG3OCsjIY7PpAxshvQCbmhtCBbDcPaLTN60-FFor4Lpcrz5AulFo-gGUZI6lh2SvV19m46nk-et7ok17M1NR6aFq1G-LEi3w9PRss4h0m-NhQo56LOfHyG352g__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1753694266247-image.png?Expires=253370764800&Signature=aN4D7t3so567f7~ZadXN80P4MfIus3SdLxH~Rj1aGfpIVmD0lO5iCCHZT4yX-sKy~atJkp0lGoOoaCHCC176X8xRMPl2W5BCGoEWnG5soc08~qZrq9jZt8W6s1ICd1YHtBNkeI7XqEg-k-1UmrsK3mAS~YH4LLzdzIbFy0R7e1Dp~kPPJI4roy9Ugi7Qd8iO-yofFW7X78kwcGjRKHwKfaaJjtR9XG3OCsjIY7PpAxshvQCbmhtCBbDcPaLTN60-FFor4Lpcrz5AulFo-gGUZI6lh2SvV19m46nk-et7ok17M1NR6aFq1G-LEi3w9PRss4h0m-NhQo56LOfHyG352g__&Key-Pair-Id=K3NV4LZ47N8M46)
 
   
 In the **Evaluation** section, you can update the following:

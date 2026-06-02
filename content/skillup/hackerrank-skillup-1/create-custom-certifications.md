@@ -21,10 +21,10 @@ To create custom certifications:
 
   2. Go to **Certify > Manage Custom Certifications**.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776693111699-image.png?Expires=253370764800&Signature=BgJ0aVe6i~NRO7EhU9pOXLAUy4xX5LaEWVwM-hYBro4tHoQ2VM2kYAzNsOXtmFfa3Ux2WGbVTZegvdL-l~bs7KE4Wl7Rjc6cL-qYeZ64xdALXcXT097i0plj5u7upze-~VRjGLl6rHClR-0f3DbvbgMeRIw8jrd-Z3pAusPoOAtwe940hiKbLpjnzZSKSqzfV4~bHSTZ5BNn8tSGXhAJps5ElGEQFTcZvjdbQFpX3I~dXzb-TS2mveAXPM4x55NnKI-hjVUZGuyt4pJrmvYjQi3e8Neb2h3WJkGzG3WSwfDEC9Lm2p7dD3qJy-MsCXWvBb6TyfqO5MCFwdIT4wLyTQ__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776693111699-image.png?Expires=253370764800&Signature=BgJ0aVe6i~NRO7EhU9pOXLAUy4xX5LaEWVwM-hYBro4tHoQ2VM2kYAzNsOXtmFfa3Ux2WGbVTZegvdL-l~bs7KE4Wl7Rjc6cL-qYeZ64xdALXcXT097i0plj5u7upze-~VRjGLl6rHClR-0f3DbvbgMeRIw8jrd-Z3pAusPoOAtwe940hiKbLpjnzZSKSqzfV4~bHSTZ5BNn8tSGXhAJps5ElGEQFTcZvjdbQFpX3I~dXzb-TS2mveAXPM4x55NnKI-hjVUZGuyt4pJrmvYjQi3e8Neb2h3WJkGzG3WSwfDEC9Lm2p7dD3qJy-MsCXWvBb6TyfqO5MCFwdIT4wLyTQ__&Key-Pair-Id=K3NV4LZ47N8M46)
   3. Click **New Custom Certification**.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776693130913-image.png?Expires=253370764800&Signature=CKvCdjXtuC7k6sLOWAY4TjuQ01uFsZGpoq4ZLwWGCm2TBe1i7sQYImckDJMuuesClJZlKJTjvmlkVP0JXrjKUT7olNb0qt5qOU1ceBG9vtzx~puPI918-7jM34QlXVnSbU9kuvRzpP2AGTDAwENi1Gq7XpLKloLNpOc-cmVmYia3-dUlsvjEgjCcgYannQ0xhVASAnWCJcIMZEV-lu-dGe3kasRelSfOEekzcbBaQGdbJoMSJ0lb17GBKweyhga0gUir69um8VDFNZL9PURaNP84e3pxvKd-FiDdj0OUk3etuKBxVo2D4F1g6DZ147P5ANGRtOep158t9z64Vdl48Q__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776693130913-image.png?Expires=253370764800&Signature=CKvCdjXtuC7k6sLOWAY4TjuQ01uFsZGpoq4ZLwWGCm2TBe1i7sQYImckDJMuuesClJZlKJTjvmlkVP0JXrjKUT7olNb0qt5qOU1ceBG9vtzx~puPI918-7jM34QlXVnSbU9kuvRzpP2AGTDAwENi1Gq7XpLKloLNpOc-cmVmYia3-dUlsvjEgjCcgYannQ0xhVASAnWCJcIMZEV-lu-dGe3kasRelSfOEekzcbBaQGdbJoMSJ0lb17GBKweyhga0gUir69um8VDFNZL9PURaNP84e3pxvKd-FiDdj0OUk3etuKBxVo2D4F1g6DZ147P5ANGRtOep158t9z64Vdl48Q__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 The custom certification creation workflow opens with the following three steps.
 
@@ -42,7 +42,7 @@ The custom certification creation workflow opens with the following three steps.
 
   1. Search and select a test under the **Linked HackerRank for Work test** field.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776693200334-image.png?Expires=253370764800&Signature=ntvc1E~0gKRvC6v0LhWsb2EpitQyQOZOS-CluVhtCXDqWiDJU-larN3NpS69m7U7JpweOSQ4caK3cP3EhKKqI~xKFeJUqGa7tRk-YrHfZS0fYHB9oaAmqbWtK-1h2KDetbycaqZHwI59-ssItyKT6BIWWaSc7ezQp~IwkeY-mJE2Nmzymcuq0GzKEcZWWmIK9NKRFcxFLKl9cmnh2C9R8gKBdeGq9Bq7k4v3q8yL3g9hpxT5O3e93r-lAOtu3fYV2Mq2xD697GPrJF001OCYU8oFlgDY19NzxqXhXCdOhKdNhp5bQYwXUl2kQGNBxVCnhl9ajrpEXmi3ksee87wX2g__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776693200334-image.png?Expires=253370764800&Signature=ntvc1E~0gKRvC6v0LhWsb2EpitQyQOZOS-CluVhtCXDqWiDJU-larN3NpS69m7U7JpweOSQ4caK3cP3EhKKqI~xKFeJUqGa7tRk-YrHfZS0fYHB9oaAmqbWtK-1h2KDetbycaqZHwI59-ssItyKT6BIWWaSc7ezQp~IwkeY-mJE2Nmzymcuq0GzKEcZWWmIK9NKRFcxFLKl9cmnh2C9R8gKBdeGq9Bq7k4v3q8yL3g9hpxT5O3e93r-lAOtu3fYV2Mq2xD697GPrJF001OCYU8oFlgDY19NzxqXhXCdOhKdNhp5bQYwXUl2kQGNBxVCnhl9ajrpEXmi3ksee87wX2g__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 :::note
 * You can link only one test to a certification.
@@ -65,4 +65,4 @@ The custom certification creation workflow opens with the following three steps.
 
   3. Click **Create custom certification** in the confirmation dialog. A success message appears.
 
-![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776693055619-pasted-image-4.png?Expires=253370764800&Signature=CZpjqAhUbg4pgI5O~6lTcciAxrcLiwQLMy72GbqyyQ051Z8BV9Xvuld~Ko7zLVbhlDAj-TEVKX2BF469nHJDGnERuvZRdGlZO~gR04rqJWH2zKjh1Oi07fs5jtWul1N~zHlIIcew7vUD~ZhHU-rsGQwyQARv2An0NwaN24fImaq1vXcPGvXgZw9-P~o78Ir5yBFnVl~76UkYd8VoUtmLG-40jMcR8ruT6Y2I4eHmkBWF3oU6WRVeN6Okwy4gOU78xXmx-NNhRqayYhpYe11h3ff86zcxC9elIOB--x9KmtWMe9ZSE6TOtlUGXshy26b7dV91KF~iiy9efWAn6GU80A__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776693055619-pasted-image-4.png?Expires=253370764800&Signature=CZpjqAhUbg4pgI5O~6lTcciAxrcLiwQLMy72GbqyyQ051Z8BV9Xvuld~Ko7zLVbhlDAj-TEVKX2BF469nHJDGnERuvZRdGlZO~gR04rqJWH2zKjh1Oi07fs5jtWul1N~zHlIIcew7vUD~ZhHU-rsGQwyQARv2An0NwaN24fImaq1vXcPGvXgZw9-P~o78Ir5yBFnVl~76UkYd8VoUtmLG-40jMcR8ruT6Y2I4eHmkBWF3oU6WRVeN6Okwy4gOU78xXmx-NNhRqayYhpYe11h3ff86zcxC9elIOB--x9KmtWMe9ZSE6TOtlUGXshy26b7dV91KF~iiy9efWAn6GU80A__&Key-Pair-Id=K3NV4LZ47N8M46)

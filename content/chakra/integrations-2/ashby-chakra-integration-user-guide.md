@@ -27,7 +27,7 @@ To add an AI Interviewer activity to a stage in the job interview plan:
 
   2. Go to the **Jobs** tab.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776775404766-image.png?Expires=253370764800&Signature=uKRYLD40o-RZ5rnZTDLo44XgOoPvMf5HbpeFPSzWutJyGmPZB76fK7rRV-AFshN~TPOaMBCxoIVOkP6t9ihu~iMYOjO79oYSMKS5kJ69P2C7iMbYMnLXgPhwazoWNhm3OjZBo4nJn43HPX1WX~yfUselG1vIs412lTCIUS45mh8qIqGXleFIHh5dhpTPw9ecnzf4SoaUq~su7Hq0laooes0eFcmA3Hu73iXfoWOVDY369s17xUpVdimFVZoQkKCCBcz9K0x5qleA1oz0YN0Rm61yYEBArRyWlZ1p~-FJ4qO2Vk2j2WM9YH86wm7TJ0IWAaMPA8Y6yoI-kRN7lmKVvA__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776775404766-image.png?Expires=253370764800&Signature=uKRYLD40o-RZ5rnZTDLo44XgOoPvMf5HbpeFPSzWutJyGmPZB76fK7rRV-AFshN~TPOaMBCxoIVOkP6t9ihu~iMYOjO79oYSMKS5kJ69P2C7iMbYMnLXgPhwazoWNhm3OjZBo4nJn43HPX1WX~yfUselG1vIs412lTCIUS45mh8qIqGXleFIHh5dhpTPw9ecnzf4SoaUq~su7Hq0laooes0eFcmA3Hu73iXfoWOVDY369s17xUpVdimFVZoQkKCCBcz9K0x5qleA1oz0YN0Rm61yYEBArRyWlZ1p~-FJ4qO2Vk2j2WM9YH86wm7TJ0IWAaMPA8Y6yoI-kRN7lmKVvA__&Key-Pair-Id=K3NV4LZ47N8M46)
   3. Select the job you want to update.
 
   4. Go to the **Interview Plan.**
@@ -38,15 +38,15 @@ To add an AI Interviewer activity to a stage in the job interview plan:
 
   7. Select **Add Activity** from the drop-down menu.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776775763408-image.png?Expires=253370764800&Signature=sShh07jeuq8zRWDAjUzBPnqNX71BIwluNbukmCd4p18Tag10D3hHmH~Dk7ltZPGMHRIBTrT0xeKJYk54Cj6hOFwxjpE09IMKCO8mMHpYshUl-feujhSDAFvcicomwzQvXUc~35CyxENlD3b9MJTIvYiwFxWYRhZ-Eyer7BQucoZM-ygsOYX1UMIZMCTFcIewY0uyDYBwE1zs2XM~PFBzbobngrtIcdAerE6nItojh-OBIDNxipeh3bWdWRWT-IPchdxGWdr1N~FwNVCEV82wTcHISqm8npafLnZABzMG7VlrTMxmX6n5wTw9~yrNGPYfhzbUOtjoOww2cUs5xbpfTw__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776775763408-image.png?Expires=253370764800&Signature=sShh07jeuq8zRWDAjUzBPnqNX71BIwluNbukmCd4p18Tag10D3hHmH~Dk7ltZPGMHRIBTrT0xeKJYk54Cj6hOFwxjpE09IMKCO8mMHpYshUl-feujhSDAFvcicomwzQvXUc~35CyxENlD3b9MJTIvYiwFxWYRhZ-Eyer7BQucoZM-ygsOYX1UMIZMCTFcIewY0uyDYBwE1zs2XM~PFBzbobngrtIcdAerE6nItojh-OBIDNxipeh3bWdWRWT-IPchdxGWdr1N~FwNVCEV82wTcHISqm8npafLnZABzMG7VlrTMxmX6n5wTw9~yrNGPYfhzbUOtjoOww2cUs5xbpfTw__&Key-Pair-Id=K3NV4LZ47N8M46)
   8. In the **Add Activity** dialog, scroll down to **Integrations**.
 
   9. Select **HackerRank.**
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776775898296-image.png?Expires=253370764800&Signature=XnxDp6p9OgNnohp3IL0Efw0RT5-PwHlZirTaoIxaWR7VYdK5SaNoviFwyjw399aSA8uXFHt1R2~yU0q-4bTN5GipeKomepn-qmSEI13aYy4rTNrO2ycvGR0fzxlbTJmnZ8apRiashxTGagz-K8bYUDDs-caDjUHdP6~crcCSxwvTmms111rOWPOqa-dR2RTMXrOHYddqr3Ip4tDWCfkjaNr55pSubs6uVrrioC7if0M5dza5oHpMoIIBpx~EMcIc9b09AXopJiEWGhW95BXnbttS97lQ-y20lIu176~F42b2oAS1~x7bEV9S8QFR56Abmzl5HOn5elD248UdOsyUyA__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776775898296-image.png?Expires=253370764800&Signature=XnxDp6p9OgNnohp3IL0Efw0RT5-PwHlZirTaoIxaWR7VYdK5SaNoviFwyjw399aSA8uXFHt1R2~yU0q-4bTN5GipeKomepn-qmSEI13aYy4rTNrO2ycvGR0fzxlbTJmnZ8apRiashxTGagz-K8bYUDDs-caDjUHdP6~crcCSxwvTmms111rOWPOqa-dR2RTMXrOHYddqr3Ip4tDWCfkjaNr55pSubs6uVrrioC7if0M5dza5oHpMoIIBpx~EMcIc9b09AXopJiEWGhW95BXnbttS97lQ-y20lIu176~F42b2oAS1~x7bEV9S8QFR56Abmzl5HOn5elD248UdOsyUyA__&Key-Pair-Id=K3NV4LZ47N8M46)
   10. In the **Add Assessment Activity** dialog, select the AI interviewer from the **Assessment Type** drop-down.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776781791616-image.png?Expires=253370764800&Signature=sm6ch6M8P1JJ6rsIliXKdy9Zv76QaChac3ZxIRrubC0WlMHkP0~DVUfVy2UZbx4k45ir9kworkjVIqe50Op~SDoirqfhPTO2qoiUJ8kYXINkIAVgWJ~g7EX5jHXPDjdSXcOwCLbUSDvUgcztCGsnfOn11GtdczkVhsd4o9KrpWiStWGSO7U4lQM8rXsFrE8mv0Eb2sLlHN2C-4gZvB1HueGg7mJr2i-DNS5aA3yx1taIuUCSqEX7SYBehPdqtbqk0P5NX9q8BZ59n0CyQFpuWN18CO1sbO1ef6NjRp5IQZbL6U3Gk~k0tvzqXVvLayJlu2gDzSTjt2TOCNumBSXg4w__&Key-Pair-Id=K3NV4LZ47N8M46)
+      ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776781791616-image.png?Expires=253370764800&Signature=sm6ch6M8P1JJ6rsIliXKdy9Zv76QaChac3ZxIRrubC0WlMHkP0~DVUfVy2UZbx4k45ir9kworkjVIqe50Op~SDoirqfhPTO2qoiUJ8kYXINkIAVgWJ~g7EX5jHXPDjdSXcOwCLbUSDvUgcztCGsnfOn11GtdczkVhsd4o9KrpWiStWGSO7U4lQM8rXsFrE8mv0Eb2sLlHN2C-4gZvB1HueGg7mJr2i-DNS5aA3yx1taIuUCSqEX7SYBehPdqtbqk0P5NX9q8BZ59n0CyQFpuWN18CO1sbO1ef6NjRp5IQZbL6U3Gk~k0tvzqXVvLayJlu2gDzSTjt2TOCNumBSXg4w__&Key-Pair-Id=K3NV4LZ47N8M46)
   11. Click **Add Activity**.
 
 Ashby adds the AI Interviewer activity to the selected stage.
@@ -65,7 +65,7 @@ To schedule an AI interview in Ashby:
 
   3. Click **Change Stage.**
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776786629257-image.png?Expires=253370764800&Signature=ri1h-4yBEFXZtSqUYaBwfmukkn~yROLzu1S4YnXOEjyfajG8lBLN9SEH2lG3DSujCiDVFuz0CVefODGmDzQ6QMvQmkLID4kvn4gfqtr8ldmR-XbqMuIhRTAj9r2BEpaTINbU015-YKRVyE~dzyeqiyYMcJMgxPFol9ZaJAxmJu5BjwB5ABzkgOH8DhF-8ZEMLDsQQv3JPgswjaLwwkhj0YZrX3DL7DRKJlmkz-2W1Y-Lk005uBwd4ufzh9HMetQoOo0eWaonOalyM-oLGj1zZHgaGid6W7Gyhp7Tj8ejAymwbSqsCLq02tRzFp2~BeB5dlsNG-hj4Qwwy29-SajpsA__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776786629257-image.png?Expires=253370764800&Signature=ri1h-4yBEFXZtSqUYaBwfmukkn~yROLzu1S4YnXOEjyfajG8lBLN9SEH2lG3DSujCiDVFuz0CVefODGmDzQ6QMvQmkLID4kvn4gfqtr8ldmR-XbqMuIhRTAj9r2BEpaTINbU015-YKRVyE~dzyeqiyYMcJMgxPFol9ZaJAxmJu5BjwB5ABzkgOH8DhF-8ZEMLDsQQv3JPgswjaLwwkhj0YZrX3DL7DRKJlmkz-2W1Y-Lk005uBwd4ufzh9HMetQoOo0eWaonOalyM-oLGj1zZHgaGid6W7Gyhp7Tj8ejAymwbSqsCLq02tRzFp2~BeB5dlsNG-hj4Qwwy29-SajpsA__&Key-Pair-Id=K3NV4LZ47N8M46)
   4. Select the stage where you added the AI interviewer activity from the drop-down.
 
 Ashby sends the candidate an email with the AI interview link.
@@ -88,7 +88,7 @@ To view the interview results in Ashby:
 
   3. Select the stage where the candidate completed the AI interview to view following details:
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776786365428-image.png?Expires=253370764800&Signature=d-Lvk3a2etC~JJ6l8t666suE1ZJDwn7iuwfab8GakcPtFq7DUonpNiURdNxQzcwGzdqetS9U8-ZKUhnSpm7ej3UL0NSWfWpc2WqAInQanMYZNblOqn7qrI40AFZXvrwsWs4aOIs-rCZrgTdET9XwFLhqHKpEHIc3VDTphdWRD4R1gKcr6RkdcsSPudqEIQuDgRU4NSVXcE4YZ-QqSArAc~4yu~fXxzlUQjxtfdcWv0K4pFD27NLkUp3VPbrxm713TR24yJLShCUnAXtXjomKk3v3p3gc4t6pmxGr0SoSuNy4agcsV2Be-PUTqg9ojYLC4e7oReOcTwXw4TOnI3s3ug__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776786365428-image.png?Expires=253370764800&Signature=d-Lvk3a2etC~JJ6l8t666suE1ZJDwn7iuwfab8GakcPtFq7DUonpNiURdNxQzcwGzdqetS9U8-ZKUhnSpm7ej3UL0NSWfWpc2WqAInQanMYZNblOqn7qrI40AFZXvrwsWs4aOIs-rCZrgTdET9XwFLhqHKpEHIc3VDTphdWRD4R1gKcr6RkdcsSPudqEIQuDgRU4NSVXcE4YZ-QqSArAc~4yu~fXxzlUQjxtfdcWv0K4pFD27NLkUp3VPbrxm713TR24yJLShCUnAXtXjomKk3v3p3gc4t6pmxGr0SoSuNy4agcsV2Be-PUTqg9ojYLC4e7oReOcTwXw4TOnI3s3ug__&Key-Pair-Id=K3NV4LZ47N8M46)
      * **Status:** The status of the assessment.
 
      * **Finished:** Date and time when the candidate completed the assessment.

@@ -31,7 +31,7 @@ You can configure the following options in the **Interview Settings** section:
 
   * **Filter Interview Questions Library:** Use tag selection to control which questions appear during interviews. If you leave the selection empty, all questions appear.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760087516147-image.png?Expires=253370764800&Signature=qTLtASaP1DUxi-DnQdELFY9HriF36XdDkBHyCRxlfp0nT5B4jfsoki05bX2RBxxLGJLC~ryXBdvkofS5ZbzmoXbQ~dXxjD~iEtyJJD9PR9MaIVEdicgQsBi11reDQVgBexuOJdwtUXL2Wnx9Qc~MUFlz93-9bJKKB0yye2miE8lf6Mf8nERCSQBB79I5gc-rifztlf-sDObo2G7Spvk0HmBNP3L8IFMFZSRAnKSY7DCkwjXcVlEnmT7wIVLXBxerjzBKKfDsAl8mBOpmj5hwn5~WfrF47zyRs~T0-c0ob2YUlVoQPvzM~Y1r6aFZXrCOcfkWyK9lq0~CabATMtiz0A__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760087516147-image.png?Expires=253370764800&Signature=qTLtASaP1DUxi-DnQdELFY9HriF36XdDkBHyCRxlfp0nT5B4jfsoki05bX2RBxxLGJLC~ryXBdvkofS5ZbzmoXbQ~dXxjD~iEtyJJD9PR9MaIVEdicgQsBi11reDQVgBexuOJdwtUXL2Wnx9Qc~MUFlz93-9bJKKB0yye2miE8lf6Mf8nERCSQBB79I5gc-rifztlf-sDObo2G7Spvk0HmBNP3L8IFMFZSRAnKSY7DCkwjXcVlEnmT7wIVLXBxerjzBKKfDsAl8mBOpmj5hwn5~WfrF47zyRs~T0-c0ob2YUlVoQPvzM~Y1r6aFZXrCOcfkWyK9lq0~CabATMtiz0A__&Key-Pair-Id=K3NV4LZ47N8M46)
   * **Interview Guidelines:** Customize or replace HackerRank’s standard interview guidelines that candidates view before an interview.   
 Admins can configure company-specific guidelines with rich text formatting options such as bold, bullets, and hyperlinks. Updated guidelines appear instantly on the candidate’s onboarding page.
 
@@ -56,13 +56,13 @@ By default, the virtual lobby will not be enabled for your account.
 
   * **HackerRank Built-in A/V:** Interviewers and candidates can use HackerRank’s built-in audio and video during interviews. This option is enabled by default. You can disable this option if you use external communication tools such as Zoom or Microsoft Teams.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776344219150-image.png?Expires=253370764800&Signature=bFZoqZyOWl4avT5xvQgaFHN0Wh63D2quNX0ioAN3SO4Y6tany00h9V9QCc6Blk0HGgydBG6KmaqAbgE1sB5OhMTiN~3ujoLzuoyNw-WHg4uWaKxhyR9lRYRbZEswM10dC6wEuK8w2uFsDqqz63t9uhmu1N~GjQlMGN6o9DE2VCRJ6PipvjIMsG1UiCgEe4oS4REaJnO3EXcNwNz-bhhQIujBFkEC1K8my6qoDbdreFRD7sYriXgfAjkBzmE7kkFWaOYyFiQKc4h4aBEAr0D4nzYVrwS9DMgsgWsNEd~AKECrOwEEWhwP2uKfQ8xKivzu-maRTXWT~35KYtJPOLt-aQ__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776344219150-image.png?Expires=253370764800&Signature=bFZoqZyOWl4avT5xvQgaFHN0Wh63D2quNX0ioAN3SO4Y6tany00h9V9QCc6Blk0HGgydBG6KmaqAbgE1sB5OhMTiN~3ujoLzuoyNw-WHg4uWaKxhyR9lRYRbZEswM10dC6wEuK8w2uFsDqqz63t9uhmu1N~GjQlMGN6o9DE2VCRJ6PipvjIMsG1UiCgEe4oS4REaJnO3EXcNwNz-bhhQIujBFkEC1K8my6qoDbdreFRD7sYriXgfAjkBzmE7kkFWaOYyFiQKc4h4aBEAr0D4nzYVrwS9DMgsgWsNEd~AKECrOwEEWhwP2uKfQ8xKivzu-maRTXWT~35KYtJPOLt-aQ__&Key-Pair-Id=K3NV4LZ47N8M46)
   * **Automatic Tab Locking and Hiding:** Automatically locks tabs that interviewers add to the interview and hides them from candidates until unlocked. For more information, see [📄 Hide Locked Tabs in Interviews](</articles/2284202564>).
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776345401653-image.png?Expires=253370764800&Signature=s6cS1r-YNyFLWpX~UruHgfJtzoYgshMbGgOLK1xIpZ62BTURUEUxXe5dlH4bQgmFv8I-NFM7DrxM0Ekky3CYRr0xwWkbzE8~2Gtiav0qpNdzxNnZVJAuqcusptFOTqdbkKLpiBVwXOC5~vbHt4Y8VLsH7elTlwAE5e3Q0j~2P79aIthsKUQ3DY6CiZH34IQ0MrQ7jPFrynYCrzetxK2WdhFIV-37vJI8wdmeMkye4lv4N-fVu4eYYVFsxAo6s4sBLNuN6TIpncWX7lqiOwOHCIcBoGpPfOTFlp36ZnuhDim1y7kh7sl8vV6eOhgFBtTlkjY5D-t93PBPjUPk0exv7w__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776345401653-image.png?Expires=253370764800&Signature=s6cS1r-YNyFLWpX~UruHgfJtzoYgshMbGgOLK1xIpZ62BTURUEUxXe5dlH4bQgmFv8I-NFM7DrxM0Ekky3CYRr0xwWkbzE8~2Gtiav0qpNdzxNnZVJAuqcusptFOTqdbkKLpiBVwXOC5~vbHt4Y8VLsH7elTlwAE5e3Q0j~2P79aIthsKUQ3DY6CiZH34IQ0MrQ7jPFrynYCrzetxK2WdhFIV-37vJI8wdmeMkye4lv4N-fVu4eYYVFsxAo6s4sBLNuN6TIpncWX7lqiOwOHCIcBoGpPfOTFlp36ZnuhDim1y7kh7sl8vV6eOhgFBtTlkjY5D-t93PBPjUPk0exv7w__&Key-Pair-Id=K3NV4LZ47N8M46)
   * **Interview Integrity Signals:** The **Interview Integrity Signals** feature provides real-time alerts**** for suspicious activity during interviews. The Screen-to-Interview Identity Match**** verifies that the candidate who completed the screening test is the same individual attending the interview. For more information, see [📄 Interview Integrity Signals](</articles/5161582600>) and [📄 Screen-to-Interview Identity Match](</articles/8605077096>).
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776345322393-image.png?Expires=253370764800&Signature=so4-q53SLNGujaWKW25yNyNHzmrP7IdmiPA2BJuojRto-8Cv8QQRWTiXY9873H8W29K6wnNd0WgN4WbI3iXSh74Unym3Ddk1U6jKnghcnhFAOt62P8EMY6FZRuFnI0JN~4x6j0dhJuShyezX5lp02LJax~ZUjZqJiDw3cJVjJa5ffvlS~WW3cBbNReY~XLsA3zFWIwZbcaoeieLzheJkV9aGZKlJRQ4Vz4utLEOYKAEpZiJliUB4lG2h8Lbp40u8OpYY-5ajWg17qqRnDiFOfKJS2miaDHdJcQbL334TL5DEuoFpf5vWGHklNCyIdXJHpoacRsVzPPDYSDbuJxK2VA__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776345322393-image.png?Expires=253370764800&Signature=so4-q53SLNGujaWKW25yNyNHzmrP7IdmiPA2BJuojRto-8Cv8QQRWTiXY9873H8W29K6wnNd0WgN4WbI3iXSh74Unym3Ddk1U6jKnghcnhFAOt62P8EMY6FZRuFnI0JN~4x6j0dhJuShyezX5lp02LJax~ZUjZqJiDw3cJVjJa5ffvlS~WW3cBbNReY~XLsA3zFWIwZbcaoeieLzheJkV9aGZKlJRQ4Vz4utLEOYKAEpZiJliUB4lG2h8Lbp40u8OpYY-5ajWg17qqRnDiFOfKJS2miaDHdJcQbL334TL5DEuoFpf5vWGHklNCyIdXJHpoacRsVzPPDYSDbuJxK2VA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 :::note
 Screen-to-Interview Identity Match feature is part of the AI Add-on.
@@ -70,7 +70,7 @@ Screen-to-Interview Identity Match feature is part of the AI Add-on.
 
   * **AI Assistant for Candidates:** Allow candidates to use AI-powered features such as Chat, Autocomplete, and Agent mode within the IDE. For more information, see [📄 AI-Assisted Interviews](</articles/5821380141>). 
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776345249605-image.png?Expires=253370764800&Signature=OBVHsyjQDU1T~Xn3YigvTMGCsP36S~uQ9muy5Tv4H-hHUg6hCvrfbWYzc7BTTPuMPq~iymA87iVk3vBfbJUoQIIheoiz2fm~FAq6kOe47~mf-DS083~D0VN6yZLNIYySEobj2FDMmvpKNYpA-GR~pqkrzuADVMbODvJmOFdCJSYbQSVrs~JG~REoYTdRQ7WdnKNp23lh5bAG53tPWABsPhdB6WByEerkbhDYdaZMNILOlbObrSFCgegihLbmLNxuqUjQ3dAi5leMe8PJJj4W3bn7UpWpNhLJ8VFB-2tu1iQNBt48QXi8Fxr5d06yEX~RfDp2hfOb8M5HSDfhUVgaNw__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776345249605-image.png?Expires=253370764800&Signature=OBVHsyjQDU1T~Xn3YigvTMGCsP36S~uQ9muy5Tv4H-hHUg6hCvrfbWYzc7BTTPuMPq~iymA87iVk3vBfbJUoQIIheoiz2fm~FAq6kOe47~mf-DS083~D0VN6yZLNIYySEobj2FDMmvpKNYpA-GR~pqkrzuADVMbODvJmOFdCJSYbQSVrs~JG~REoYTdRQ7WdnKNp23lh5bAG53tPWABsPhdB6WByEerkbhDYdaZMNILOlbObrSFCgegihLbmLNxuqUjQ3dAi5leMe8PJJj4W3bn7UpWpNhLJ8VFB-2tu1iQNBt48QXi8Fxr5d06yEX~RfDp2hfOb8M5HSDfhUVgaNw__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 :::note
 This feature is part of the AI Add-on.
@@ -78,7 +78,7 @@ This feature is part of the AI Add-on.
 
   * **Scorecard Assist:** Enable AI-generated interview scorecards that summarize candidate performance. Interviewers can edit these scorecards as needed. For more information, refer to [📄 Scorecard Assist](</articles/5847159594>). 
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776345183257-image.png?Expires=253370764800&Signature=OmpWJ7kdlcBFpHADhnIUDmPzxqqbJDicyXa1x3UzGX6Ooviui5j-ANeDyFqvNb7GvaF8f3NXAeyojKREvn9KRbDU4K7NXYFrtRH-4AKm8u8FIG-Ydje2Gx-FNMxxsdqS8myWXfVXS9y3ORHE55IY4ZXvBT7nSrfUvI4yDxGkRR7Yjyg65HBVdOKxpM2-MQUZPOqHZTJqfX0F8aFA03gQYnHou2rzZD3ZCoNysUmn9dfc88~-655NA2d-OiT9LYLuSiHdQi0Y9NgCier-1rS8nxL1TZ0PL3xnw5TrNVF62wlR54RcEYGalfJaXLXx-VbbBCCV~E2UodeOSrunfxSARA__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776345183257-image.png?Expires=253370764800&Signature=OmpWJ7kdlcBFpHADhnIUDmPzxqqbJDicyXa1x3UzGX6Ooviui5j-ANeDyFqvNb7GvaF8f3NXAeyojKREvn9KRbDU4K7NXYFrtRH-4AKm8u8FIG-Ydje2Gx-FNMxxsdqS8myWXfVXS9y3ORHE55IY4ZXvBT7nSrfUvI4yDxGkRR7Yjyg65HBVdOKxpM2-MQUZPOqHZTJqfX0F8aFA03gQYnHou2rzZD3ZCoNysUmn9dfc88~-655NA2d-OiT9LYLuSiHdQi0Y9NgCier-1rS8nxL1TZ0PL3xnw5TrNVF62wlR54RcEYGalfJaXLXx-VbbBCCV~E2UodeOSrunfxSARA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 :::note
 This feature is part of the AI Add-on.

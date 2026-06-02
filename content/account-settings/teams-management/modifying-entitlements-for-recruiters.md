@@ -23,10 +23,10 @@ To modify entitlements for recruiters in a team:
 
   3. Select **Teams Management** from the drop-down menu.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1769504088890-image.png?Expires=253370764800&Signature=ivpCbCcW4OonXMt7RRNy0DiARkTRHLsDlHwkI6W2cED~fAmzJtZg-wVuj~-xIUZ1vU5WlXInBsh5X26tw6G0wubSUfczwhcQ2~i7MbNujqQ80FUPjD-CWTIPYT-Rue34e3ixd7x70cHRWLQ~HnfJ5-DGcy7LRQmbVftnMfqXoG4GsEB10K~UR0Tlit~4A5s8dg33Rt3NAwMdLVibqss1TxfYtdMHF9lJrMBB91fO02UfZoBGSZMKGaKE7NRQZUp-qhu~14~bEsN281Tw-KCDmOCzFVK4pk3gkitIPydqZTRmaljyHd0SKZFwvpnmz3MSvTRGo7hm7oLndKCySM2XjA__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1769504088890-image.png?Expires=253370764800&Signature=ivpCbCcW4OonXMt7RRNy0DiARkTRHLsDlHwkI6W2cED~fAmzJtZg-wVuj~-xIUZ1vU5WlXInBsh5X26tw6G0wubSUfczwhcQ2~i7MbNujqQ80FUPjD-CWTIPYT-Rue34e3ixd7x70cHRWLQ~HnfJ5-DGcy7LRQmbVftnMfqXoG4GsEB10K~UR0Tlit~4A5s8dg33Rt3NAwMdLVibqss1TxfYtdMHF9lJrMBB91fO02UfZoBGSZMKGaKE7NRQZUp-qhu~14~bEsN281Tw-KCDmOCzFVK4pk3gkitIPydqZTRmaljyHd0SKZFwvpnmz3MSvTRGo7hm7oLndKCySM2XjA__&Key-Pair-Id=K3NV4LZ47N8M46)
   4. Go to **User Roles > Recruiters**.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1769504100912-image.png?Expires=253370764800&Signature=D9mGEfqiCY0fEO9PNg6zaTFK5lUpxZe0ei7P3s~9nQxEWb6RqWT050iEq0X-4Caavl5bgL3FiFAM11GIgFqYebj0jOaClfTyPOMYlpnWINvuw7cpwDV7gL8fJE1Hqnqgv8bTJI5ixpt6TtBz4XjCOet~BBysQVobil~Fhb6vpFuzvxdqJdg3w87jzwrJ2WHzGN7cl-n~HvM6SjoGLHKBzAhYVOUjdtYsJiSpgy-KHzRxaRc6SpFgX7DqIEj9oZ97BQJaV~obG-n5DBLBW8TKW3~gzetrlDLa-y6w9C9dYK~b60WVXb76cApLgI8-5yEnWZfX0IMqGMEjTALeCu7zQQ__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1769504100912-image.png?Expires=253370764800&Signature=D9mGEfqiCY0fEO9PNg6zaTFK5lUpxZe0ei7P3s~9nQxEWb6RqWT050iEq0X-4Caavl5bgL3FiFAM11GIgFqYebj0jOaClfTyPOMYlpnWINvuw7cpwDV7gL8fJE1Hqnqgv8bTJI5ixpt6TtBz4XjCOet~BBysQVobil~Fhb6vpFuzvxdqJdg3w87jzwrJ2WHzGN7cl-n~HvM6SjoGLHKBzAhYVOUjdtYsJiSpgy-KHzRxaRc6SpFgX7DqIEj9oZ97BQJaV~obG-n5DBLBW8TKW3~gzetrlDLa-y6w9C9dYK~b60WVXb76cApLgI8-5yEnWZfX0IMqGMEjTALeCu7zQQ__&Key-Pair-Id=K3NV4LZ47N8M46)
   5. Review and update the entitlements as needed.
 
 ## Available recruiter entitlements

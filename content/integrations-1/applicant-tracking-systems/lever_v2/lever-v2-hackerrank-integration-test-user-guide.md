@@ -29,7 +29,7 @@ To invite candidates to a HackerRank test:
 
   3. Select an existing candidate or or click **Add Candidate** to add a new candidate
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1773301972977-image.png?Expires=253370764800&Signature=Ilj4drxCVb1XtH0gx95JDWHzTviEAmolift2~QFIhzaD3CApxOUkphQrfkpNua7Z~i9AX7MU1Ap7FJoe0NXlrKCqgXEFXgRQYqQHg-suttZIZbd6GlwYHJMzhhFwZKNs-00fMZd4gyalh35Iboj-k~TLrrkV0uHZW9kXxD1RcZ8FwBjXp9-HNLwBoXmzI5FwJcl~4BrVXqVkwHW1akjx~vJSmXDiz0hZdIoxJ2YbuQ896mmT7KqfpQ3h4UF1i3Wte9ox1XTxEPBMzgxtl7sjsf0Y75wxxddnz6GiDTmRsbANkF6VR3a4qxr36jHOSK9sWoxxkJ~BgA7Z-z6SdhsCIQ__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1773301972977-image.png?Expires=253370764800&Signature=Ilj4drxCVb1XtH0gx95JDWHzTviEAmolift2~QFIhzaD3CApxOUkphQrfkpNua7Z~i9AX7MU1Ap7FJoe0NXlrKCqgXEFXgRQYqQHg-suttZIZbd6GlwYHJMzhhFwZKNs-00fMZd4gyalh35Iboj-k~TLrrkV0uHZW9kXxD1RcZ8FwBjXp9-HNLwBoXmzI5FwJcl~4BrVXqVkwHW1akjx~vJSmXDiz0hZdIoxJ2YbuQ896mmT7KqfpQ3h4UF1i3Wte9ox1XTxEPBMzgxtl7sjsf0Y75wxxddnz6GiDTmRsbANkF6VR3a4qxr36jHOSK9sWoxxkJ~BgA7Z-z6SdhsCIQ__&Key-Pair-Id=K3NV4LZ47N8M46)
      * If you select an existing candidate:
 
        1. Verify that the correct **Job** is selected.
@@ -42,16 +42,16 @@ To invite candidates to a HackerRank test:
 
        2. Click **Choose Job** and select the appropriate job from the drop-down menu.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1773302167534-image.png?Expires=253370764800&Signature=MaTiTQIuV4sbRDtguJQ5bD7qP94V6Ky9ReFffI-ArN-1nXyCBQtp9JVEu-koKUUyTJQWGfaJYI1FlGBZByo4UqGXFB4BUMWIW2ijRxcwE1MrUxE27s8VoJDQmaU554U4lDZdc~1SpDzZcayC-OskocNEi0SOz~PanRTGvDBRMqsOYx7PH0vHndJe~MdBwa5Bs9aqH5E8O5qlkgPZ~lqa0EIhP0izPpzcMiC7qaEoiV9hOR-8tP7gPl7bO-~XFlKVK4likov3P7yfQtvpgLS1JREUf0lqCNaiD380l8CkXK5DvlTes7b8iaCGuLUkIXFHZS903uy9oHocD9IAyH4noQ__&Key-Pair-Id=K3NV4LZ47N8M46)
+          ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1773302167534-image.png?Expires=253370764800&Signature=MaTiTQIuV4sbRDtguJQ5bD7qP94V6Ky9ReFffI-ArN-1nXyCBQtp9JVEu-koKUUyTJQWGfaJYI1FlGBZByo4UqGXFB4BUMWIW2ijRxcwE1MrUxE27s8VoJDQmaU554U4lDZdc~1SpDzZcayC-OskocNEi0SOz~PanRTGvDBRMqsOYx7PH0vHndJe~MdBwa5Bs9aqH5E8O5qlkgPZ~lqa0EIhP0izPpzcMiC7qaEoiV9hOR-8tP7gPl7bO-~XFlKVK4likov3P7yfQtvpgLS1JREUf0lqCNaiD380l8CkXK5DvlTes7b8iaCGuLUkIXFHZS903uy9oHocD9IAyH4noQ__&Key-Pair-Id=K3NV4LZ47N8M46)
        3. Click **Add email** and enter the candidate email ID.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1773308313352-image.png?Expires=253370764800&Signature=gYmEb5K-ROJmtaHvXCnfxV8UJ2iOIcAnLQvP217Z~dXg3FH9WufHrrjibesboYv1McCrMb~CYneHztrMkh56TieIrjsHXsdChf4cQ7jLUc3yFb~ESm9YdeKh9UbFVxJ8O04dmlR50IfY5ke0658CHe0qGdCQHfxpY1Onsx7XlgiVOj0Pwr0FiacqwexOElL0kNUXkI37jLCt7qNUenwMmxc9NfvUPH4soNbR9oGAZZTArm0LbhQbkYuc3UW5bsd7auyYO7oAFWIqwOTLECsIDnDb8sgXreKP2gbOg130lUVGz~SICLQs6o3RLyWNyIQ1~HYdS2cFw5FVMJjDLaGTEA__&Key-Pair-Id=K3NV4LZ47N8M46)
+          ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1773308313352-image.png?Expires=253370764800&Signature=gYmEb5K-ROJmtaHvXCnfxV8UJ2iOIcAnLQvP217Z~dXg3FH9WufHrrjibesboYv1McCrMb~CYneHztrMkh56TieIrjsHXsdChf4cQ7jLUc3yFb~ESm9YdeKh9UbFVxJ8O04dmlR50IfY5ke0658CHe0qGdCQHfxpY1Onsx7XlgiVOj0Pwr0FiacqwexOElL0kNUXkI37jLCt7qNUenwMmxc9NfvUPH4soNbR9oGAZZTArm0LbhQbkYuc3UW5bsd7auyYO7oAFWIqwOTLECsIDnDb8sgXreKP2gbOg130lUVGz~SICLQs6o3RLyWNyIQ1~HYdS2cFw5FVMJjDLaGTEA__&Key-Pair-Id=K3NV4LZ47N8M46)
   4. Click the more option menu and select **Send Test**.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1773302543404-image.png?Expires=253370764800&Signature=cA6HHpaEbXV4ft~8J7nKsUd-GcAiBs6X9qKN0A88rwdsHv-u2~EimSOjnbugouWhl7jsSKQqyntzPKXpeIkKisnb11n4s2ALJrFSZEC8FAbzgJcZKL6armwXrZkQ2CElNwwDHbltYymyetn0qrSZg0BoUsakQyc2U9fjvgJs~kJYi-4KWgxZdOfS~YMaEzetCDaryQ3w9EnzcgyXG1rOkI2bAPuj67g14iX15eS5YRyBf99N8zCw1RcJ5kyC1QB8lVy1GQZfhAEt1OglKzNjEjsMUL9n5fWLyXLu2ytIeSnm-C8RzS22~H5RgaSagdMMcZdBuMTYTw3ROY0gjv5sVw__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1773302543404-image.png?Expires=253370764800&Signature=cA6HHpaEbXV4ft~8J7nKsUd-GcAiBs6X9qKN0A88rwdsHv-u2~EimSOjnbugouWhl7jsSKQqyntzPKXpeIkKisnb11n4s2ALJrFSZEC8FAbzgJcZKL6armwXrZkQ2CElNwwDHbltYymyetn0qrSZg0BoUsakQyc2U9fjvgJs~kJYi-4KWgxZdOfS~YMaEzetCDaryQ3w9EnzcgyXG1rOkI2bAPuj67g14iX15eS5YRyBf99N8zCw1RcJ5kyC1QB8lVy1GQZfhAEt1OglKzNjEjsMUL9n5fWLyXLu2ytIeSnm-C8RzS22~H5RgaSagdMMcZdBuMTYTw3ROY0gjv5sVw__&Key-Pair-Id=K3NV4LZ47N8M46)
   5. In the **Send test** dialog:
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1773303091640-image.png?Expires=253370764800&Signature=oKsAgFyirTsK7tB3ypdJ5rGu~LyhGkMY3bdXK-6e4SLG7ztdlrGgno6ZGf66eZcbtCStdLEvjVaQfwYsnFfpzFzSrBNGb1OfMW~nTIv7ywFXxH7Ot~yAezS2wCUvmbaJdNL~3giP~jyLxs3yqsJUqwx6CtzvQJAVpWdEBEJbCDxzV4gHksaE5SDHc1ayNQyqX4dqkqAOkE3nW5-WBw0SZ2AqDtrA9PP9-OEZu36X2Jv7obAyrBCkGcPNRtZU5ieItH-bx1PU88BnDMY7WZ7IPFThTYApc2eeXf-~8hQpwTpkVCO~LSOz8s~C92XVW-JFgVKvAIHcGuYJaoenODDL5w__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1773303091640-image.png?Expires=253370764800&Signature=oKsAgFyirTsK7tB3ypdJ5rGu~LyhGkMY3bdXK-6e4SLG7ztdlrGgno6ZGf66eZcbtCStdLEvjVaQfwYsnFfpzFzSrBNGb1OfMW~nTIv7ywFXxH7Ot~yAezS2wCUvmbaJdNL~3giP~jyLxs3yqsJUqwx6CtzvQJAVpWdEBEJbCDxzV4gHksaE5SDHc1ayNQyqX4dqkqAOkE3nW5-WBw0SZ2AqDtrA9PP9-OEZu36X2Jv7obAyrBCkGcPNRtZU5ieItH-bx1PU88BnDMY7WZ7IPFThTYApc2eeXf-~8hQpwTpkVCO~LSOz8s~C92XVW-JFgVKvAIHcGuYJaoenODDL5w__&Key-Pair-Id=K3NV4LZ47N8M46)
      * Select the required test from the **Test** dropdown.
 
      * (Optional) Select the checkbox to send an additional email to the candidate.

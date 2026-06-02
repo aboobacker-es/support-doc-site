@@ -39,7 +39,7 @@ The virtual whiteboard in HackerRank Interviews provides a collaborative and fle
     * Upload predefined architecture images to the whiteboard.
     * Save whiteboard questions along with uploaded images to streamline the interview process. This feature eliminates the need to redraw company-specific architectures during interviews.
 
-![2024-11-27_12-45-13.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046856112-?Expires=253370764800&Signature=JYq1WItVnzYCa7v02t-QzhfnQA6mLVDvmGI0FgF2g5hkW6Pcu9CcKnHwuZd-1xAGAnZkQNERlRGF-YeDXCOeyYXC3L8--Slp18OMHUzUTPgRYimg2LHZCBtz2XXxmUE2GX3pdgRUeN4sgd~DU181I0NcLn~BsiDlPiaZePiBBq-NfuO3LPK-WqNHy8T9-X3epyNAfZeGAM2DpvOZJDXv025aoRWip-1V4Zc4WT6c-5up3KS0PfyBgmiQwI34xzrBcnb5b5h5GwRDCh4ZYOcY-RivvfAAT2QQObXhieHN05E~v-kFc2NtMSvMPRnCrS1DrTomWm5-xc0LGhl5AxGJiQ__&Key-Pair-Id=K3NV4LZ47N8M46)
+      ![2024-11-27_12-45-13.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046856112-?Expires=253370764800&Signature=JYq1WItVnzYCa7v02t-QzhfnQA6mLVDvmGI0FgF2g5hkW6Pcu9CcKnHwuZd-1xAGAnZkQNERlRGF-YeDXCOeyYXC3L8--Slp18OMHUzUTPgRYimg2LHZCBtz2XXxmUE2GX3pdgRUeN4sgd~DU181I0NcLn~BsiDlPiaZePiBBq-NfuO3LPK-WqNHy8T9-X3epyNAfZeGAM2DpvOZJDXv025aoRWip-1V4Zc4WT6c-5up3KS0PfyBgmiQwI34xzrBcnb5b5h5GwRDCh4ZYOcY-RivvfAAT2QQObXhieHN05E~v-kFc2NtMSvMPRnCrS1DrTomWm5-xc0LGhl5AxGJiQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 ### Whiteboard Integration with Candidate Reports
 
@@ -50,12 +50,12 @@ The final state of the whiteboard is automatically saved and included in the can
   * Navigate to the **Interviews** tab in your HackerRank for Work account.
   * Click **View Report** for the relevant candidate.
 
-![2024-11-27_12-52-59.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046856371-?Expires=253370764800&Signature=oLNyt~WBAT3Jp9qyiz13Sbb9l9I-ay8veTu1-kTxr2iO1SFWlft57IvRz4MWjx7NgL3FGe-prYT19tDNZWVnbqkORJ1g94JPWoe3G-VkqBPEGogpZuTmoIaiw8vstQFFOPOuE9ev9KXNnL7bjbVnU81Q6WQTP0RkrgBfw7rIAE4SOct45WJhPoajFlo6xs8JOBPqMy5cvmlZaMYzaJx7kBFfSKjzn4jqevgoMx-BzzvWBfMKFATzqKK71QGKLfqkK6F~T~Rs~JvrjJWS3JY0QcJ0NYoGljgRD2iiOspVoGW228nj8cgcGA8aXsh~RZP0oy00qKXly~s2kq4bAraqLA__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![2024-11-27_12-52-59.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046856371-?Expires=253370764800&Signature=oLNyt~WBAT3Jp9qyiz13Sbb9l9I-ay8veTu1-kTxr2iO1SFWlft57IvRz4MWjx7NgL3FGe-prYT19tDNZWVnbqkORJ1g94JPWoe3G-VkqBPEGogpZuTmoIaiw8vstQFFOPOuE9ev9KXNnL7bjbVnU81Q6WQTP0RkrgBfw7rIAE4SOct45WJhPoajFlo6xs8JOBPqMy5cvmlZaMYzaJx7kBFfSKjzn4jqevgoMx-BzzvWBfMKFATzqKK71QGKLfqkK6F~T~Rs~JvrjJWS3JY0QcJ0NYoGljgRD2iiOspVoGW228nj8cgcGA8aXsh~RZP0oy00qKXly~s2kq4bAraqLA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
   * Scroll to the **Whiteboard** section to view the sketches.
   * Optionally, enlarge the whiteboard by clicking the **enlarge icon** or access the whiteboard in the PDF version of the interview report.
 
-![2024-11-27_12-52-24.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046856714-?Expires=253370764800&Signature=AJsnfKQG~ZEvRpaOB~OIGsFf3LGfxIopZPT~-w7v47AfGWMnR5u6ImatNFdsMjZdux1Ym7ucVYOiKqx~sbxHL5SR3gpsV1YycqDWn6aROJtV-36k~tlUXcEyCFNxHKclo5oo-wV~OPF~V9P2~fYICoZUVaugK5PwG5sWI7ppYEeDr9ObKhs6EqyQlncB3W5erMFIzWpTHNoBpHyunVX2QXUd25hmISZaV3yDTcj5IDcYLLpVDGYl~kztn3h17ZpjbrWXqNT2HOYfpmnEdprYv17fYjeXgNICWfhAzbwjpsv05PodfA6Wj46DdTfvLWjIlEAkZSf-PTTz9AKJTjb2Ug__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![2024-11-27_12-52-24.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046856714-?Expires=253370764800&Signature=AJsnfKQG~ZEvRpaOB~OIGsFf3LGfxIopZPT~-w7v47AfGWMnR5u6ImatNFdsMjZdux1Ym7ucVYOiKqx~sbxHL5SR3gpsV1YycqDWn6aROJtV-36k~tlUXcEyCFNxHKclo5oo-wV~OPF~V9P2~fYICoZUVaugK5PwG5sWI7ppYEeDr9ObKhs6EqyQlncB3W5erMFIzWpTHNoBpHyunVX2QXUd25hmISZaV3yDTcj5IDcYLLpVDGYl~kztn3h17ZpjbrWXqNT2HOYfpmnEdprYv17fYjeXgNICWfhAzbwjpsv05PodfA6Wj46DdTfvLWjIlEAkZSf-PTTz9AKJTjb2Ug__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 ### Benefits of the Virtual Whiteboard
 

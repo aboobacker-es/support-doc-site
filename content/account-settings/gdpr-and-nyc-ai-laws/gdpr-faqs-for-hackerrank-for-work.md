@@ -37,12 +37,12 @@ To delete a candidate and all associated data:
 
   3. Search by candidate name or email.
 
-![New Candidate Search Experience \(1\).gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F12768c33-74e1-4256-a96f-1cf58a1b39e3-1779098696718-NewCandidateSearchExperience%2525281%252529.gif-10eda467-7ddd-4822-a320-0d6bd39a0bef?Expires=253370764800&Signature=rgDbif32zcqYj57nV7ePPdvrPRwFXNrMgZivE3UMSP2cnUSDE9UfapRCxYBrjoU7qiNRduqiAF07E7qPmGttG0EEunpYSoxh8HE-2Yaji896mMmJgzJZF6T94XIFiR9u-vaMkRzHVPKhVrYR7P2DqVfQc9XOcxPXnRe5uvocBKjdzEURqeSaSlscPkLRJ8Li4pH8ev3~UXdtlJNYor3fJRUUvl8082roq86D1VXpE6uf20I8GQ9lWP~anXpglMGB5~nmAEDWHiXW~oaBczutYiUXx-3jThRGy6bdbpABV51KNQBDGziJFCAdkS5BW9cSYQzv~77Gl8OKfN1huEsqdw__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![New Candidate Search Experience \(1\).gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F12768c33-74e1-4256-a96f-1cf58a1b39e3-1779098696718-NewCandidateSearchExperience%2525281%252529.gif-10eda467-7ddd-4822-a320-0d6bd39a0bef?Expires=253370764800&Signature=rgDbif32zcqYj57nV7ePPdvrPRwFXNrMgZivE3UMSP2cnUSDE9UfapRCxYBrjoU7qiNRduqiAF07E7qPmGttG0EEunpYSoxh8HE-2Yaji896mMmJgzJZF6T94XIFiR9u-vaMkRzHVPKhVrYR7P2DqVfQc9XOcxPXnRe5uvocBKjdzEURqeSaSlscPkLRJ8Li4pH8ev3~UXdtlJNYor3fJRUUvl8082roq86D1VXpE6uf20I8GQ9lWP~anXpglMGB5~nmAEDWHiXW~oaBczutYiUXx-3jThRGy6bdbpABV51KNQBDGziJFCAdkS5BW9cSYQzv~77Gl8OKfN1huEsqdw__&Key-Pair-Id=K3NV4LZ47N8M46)
   4. Select the candidate from the search results.
 
   5. Click the **Delete** icon.
 
-![2026-04-29_15-03-18.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F550b5d2c-cc13-499f-a160-24f564a7b840-1779098721101-2026-04-29_15-03-18.png-8a8579d4-dda1-4302-b9f9-064f6075af6d?Expires=253370764800&Signature=eXOkf9yW5A~gr8vfjllFcc79gYC68z9-S8tfFKPud3K4AHnjwTzIlXXdaa00DfsWmTtLOSehEvf8CMVKvJ1spW-88zfYgIXPeSLn4QG8AaUbWYw9YMgPNp94leHe~Dgr6Iok6HRuKRgUiM8hqXW~AhnKHypQP2IZ8rgB4LIc5QiFTO4Nhgw8dirbXDnhe8mxRM~kQC-SLx6rMV533A6kppni-RhVzC70K8bppG3r96xV~es8f0rAZUw93eJy4fPVa4y~NcZwerL9Mn9PZbO5~BzCXm8g7kK9psrehXbyPOleU2N-u4y6bSMkyF3yP7qiz1NtYvSKKT4sfjiEi-P2Hw__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![2026-04-29_15-03-18.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F550b5d2c-cc13-499f-a160-24f564a7b840-1779098721101-2026-04-29_15-03-18.png-8a8579d4-dda1-4302-b9f9-064f6075af6d?Expires=253370764800&Signature=eXOkf9yW5A~gr8vfjllFcc79gYC68z9-S8tfFKPud3K4AHnjwTzIlXXdaa00DfsWmTtLOSehEvf8CMVKvJ1spW-88zfYgIXPeSLn4QG8AaUbWYw9YMgPNp94leHe~Dgr6Iok6HRuKRgUiM8hqXW~AhnKHypQP2IZ8rgB4LIc5QiFTO4Nhgw8dirbXDnhe8mxRM~kQC-SLx6rMV533A6kppni-RhVzC70K8bppG3r96xV~es8f0rAZUw93eJy4fPVa4y~NcZwerL9Mn9PZbO5~BzCXm8g7kK9psrehXbyPOleU2N-u4y6bSMkyF3yP7qiz1NtYvSKKT4sfjiEi-P2Hw__&Key-Pair-Id=K3NV4LZ47N8M46)
   6. In the **Delete Candidate** confirmation dialog, click **Delete.**
 
 A success message appears.

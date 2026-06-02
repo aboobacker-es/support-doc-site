@@ -29,10 +29,10 @@ To invite a candidate to a HackerRank test:
 
   3. Select the position for which you want to send a HackerRank assessment.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1779215252389-image.png?Expires=253370764800&Signature=luWjCQjjsine~MnRuHKVzJKT9uyy-alsQ8ZaSx4e1OUKWfW4TUwQFfgXosX-SnvhXL0ooC9ibmrs0zphVlU8woSuOXoVNbRUXvJ4vP2OhF1ZV~doMtkhT4C9G~cU6oT-sqIWvldhnLyOIkSPAreLI78Ypn70HchJh1M-s~ymeqAgrRbXHTNMIVwBfMoQzgBpaVUOULJSJygUSvXvT-5Q8pDQ4AGu~~PoOly2MSZ7uv9~dyHJ8Wo6hyo3rsQ1zqehvHF1bxBUd-uzRqtg1Vk~6S1XhPfxQxPxy9xU8vV2tAhKLQFmP6eRM8kDjcqPq3VXhn4Bp48GyPeao~6SMc8AVA__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1779215252389-image.png?Expires=253370764800&Signature=luWjCQjjsine~MnRuHKVzJKT9uyy-alsQ8ZaSx4e1OUKWfW4TUwQFfgXosX-SnvhXL0ooC9ibmrs0zphVlU8woSuOXoVNbRUXvJ4vP2OhF1ZV~doMtkhT4C9G~cU6oT-sqIWvldhnLyOIkSPAreLI78Ypn70HchJh1M-s~ymeqAgrRbXHTNMIVwBfMoQzgBpaVUOULJSJygUSvXvT-5Q8pDQ4AGu~~PoOly2MSZ7uv9~dyHJ8Wo6hyo3rsQ1zqehvHF1bxBUd-uzRqtg1Vk~6S1XhPfxQxPxy9xU8vV2tAhKLQFmP6eRM8kDjcqPq3VXhn4Bp48GyPeao~6SMc8AVA__&Key-Pair-Id=K3NV4LZ47N8M46)
   4. Go to the **Leads** tab.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1779215110253-image.png?Expires=253370764800&Signature=Hm2tXqlSzXsA8e8zKkFFX8eGzB6kuayd2yR3bzMOL1ch1Q9pkWbXQQngqZLx2xuDFIu6DeLK2aM5Ctnm31XAz3zK-4JapfSBLX3hu4880GAqdRR8Bca-kYZIXq2XBv5vNcsNTNNBKlHPyMsjIT7c8EjQfqJk4gX~CiOX6MjjUT2f3YINORyIE6gN4tQ-ud0Hckq1qcA0Hnwp~-uadlj99CnQK9EhGCbjQaRWD7wOVKF0YMXS5mcxrtdj1szjrsc6-1ynQYzNubldW9wfBPTtXfqtzg~gvItLbJOG5Xd3ohOdORDexKqWFULPOwznBAvBSCscYd4UTRur~~yE42BQTw__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1779215110253-image.png?Expires=253370764800&Signature=Hm2tXqlSzXsA8e8zKkFFX8eGzB6kuayd2yR3bzMOL1ch1Q9pkWbXQQngqZLx2xuDFIu6DeLK2aM5Ctnm31XAz3zK-4JapfSBLX3hu4880GAqdRR8Bca-kYZIXq2XBv5vNcsNTNNBKlHPyMsjIT7c8EjQfqJk4gX~CiOX6MjjUT2f3YINORyIE6gN4tQ-ud0Hckq1qcA0Hnwp~-uadlj99CnQK9EhGCbjQaRWD7wOVKF0YMXS5mcxrtdj1szjrsc6-1ynQYzNubldW9wfBPTtXfqtzg~gvItLbJOG5Xd3ohOdORDexKqWFULPOwznBAvBSCscYd4UTRur~~yE42BQTw__&Key-Pair-Id=K3NV4LZ47N8M46)
   5. Select a candidate to open the candidate profile. 
 
   6. Add the candidate’s email in the **Personal Info** section if it is not already available:
@@ -43,19 +43,19 @@ To invite a candidate to a HackerRank test:
 
      3. Enter the candidate’s email address in the **Add Email** field.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1779215670544-image.png?Expires=253370764800&Signature=pCgiJz~GW5vsVXPVoZ9GFS~r8UOShVWBjr91OkZH-Xhj70K24x6rtAwSQ7HptPtFivHotDbHhi0rX34bhYwVGZ~qAhPSRL~BfpxUaBHPQ5aOYHHJg3LfIfbODe0Muxdn4hTdgvxat37W4Ri4BvdW7~UULs0nJqzZb5msqWYDbKqgasNFH-cwBz8szJEybEphkc6mAOZAo~KLqzGvma2UyU9H4T4DKCp0RvEKzuw-Pgse5xgCLlGVzmi-XqwEpLpfkx3CZVgWqZbcGN46bYzq9Q5xk8hVJD5entHpeg3wMuWxYVTI1209rkjvCXQDFeLSleVqDrDI~k5AaZMOdxA5FQ__&Key-Pair-Id=K3NV4LZ47N8M46)
+        ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1779215670544-image.png?Expires=253370764800&Signature=pCgiJz~GW5vsVXPVoZ9GFS~r8UOShVWBjr91OkZH-Xhj70K24x6rtAwSQ7HptPtFivHotDbHhi0rX34bhYwVGZ~qAhPSRL~BfpxUaBHPQ5aOYHHJg3LfIfbODe0Muxdn4hTdgvxat37W4Ri4BvdW7~UULs0nJqzZb5msqWYDbKqgasNFH-cwBz8szJEybEphkc6mAOZAo~KLqzGvma2UyU9H4T4DKCp0RvEKzuw-Pgse5xgCLlGVzmi-XqwEpLpfkx3CZVgWqZbcGN46bYzq9Q5xk8hVJD5entHpeg3wMuWxYVTI1209rkjvCXQDFeLSleVqDrDI~k5AaZMOdxA5FQ__&Key-Pair-Id=K3NV4LZ47N8M46)
      4. Click **Save**.
 
   7. Click **Advance Stage**.
 
   8. Select the stage configured with a HackerRank assessment (for example, Recruiter Screen).
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1779216366006-image.png?Expires=253370764800&Signature=oo-E6o74bdQGj5WUh1wmKTr68T4ysVGT5bkq1zIxsa0ojgvxNYdZvj8V-OKaWUAwbKMozwksSUsivvvsWQ2tVenRpIXW-ftI5TSSICrJRG13r3JyNRPeYD-CSd00hPrWhTE-AhIYGTO8inq1t6gZ9mEBW3KRgWoWh3SrgD1fju8pQLTgUChn~iUE~0NHsqeeYinRV-h4kacW-37HaWJmLbZYzCglDlYIQDOyZMaPovKmjoihCBBnHvGKBqYtY3QqzLF59iuLdidggiqJZ85mGw7vMTA4~zaZ3kApSWWTEh9lOM2KxmO5aT~ogQG4m7swK5tPjbz~LyxE~srVjCMYHg__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1779216366006-image.png?Expires=253370764800&Signature=oo-E6o74bdQGj5WUh1wmKTr68T4ysVGT5bkq1zIxsa0ojgvxNYdZvj8V-OKaWUAwbKMozwksSUsivvvsWQ2tVenRpIXW-ftI5TSSICrJRG13r3JyNRPeYD-CSd00hPrWhTE-AhIYGTO8inq1t6gZ9mEBW3KRgWoWh3SrgD1fju8pQLTgUChn~iUE~0NHsqeeYinRV-h4kacW-37HaWJmLbZYzCglDlYIQDOyZMaPovKmjoihCBBnHvGKBqYtY3QqzLF59iuLdidggiqJZ85mGw7vMTA4~zaZ3kApSWWTEh9lOM2KxmO5aT~ogQG4m7swK5tPjbz~LyxE~srVjCMYHg__&Key-Pair-Id=K3NV4LZ47N8M46)
   9. In the **Confirm ATS Action** dialog:
 
      1. Select a HacekerRank assessment from the drop-down.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1779215741611-image.png?Expires=253370764800&Signature=YleoffIpF9jtL89zjbJ6moZ0nu3sIr248bSsq~pj0ibg7O8B1wC~VnWzACpwtwFLXbe90NEZmE5gcjV~3au8M~6wEXb4jgoGYL07XB1CuvSfBhH~Sim28y45FBV0onwJasEHG0JbhxYXw07StU60gWHAL27unpttcbWwhLIhECxPmu14Xngu8O5INfu5Q6ysK~KU6rnwF4EpAIArhQEQfr57TXb3SGFnAg6CA1l239oDI7AU3Iv~4n97wX~Zzxdgjv6HKjO-Pzmt3Yx1bZOn9WfrTkHmYH1R6dkVa3TmPXx93U91bC3htU0iON~5a6S5EG81FTqVeT~VHkUPOf6ODA__&Key-Pair-Id=K3NV4LZ47N8M46)
+        ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1779215741611-image.png?Expires=253370764800&Signature=YleoffIpF9jtL89zjbJ6moZ0nu3sIr248bSsq~pj0ibg7O8B1wC~VnWzACpwtwFLXbe90NEZmE5gcjV~3au8M~6wEXb4jgoGYL07XB1CuvSfBhH~Sim28y45FBV0onwJasEHG0JbhxYXw07StU60gWHAL27unpttcbWwhLIhECxPmu14Xngu8O5INfu5Q6ysK~KU6rnwF4EpAIArhQEQfr57TXb3SGFnAg6CA1l239oDI7AU3Iv~4n97wX~Zzxdgjv6HKjO-Pzmt3Yx1bZOn9WfrTkHmYH1R6dkVa3TmPXx93U91bC3htU0iON~5a6S5EG81FTqVeT~VHkUPOf6ODA__&Key-Pair-Id=K3NV4LZ47N8M46)
      2. Click **Confirm.**
 
 Eightfold sends the test invitation email to the candidate. 

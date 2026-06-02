@@ -43,7 +43,7 @@ This section provides a graphical representation of your organization’s certif
 
     * Number of developers who completed a badge or certification
 
-![Overview Page SkillUp.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1742288486731-OverviewPageSkillUp.gif?Expires=253370764800&Signature=CZofqdvPDD7UCB2rI38mBkw4VsXzKOg8IlNPiMhFEJBhiJVwzFASOrOcsrtBvn~XJ-3Rrg11dslYTtFHqgFili9vvFvfClw15-ZSO4cl2UtJcHjz0k43zKHc-jKJkE5v~fH6BnyCSGVvd9TLPczArJHxhD5A5XZq74ybvVY7JgZMGJxj~tzilv2EjaJjGghptztvqLtXUWYi4VJBrt42JWayUlx80HIwQzOTEB2uccWSF6Xgpw7mMzbs0Jv3izwiOqVb2b37Rl0Xjfr4PpMswO0y47sXm65ayst~LhlK7VJ5doZ3v1x3TVkv60jSmNixAayngtEQt3OIXxlNMkMEuA__&Key-Pair-Id=K3NV4LZ47N8M46)
+      ![Overview Page SkillUp.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1742288486731-OverviewPageSkillUp.gif?Expires=253370764800&Signature=CZofqdvPDD7UCB2rI38mBkw4VsXzKOg8IlNPiMhFEJBhiJVwzFASOrOcsrtBvn~XJ-3Rrg11dslYTtFHqgFili9vvFvfClw15-ZSO4cl2UtJcHjz0k43zKHc-jKJkE5v~fH6BnyCSGVvd9TLPczArJHxhD5A5XZq74ybvVY7JgZMGJxj~tzilv2EjaJjGghptztvqLtXUWYi4VJBrt42JWayUlx80HIwQzOTEB2uccWSF6Xgpw7mMzbs0Jv3izwiOqVb2b37Rl0Xjfr4PpMswO0y47sXm65ayst~LhlK7VJ5doZ3v1x3TVkv60jSmNixAayngtEQt3OIXxlNMkMEuA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 ## Talent Directory
 
@@ -55,11 +55,11 @@ The Talent directory helps organize your developers based on **Designation** , *
 
   * Click the **Export  **button to export the data. The exported reports have clear formatting, helping you quickly find the assigned and overdue assignments. 
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1742554533126-image.png?Expires=253370764800&Signature=ssCqxr34t1iQTlsNKjj2fZsC9FsT95wo9RkIhyk7OeuXEIW9Agl6hmAGkl4HydPbraFCF1Wcgj7r7zP-gr~Ec0-S6fEulAcg2ywtZenNoh45TpQSsDNwhZ18TBk2MVcQBFAjHp11dkE9BQ56AZHoRa5CXGXsfSQjVDvLVhHeZes~frCpgyc2Wr1K7~aK74OKogOSALUrrHvIe2bV62pod8Qar6DTgiPCXOU312PuDMew3XHOYwKp8guvCF14nxp0MPxp7jO-MAHYqxwsB79XEMjMJEVcZi~5gq4fl2Le5rwEtwvjKPylQxukHYQ1ghK83z-Z3~HCisQjTR4TjxW6jw__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1742554533126-image.png?Expires=253370764800&Signature=ssCqxr34t1iQTlsNKjj2fZsC9FsT95wo9RkIhyk7OeuXEIW9Agl6hmAGkl4HydPbraFCF1Wcgj7r7zP-gr~Ec0-S6fEulAcg2ywtZenNoh45TpQSsDNwhZ18TBk2MVcQBFAjHp11dkE9BQ56AZHoRa5CXGXsfSQjVDvLVhHeZes~frCpgyc2Wr1K7~aK74OKogOSALUrrHvIe2bV62pod8Qar6DTgiPCXOU312PuDMew3XHOYwKp8guvCF14nxp0MPxp7jO-MAHYqxwsB79XEMjMJEVcZi~5gq4fl2Le5rwEtwvjKPylQxukHYQ1ghK83z-Z3~HCisQjTR4TjxW6jw__&Key-Pair-Id=K3NV4LZ47N8M46)
 
   * Select any employee to invite them to a certification or skill badge test.
 
-![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046426266-?Expires=253370764800&Signature=XEnMPPB6kAN24-ZP-mOppzVooRLsB9Lh6fCaxoWObtxkpXBELRttaEZ-wZYSFLxQk99RmgDI~Gg2ZzCdH9DZPj2lfMibMU~clcgNIoTWPZMX~Pzj3RMuGmZtM8wOgzApYkq3SIUuJRTEEC~PWxePXYQ9imW6XY-zcfKzKlTrksOZleMjJGjJ1twLo14ZAj9he3~zkqjFtuMK1aflRg1dNmV3zQZiE2U-ixPxmoafpH7fdSt-CCX8Ybwqlwv39mRs4R0-JSa4ar--Uu3J-TSW1fKGBkfTHxnMwSGoI9Q8fB0y4anGBE985lE3zT~5TkBMrVqFXvyOsn~xO71tk3sC5w__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046426266-?Expires=253370764800&Signature=XEnMPPB6kAN24-ZP-mOppzVooRLsB9Lh6fCaxoWObtxkpXBELRttaEZ-wZYSFLxQk99RmgDI~Gg2ZzCdH9DZPj2lfMibMU~clcgNIoTWPZMX~Pzj3RMuGmZtM8wOgzApYkq3SIUuJRTEEC~PWxePXYQ9imW6XY-zcfKzKlTrksOZleMjJGjJ1twLo14ZAj9he3~zkqjFtuMK1aflRg1dNmV3zQZiE2U-ixPxmoafpH7fdSt-CCX8Ybwqlwv39mRs4R0-JSa4ar--Uu3J-TSW1fKGBkfTHxnMwSGoI9Q8fB0y4anGBE985lE3zT~5TkBMrVqFXvyOsn~xO71tk3sC5w__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 ## My Team Dashboard
 
@@ -77,7 +77,7 @@ The dashboard consists of two tabs:
 
   * To download all of the employee data, click on the **Export** option.
 
-![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046426600-?Expires=253370764800&Signature=LTEV5yX6CxA8SsQl2Oy3hq7iZ~EmTtCWNRtgGCIVdYlg-5wygXYvFAr3KgAXdL9QjGceK~MmNFk61UWD88vohkwM4y1cKQ7IxTJq1~bWiN3lJONhwQ0r4NW9iejMNH~2hD5mZpqcuS6lHi0gm~0WL5iGWbSKMFHDQtSXpk0OwVgAMd~FSSXKehpkpFNRuZAMfuAtA3AvRzgMSR5xFdYsyNw-fqkCeortv~8m4IUKNaBe4q~TZmaQI4INSV4ct5~mHVpo8s6glrzcUbR63o~YrVG7o3A4670hAt7VkdqGc6hvV10KyGcGIhqLH7~Vf2kyrE38XuTuDyPbGsLtf8EdjA__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046426600-?Expires=253370764800&Signature=LTEV5yX6CxA8SsQl2Oy3hq7iZ~EmTtCWNRtgGCIVdYlg-5wygXYvFAr3KgAXdL9QjGceK~MmNFk61UWD88vohkwM4y1cKQ7IxTJq1~bWiN3lJONhwQ0r4NW9iejMNH~2hD5mZpqcuS6lHi0gm~0WL5iGWbSKMFHDQtSXpk0OwVgAMd~FSSXKehpkpFNRuZAMfuAtA3AvRzgMSR5xFdYsyNw-fqkCeortv~8m4IUKNaBe4q~TZmaQI4INSV4ct5~mHVpo8s6glrzcUbR63o~YrVG7o3A4670hAt7VkdqGc6hvV10KyGcGIhqLH7~Vf2kyrE38XuTuDyPbGsLtf8EdjA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 ### Track Employee Progress 
 
@@ -99,7 +99,7 @@ To access:
 
   2. Select **User Management**.
 
-![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046427397-?Expires=253370764800&Signature=NwuItmTCS7ib4K-JTJAva4-F9MLj3arhyUfC9G8rmKFgh05Cy5kT~vmdNighsb5ynjnExf~ZJjfP1zahqGJ4NcKYpfGdw00PTTRI-7ltJ6TrJIN8vjgemLburUc~zdFpgtErif2a3iAiPxJQE50q0VjS~AHoWPSDl~0P6VAaJzk-1jsRtQG0aOdAUggaJJy0LQW7NyKfgjUSWfvSSxaEu~XpuxKS63Dw~BBXJWigpe-xSvmAj2O9FiuEl08INL2x2CIM2nPcbC-A-GnvPvsSOmU1eoQTMuhAJ7fmxaRARBUbK2ldD72N-YJaVApBbiN60VgSQZg2Y-YSdQlly-maSg__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046427397-?Expires=253370764800&Signature=NwuItmTCS7ib4K-JTJAva4-F9MLj3arhyUfC9G8rmKFgh05Cy5kT~vmdNighsb5ynjnExf~ZJjfP1zahqGJ4NcKYpfGdw00PTTRI-7ltJ6TrJIN8vjgemLburUc~zdFpgtErif2a3iAiPxJQE50q0VjS~AHoWPSDl~0P6VAaJzk-1jsRtQG0aOdAUggaJJy0LQW7NyKfgjUSWfvSSxaEu~XpuxKS63Dw~BBXJWigpe-xSvmAj2O9FiuEl08INL2x2CIM2nPcbC-A-GnvPvsSOmU1eoQTMuhAJ7fmxaRARBUbK2ldD72N-YJaVApBbiN60VgSQZg2Y-YSdQlly-maSg__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 You can filter users and add new ones by clicking **Add New Users**. There are two types of users:
 
@@ -121,10 +121,10 @@ To invite an Employee:
 
   2. Click **Invite to Badge/Certification**.
 
-![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046428197-?Expires=253370764800&Signature=JV2JY7HPhE738NrjylNahtGJqLGuaeEH57Qx8GVfuaz1oSQ-4kLliu1iWzMB13prhCyQ8jKkCkS4bNCShFTBOZAXAF946TRTU968EyJM2JgeoBEHDATvJFJAguNePjsQDF1FJjqQAEpRQzvM4YFjc73mrrT1ttbOgLu~~DQFVttMr1bf~B9KKicalDWKicUTYjegTA2h2jzmeYIhczKCaLwV5Sx4l1nkZiwTWaSl1lbYnEcb3LPzJB7FRHZj5YhxdJGBmQv14HRsxavNZwbD9w8tjPblKDvaiDpIrjxhS~jmHQNzo5GvpZhMPNhEA8tp2ZNr5ipUR~d1jNQhJPzTEQ__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046428197-?Expires=253370764800&Signature=JV2JY7HPhE738NrjylNahtGJqLGuaeEH57Qx8GVfuaz1oSQ-4kLliu1iWzMB13prhCyQ8jKkCkS4bNCShFTBOZAXAF946TRTU968EyJM2JgeoBEHDATvJFJAguNePjsQDF1FJjqQAEpRQzvM4YFjc73mrrT1ttbOgLu~~DQFVttMr1bf~B9KKicalDWKicUTYjegTA2h2jzmeYIhczKCaLwV5Sx4l1nkZiwTWaSl1lbYnEcb3LPzJB7FRHZj5YhxdJGBmQv14HRsxavNZwbD9w8tjPblKDvaiDpIrjxhS~jmHQNzo5GvpZhMPNhEA8tp2ZNr5ipUR~d1jNQhJPzTEQ__&Key-Pair-Id=K3NV4LZ47N8M46)
   3. Choose the certification or badge in the pop-up window and set the due date.
 
-![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046428798-?Expires=253370764800&Signature=rYzsxjMmJV3ynRQX7rg2sr-gw30W5xZaulrS4j1l~aHeUC5VsCG1HxbyGoAY49F5v02q0-tE5KChzkoxQO3ZOeiigYXGKOaJXSrZMNhSn4iwBooOLoY7H3~-GKW0hlJPUu~8HBBs1Ws80LLCsNKgV8GPDDJ4-AfceptAP7HvuwGGIwfWdo~xa3eCeqzUtDHvq6HC92pOp-5-S71s8KrNE~bgmTiUV1p3GwoXB3-gajfiiW~nFWsLlRtJwQzePFgn-WSCielPdOb4KGnPskkQ6PNZXU1MZSmPCcuoTnfBO-3X1nj8kZshdqOOzGdtCU4f50b2ogY1JuptlCd15XOm3Q__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046428798-?Expires=253370764800&Signature=rYzsxjMmJV3ynRQX7rg2sr-gw30W5xZaulrS4j1l~aHeUC5VsCG1HxbyGoAY49F5v02q0-tE5KChzkoxQO3ZOeiigYXGKOaJXSrZMNhSn4iwBooOLoY7H3~-GKW0hlJPUu~8HBBs1Ws80LLCsNKgV8GPDDJ4-AfceptAP7HvuwGGIwfWdo~xa3eCeqzUtDHvq6HC92pOp-5-S71s8KrNE~bgmTiUV1p3GwoXB3-gajfiiW~nFWsLlRtJwQzePFgn-WSCielPdOb4KGnPskkQ6PNZXU1MZSmPCcuoTnfBO-3X1nj8kZshdqOOzGdtCU4f50b2ogY1JuptlCd15XOm3Q__&Key-Pair-Id=K3NV4LZ47N8M46)
   4. Customize the email content if needed and send it to the selected Employees.
 
-![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046429368-?Expires=253370764800&Signature=f27qscssohRPd3ZBJs~BR-hrXHlG5TwtLbVmQHy44kWVBY5ln7JdUAOI8fJOJH2e0WGJf8i4-pqCo21HjRUpMHIMsIdFfPw~xja5ifpmDhgQNjgc0hqI8hi0SGSlf-8foUIv-whmXOUwJXsL2O8ziIpLZnvqk7dNKtjNaXiP2eeXbnZb920WbR~DwYboPsxUDlfLx3zhhl6Bg3DM6RbhlGppnq2av61RqAwPHEYlIQfiHlWYKXJW-bN49XCdntHBT89HXGVNaN~QImbJKFngr1nd91guXdGcY3AkbM~U8PjnRgrC6OG4PIPTcJsop1CtTBIo5Vb1FQT4fVTileKyXA__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046429368-?Expires=253370764800&Signature=f27qscssohRPd3ZBJs~BR-hrXHlG5TwtLbVmQHy44kWVBY5ln7JdUAOI8fJOJH2e0WGJf8i4-pqCo21HjRUpMHIMsIdFfPw~xja5ifpmDhgQNjgc0hqI8hi0SGSlf-8foUIv-whmXOUwJXsL2O8ziIpLZnvqk7dNKtjNaXiP2eeXbnZb920WbR~DwYboPsxUDlfLx3zhhl6Bg3DM6RbhlGppnq2av61RqAwPHEYlIQfiHlWYKXJW-bN49XCdntHBT89HXGVNaN~QImbJKFngr1nd91guXdGcY3AkbM~U8PjnRgrC6OG4PIPTcJsop1CtTBIo5Vb1FQT4fVTileKyXA__&Key-Pair-Id=K3NV4LZ47N8M46)

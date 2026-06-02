@@ -56,7 +56,7 @@ Assessment and Candidate Details| ✅| ✅
 
   4. Go to the **Candidates** tab.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760453711320-image.png?Expires=253370764800&Signature=rDjxTnN3rM2nEHJU2XbieaGW4eXbNtLR-io1yiLFp6Mq-BKTU4GykzeZz2OaTs7Tu8tgcXLNJyiqbI8N6BgXGDbU0qmyJuJ7M8SbBGmzEKn5ouaW4slTfUSjvf3ImUUI0AZxwnAjHpezb98ShlTWB1q9Sbcw2PPGagZQQq9x2t0Vxc5Wbo-yMi3lR0migSGaDFwU6RHkgkB-WrUnsmz42sDGTnHMQlxp9Erfd7ksMTjMjfPq1sc8dvrm6Es0rSPkdRfBckLCgHcO2HDJiVA8V8rJyVYExeerFcVoAc6y3ehR7Z1Qay7ObxHZUjKrDBxxtfGo4HfZoHDGZWyE5y-8QA__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760453711320-image.png?Expires=253370764800&Signature=rDjxTnN3rM2nEHJU2XbieaGW4eXbNtLR-io1yiLFp6Mq-BKTU4GykzeZz2OaTs7Tu8tgcXLNJyiqbI8N6BgXGDbU0qmyJuJ7M8SbBGmzEKn5ouaW4slTfUSjvf3ImUUI0AZxwnAjHpezb98ShlTWB1q9Sbcw2PPGagZQQq9x2t0Vxc5Wbo-yMi3lR0migSGaDFwU6RHkgkB-WrUnsmz42sDGTnHMQlxp9Erfd7ksMTjMjfPq1sc8dvrm6Es0rSPkdRfBckLCgHcO2HDJiVA8V8rJyVYExeerFcVoAc6y3ehR7Z1Qay7ObxHZUjKrDBxxtfGo4HfZoHDGZWyE5y-8QA__&Key-Pair-Id=K3NV4LZ47N8M46)
   5. Select a candidate’s name to view the Summary Report.
 
 ## Old Summary Report
@@ -69,7 +69,7 @@ The old Summary Report includes the following components:
 
   * **Performance:** Provides a detailed overview of a candidate’s test results and integrity signals.
 
-![performanceold.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760451443232-performanceold.gif?Expires=253370764800&Signature=eZVlnpicHDJhzqEYIUV0UlrOwsl-x9hh7F309TIZMNFmFfAzgxuc-LnOcHlNS~~QZZ6G~sE1LW1mtMK31EXDhLqkqCx2FA8D5jcSUo6giZcPlnuHrS2-E5y2HCtb9pgyQRu52zuJNFbY8unB8LH4Nvvhu5-dcLKskdqgzMwdy6LXNN0C~PDxC1h528NUG3dMK3KsZ-OsmdXlC0xvxSd3dPdWGKiC0llbNk~v71wO7HJS-QiYYCJIiPJiAViO-Z4uynXv6JExrdiVJB7Z0x58Mh8NB6yzHmfVuTZ9vJViRhAjD93GtkC4Lyk1FsPEFUOETLarQCf1K15SP7st79v1Ww__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![performanceold.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760451443232-performanceold.gif?Expires=253370764800&Signature=eZVlnpicHDJhzqEYIUV0UlrOwsl-x9hh7F309TIZMNFmFfAzgxuc-LnOcHlNS~~QZZ6G~sE1LW1mtMK31EXDhLqkqCx2FA8D5jcSUo6giZcPlnuHrS2-E5y2HCtb9pgyQRu52zuJNFbY8unB8LH4Nvvhu5-dcLKskdqgzMwdy6LXNN0C~PDxC1h528NUG3dMK3KsZ-OsmdXlC0xvxSd3dPdWGKiC0llbNk~v71wO7HJS-QiYYCJIiPJiAViO-Z4uynXv6JExrdiVJB7Z0x58Mh8NB6yzHmfVuTZ9vJViRhAjD93GtkC4Lyk1FsPEFUOETLarQCf1K15SP7st79v1Ww__&Key-Pair-Id=K3NV4LZ47N8M46)
     * **Suspicious Activity Detected:** Displays the integrity level of the candidate’s test attempt. The severity level (High or Medium) indicates the extent of suspicious behavior, such as multiple faces detected or secure mode violations.
 
     * **Score Distribution:** Displays the candidate’s total score and the percentage out of the total available marks.
@@ -106,13 +106,13 @@ Select a question name or click **View detailed** to open the Detailed Report.
 
   * **Attempt Activity:** Tracks a candidate’s actions during the test, including time spent on each question, recorded events, and integrity-related activity.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760442284971-image.png?Expires=253370764800&Signature=cZ7LBOzCBPixUhpdZDAn1-c8-~KzWSiTV165yTL6YSd5nNrDinIfXQ-H~QHp4hMZJogfwIilV-hofVtgkLsY5rqziN1skoOwLrcL~KXzATokTZ-cio7pUnEVNs2X8KLiPIbF28eCqU-~gyTFtuXqIeYVO0msafM~789Py37hIq2L7mtxIOtNPuLU4UbStqk0r-PXw0SC~BbkJl0T7~YlceBq77yiNutxOqjaVZTkWAS6-UeOJgQi1WfRAz6bL1J-090X8Uj~MEMZQ~pJve7BQLYry79hdiheWAluaQ6BBAT3ZEmArKiMXxLQBymu-zgQl-5LozkdvNXVzQMDBuUS0w__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760442284971-image.png?Expires=253370764800&Signature=cZ7LBOzCBPixUhpdZDAn1-c8-~KzWSiTV165yTL6YSd5nNrDinIfXQ-H~QHp4hMZJogfwIilV-hofVtgkLsY5rqziN1skoOwLrcL~KXzATokTZ-cio7pUnEVNs2X8KLiPIbF28eCqU-~gyTFtuXqIeYVO0msafM~789Py37hIq2L7mtxIOtNPuLU4UbStqk0r-PXw0SC~BbkJl0T7~YlceBq77yiNutxOqjaVZTkWAS6-UeOJgQi1WfRAz6bL1J-090X8Uj~MEMZQ~pJve7BQLYry79hdiheWAluaQ6BBAT3ZEmArKiMXxLQBymu-zgQl-5LozkdvNXVzQMDBuUS0w__&Key-Pair-Id=K3NV4LZ47N8M46)
   * **Candidate Details:** Displays the candidate’s feedback and test information, including name, email, test name, test duration, invited by, and country.
 
-![candidatedetails.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760451597213-candidatedetails.gif?Expires=253370764800&Signature=cDxM6VFGgEeRwr18ED0SKMQESCewSErJtY3aVkvFjgPEBq3HREpgcpWRosHCXBPNv1wnHrhOIaWUd3cBUjddF9QbJNvvaTnltdbYEGgj1-UUEAYkf5EKafRI2sK6g-lIiC5gbncRBMjpVVztxkkn9DF4ZFfYwwGfPAQwas5-ZGaYe0fLQJCERZHiNr9tnZ-rVJtSoQ9YstXPDHUJ1-icxoudegWegB22em2kUpmljqotsiXTcDA3yAYIkNEW8Ut60dbo2CWvxBqPLpAs60cDWDyw5FArNmnjdlKB1i6zA01SZEgOFxRMufPM-gUhHvoV5Qf8rTuopMi67CUnlBNGbQ__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![candidatedetails.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760451597213-candidatedetails.gif?Expires=253370764800&Signature=cDxM6VFGgEeRwr18ED0SKMQESCewSErJtY3aVkvFjgPEBq3HREpgcpWRosHCXBPNv1wnHrhOIaWUd3cBUjddF9QbJNvvaTnltdbYEGgj1-UUEAYkf5EKafRI2sK6g-lIiC5gbncRBMjpVVztxkkn9DF4ZFfYwwGfPAQwas5-ZGaYe0fLQJCERZHiNr9tnZ-rVJtSoQ9YstXPDHUJ1-icxoudegWegB22em2kUpmljqotsiXTcDA3yAYIkNEW8Ut60dbo2CWvxBqPLpAs60cDWDyw5FArNmnjdlKB1i6zA01SZEgOFxRMufPM-gUhHvoV5Qf8rTuopMi67CUnlBNGbQ__&Key-Pair-Id=K3NV4LZ47N8M46)
   * **Candidate Status:** After reviewing the report, select a status to move the candidate’s attempt to the next stage.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760451571805-image.png?Expires=253370764800&Signature=TNiAmRlh-QSQwnj4K89-q1JqvF63A7COUAzhS5IbkxrCwWZO7zHTlA4dY-mve5xuqWEr586bPe1Cf31hV2dapnBoXYJq9DTpdU748UBEKuVCESBi93-87D92obUcgqOcsFVsziQ3MeIEomY5KpPpkcaDQBzeAO~IASGbKUe87QMYvKXJq4lEaWw5-dXb9gIcCUsFEOb~TgyJmDOJnt-VTh0SfJU~6NNqiY-crUX-CbHanx1iIcLr74-yM3Lxl5nNG95S4rA29VTYagWbyxMYJbQJ8kM91OR-PksqFypqTA2~PQsB~ALUdtvBDAWpopdUEhDUoVNAEkAHI9G2n-otew__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760451571805-image.png?Expires=253370764800&Signature=TNiAmRlh-QSQwnj4K89-q1JqvF63A7COUAzhS5IbkxrCwWZO7zHTlA4dY-mve5xuqWEr586bPe1Cf31hV2dapnBoXYJq9DTpdU748UBEKuVCESBi93-87D92obUcgqOcsFVsziQ3MeIEomY5KpPpkcaDQBzeAO~IASGbKUe87QMYvKXJq4lEaWw5-dXb9gIcCUsFEOb~TgyJmDOJnt-VTh0SfJU~6NNqiY-crUX-CbHanx1iIcLr74-yM3Lxl5nNG95S4rA29VTYagWbyxMYJbQJ8kM91OR-PksqFypqTA2~PQsB~ALUdtvBDAWpopdUEhDUoVNAEkAHI9G2n-otew__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 :::note
 You can:
@@ -134,7 +134,7 @@ The new Summary Report includes the following components:
 
   * **Performance overview**
 
-![report enhance.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1769353724636-reportenhance.gif?Expires=253370764800&Signature=bVsWXOA28iyKwqJymU4zcyeToeXSP3wTXNlxbpkCEhtvULTxMIVAvVFCfSveuRaX559HmVEgQITmvPABUAh1YwQIO2Q5jLr~5zn6VxF5cEdwwsNaGTM99NRFuWqSBHevIvs98RjHGZg9YJppd0-SEzZ4LUpqeZ5earLg1kRQol4EVhsWZl9YSrBClLpMgNAumFzixn9B7i4jyqbbpHtI10qcpEYi~n9JAlEt4Fg-cUHnAPHHUfGkIDtowzLO3YVWCfIa-KMWKYmBP5d1BboYAf4NJqYHeghYfGOSJkItSwYfe41igBOO6eglKH~AygA1pvm8pmiH0sVN08y2iVKjqQ__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![report enhance.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1769353724636-reportenhance.gif?Expires=253370764800&Signature=bVsWXOA28iyKwqJymU4zcyeToeXSP3wTXNlxbpkCEhtvULTxMIVAvVFCfSveuRaX559HmVEgQITmvPABUAh1YwQIO2Q5jLr~5zn6VxF5cEdwwsNaGTM99NRFuWqSBHevIvs98RjHGZg9YJppd0-SEzZ4LUpqeZ5earLg1kRQol4EVhsWZl9YSrBClLpMgNAumFzixn9B7i4jyqbbpHtI10qcpEYi~n9JAlEt4Fg-cUHnAPHHUfGkIDtowzLO3YVWCfIa-KMWKYmBP5d1BboYAf4NJqYHeghYfGOSJkItSwYfe41igBOO6eglKH~AygA1pvm8pmiH0sVN08y2iVKjqQ__&Key-Pair-Id=K3NV4LZ47N8M46)
     * **Score:** Displays the candidate’s overall score for the assessment.
 
     * **Benchmark:** Shows how the candidate’s performance compares with others who attempted the same questions. This comparison enables data-driven and objective evaluation of candidate performance.
@@ -159,7 +159,7 @@ Click **View detailed** to open the Detailed Report.
 
     * **Integrity Summary:** Provides a consolidated view of all detected integrity signals for a candidate. It lets you preview issues and drill down into supporting evidence within the same section.
 
-![test with webcam.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1769513833607-testwithwebcam.gif?Expires=253370764800&Signature=nQWckGnGQTkVPW7qbvB~jRs1f5iIejPwvff~GKRcqnRVkyREVmEYTR1MFekqLHRV0Rnajvu-t-CyL31dmgelSmkeS5BJbsGWDGELOx8IhNpIGpOYlRut7GLpE7VMdO57IpJPO-e3u0ZEW5ctS14VjO7m02PXMF40HNvZMOiblf11mSx3abNz~QIO1KDyZS9~-MlD7tmSbhSOZxoUgRhT2U-zdDXI0EV5Ar~cQoDjChzfW9VLak~VF7Z64cOSlTEx0-1eYDGiJKflN0~gv0yCsf2shId5ydWH~XijuqrCy7jeT31Q3fQTrOKOgRlVKPaxXLGRejuWMG29QCfYu~vs8A__&Key-Pair-Id=K3NV4LZ47N8M46)
+      ![test with webcam.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1769513833607-testwithwebcam.gif?Expires=253370764800&Signature=nQWckGnGQTkVPW7qbvB~jRs1f5iIejPwvff~GKRcqnRVkyREVmEYTR1MFekqLHRV0Rnajvu-t-CyL31dmgelSmkeS5BJbsGWDGELOx8IhNpIGpOYlRut7GLpE7VMdO57IpJPO-e3u0ZEW5ctS14VjO7m02PXMF40HNvZMOiblf11mSx3abNz~QIO1KDyZS9~-MlD7tmSbhSOZxoUgRhT2U-zdDXI0EV5Ar~cQoDjChzfW9VLak~VF7Z64cOSlTEx0-1eYDGiJKflN0~gv0yCsf2shId5ydWH~XijuqrCy7jeT31Q3fQTrOKOgRlVKPaxXLGRejuWMG29QCfYu~vs8A__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 The Integrity summary shows previews of detected integrity signals, such as:
 
@@ -207,7 +207,7 @@ You can also create an interview directly from the **Summary Report** by clickin
 
   * **Attempt Activity:** Tracks a candidate’s actions during the test, including time spent on each question, recorded events, and integrity-related activity.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760451920958-image.png?Expires=253370764800&Signature=QxQ8je4AxAa2B7Vxr81A1mQfkwg1xdbQrUMLEWjjsnQj73c3m7AZqfr2rTNPWPrHUz3Lgxu6vuaZQ8h1goTuT-b3e03GXlPwVzseOb2xJAJs1os7V-3RYdO-WkqoKXMgGoo7l0a7oYeXNppE9qpU~O98twBYX1nKhF8xdigcoL6WLK9pALz25mg5CcR~-48XVX8glpn3sTEI57RhiKTqwKcRSSdCOSFDrxWL9PVq9cMZ3b0ixRMMFQk3tpsu2Hfi111MEfIOaJDury5DqlW4pLWCv9s0Ae-0SEz7y1QhgIaTUuwWJnRd9MBtglzWV5KtNJlQn78sCBPtdKY1p0lTPw__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760451920958-image.png?Expires=253370764800&Signature=QxQ8je4AxAa2B7Vxr81A1mQfkwg1xdbQrUMLEWjjsnQj73c3m7AZqfr2rTNPWPrHUz3Lgxu6vuaZQ8h1goTuT-b3e03GXlPwVzseOb2xJAJs1os7V-3RYdO-WkqoKXMgGoo7l0a7oYeXNppE9qpU~O98twBYX1nKhF8xdigcoL6WLK9pALz25mg5CcR~-48XVX8glpn3sTEI57RhiKTqwKcRSSdCOSFDrxWL9PVq9cMZ3b0ixRMMFQk3tpsu2Hfi111MEfIOaJDury5DqlW4pLWCv9s0Ae-0SEz7y1QhgIaTUuwWJnRd9MBtglzWV5KtNJlQn78sCBPtdKY1p0lTPw__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 :::note
 You can:

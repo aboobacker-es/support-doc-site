@@ -23,10 +23,10 @@ To modify entitlements for developers in a team:
 
   3. Select **Teams Management** from the drop-down menu.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1769504715345-image.png?Expires=253370764800&Signature=eOCKV0RUhQLdFBu-sXEoIlfNrpgIe7F0Ee9y4GQ5KpvGio~wgPiMAJxrBG-RbrdYQiAcvAnhhgNmQFGdGIsQbE1KOdmD8q37SgQlfBxZX7XzdljAB3xWQJL376AO7ux8R-e6lqMhIDo0qTiIw7ILscOWRKNKV1gqjtuL0zIRLIHTot29DQYUmmP02R04tA6UM0kg~uJvrpbDc~I6ZLZLGW2rxfWQtKBsDhlHNhsG0-QeeiiYr4PVLIL42QKpnEjlBNjRKhH-qztIyQKif3CjAWbUbMl6QXvNAUPcp5veXN09saAO0Cn18k5j0F9IdvFXAu31koll2TcLr50Qo52nKg__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1769504715345-image.png?Expires=253370764800&Signature=eOCKV0RUhQLdFBu-sXEoIlfNrpgIe7F0Ee9y4GQ5KpvGio~wgPiMAJxrBG-RbrdYQiAcvAnhhgNmQFGdGIsQbE1KOdmD8q37SgQlfBxZX7XzdljAB3xWQJL376AO7ux8R-e6lqMhIDo0qTiIw7ILscOWRKNKV1gqjtuL0zIRLIHTot29DQYUmmP02R04tA6UM0kg~uJvrpbDc~I6ZLZLGW2rxfWQtKBsDhlHNhsG0-QeeiiYr4PVLIL42QKpnEjlBNjRKhH-qztIyQKif3CjAWbUbMl6QXvNAUPcp5veXN09saAO0Cn18k5j0F9IdvFXAu31koll2TcLr50Qo52nKg__&Key-Pair-Id=K3NV4LZ47N8M46)
   4. Go to **User Roles > Developer**.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1769504726488-image.png?Expires=253370764800&Signature=TbCj5Hcu~1I2TlTpY~ho3uJidRj~SDlFfbFQVQ8IaFsIWAxebtkan1W0Jcp6v67uM4grEoC~lN2S4lY5htd9neO25lBsKwWurAp8~AmaGrYRVGtVtcqq2n4XJIy7I9wdYc8AH-5aDJnNcdR7dt-jRn3y7EoyQ5-L6yXBUsoUCHDLmqqis2vKEV-zrJIX73vWc7LTAaukG-MNe80Kux12rBTh2kJ3lrdxIAtaKTOSdSlK59-c-ybhBVz9KbqIUd1zB5O-cS7~DyhCT2tTqp5vBMDp-5X7n9LwCa9XziP0mBycGYiasTMpWWjPL7ehKkG3YZTRv12Z2sjWhVTTkOe-Hg__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1769504726488-image.png?Expires=253370764800&Signature=TbCj5Hcu~1I2TlTpY~ho3uJidRj~SDlFfbFQVQ8IaFsIWAxebtkan1W0Jcp6v67uM4grEoC~lN2S4lY5htd9neO25lBsKwWurAp8~AmaGrYRVGtVtcqq2n4XJIy7I9wdYc8AH-5aDJnNcdR7dt-jRn3y7EoyQ5-L6yXBUsoUCHDLmqqis2vKEV-zrJIX73vWc7LTAaukG-MNe80Kux12rBTh2kJ3lrdxIAtaKTOSdSlK59-c-ybhBVz9KbqIUd1zB5O-cS7~DyhCT2tTqp5vBMDp-5X7n9LwCa9XziP0mBycGYiasTMpWWjPL7ehKkG3YZTRv12Z2sjWhVTTkOe-Hg__&Key-Pair-Id=K3NV4LZ47N8M46)
   5. Review and update the entitlements as needed.
 
 ## Available developer entitlements

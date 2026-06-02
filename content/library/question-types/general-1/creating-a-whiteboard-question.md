@@ -19,10 +19,10 @@ To create a whiteboard question:
 
   3. Click **Create Question**.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1769676705854-image.png?Expires=253370764800&Signature=OTgD1JSycrp8x2QR2hEICEGYvSWRC8FHin7WezprVh~GhsDjkZ47Ra-RAgxDamm5CKER9mwBLOUsu2z2vn0G~6zUqO4O4lXjotLQDWqncGkfxXAjMUA0Ux9H-wvURRregENojTuN4q7CXinG9YOrs7by2LU21TdI~NY2qsJ63ugfhQjXIOxDyV5GEzDG~UiXGf3wO1~sp7RDZsrNfbGe8dru5QzsF1zXNvPwLDtrk9URaqWW6zh2tiWYgyqCe29YlLgFs9n~fFurQPYrwqjDGZGIMXTQg~LnH7ILPWEotoHaFUjKidFhl4xPVRazJyZ~fpEXHRWf3ZKeSeF5qWIYqg__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1769676705854-image.png?Expires=253370764800&Signature=OTgD1JSycrp8x2QR2hEICEGYvSWRC8FHin7WezprVh~GhsDjkZ47Ra-RAgxDamm5CKER9mwBLOUsu2z2vn0G~6zUqO4O4lXjotLQDWqncGkfxXAjMUA0Ux9H-wvURRregENojTuN4q7CXinG9YOrs7by2LU21TdI~NY2qsJ63ugfhQjXIOxDyV5GEzDG~UiXGf3wO1~sp7RDZsrNfbGe8dru5QzsF1zXNvPwLDtrk9URaqWW6zh2tiWYgyqCe29YlLgFs9n~fFurQPYrwqjDGZGIMXTQg~LnH7ILPWEotoHaFUjKidFhl4xPVRazJyZ~fpEXHRWf3ZKeSeF5qWIYqg__&Key-Pair-Id=K3NV4LZ47N8M46)
   4. Select **Whiteboard** under **General**.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1769676722340-image.png?Expires=253370764800&Signature=qE3FALtSxO7hBlx4NP3M9MZeMQxGwYBRFPHzafK42WQnT8x4h-i6i9rqzJFq4Vqo1VK44h-sckStgbtV6eQC9U08pF88mtW71jI88a-j1r9uhMVAoEsUKvwzXOJzwggz0-n0qYAGqLvbhlO1shPSfCUaymPVbCY9WkWo15NDAvDm7p6N~rp2pMY9q5D9r7A17ehXleRihprf3YSc4yLzEjBkiskjecSknre0HqIwgnwpcoIUwD57h77kefrNBywXgnqCIQPfNwOPuS19HjtO8op3nzNQLav024BsJP7rB~Z1l7VCYVs1odhnX7DwNGNxQ1vzWiDGE8fZAXbbFoAHEw__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1769676722340-image.png?Expires=253370764800&Signature=qE3FALtSxO7hBlx4NP3M9MZeMQxGwYBRFPHzafK42WQnT8x4h-i6i9rqzJFq4Vqo1VK44h-sckStgbtV6eQC9U08pF88mtW71jI88a-j1r9uhMVAoEsUKvwzXOJzwggz0-n0qYAGqLvbhlO1shPSfCUaymPVbCY9WkWo15NDAvDm7p6N~rp2pMY9q5D9r7A17ehXleRihprf3YSc4yLzEjBkiskjecSknre0HqIwgnwpcoIUwD57h77kefrNBywXgnqCIQPfNwOPuS19HjtO8op3nzNQLav024BsJP7rB~Z1l7VCYVs1odhnX7DwNGNxQ1vzWiDGE8fZAXbbFoAHEw__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 The whiteboard question creation workflow opens with the following two steps.
 
@@ -30,7 +30,7 @@ The whiteboard question creation workflow opens with the following two steps.
 
   1.  In the **Problem details** section:
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1769676747176-image.png?Expires=253370764800&Signature=tOdYIgQJzH35DlJq0XEWf2l3Oa-9QKZV3mwQ-7RBWKsXGfZcL4OSpOV33vYNPk9lj6ZidX63vm9BCeQdt~zbeimPr40iV971GzhOiV1MnKB74hArWISpXNQF1pfCG2V0x3w~j73IxDTYem354x6FDTpBy8H9LPJrcXHyP97UzrOASbAkQxlyLEyt5gjJ09xiZYaHWFP8Q1hhadHkSlnjnBx-Jh2EPhRhmocKcXxRMHmnNF~P6oVI43KZvpAgpNKXDOT1455WABX7hWlIf6z-f49rYmiPoti1LIdfCZpd5hGXZaGc-msU8hOE6almj8q-nYWLz9JyKhddINVEVr20kg__&Key-Pair-Id=K3NV4LZ47N8M46)
+      ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1769676747176-image.png?Expires=253370764800&Signature=tOdYIgQJzH35DlJq0XEWf2l3Oa-9QKZV3mwQ-7RBWKsXGfZcL4OSpOV33vYNPk9lj6ZidX63vm9BCeQdt~zbeimPr40iV971GzhOiV1MnKB74hArWISpXNQF1pfCG2V0x3w~j73IxDTYem354x6FDTpBy8H9LPJrcXHyP97UzrOASbAkQxlyLEyt5gjJ09xiZYaHWFP8Q1hhadHkSlnjnBx-Jh2EPhRhmocKcXxRMHmnNF~P6oVI43KZvpAgpNKXDOT1455WABX7hWlIf6z-f49rYmiPoti1LIdfCZpd5hGXZaGc-msU8hOE6almj8q-nYWLz9JyKhddINVEVr20kg__&Key-Pair-Id=K3NV4LZ47N8M46)
      1. Enter the **Question name**.
 
      2. Describe the problem in the **Problem description** field. You can use the formatting menu to format the text or to include elements such as tables or images.
@@ -43,7 +43,7 @@ Click **See candidate preview** to view how the question appears to candidates.
 
   2. In the **Question properties** section:
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1769676775044-image.png?Expires=253370764800&Signature=IvuMOaVuLUwqDAHd0XssKGDJMPXo~PcTx3W3FlrDmbkCBg5cFZy0mirrZ5hsm02Op3W460CEubCpFovEAMyebrA7i1suF4JE-QJ7kSVl5qS4jJJ8CU9Srtt0Olv-RI9nlfkYsx6jcTqKvLc29vi73axTQfBge4nGoKcTovGHq6nif9gVDoO0BnynTjHYGp57uIsHMknRMOhCj6HXO6qZ4UJdJco2xWC0X0GtW8V5z1RjM230f80uwMzy7-2CT4NFF3pOpWH1SIuRiBgUu00Fq-ppv45NNxu218A1KYLpT8qGRNkEUfpLRM~dmx8A9~swrZ7fHwYGjfL3B5KMi6pv0g__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1769676775044-image.png?Expires=253370764800&Signature=IvuMOaVuLUwqDAHd0XssKGDJMPXo~PcTx3W3FlrDmbkCBg5cFZy0mirrZ5hsm02Op3W460CEubCpFovEAMyebrA7i1suF4JE-QJ7kSVl5qS4jJJ8CU9Srtt0Olv-RI9nlfkYsx6jcTqKvLc29vi73axTQfBge4nGoKcTovGHq6nif9gVDoO0BnynTjHYGp57uIsHMknRMOhCj6HXO6qZ4UJdJco2xWC0X0GtW8V5z1RjM230f80uwMzy7-2CT4NFF3pOpWH1SIuRiBgUu00Fq-ppv45NNxu218A1KYLpT8qGRNkEUfpLRM~dmx8A9~swrZ7fHwYGjfL3B5KMi6pv0g__&Key-Pair-Id=K3NV4LZ47N8M46)
      1. Enter the **Score**.
 
      2. Add the **Recommended time** in minutes.
@@ -52,7 +52,7 @@ Click **See candidate preview** to view how the question appears to candidates.
 
   3. (Optional) Add **Interviewer guidelines** for internal use, such as evaluation notes, hints, or reference solutions.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1769676786747-image.png?Expires=253370764800&Signature=UyEnZ0A6dQTb-rgHjoV39XhM2hBzwNat4gcU94unqk5J7B85YrZM0dNhBL5t97h6PgfVDme1KtHynconewLe1QnVlYjKmWOR8YF5xxk7tH4nkQHoVrNMN9LFVfFOlyk8VMxjN~sk5e-eUgy2TcUDlmmcc8f18HCd40AuASDN~8n4RmLKcSV1P-1I7rLJE-LOpRBBFfzM2lhlMsMNUjYe9WKnoqW9NdI6sg9UtPbR6Wxki-MJWWxz1xCTnX9QRjQQ6cjG1zhXtuYEuN19PtGN04b~xSY6f4fcDQXWga46vDfHTDDYe6C~9RekDHq4D2Tm5oMlA0YQTdKMXDyGCHYHjw__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1769676786747-image.png?Expires=253370764800&Signature=UyEnZ0A6dQTb-rgHjoV39XhM2hBzwNat4gcU94unqk5J7B85YrZM0dNhBL5t97h6PgfVDme1KtHynconewLe1QnVlYjKmWOR8YF5xxk7tH4nkQHoVrNMN9LFVfFOlyk8VMxjN~sk5e-eUgy2TcUDlmmcc8f18HCd40AuASDN~8n4RmLKcSV1P-1I7rLJE-LOpRBBFfzM2lhlMsMNUjYe9WKnoqW9NdI6sg9UtPbR6Wxki-MJWWxz1xCTnX9QRjQQ6cjG1zhXtuYEuN19PtGN04b~xSY6f4fcDQXWga46vDfHTDDYe6C~9RekDHq4D2Tm5oMlA0YQTdKMXDyGCHYHjw__&Key-Pair-Id=K3NV4LZ47N8M46)
   4. Click **Next**.
 
 ### Step 2: Whiteboard Settings

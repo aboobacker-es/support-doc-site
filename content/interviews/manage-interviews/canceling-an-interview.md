@@ -25,7 +25,7 @@ To delete a scheduled interview:
 
   4. Click **Delete Interview**.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1758781825737-image.png?Expires=253370764800&Signature=d8K9VPsJW8saYQdmG6asVyeuvHkZ2HFc8VjvG8ycDBpFeWM5K33QTd3yb5HkBPuK9bSdhwzNdtMjQxmnBlBY0KgBO3IB1~AwaC1aOrcGgN7RehG8hzE0v0~KUtJPlqjfKzSjImNnDUekbHrHWh93WmlPmqfdrlEtmfvMQV6bFRv06sAkO8wkV2LG~fJZvgKVDFKfBmtD8fFELvCXj5kb~HGJ09PPaK18nNmcC6KyGIgEggGYaBk6mrgmYCg25s3jyfQsh1DcBf6f2Y-UCC5yxWZw7lyuk-9~2o6tyXSGHohKSiGahwd6EZGzj1JjoDAkZgmLA-Jit7I5tYnTi2v~4g__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1758781825737-image.png?Expires=253370764800&Signature=d8K9VPsJW8saYQdmG6asVyeuvHkZ2HFc8VjvG8ycDBpFeWM5K33QTd3yb5HkBPuK9bSdhwzNdtMjQxmnBlBY0KgBO3IB1~AwaC1aOrcGgN7RehG8hzE0v0~KUtJPlqjfKzSjImNnDUekbHrHWh93WmlPmqfdrlEtmfvMQV6bFRv06sAkO8wkV2LG~fJZvgKVDFKfBmtD8fFELvCXj5kb~HGJ09PPaK18nNmcC6KyGIgEggGYaBk6mrgmYCg25s3jyfQsh1DcBf6f2Y-UCC5yxWZw7lyuk-9~2o6tyXSGHohKSiGahwd6EZGzj1JjoDAkZgmLA-Jit7I5tYnTi2v~4g__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 A confirmation message appears.
 

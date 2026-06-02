@@ -40,7 +40,7 @@ Follow the below steps as a recruiter to send an invitation to external candidat
 
   * Select the **Move Forward** button, and then click on the **Assessment**.
 
-![Review-Assessment.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047139776-?Expires=253370764800&Signature=LDI8pmpRsBj3iMavvEok9FgsjXgFujnSEgArBLHpo08T17f9fCZ0GVc08k3E-Urqfa4TyNiisI5FSXX1edB8K-BEv-sU4gOGCwwORuZ1i-4H2wKVilidXCDsdnRHYQGM3KvHoeXkC-~lsQNDsqvkTlCISr7HQr3y2AQt9tey1gMLH9cnLyYgVORVsFBWcjFlvn5M6dYnUPpQecbKhM~hp8SQSsfwbnyQaAHDSy9Uf08KxO2U6wUZ3T7hY850WMGz0e7v5zlc-ItByD0jF705H-mgiKacBqMkDNzHFGoACPkJhODrdP97xx2143RrweBu8WkizsDRw6-w5YeUeu-UwQ__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![Review-Assessment.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047139776-?Expires=253370764800&Signature=LDI8pmpRsBj3iMavvEok9FgsjXgFujnSEgArBLHpo08T17f9fCZ0GVc08k3E-Urqfa4TyNiisI5FSXX1edB8K-BEv-sU4gOGCwwORuZ1i-4H2wKVilidXCDsdnRHYQGM3KvHoeXkC-~lsQNDsqvkTlCISr7HQr3y2AQt9tey1gMLH9cnLyYgVORVsFBWcjFlvn5M6dYnUPpQecbKhM~hp8SQSsfwbnyQaAHDSy9Uf08KxO2U6wUZ3T7hY850WMGz0e7v5zlc-ItByD0jF705H-mgiKacBqMkDNzHFGoACPkJhODrdP97xx2143RrweBu8WkizsDRw6-w5YeUeu-UwQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
   * Once the candidate is moved to Assessment state, open the new inbox entry labeled **Assess Candidate**
 
@@ -50,13 +50,13 @@ Follow the below steps as a recruiter to send an invitation to external candidat
 
     * Set Overall Status as **HackerRank Send Invite**.
 
-![Overall_Status.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047140098-?Expires=253370764800&Signature=bIBM6kXR06hH-Fik2sGnkWaqp-gNT8Jt2mDZYhUvD2TW7mCPtc8V3mVSbtz5zTA8bV3Kzmbu-c4il0ZQ~iwVpMjq1-stGgf~u76HhJXKx4pHCaU3tqa1LOokHtOPj0jqNIjMZoXKOKWkEqVeq9OeZsb-n5sKZrY6Ego7ZR1zdMzwJztBr5XJcFpufwwb~WF6RmV3LrPgpFc2fewNEXqcwb3z7wuFvjXPyD1CVHGKvGqgOcqVCerwKEaAntNl2ZGSfFhLCkadGO6Xk~cRKbWag-DCJ4-TifC-CS5eVkxrF8Ie9YEgsxk2j4yNYC-76x3c4NkcGW-nD55~3wINi5ad0w__&Key-Pair-Id=K3NV4LZ47N8M46)
+      ![Overall_Status.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047140098-?Expires=253370764800&Signature=bIBM6kXR06hH-Fik2sGnkWaqp-gNT8Jt2mDZYhUvD2TW7mCPtc8V3mVSbtz5zTA8bV3Kzmbu-c4il0ZQ~iwVpMjq1-stGgf~u76HhJXKx4pHCaU3tqa1LOokHtOPj0jqNIjMZoXKOKWkEqVeq9OeZsb-n5sKZrY6Ego7ZR1zdMzwJztBr5XJcFpufwwb~WF6RmV3LrPgpFc2fewNEXqcwb3z7wuFvjXPyD1CVHGKvGqgOcqVCerwKEaAntNl2ZGSfFhLCkadGO6Xk~cRKbWag-DCJ4-TifC-CS5eVkxrF8Ie9YEgsxk2j4yNYC-76x3c4NkcGW-nD55~3wINi5ad0w__&Key-Pair-Id=K3NV4LZ47N8M46)
 
   * Add Assessment from the list of assessments available.
 
   * Click on the **Submit** button.
 
-![HackerRank_Send_Invite.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047140488-?Expires=253370764800&Signature=vltbmkWs3LVxzM9DVXSSQ5jeRp6Id2QD9wxERBp2icYee-SHXNqpc2JKHnO7XiVDMHIXoPJgiA6E8H4pfB2rejzCW3pQyTnZX3uyx20XPFpn4d3XCpxSCqAhqjrZwIDUGy2PE51fbjaQ4jcyia~tFULKqlLpla0S9pkfWJbsdsCAQpzogGry0x8nNx~Z2qNic-iuRwV-aCmmw2CsmkIzzEd0WPOsy7ZQ7hiC2QSn7MEpQNi0AfOx5ZRFPy6vuzJmeEDeBwSCOPdFlXblrZq9rZa6HGFBuKs8RblbjS2IUgym13UPUhLno49609dzJbw3zeH~TUypCRGD66zjcYXtQA__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![HackerRank_Send_Invite.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047140488-?Expires=253370764800&Signature=vltbmkWs3LVxzM9DVXSSQ5jeRp6Id2QD9wxERBp2icYee-SHXNqpc2JKHnO7XiVDMHIXoPJgiA6E8H4pfB2rejzCW3pQyTnZX3uyx20XPFpn4d3XCpxSCqAhqjrZwIDUGy2PE51fbjaQ4jcyia~tFULKqlLpla0S9pkfWJbsdsCAQpzogGry0x8nNx~Z2qNic-iuRwV-aCmmw2CsmkIzzEd0WPOsy7ZQ7hiC2QSn7MEpQNi0AfOx5ZRFPy6vuzJmeEDeBwSCOPdFlXblrZq9rZa6HGFBuKs8RblbjS2IUgym13UPUhLno49609dzJbw3zeH~TUypCRGD66zjcYXtQA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 ### HackerRank Workflow
 
@@ -76,7 +76,7 @@ If at this stage, HackerRank finds that the recruiter who has moved the overall 
 
   * You will be able to view the updated statuses from your Workday Account if you click on the **Screening**  tab on the candidate’s page.
 
-![HackerRank_Invited.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047140789-?Expires=253370764800&Signature=A7p3Usd8EkeGWHSQ0KQ~3~EEVQrvKuPUgtxTHypnBqijof~mrX6BZEabbZlVU1KIGgaJIjenzSp4WpCiIWcfLGh6DcKyc~gAEKQFsP1PrYNx8qzUA~WhXQBcEiXcEpv~~mB~gn1~yGseDek5py55RayAc53lHwkKUWW0iCOE61D2PPiLHQEGdFhHnLmHjyBcAL17ucMOWX9~RwY9R~E5XHzEZ94sLrxfSaGfF~LcL0oHIo~jG2lVlY7qbZN2RHWMpqZvMkTQ80bJhm5mlDAgTefuxexzlJDZHB6CHg3x7QmIBX-GRvarbjRsovVAXgRinpvW3quoebXy6pIwbJNGhw__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![HackerRank_Invited.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047140789-?Expires=253370764800&Signature=A7p3Usd8EkeGWHSQ0KQ~3~EEVQrvKuPUgtxTHypnBqijof~mrX6BZEabbZlVU1KIGgaJIjenzSp4WpCiIWcfLGh6DcKyc~gAEKQFsP1PrYNx8qzUA~WhXQBcEiXcEpv~~mB~gn1~yGseDek5py55RayAc53lHwkKUWW0iCOE61D2PPiLHQEGdFhHnLmHjyBcAL17ucMOWX9~RwY9R~E5XHzEZ94sLrxfSaGfF~LcL0oHIo~jG2lVlY7qbZN2RHWMpqZvMkTQ80bJhm5mlDAgTefuxexzlJDZHB6CHg3x7QmIBX-GRvarbjRsovVAXgRinpvW3quoebXy6pIwbJNGhw__&Key-Pair-Id=K3NV4LZ47N8M46)
 
   * Once the Assessment status gets updated to “HackerRank Invited,” the candidate receives the assessment invitation in their inbox and the Assessment link.
 

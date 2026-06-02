@@ -31,7 +31,7 @@ Login to your Workday account and follow the steps below to complete the securit
 
      * Select **Do Not Allow UI Sessions**. This option prevents the integration system user from signing in to Workday through the UI.
 
-![A screenshot of a cell phone  Description automatically generated](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047141270-?Expires=253370764800&Signature=B2rkHj~qMkO98EI529HrHRGML-qtjGdyz4c~pZ4r8azr5BEjKiuAv1QCohREY945STnk3oMaQbmBbDnDVqUYx--b-zX543GPyXLVmH1e84BtoUkxd1q7pISnSYOC6GqWBie7W5hTNeUUK20HKFuXH59x~CR9bJHQ2sNK8sy3auvLN0-dnRKP3KFG09C0qJW9fY7OduvSmqETzSrmZlOLRWRRaTZA-ntNaws7ZGLLe48jE1KDoOXmDzSxMB93SnNfQZ6NzKSyz5I16HH6BaqxMUL90iD4tUmUpDtBFGhtz6-IruTNtqNHrvHVNmd~na2SZCeno9nA9z2glZMN0pO2ng__&Key-Pair-Id=K3NV4LZ47N8M46)
+       ![A screenshot of a cell phone  Description automatically generated](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047141270-?Expires=253370764800&Signature=B2rkHj~qMkO98EI529HrHRGML-qtjGdyz4c~pZ4r8azr5BEjKiuAv1QCohREY945STnk3oMaQbmBbDnDVqUYx--b-zX543GPyXLVmH1e84BtoUkxd1q7pISnSYOC6GqWBie7W5hTNeUUK20HKFuXH59x~CR9bJHQ2sNK8sy3auvLN0-dnRKP3KFG09C0qJW9fY7OduvSmqETzSrmZlOLRWRRaTZA-ntNaws7ZGLLe48jE1KDoOXmDzSxMB93SnNfQZ6NzKSyz5I16HH6BaqxMUL90iD4tUmUpDtBFGhtz6-IruTNtqNHrvHVNmd~na2SZCeno9nA9z2glZMN0pO2ng__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 :::note
 It is advised not to use special characters such as "& (ampersand), = (equals), ?(question mark), % (percent) / (forward slash), \ (backward slash) while creating an ISU password for Workday.
@@ -45,7 +45,7 @@ It is advised not to use special characters such as "& (ampersand), = (equals), 
 
      * Name the Security Group “HackerRank_Integration_SG”
 
-![A screenshot of a cell phone  Description automatically generated](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047141646-?Expires=253370764800&Signature=QC4ozJacipcXeXVcdq-Gdj41ms478nSE7Vd43roB69f194N61PwIkMvlhL7-ea7ABomc6juhrpkd3ENwN0p7c8IuC5UEtL-L1inVDFrm-4Kra5tKp3i3LKcjqZRje15ZFu9ECJqE7GnOsZBExvLVuNnazD-g805vZFCb-fWsruuiw4FoQQUVCgOQ4H2imJ45SWJDs8XcPqYK9mm6ybto61T5WhcRSwbgA5TgIs1eCSIH5uja8uY-~D4Zbj5CdBW-BY9FmcjoGiBHirafFHhdWJrWO64Xcq960KA5zriuNAU3FHYplRCOhjOZug7~ko1BBlUXEEc0rf20QP~Qo6e4EA__&Key-Pair-Id=K3NV4LZ47N8M46)
+       ![A screenshot of a cell phone  Description automatically generated](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047141646-?Expires=253370764800&Signature=QC4ozJacipcXeXVcdq-Gdj41ms478nSE7Vd43roB69f194N61PwIkMvlhL7-ea7ABomc6juhrpkd3ENwN0p7c8IuC5UEtL-L1inVDFrm-4Kra5tKp3i3LKcjqZRje15ZFu9ECJqE7GnOsZBExvLVuNnazD-g805vZFCb-fWsruuiw4FoQQUVCgOQ4H2imJ45SWJDs8XcPqYK9mm6ybto61T5WhcRSwbgA5TgIs1eCSIH5uja8uY-~D4Zbj5CdBW-BY9FmcjoGiBHirafFHhdWJrWO64Xcq960KA5zriuNAU3FHYplRCOhjOZug7~ko1BBlUXEEc0rf20QP~Qo6e4EA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
   * Click **OK.**
 
@@ -67,10 +67,10 @@ Contact Information| Person Data: Work Contact Information | Person Data: Work E
 
     * As a related action on the domain, select **Domain > Edit Security Policy Permissions**.
 
-![A screenshot of a social media post  Description automatically generated](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047142241-?Expires=253370764800&Signature=TuBu05opnytjt6qG~0CkpT48K5jgJscvBf8awD8fzm515M-n9bZ4Md-Rw9omIQmCAxTSIqteFmfdGVkDyfe0XRs-1Du4kndT7crUqv-FV9~yOOpuF1ALdk39yIjYHO4EsJ8~~0zpDMZFiI5x5jSIE~wTlQqMcIC8rreQBaDWNkydwTVieiSyVe9Wqh6I6xFxCVXDtEtQIblwcvqqf9ZjmhU5DpDlkjbGUkDhrghJDYny2Ys2uLcJxAkwXjbZ3xhRq8bivLQie-JwTzRTkr8tywedBEZWfHKY~nclcWzIuC6alY9KpjNuiWKONGkiUon8OorPdNieeU2BUamDmhXccA__&Key-Pair-Id=K3NV4LZ47N8M46)
+      ![A screenshot of a social media post  Description automatically generated](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047142241-?Expires=253370764800&Signature=TuBu05opnytjt6qG~0CkpT48K5jgJscvBf8awD8fzm515M-n9bZ4Md-Rw9omIQmCAxTSIqteFmfdGVkDyfe0XRs-1Du4kndT7crUqv-FV9~yOOpuF1ALdk39yIjYHO4EsJ8~~0zpDMZFiI5x5jSIE~wTlQqMcIC8rreQBaDWNkydwTVieiSyVe9Wqh6I6xFxCVXDtEtQIblwcvqqf9ZjmhU5DpDlkjbGUkDhrghJDYny2Ys2uLcJxAkwXjbZ3xhRq8bivLQie-JwTzRTkr8tywedBEZWfHKY~nclcWzIuC6alY9KpjNuiWKONGkiUon8OorPdNieeU2BUamDmhXccA__&Key-Pair-Id=K3NV4LZ47N8M46)
     * Add the security group you created to the Integration Permissions and select Get and Put based on the table above.
 
-![A screenshot of a cell phone  Description automatically generated](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047142577-?Expires=253370764800&Signature=WNfSlFcDoPEewcGq1vkz~opiOgvOxrtZ0CC9votCKp7-2e9uigYDwiI3xmywgPCfqvxBaaYqg5q352YQlngfHgdRF5deLWfGj~yRSKnlQ1SY~Y1BS8WKq6uocGsCae0zeCX7a2S5EV-EhBCNX8YqcXudCL9wdlU48KtOijkHnqcAGick5ZlsHvs3OY6ttJrhSx6mN9yqN4SGUj3RG0O-ycr18sjybV9T22XK284eNK7rDviSzsvqxbOfzcVewQFoEW4Mf63-lUQbNNYHySpwx8zO7WqJh~7~iXlLProVizvNFHB32kBc4oJSOb1IsvEllYOcJ7p3KMWFXJavkOtaTw__&Key-Pair-Id=K3NV4LZ47N8M46)
+      ![A screenshot of a cell phone  Description automatically generated](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047142577-?Expires=253370764800&Signature=WNfSlFcDoPEewcGq1vkz~opiOgvOxrtZ0CC9votCKp7-2e9uigYDwiI3xmywgPCfqvxBaaYqg5q352YQlngfHgdRF5deLWfGj~yRSKnlQ1SY~Y1BS8WKq6uocGsCae0zeCX7a2S5EV-EhBCNX8YqcXudCL9wdlU48KtOijkHnqcAGick5ZlsHvs3OY6ttJrhSx6mN9yqN4SGUj3RG0O-ycr18sjybV9T22XK284eNK7rDviSzsvqxbOfzcVewQFoEW4Mf63-lUQbNNYHySpwx8zO7WqJh~7~iXlLProVizvNFHB32kBc4oJSOb1IsvEllYOcJ7p3KMWFXJavkOtaTw__&Key-Pair-Id=K3NV4LZ47N8M46)
 
   4. Activate Pending Security Policy Changes.
 
@@ -150,23 +150,23 @@ HackerRank customers can create their own custom tests, and the identifiers for 
 
   2. Note down the Name and Test ID from the HackerRank Test page and the page URL, respectively. In the example below, the Test ID is 1128102, and the Test Name is “Software Engineer Hiring Test.”  
 
-![jobvite_test_id.jpg](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047144262-?Expires=253370764800&Signature=J0W51Hq6S1H3vl1Ge3vSln4z-SERTD1XCLuExQMsZkt7NC7tp0qelVM0w1gOkm6v0nKulDGXzV7XVt3xH8S2PvWKohEJTcsCsuyAlSg3BN~V0tKm-izW546mDNZu7aFubh8GBU5Psk5yJ4G9T7R~odEVphWFh~HeaZmFok3fLwpQyoAZAu4oBuEWMVwgHFoAgLnAumAPWyhSpu8Uce7KZtJDAYnWqX1Qx8VoMwhhqM8D90tK7LMYqty7~QW4y5thAMyhajsmPw3bqaw-yzNQYIeRv8YYEGgx2wClho0joiJnclBhl1Gfdv2WMrwWzutkxycbVHYExpWpu70tHphUxw__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![jobvite_test_id.jpg](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047144262-?Expires=253370764800&Signature=J0W51Hq6S1H3vl1Ge3vSln4z-SERTD1XCLuExQMsZkt7NC7tp0qelVM0w1gOkm6v0nKulDGXzV7XVt3xH8S2PvWKohEJTcsCsuyAlSg3BN~V0tKm-izW546mDNZu7aFubh8GBU5Psk5yJ4G9T7R~odEVphWFh~HeaZmFok3fLwpQyoAZAu4oBuEWMVwgHFoAgLnAumAPWyhSpu8Uce7KZtJDAYnWqX1Qx8VoMwhhqM8D90tK7LMYqty7~QW4y5thAMyhajsmPw3bqaw-yzNQYIeRv8YYEGgx2wClho0joiJnclBhl1Gfdv2WMrwWzutkxycbVHYExpWpu70tHphUxw__&Key-Pair-Id=K3NV4LZ47N8M46)
 
   3. Open Workday and access the **Maintain Recruiting Assessment Tests** task.
 
   4. Add a new Test. Set name to the _Test Name_
 
-![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047144963-?Expires=253370764800&Signature=Lh~0XPDdCOisecnOmADW6v2-H2SOt8D8YCrwYf~94ncMcurAhhMuCGGtC~Czm0aOXnBYTWJfuPVnNHg0etRd5IW1~usCr0oh1buVu5xAbGlv79as7UmTGkPZJHuduhWn2ydV~fiUJarh8dcAIvGHdPeZwyKMUP2UDQXdOB3EEv89t3o~l~ujHgH~5cWFqgQiWDY55mh1lzzjVFYgWubZNDTv~XoNZrFTu7KunZgvLesVk0lNvHUzU8DSWIYQMfp2sFbvJFRqeSTGb2AjHxZtrpP0bUjRM6Wr5zyzAkGFBJfT8w5~RlF5em5eaJ-Vkbl1~d6jaDF0U7uaPA~L6vYWzQ__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047144963-?Expires=253370764800&Signature=Lh~0XPDdCOisecnOmADW6v2-H2SOt8D8YCrwYf~94ncMcurAhhMuCGGtC~Czm0aOXnBYTWJfuPVnNHg0etRd5IW1~usCr0oh1buVu5xAbGlv79as7UmTGkPZJHuduhWn2ydV~fiUJarh8dcAIvGHdPeZwyKMUP2UDQXdOB3EEv89t3o~l~ujHgH~5cWFqgQiWDY55mh1lzzjVFYgWubZNDTv~XoNZrFTu7KunZgvLesVk0lNvHUzU8DSWIYQMfp2sFbvJFRqeSTGb2AjHxZtrpP0bUjRM6Wr5zyzAkGFBJfT8w5~RlF5em5eaJ-Vkbl1~d6jaDF0U7uaPA~L6vYWzQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
   5. Chose Ok on the page
 
   6. After the page saves, hover next to the magnifying glass and choose Integration IDs -> Edit reference ID.
 
-![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047145600-?Expires=253370764800&Signature=vZpW2PJrl50ejvWYHo7SGYgU4VDdVRYbE3R~gQel1jn1Tl76yqI40Ugo248TKTDyDU6mda6qZuiJsVy3uByPQgMxaVR1oS6D7xxuoztYdEDaU4hdlEBJU-KAA0oO9ciGoKoilNB6j4PXA5eXFhaMY84EeY1nUVbze-ORvK~ZqtPS63egqUZFJH2c26Qjdg1K5zcS9SUgCBmxC5l5pm9oSBK93bHhr3ltT3mznMmVejWYwDb7RweVGdW6ypki1Zyd9RfKCkd-csavlmFFcgI6lSERUSvofDTxJ5koak-cMs7LUmqOVrB84JKZhjeQ50gnhHCqXcBPPZllxzcpeDJiCA__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047145600-?Expires=253370764800&Signature=vZpW2PJrl50ejvWYHo7SGYgU4VDdVRYbE3R~gQel1jn1Tl76yqI40Ugo248TKTDyDU6mda6qZuiJsVy3uByPQgMxaVR1oS6D7xxuoztYdEDaU4hdlEBJU-KAA0oO9ciGoKoilNB6j4PXA5eXFhaMY84EeY1nUVbze-ORvK~ZqtPS63egqUZFJH2c26Qjdg1K5zcS9SUgCBmxC5l5pm9oSBK93bHhr3ltT3mznMmVejWYwDb7RweVGdW6ypki1Zyd9RfKCkd-csavlmFFcgI6lSERUSvofDTxJ5koak-cMs7LUmqOVrB84JKZhjeQ50gnhHCqXcBPPZllxzcpeDJiCA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
   7. Set the Reference ID to the _Test ID_  from HackerRank
 
-![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047145938-?Expires=253370764800&Signature=c~TljWkBDvzRu~ndWeK3VmTVIjiIBWeOndZaTbjAsQYWk11NDsB85tD8KnreBnyhyLgx6PTLIaDsA8ELIWFss6Ak6Bw44VaawodO-J~amTSBtSjA90iFoWDx4xX-TKMSMEcun3gE78-JvjxcSWFyWLgnOo91~EnuZ7pubVA6RbGh1~E4ZbDJqk4Glb2FptR6~86Qb8vqiPqipEnLI9DMelJWda8UtkVNOa-bizljbOVP61iEiT7GjJLNmfaf7dOn59aOeMFY57PeNpWAJM0MLgM2LkeDN~jvshkMAgdj5QwMarMik5cqwjKzDBYFg0S3yhRjyAIB7H6sZda6VsPkag__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047145938-?Expires=253370764800&Signature=c~TljWkBDvzRu~ndWeK3VmTVIjiIBWeOndZaTbjAsQYWk11NDsB85tD8KnreBnyhyLgx6PTLIaDsA8ELIWFss6Ak6Bw44VaawodO-J~amTSBtSjA90iFoWDx4xX-TKMSMEcun3gE78-JvjxcSWFyWLgnOo91~EnuZ7pubVA6RbGh1~E4ZbDJqk4Glb2FptR6~86Qb8vqiPqipEnLI9DMelJWda8UtkVNOa-bizljbOVP61iEiT7GjJLNmfaf7dOn59aOeMFY57PeNpWAJM0MLgM2LkeDN~jvshkMAgdj5QwMarMik5cqwjKzDBYFg0S3yhRjyAIB7H6sZda6VsPkag__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 Note: When building out and testing the integration for the first time, you can get the Name and Test ID from the HackerRank Test page and the page URL, as described above.
 
@@ -182,7 +182,7 @@ Follow the below steps in your HackerRank account to bulk export the available t
 
   * Under the CodeScreen Integration setup section, click on download all published tests.
 
-![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047146235-?Expires=253370764800&Signature=QczVpKFM6i0RAcGqyzpNyWS1EYT~vHjzCZuz5F0dcZXyi5CXQqr1FRM1LHj5k8r06LnK-BfdWjUj-m3DSTvd3tGlJxyljFEYbhgD3Vi6s9DONJ46TFhInrnhuc7AZl~x98hHMo25XSUXhJqdsrQtQ1U0-aVf6hG0hfK8aKakjD1uJKGpvuxiek83NV439pR9lVA3~Nn~-a6JFqg3BIhWMqrNki9ddwdtlB7jFkwlIVf-EgyS58rI0Zv7Tsk5ODdl-muREUzvndsnnhP9AfoabRMJunsamhSXIzE6MJPsaTCAkR3i2VSbhOyg8m6C0HyUxvDVRbrW~~A1rw5NH29luQ__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047146235-?Expires=253370764800&Signature=QczVpKFM6i0RAcGqyzpNyWS1EYT~vHjzCZuz5F0dcZXyi5CXQqr1FRM1LHj5k8r06LnK-BfdWjUj-m3DSTvd3tGlJxyljFEYbhgD3Vi6s9DONJ46TFhInrnhuc7AZl~x98hHMo25XSUXhJqdsrQtQ1U0-aVf6hG0hfK8aKakjD1uJKGpvuxiek83NV439pR9lVA3~Nn~-a6JFqg3BIhWMqrNki9ddwdtlB7jFkwlIVf-EgyS58rI0Zv7Tsk5ODdl-muREUzvndsnnhP9AfoabRMJunsamhSXIzE6MJPsaTCAkR3i2VSbhOyg8m6C0HyUxvDVRbrW~~A1rw5NH29luQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 Note: You need to add all new tests that are created in HackerRank and need to be used in Workday manually. 
 
@@ -208,11 +208,11 @@ Follow the below steps to configure default tests in Workday.
 
   5. Add a test to the**Default Assessment Tests** selection box.
 
-![A screenshot of a cell phone  Description automatically generated](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047146519-?Expires=253370764800&Signature=SKYerdxo0LA2jWaP6~5L0P~tlK-2mOTw300WU5FUGTqATUsBH~drh4ENjL140pQDkE6l0C~OU1~aQ62Gj8mFl3QGpliBPZbhPEAshtl4s-n9g1cLueaHQtDsvp3GBRbilMITJIhuvIH5jaeTnU0sDGpHv3yjUSExnwEbD6Hde1J18DM7dzRarhml6B~PPAy1s2--W~Qg0xEdp1CSigbhR0J~R1HS9C4qu1d-Wzrj5N1arvk36j2p7JdeRYuLy8HWB4aT7vwWm-OC0Q6nR27h~JuhgrI7QHQtAdQMDxKwAcq5ARoqbdKrrUdYaOfvzj4SEIS5BfQ0LDTgXYXKc8~brA__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![A screenshot of a cell phone  Description automatically generated](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047146519-?Expires=253370764800&Signature=SKYerdxo0LA2jWaP6~5L0P~tlK-2mOTw300WU5FUGTqATUsBH~drh4ENjL140pQDkE6l0C~OU1~aQ62Gj8mFl3QGpliBPZbhPEAshtl4s-n9g1cLueaHQtDsvp3GBRbilMITJIhuvIH5jaeTnU0sDGpHv3yjUSExnwEbD6Hde1J18DM7dzRarhml6B~PPAy1s2--W~Qg0xEdp1CSigbhR0J~R1HS9C4qu1d-Wzrj5N1arvk36j2p7JdeRYuLy8HWB4aT7vwWm-OC0Q6nR27h~JuhgrI7QHQtAdQMDxKwAcq5ARoqbdKrrUdYaOfvzj4SEIS5BfQ0LDTgXYXKc8~brA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
   * When assigning an assessment to the candidate, the default test will show up by default in the list of assessment tests. The recruiter can change this before sending the test if the default is not right for the candidate.
 
-![A screenshot of a cell phone  Description automatically generated](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047146786-?Expires=253370764800&Signature=PM0s49QTQ~yv4mvjWLlEBb0B6xJW7ThyjEc0zxxqrDwVvlpCQ8PrQ~enRm7GiKIrNyq6s8Sy3qpoNj3bC~rIS9wYAHoWwb7lVEDCtGGIbLHckFCUqX-SB1MRuE-WcyzMQOXhLr7fgH0nLK8hBYCQFkAIvAthbn7JGMfe42UCNGAoQWn4I25GXpx2INXl20g2Lt0bHqBx6vXlH-c5R1BwAhKFLBBgi4VeeYg-qU6MZYByJY4rsZ2lDNK3~2QVmTGxpkHpsHpvNL8tKVIq5SmNQ7Dfpgmicrvfa19dnK-5W3OUQT0HV9rmMo~YzzrefveYLY84uwujMyEas9H25d1rdA__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![A screenshot of a cell phone  Description automatically generated](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047146786-?Expires=253370764800&Signature=PM0s49QTQ~yv4mvjWLlEBb0B6xJW7ThyjEc0zxxqrDwVvlpCQ8PrQ~enRm7GiKIrNyq6s8Sy3qpoNj3bC~rIS9wYAHoWwb7lVEDCtGGIbLHckFCUqX-SB1MRuE-WcyzMQOXhLr7fgH0nLK8hBYCQFkAIvAthbn7JGMfe42UCNGAoQWn4I25GXpx2INXl20g2Lt0bHqBx6vXlH-c5R1BwAhKFLBBgi4VeeYg-qU6MZYByJY4rsZ2lDNK3~2QVmTGxpkHpsHpvNL8tKVIq5SmNQ7Dfpgmicrvfa19dnK-5W3OUQT0HV9rmMo~YzzrefveYLY84uwujMyEas9H25d1rdA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 :::note
 A default test cannot be added once the job is live and candidates are added to it.
@@ -228,10 +228,10 @@ The HackerRank side configuration involves the URL and authentication setup.
 
   * On the left pane, click**Integrations.** The**Integrations** page is displayed. Scroll down and click **Configure** on the **Workday** option. You can also search the Integration from the Search bar.
 
-![integ_workday.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047147412-?Expires=253370764800&Signature=YnfB5EjJeENTQV5oLa4B7WUxWiHT3RQoAFndkfvgra-bW1bnxV90RHVy0xC1YRLTuNI983HZTgx7UghSDfrnzt1UTQvicGe0SPLzx5bFkpoo2oEaSqtyR4QmfTLl9hGSTaitjq6EWjOf3AKdyAuqjf~UefpG1722s8gFzGvCNk48z1QtT07a4Lin1b4yxWar8byymYeiNWqXTZ~XqX65qDJLhi4jh2TmX65scKk8gH9JJFC1T9FDEbPXjokfN~usP37cnzYiW7fSDCOHv1-AZDPuFSFgHuNv0-iESDyOl2grHsU4cVHMwnOZXOrdX3rTPeNniApKiytRMHHZDeX3Pg__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![integ_workday.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047147412-?Expires=253370764800&Signature=YnfB5EjJeENTQV5oLa4B7WUxWiHT3RQoAFndkfvgra-bW1bnxV90RHVy0xC1YRLTuNI983HZTgx7UghSDfrnzt1UTQvicGe0SPLzx5bFkpoo2oEaSqtyR4QmfTLl9hGSTaitjq6EWjOf3AKdyAuqjf~UefpG1722s8gFzGvCNk48z1QtT07a4Lin1b4yxWar8byymYeiNWqXTZ~XqX65qDJLhi4jh2TmX65scKk8gH9JJFC1T9FDEbPXjokfN~usP37cnzYiW7fSDCOHv1-AZDPuFSFgHuNv0-iESDyOl2grHsU4cVHMwnOZXOrdX3rTPeNniApKiytRMHHZDeX3Pg__&Key-Pair-Id=K3NV4LZ47N8M46)
   * The Workday Integration page is displayed.
 
-![integ_workday1.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047148262-?Expires=253370764800&Signature=qL2KCbUFYMXP50qZK8BW0wGgasCP8tcJyuZr3MZD-GTr3nnjGVgeXOmZBlvY9c49up7oJs3Blzu~lBn-RCx7kuX9CIyhTCCWMJ0z8T99sj2tsXCCSWh3vhdlMJBPJ9sv4UIAVyVqSVWVRC48ciL7B9oiA-zFT2X9fkbz4EPsugPYW1De5gub8XQERRtNKF-dUsa4z13I-d5gCmOgNYXOFHoDN5V13qSAYYgCeG0TI96N3bY3tBZeNV23nJkiHHlU2K-Okqqjikxz8l47ZQtGgwZhKaYytma~IcBQ40j4FQyleKQLcB449Tw6a72mnNymHSdWG94LJkaK~UiTf4E2gw__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![integ_workday1.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047148262-?Expires=253370764800&Signature=qL2KCbUFYMXP50qZK8BW0wGgasCP8tcJyuZr3MZD-GTr3nnjGVgeXOmZBlvY9c49up7oJs3Blzu~lBn-RCx7kuX9CIyhTCCWMJ0z8T99sj2tsXCCSWh3vhdlMJBPJ9sv4UIAVyVqSVWVRC48ciL7B9oiA-zFT2X9fkbz4EPsugPYW1De5gub8XQERRtNKF-dUsa4z13I-d5gCmOgNYXOFHoDN5V13qSAYYgCeG0TI96N3bY3tBZeNV23nJkiHHlU2K-Okqqjikxz8l47ZQtGgwZhKaYytma~IcBQ40j4FQyleKQLcB449Tw6a72mnNymHSdWG94LJkaK~UiTf4E2gw__&Key-Pair-Id=K3NV4LZ47N8M46)
   * Enter the valid Workday Security Configuration and the URL and Authentication Setup details.
 
   * Click **Save and Test.**

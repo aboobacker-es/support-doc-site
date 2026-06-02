@@ -49,7 +49,7 @@ To set up SCIM provisioning with Microsoft Entra ID:
 
   5. Click **Generate Key** under **SCIM protocol.**
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1779689373420-image.png?Expires=253370764800&Signature=TKNkdK9kRvs21TUHlPQ3oOAa02qjjHQtB-tjFBv3PuY4Fyow7eNXHjz-aaiLIGFI9n-RdeewAeBvo7wEpxl2KE~YDkGiAjAcTxOuS4~RLdL56RxXM8lDyOtux349NuiWpGLuDXClnoCaUUH7IrA~aNJ0wf733Rt2yAkQPK3kTwcrqig7Pm5ZEdlJ1fOQaS3VvZ0NKJG2LrMkDd3BE~ouJOgTqIE9EOVWkD9L3LAl08R8c0cSfbswyT-nfZdJAc69KCt06Nwi9JvVIcVoeAq2~qSr7cWi0ckICAv~mPFJBH~SG2-OwSZV-TBLgYOl-pSKdtKzosBi4d2ua8JrM0GT8w__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1779689373420-image.png?Expires=253370764800&Signature=TKNkdK9kRvs21TUHlPQ3oOAa02qjjHQtB-tjFBv3PuY4Fyow7eNXHjz-aaiLIGFI9n-RdeewAeBvo7wEpxl2KE~YDkGiAjAcTxOuS4~RLdL56RxXM8lDyOtux349NuiWpGLuDXClnoCaUUH7IrA~aNJ0wf733Rt2yAkQPK3kTwcrqig7Pm5ZEdlJ1fOQaS3VvZ0NKJG2LrMkDd3BE~ouJOgTqIE9EOVWkD9L3LAl08R8c0cSfbswyT-nfZdJAc69KCt06Nwi9JvVIcVoeAq2~qSr7cWi0ckICAv~mPFJBH~SG2-OwSZV-TBLgYOl-pSKdtKzosBi4d2ua8JrM0GT8w__&Key-Pair-Id=K3NV4LZ47N8M46)
   6. Copy the generated API key.
 
 :::note
@@ -70,16 +70,16 @@ Follow the steps outlined in [📄 Setting up HackerRank Single Sign-On with Azu
 
   4. Click **Go to Enterprise Application**.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1779688815601-image.png?Expires=253370764800&Signature=UNXxPt1qtuD6cZtHtZMCes1ZEtI1R48cANceD9hfYQT8F43qCMtRAdt8~lQzGCyELz6KIfDgRvZfpU6C8ByplWVqnT6zyPb41WDTYbu83crj6rm~RDNiocA6m90RzGs7SiCBhmtRT63MECcoCl9MY3dlR9czHYXrqRc07mMq7DtUi~TvQYnkIQfbARnvhdRza-NpaS0r5XNpqRrH1uaNztSrSXyqCMys-XJJw5WE8VHHwXfLaCxksAagkn8eEKxsZWR7VfNvbRHRgfoJEDRTNTiq0nIFfEQ3eDUTpWQD1vApsMw7yM-THXWdtyI3BCL1Br9O5H3enrD7S40wFalvPQ__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1779688815601-image.png?Expires=253370764800&Signature=UNXxPt1qtuD6cZtHtZMCes1ZEtI1R48cANceD9hfYQT8F43qCMtRAdt8~lQzGCyELz6KIfDgRvZfpU6C8ByplWVqnT6zyPb41WDTYbu83crj6rm~RDNiocA6m90RzGs7SiCBhmtRT63MECcoCl9MY3dlR9czHYXrqRc07mMq7DtUi~TvQYnkIQfbARnvhdRza-NpaS0r5XNpqRrH1uaNztSrSXyqCMys-XJJw5WE8VHHwXfLaCxksAagkn8eEKxsZWR7VfNvbRHRgfoJEDRTNTiq0nIFfEQ3eDUTpWQD1vApsMw7yM-THXWdtyI3BCL1Br9O5H3enrD7S40wFalvPQ__&Key-Pair-Id=K3NV4LZ47N8M46)
   5. Select **Provisioning.**
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1779688742526-image.png?Expires=253370764800&Signature=Rbg0nXYOgDtnzsGM1YQQim2YlmFjXBb2CJ2MzG8cMWa7aR106sS1A9cpWY4W11ZlXEi4hdvlY95FVASW4WVvwG~umb-bQN9-hJzCd-J58rHU~o-IQ0kMDCifGIY38nFUTiZ1330oyt~Ln9YHrTGHxSqyvbplfupxyZa0pSAGmoAnOXAH1fbVHKdgL874Ilk2LxOVXdtbbLkFYK765VeW7Woc7WwUDDWjPWTsy9rUbSrpZqg8tayvRcABI9uSOLPh-22wfkxVbkAzV0cMP7d-XmTjQVgDNFfuXiOEh2SW~B~usw7D0KmDxK3pFvnMtgvfKAR4q23Zp4NZeaQ-44D09w__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1779688742526-image.png?Expires=253370764800&Signature=Rbg0nXYOgDtnzsGM1YQQim2YlmFjXBb2CJ2MzG8cMWa7aR106sS1A9cpWY4W11ZlXEi4hdvlY95FVASW4WVvwG~umb-bQN9-hJzCd-J58rHU~o-IQ0kMDCifGIY38nFUTiZ1330oyt~Ln9YHrTGHxSqyvbplfupxyZa0pSAGmoAnOXAH1fbVHKdgL874Ilk2LxOVXdtbbLkFYK765VeW7Woc7WwUDDWjPWTsy9rUbSrpZqg8tayvRcABI9uSOLPh-22wfkxVbkAzV0cMP7d-XmTjQVgDNFfuXiOEh2SW~B~usw7D0KmDxK3pFvnMtgvfKAR4q23Zp4NZeaQ-44D09w__&Key-Pair-Id=K3NV4LZ47N8M46)
   6. Click **Connect your application** under **Create configuration**.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1779688872450-image.png?Expires=253370764800&Signature=GPpR8ZoY-PxmuyE70E7kIWgHB-tsovblMPe43qqPWMpC4BnPg8nSt4GGH3KGipAr3YFXRa9Vr~UK3FUMRAhajx4CBtNsu8MXPTgdM9shnV-xAPpkHUt1l5kgaKP8sH8RTolq0hQGukPPlIFOWATi9oAWRIWv2RkGpqzxD7FWRhs39amuO~uBZlinY-oHghW8w3YphVuXtTFb4f3Uss8ZCibUeo6vvyc1O-7~s2JgZPm1NG0tjw5q-rFaIqfqWN8R2~z4oxEkA9fAey7cOT8Gs6sVva5AUhHDmUQJNHwzzXKZXBmx3SG9IIl0m0r9m47NaATUmLU595E4MQgMVYvqxw__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1779688872450-image.png?Expires=253370764800&Signature=GPpR8ZoY-PxmuyE70E7kIWgHB-tsovblMPe43qqPWMpC4BnPg8nSt4GGH3KGipAr3YFXRa9Vr~UK3FUMRAhajx4CBtNsu8MXPTgdM9shnV-xAPpkHUt1l5kgaKP8sH8RTolq0hQGukPPlIFOWATi9oAWRIWv2RkGpqzxD7FWRhs39amuO~uBZlinY-oHghW8w3YphVuXtTFb4f3Uss8ZCibUeo6vvyc1O-7~s2JgZPm1NG0tjw5q-rFaIqfqWN8R2~z4oxEkA9fAey7cOT8Gs6sVva5AUhHDmUQJNHwzzXKZXBmx3SG9IIl0m0r9m47NaATUmLU595E4MQgMVYvqxw__&Key-Pair-Id=K3NV4LZ47N8M46)
   7. In the **New provisioning configuration** page:
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1779817010410-image.png?Expires=253370764800&Signature=ZH3UagLzwW8Xp~LXFliwmfXofRkZoomJSXF1KVI2Xy4LJqaiKUrmRUUeJPWU3FscnLhzCbRS1lyGpPgLppSxeZrdTORwvCNMJMH1m~R9Sxl91bmhgc1VWDSjMXwOXh7wDO9yu5eZdT0OKAKGdhQanf3VefVu7EmjpBGkkfmD49-hZOj6U1BGA6zPzlN0qYrluK1bo7bw8CPbZcndAKB2RTGUJsmdBtfPt08m9HO4retQJDEcM9rGvPC4D17j0poTdF8Mb6Wwq8MieXHujksP51EwFCnh7Lhynl-hCyEiMt2Rzy5uAM-R6k4OMABk5sSZjMV6fo-i29FzWYOigabTqQ__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1779817010410-image.png?Expires=253370764800&Signature=ZH3UagLzwW8Xp~LXFliwmfXofRkZoomJSXF1KVI2Xy4LJqaiKUrmRUUeJPWU3FscnLhzCbRS1lyGpPgLppSxeZrdTORwvCNMJMH1m~R9Sxl91bmhgc1VWDSjMXwOXh7wDO9yu5eZdT0OKAKGdhQanf3VefVu7EmjpBGkkfmD49-hZOj6U1BGA6zPzlN0qYrluK1bo7bw8CPbZcndAKB2RTGUJsmdBtfPt08m9HO4retQJDEcM9rGvPC4D17j0poTdF8Mb6Wwq8MieXHujksP51EwFCnh7Lhynl-hCyEiMt2Rzy5uAM-R6k4OMABk5sSZjMV6fo-i29FzWYOigabTqQ__&Key-Pair-Id=K3NV4LZ47N8M46)
      * Select **Bearer authentication** as the authentication method.
 
      * Enter <https://services.hackerrank.com/scim/v2> in the **Tenant URL** filed**.**  
@@ -108,7 +108,7 @@ Ensure that you create app roles for **Company Admin** , **Recruiter** , and **D
 
   5. In the **Create app role** dialog:
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1779689049672-image.png?Expires=253370764800&Signature=fK1jfmYWgy2w5F5Tm2UM95XTTUCpHHKcjpJ7qlmt0WlHGoK-g~gJKjGKHw9gX7vqJDA3OiuftcWSsWbFDR7sd33TzcqEHX6AA~caPPqVodkv9-1N9ch1t9-1oOb~kgD0wGmeo1UVKyYXfwZewZ0EbtjgBRZYz~4B62GASookKfu2Nuy3W-qLqdYNa6lqzWrQoO30TrMsIuJMGBwfAhTL4C2prXKQjcgZt02nAuveqsne7rZGfmlhl0~wShbkvrbTVjyGzYM~SaS3IjjE6w4vQVz2CHrabTI0crfcapMcZLxipX7KAh-nibMqN9C6kJ4UigKx4xAmFYRe0HZeLczaNA__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1779689049672-image.png?Expires=253370764800&Signature=fK1jfmYWgy2w5F5Tm2UM95XTTUCpHHKcjpJ7qlmt0WlHGoK-g~gJKjGKHw9gX7vqJDA3OiuftcWSsWbFDR7sd33TzcqEHX6AA~caPPqVodkv9-1N9ch1t9-1oOb~kgD0wGmeo1UVKyYXfwZewZ0EbtjgBRZYz~4B62GASookKfu2Nuy3W-qLqdYNa6lqzWrQoO30TrMsIuJMGBwfAhTL4C2prXKQjcgZt02nAuveqsne7rZGfmlhl0~wShbkvrbTVjyGzYM~SaS3IjjE6w4vQVz2CHrabTI0crfcapMcZLxipX7KAh-nibMqN9C6kJ4UigKx4xAmFYRe0HZeLczaNA__&Key-Pair-Id=K3NV4LZ47N8M46)
      1. Enter one of the following in **Display name:**
 
         * Company Admin
@@ -145,7 +145,7 @@ Configure attribute mappings to control how Microsoft Entra ID provisions users 
 
   2. Go to**Provisioning > Attribute mappings**.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1779689193726-image.png?Expires=253370764800&Signature=JPbGaRFWo0fv0ZnT-2ZpegVp6BVClnCXFCSr~pKCx2N7kdi1hhK5R8YjjFnbV7Sdv3RsGs4IaQeKtYZ~IbA7yQ6IkwMyELMvyfNM20ggAK27gjcTZ-akZbh-mVtWMrrc~hqrARnmS8h1Qcut1HPlzXZ3d6ztF~BwcpPtdkinapvK5cA9MqNgxwg0Ly9TNCGfY5Bm6miuDeTrUPySBOFfT8S9yIp84ec2GKPNXx~mH3qxFY3U6sKSaQ9MOk~K-T8UDscQxluZIt-NnZJUnVaWws0fWtg~-HCeASGekNhhIN-MDzY88d9TBAENkhz8Dkj5imNjsTkr~57o~GL81FfkYA__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1779689193726-image.png?Expires=253370764800&Signature=JPbGaRFWo0fv0ZnT-2ZpegVp6BVClnCXFCSr~pKCx2N7kdi1hhK5R8YjjFnbV7Sdv3RsGs4IaQeKtYZ~IbA7yQ6IkwMyELMvyfNM20ggAK27gjcTZ-akZbh-mVtWMrrc~hqrARnmS8h1Qcut1HPlzXZ3d6ztF~BwcpPtdkinapvK5cA9MqNgxwg0Ly9TNCGfY5Bm6miuDeTrUPySBOFfT8S9yIp84ec2GKPNXx~mH3qxFY3U6sKSaQ9MOk~K-T8UDscQxluZIt-NnZJUnVaWws0fWtg~-HCeASGekNhhIN-MDzY88d9TBAENkhz8Dkj5imNjsTkr~57o~GL81FfkYA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 #### Configure user attribute mappings
 
@@ -153,7 +153,7 @@ Configure attribute mappings to control how Microsoft Entra ID provisions users 
 
   2. Configure the following mappings:
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1779689210136-image.png?Expires=253370764800&Signature=R-H944Y1sOWqfv7RwyJbjbQiVnvNzrbSC1Uofiz2rN~Gk0onRk2hGQbaM4taTX833g5Z~WkRsc3lqtW~VxOosYcDx0l54MXG9JT6FRo3vZ~yVPyuQS5Oi1CaYV3ke-GyCO8Yqhd0b9-hAKXtMWiDP9XRsbYeYqxNxPKgcn1cmu-7uGH5Y34tVQm6Oajq4QsSA-FINRKhOOSCdIe6HXYI6PZdSSJB7FApt7AIT1csosP7uATMJ~w2al1Tqr28dXtJhzHM8bsOQJK~uLMd8qQiykIVJ0Tq2yOtJEiZoZROP268xr-NgezgpDvhStsREPMbx~gryWsGUemgVa-IPcQ-Yw__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1779689210136-image.png?Expires=253370764800&Signature=R-H944Y1sOWqfv7RwyJbjbQiVnvNzrbSC1Uofiz2rN~Gk0onRk2hGQbaM4taTX833g5Z~WkRsc3lqtW~VxOosYcDx0l54MXG9JT6FRo3vZ~yVPyuQS5Oi1CaYV3ke-GyCO8Yqhd0b9-hAKXtMWiDP9XRsbYeYqxNxPKgcn1cmu-7uGH5Y34tVQm6Oajq4QsSA-FINRKhOOSCdIe6HXYI6PZdSSJB7FApt7AIT1csosP7uATMJ~w2al1Tqr28dXtJhzHM8bsOQJK~uLMd8qQiykIVJ0Tq2yOtJEiZoZROP268xr-NgezgpDvhStsREPMbx~gryWsGUemgVa-IPcQ-Yw__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 **Target attribute**| **Source (In Entra ID)**| **Description**  
 ---|---|---  
@@ -186,12 +186,12 @@ Keep only these two attributes. Remove any additional attributes such as externa
 
   3. Click **Add user/group.**
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1779689301677-image.png?Expires=253370764800&Signature=tuYW5-ltsDIZF0W5oap1hDy7TRfhy1X~x-Ekve8q98-gBFR9ejxzoxUnrE9OV~RD3ETAb9l8~iVG27BACjkkag3JD8NBCkX~y4MzuQXgSali4RkoXiH~yOAJZI21A0AYVxQNQh-EhfpWsJU6aldS0EOvagURVBc1d8wdizmHMF-11EmUnWB3rwQ7ZfqJhm1KsiKNqP9Ds3lPOqEKXss8IIUsNadOjb7gbIKriViZYOhHnebUHoVCSivVi7uTp4UbHwpT4ts4UinP87Qpqy4dxoNfbbis-ENUf8RH2JeAcX~j3bMT-rbfGAOTBCVnAID~GfhQnr2Ske3evK-oecn5zA__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1779689301677-image.png?Expires=253370764800&Signature=tuYW5-ltsDIZF0W5oap1hDy7TRfhy1X~x-Ekve8q98-gBFR9ejxzoxUnrE9OV~RD3ETAb9l8~iVG27BACjkkag3JD8NBCkX~y4MzuQXgSali4RkoXiH~yOAJZI21A0AYVxQNQh-EhfpWsJU6aldS0EOvagURVBc1d8wdizmHMF-11EmUnWB3rwQ7ZfqJhm1KsiKNqP9Ds3lPOqEKXss8IIUsNadOjb7gbIKriViZYOhHnebUHoVCSivVi7uTp4UbHwpT4ts4UinP87Qpqy4dxoNfbbis-ENUf8RH2JeAcX~j3bMT-rbfGAOTBCVnAID~GfhQnr2Ske3evK-oecn5zA__&Key-Pair-Id=K3NV4LZ47N8M46)
   4. Select the users or groups that you want to assign under **Users and groups**.
 
   5. Select one of the following roles under **Select a role** :
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1779688216005-image.png?Expires=253370764800&Signature=WE73LOmmD3KLMGbb7jUzztV9JcvkhbEVpPCgP2gttANC0iHS0k1hhCJwIZHfLh-455Dz2Lt~PKh5zth8Ahe0XYMkmfbfseRFIW7NWtMae4TWPGVegoyS5i0WedDoyIKQGIe1RuWnouZnRHPgT~9DbFwyHH7l38qMrGQiEWJcBc7c-07C8J5BuUKyjIZlr8iMkArFEcg~yHb5QeqGiyrR8JZDkNaVWIrSwL-X7FGoeyxyhn1dpgOqJP6bvoJjG10RE-ZV8~BpDXVeCW1aQQsDCIwTggcxhez5M4OHLgchcfsz~-uMQF1lryEEzgkNl2iRQ3TrRDnkWUSo05sFgyImig__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1779688216005-image.png?Expires=253370764800&Signature=WE73LOmmD3KLMGbb7jUzztV9JcvkhbEVpPCgP2gttANC0iHS0k1hhCJwIZHfLh-455Dz2Lt~PKh5zth8Ahe0XYMkmfbfseRFIW7NWtMae4TWPGVegoyS5i0WedDoyIKQGIe1RuWnouZnRHPgT~9DbFwyHH7l38qMrGQiEWJcBc7c-07C8J5BuUKyjIZlr8iMkArFEcg~yHb5QeqGiyrR8JZDkNaVWIrSwL-X7FGoeyxyhn1dpgOqJP6bvoJjG10RE-ZV8~BpDXVeCW1aQQsDCIwTggcxhez5M4OHLgchcfsz~-uMQF1lryEEzgkNl2iRQ3TrRDnkWUSo05sFgyImig__&Key-Pair-Id=K3NV4LZ47N8M46)
 
   * Company Admin
 

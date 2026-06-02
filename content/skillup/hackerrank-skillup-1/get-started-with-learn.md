@@ -33,7 +33,7 @@ To begin using the Learn experience:
 
   2. Go to the **Learn** tab.
 
-![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F3847494b-0b37-4620-a6d4-bc6ef1512241-AD_4nXelCwI8-7r4liSmjbch7ymCg5XVpjJVOMzIhCwLMy-YVHuYwzAWx5rKfNIm6TPaXJHVjYys-xjqibhXEDCa76D66dg1c2drC5DBcPjZBAM0ZW4GtC7BrkQzDHjy4COip95e2wCTYg-fb9cf4e8-e5ac-424b-8847-0665d6f7bbcd?Expires=253370764800&Signature=onAZLmCbZd1zy1tKRcCQGwTSkZLRe7bITdio1k586ls7BunZzl7JY4DN67uh5cUtl1YpDMN-89j5aVGLxBJeTvWlBIh4hp4f950~EoMttfAgpUoohILLe~S-DXOz1wmoyfcoaKXUFPGBh6IJZecTmcZ4mXeXxOsIg~toUgA6wBrHRt6dOCUvnsveGoBzPYosO7I-FGxYHNqXvu8M9BNkVogLqifGJsyO0-6s~lHlyGiIuS00tzI9bWFgAsmla2SGYpmhBj~YUlQrQGJNoymzHiGFIDhWd2phrNPbASZvX4kxBaP7L9nk1FkpWLS3wS0Hvv7fakLGD7F1NoJEg98Jeg__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F3847494b-0b37-4620-a6d4-bc6ef1512241-AD_4nXelCwI8-7r4liSmjbch7ymCg5XVpjJVOMzIhCwLMy-YVHuYwzAWx5rKfNIm6TPaXJHVjYys-xjqibhXEDCa76D66dg1c2drC5DBcPjZBAM0ZW4GtC7BrkQzDHjy4COip95e2wCTYg-fb9cf4e8-e5ac-424b-8847-0665d6f7bbcd?Expires=253370764800&Signature=onAZLmCbZd1zy1tKRcCQGwTSkZLRe7bITdio1k586ls7BunZzl7JY4DN67uh5cUtl1YpDMN-89j5aVGLxBJeTvWlBIh4hp4f950~EoMttfAgpUoohILLe~S-DXOz1wmoyfcoaKXUFPGBh6IJZecTmcZ4mXeXxOsIg~toUgA6wBrHRt6dOCUvnsveGoBzPYosO7I-FGxYHNqXvu8M9BNkVogLqifGJsyO0-6s~lHlyGiIuS00tzI9bWFgAsmla2SGYpmhBj~YUlQrQGJNoymzHiGFIDhWd2phrNPbASZvX4kxBaP7L9nk1FkpWLS3wS0Hvv7fakLGD7F1NoJEg98Jeg__&Key-Pair-Id=K3NV4LZ47N8M46)
   3. Select a skill (for example, Python, Angular).
 
   4. Select a concept from the **Foundational** , **Intermediate** , or **Expert** track.

@@ -23,12 +23,12 @@ To invite candidates to an AI interview in Chakra:
 
   2. Click the sidebar icon and select **My Interviewers**.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1770795260545-image.png?Expires=253370764800&Signature=eUmr0VFHnJcCN3MW28unEGFAJWSIzkgPvBXHUmUYOlxIh5x0PZWjBFQBc~ANrVAHXYPbMEwS9gANqfGr1zoyf6Cd2g32lNBdrpBTWoy6hH-9HlOOeAwQ4-bjNuyeDzCVRGanN0F4bEbYXvGXozX4TNRpo5AKQkDAV-KISVZKToobshkx3sfw8QK2gWJo~iz4C-5amgWwa1aU8Is7fS63oAQjmI-EmDtFb9ZllhJ~JpoRehkSH5p38JkukVuoTVv3jYNEPKMyzue6T~VbcMddqrJflXweEGu95W7XbP4tdHi8DjRB0dIfaz~vpErI70eqymI1feUvhEYzE1omA-a-2Q__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1770795260545-image.png?Expires=253370764800&Signature=eUmr0VFHnJcCN3MW28unEGFAJWSIzkgPvBXHUmUYOlxIh5x0PZWjBFQBc~ANrVAHXYPbMEwS9gANqfGr1zoyf6Cd2g32lNBdrpBTWoy6hH-9HlOOeAwQ4-bjNuyeDzCVRGanN0F4bEbYXvGXozX4TNRpo5AKQkDAV-KISVZKToobshkx3sfw8QK2gWJo~iz4C-5amgWwa1aU8Is7fS63oAQjmI-EmDtFb9ZllhJ~JpoRehkSH5p38JkukVuoTVv3jYNEPKMyzue6T~VbcMddqrJflXweEGu95W7XbP4tdHi8DjRB0dIfaz~vpErI70eqymI1feUvhEYzE1omA-a-2Q__&Key-Pair-Id=K3NV4LZ47N8M46)
   3. Locate the interviewer you want to invite candidates to.
 
   4. Click the copy link icon.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1770795281468-image.png?Expires=253370764800&Signature=S5y1Z2pwqz6lMxFfb2Z9DK5CnIgBsDbifphfBG~45Egs062BBCVo7pJ1LR2yORvpcbEEFBijddvvH1cvXkyORwkPn8MeYrbioTd8B0N-R4ZpIFfaiQWE4PF~wfCoM3bvZUSBegcX8tQLCpoAwqaLQJz65QB8pGYDZz7amgQ~wWyQLK~~7nufLShcUelJrp9PyRSSyjncxlSMYMorOcuDaTaO83oZu1ksAy4cVAjr2mCP57So0ccyuhVXEfvww0en4X9BcBaqRHTchaAopNHPbOjUtz45Y~CLYMOJcPOoH7PiUtUS7RUq-ATcb9ZUetJnYH2zHT59qMNIupoKeokzmQ__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1770795281468-image.png?Expires=253370764800&Signature=S5y1Z2pwqz6lMxFfb2Z9DK5CnIgBsDbifphfBG~45Egs062BBCVo7pJ1LR2yORvpcbEEFBijddvvH1cvXkyORwkPn8MeYrbioTd8B0N-R4ZpIFfaiQWE4PF~wfCoM3bvZUSBegcX8tQLCpoAwqaLQJz65QB8pGYDZz7amgQ~wWyQLK~~7nufLShcUelJrp9PyRSSyjncxlSMYMorOcuDaTaO83oZu1ksAy4cVAjr2mCP57So0ccyuhVXEfvww0en4X9BcBaqRHTchaAopNHPbOjUtz45Y~CLYMOJcPOoH7PiUtUS7RUq-ATcb9ZUetJnYH2zHT59qMNIupoKeokzmQ__&Key-Pair-Id=K3NV4LZ47N8M46)
   5. Share the copied link with candidates (For example, through email, your ATS, or your careers page).
 
 :::note

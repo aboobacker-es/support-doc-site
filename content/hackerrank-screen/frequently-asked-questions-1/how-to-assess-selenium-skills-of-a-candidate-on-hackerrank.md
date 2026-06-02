@@ -19,7 +19,7 @@ HackerRank's Projects questions associated with Selenium skills cover a wide arr
 
   * **Broken link detection using Selenium** \- Broken links may exist due to some kind of server error, which, in turn, causes the corresponding webpages to malfunction and not be displayed. Automated Selenium testing for broken link detection, which requires the collection of all links, verifying the HTTP response code, and so on, is assessed with a Selenium Java question as shown below. In a similar fashion, our Selenium questions are also designed to assess the automated detection of broken iframes, images, anchors. 
 
-![selenium.jpg](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046596591-?Expires=253370764800&Signature=nhL1WOuArME~UAiYcw9ewuaNNzieE1ojItTyW1b6YB-bsBpr7RzoBFiUpf-P8MtaImlrg7-64AEnYdVAki9Rb6sS7298IGmxxnn7y6Jjy~n-8pD2tWE-QRVA~AIUGXPoK6FqZgwSk5uPJ~F~gcdHXwR4Q4MM6yig5ntM-0uJPXtPF9IZbLv0Qwsu36EypS38I5P0-Z6wsbGCDZsj6ratHl977cKtmpuZ1YjMIm2Gs1OAB2ZkBGsBAcRjCnKyyQh~oxy9FpsMzyHgV4wYTZK8EdmMeR0fvQfYfnnsVQJVu1APVFNYO9RWek8eeqg~fkfMc7A0AbuzpJLIIjwQBC6uLw__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![selenium.jpg](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046596591-?Expires=253370764800&Signature=nhL1WOuArME~UAiYcw9ewuaNNzieE1ojItTyW1b6YB-bsBpr7RzoBFiUpf-P8MtaImlrg7-64AEnYdVAki9Rb6sS7298IGmxxnn7y6Jjy~n-8pD2tWE-QRVA~AIUGXPoK6FqZgwSk5uPJ~F~gcdHXwR4Q4MM6yig5ntM-0uJPXtPF9IZbLv0Qwsu36EypS38I5P0-Z6wsbGCDZsj6ratHl977cKtmpuZ1YjMIm2Gs1OAB2ZkBGsBAcRjCnKyyQh~oxy9FpsMzyHgV4wYTZK8EdmMeR0fvQfYfnnsVQJVu1APVFNYO9RWek8eeqg~fkfMc7A0AbuzpJLIIjwQBC6uLw__&Key-Pair-Id=K3NV4LZ47N8M46)
 
   * **Form submission automation** \- Questions to assess login, registration, and automation testing abilities for form submission on web pages. 
 

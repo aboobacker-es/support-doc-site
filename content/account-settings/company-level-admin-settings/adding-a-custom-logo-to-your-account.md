@@ -27,7 +27,7 @@ To update the logo for your company account:
 
   5. In the **Company Logo** section, select **Change.**
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1765792534516-image.png?Expires=253370764800&Signature=oVCbpBldn0LIGlamU9hVP-yd0mkC-eCiZ2wG4JcQzH0ubItGSsH-OAf-z~zC6xA41pm3t4YEMxNj1cXkw1d2Ph9FMHcSbzeRvBStsP1B8~hKadDi4ORiS7o-pnWt7QsDiokHzWyX0hNNe6VnYbt2Rg1BA9irEIN4-vOITzBY4KP5soBxkfguPXwcFIwwRFT~ZAc64Ifmp9IRmHhj4RFTjrpRXn-Z1Vd4GADGPfda5njLROg1-tCA2E7x-cddkja-pAgL7cft~sYN5aiciApSQUsbRQN3wDAK5iggvlJGLlhaQRTzHrmL6sf-N2vQunMlVom8TzDs0kDNr8e2xAlYzw__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1765792534516-image.png?Expires=253370764800&Signature=oVCbpBldn0LIGlamU9hVP-yd0mkC-eCiZ2wG4JcQzH0ubItGSsH-OAf-z~zC6xA41pm3t4YEMxNj1cXkw1d2Ph9FMHcSbzeRvBStsP1B8~hKadDi4ORiS7o-pnWt7QsDiokHzWyX0hNNe6VnYbt2Rg1BA9irEIN4-vOITzBY4KP5soBxkfguPXwcFIwwRFT~ZAc64Ifmp9IRmHhj4RFTjrpRXn-Z1Vd4GADGPfda5njLROg1-tCA2E7x-cddkja-pAgL7cft~sYN5aiciApSQUsbRQN3wDAK5iggvlJGLlhaQRTzHrmL6sf-N2vQunMlVom8TzDs0kDNr8e2xAlYzw__&Key-Pair-Id=K3NV4LZ47N8M46)
   6. Upload a new logo in **SVG or PNG** format (maximum size: **800 KB**).
 
   7. Review the preview and confirm your changes. Your new company logo updates immediately.

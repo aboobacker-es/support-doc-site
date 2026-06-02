@@ -43,7 +43,7 @@ To rename a test variant:
 
   2. Select **Rename**.
 
-![ime1.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1753882491254-ime1.png?Expires=253370764800&Signature=SdDPhCUxRDerZMcAScK0rMZ67-BydajonHFr10Dn3-MoE6yQGXqBoKqfrdivudKcRZIs~UhC2GHSKnKGm4V~qdBU40l2jlSQNrMgjAkDCZGoc8eh1Eoa-~r-1URhQuVmaxno9vg6tl939-bHvhxqfevWqaFynL-bQXbb3Y2MyS7lMYI90CRiHexUAq54ChbnDMRQNvGBrgVNCeM0xsITnKxrBx9MjPIq7-52-wl1qHQRz-UueR7XBp2YGZ0X9~T1w7TtFx-JrSPcaMGfCAv1wS3tPoPEYuZqrPucORtyKDKldHmlJq0cTm1eapaU6ywVzUzb0cgS0RmjWme3muvqiw__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![ime1.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1753882491254-ime1.png?Expires=253370764800&Signature=SdDPhCUxRDerZMcAScK0rMZ67-BydajonHFr10Dn3-MoE6yQGXqBoKqfrdivudKcRZIs~UhC2GHSKnKGm4V~qdBU40l2jlSQNrMgjAkDCZGoc8eh1Eoa-~r-1URhQuVmaxno9vg6tl939-bHvhxqfevWqaFynL-bQXbb3Y2MyS7lMYI90CRiHexUAq54ChbnDMRQNvGBrgVNCeM0xsITnKxrBx9MjPIq7-52-wl1qHQRz-UueR7XBp2YGZ0X9~T1w7TtFx-JrSPcaMGfCAv1wS3tPoPEYuZqrPucORtyKDKldHmlJq0cTm1eapaU6ywVzUzb0cgS0RmjWme3muvqiw__&Key-Pair-Id=K3NV4LZ47N8M46)
   3. Enter the new name.
 
   4. Click **Save**.
@@ -58,7 +58,7 @@ To add questions or sections:
 
   3. Choose one of the following options:
 
-![ime2.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1753882511751-ime2.png?Expires=253370764800&Signature=YrTEhMROT3E~8XG7F0gscK8oDcpbiD67RpKhxVRHTb-PXmxw8BMT7mao01uo~t6~0n5V3q0lBqiCx9ejfBTwk-lxdSIo1JUNwwboA0YftQ0O5C-b-Q---s54Xws-V13d9c~aEMoPH6xlil2Wt0h8qEIt6h9FkIDO1Z59WKyApeNNjfu-7RRqoi0Gsb~84A-FU7m729f5sf3opnnuJjFC1Q7LrhGNvaLsVu2usbQzHgzZbqLpyyFy326RBdX1s8~8-NJM6RnXDjo0dT~ODRvQYlip3o-FB7U1nD9ou8QgNgdP1Pu2J1iTEjHPqH452bONs-yzQQUF9aISHLq08UDPFg__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![ime2.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1753882511751-ime2.png?Expires=253370764800&Signature=YrTEhMROT3E~8XG7F0gscK8oDcpbiD67RpKhxVRHTb-PXmxw8BMT7mao01uo~t6~0n5V3q0lBqiCx9ejfBTwk-lxdSIo1JUNwwboA0YftQ0O5C-b-Q---s54Xws-V13d9c~aEMoPH6xlil2Wt0h8qEIt6h9FkIDO1Z59WKyApeNNjfu-7RRqoi0Gsb~84A-FU7m729f5sf3opnnuJjFC1Q7LrhGNvaLsVu2usbQzHgzZbqLpyyFy326RBdX1s8~8-NJM6RnXDjo0dT~ODRvQYlip3o-FB7U1nD9ou8QgNgdP1Pu2J1iTEjHPqH452bONs-yzQQUF9aISHLq08UDPFg__&Key-Pair-Id=K3NV4LZ47N8M46)
      * **Add Skill-Based Questions** : Use HackerRank-curated questions grouped by skill.
 
      * **Add Manually** : Select questions from the library or create custom questions.
@@ -83,7 +83,7 @@ To delete a variant:
 
   2. Select **Delete**. 
 
-![ime5.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1753882660342-ime5.png?Expires=253370764800&Signature=XoJhu9~C7-lPsAdrvwkFFJgycearO8kmpNvNvbl-L-XVNvMYeY5911mPAu0OC9a13PKsDTDFRi2HmXvt-w9SM~EUbBe4eK3Kucstf6du2nOZovzE8NiwFi1oLQIZTGMf2849afjF9D1gBeOTyaWiJ9-ZZIcZpxLhxFkklBtZLCJmfh6EzBXcAk4rUcNvOfiHylxqJVJENYSulwF45cqPa0XPq8oSRWbOl8h3Eca-z7THxFoGcL1upgvU3YZR3m8c537IsqnAlipvgxvfE6aZrIHfvq6TS-P1LmR4cnmwDunomo9olVym9~pNz--8x1ZvzERuGiShEzmBqpmnHh6IMw__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![ime5.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1753882660342-ime5.png?Expires=253370764800&Signature=XoJhu9~C7-lPsAdrvwkFFJgycearO8kmpNvNvbl-L-XVNvMYeY5911mPAu0OC9a13PKsDTDFRi2HmXvt-w9SM~EUbBe4eK3Kucstf6du2nOZovzE8NiwFi1oLQIZTGMf2849afjF9D1gBeOTyaWiJ9-ZZIcZpxLhxFkklBtZLCJmfh6EzBXcAk4rUcNvOfiHylxqJVJENYSulwF45cqPa0XPq8oSRWbOl8h3Eca-z7THxFoGcL1upgvU3YZR3m8c537IsqnAlipvgxvfE6aZrIHfvq6TS-P1LmR4cnmwDunomo9olVym9~pNz--8x1ZvzERuGiShEzmBqpmnHh6IMw__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 A confirmation dialog appears. If the variant is mapped to a candidate option, the system also removes the mapping.
 

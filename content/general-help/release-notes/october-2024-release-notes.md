@@ -35,7 +35,7 @@ This update provides clearer visibility into candidate behavior and helps identi
 
   * **External Copy Paste:** A large amount of code was copied over from an external source.
 
-![Plag signals.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046036707-?Expires=253370764800&Signature=oWDEL9jsYcJLu6dmSsibkwdJ7UHLw0mC1p4mZh0P1mnYwYWOzWAPlYTo7DCnfQUYCDbAvuiThJGJ3CvSLcasDRnelFbrBoMY0FP6jb17xbzd-6ophEV-adTSiEJFfowNnJwbFZ2LPB-P8Jq-vjN3LHqPzdqjg0wZ71YRworPPE8edrBiWlFtlIOYkKRfgLSrpztpG3nnrGVCwWrtAE-ciM4LT8YA93rsAccwFWumOaNuBuPK0wVxyaacW0boJ4h70IeWCHC~KcpkFxYI2jqePQ5g75v9BgxYRWhsFGxiaes3Przhex4zEfAkQja75Xer7txzqfWQjleYAypEVHYOYA__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![Plag signals.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046036707-?Expires=253370764800&Signature=oWDEL9jsYcJLu6dmSsibkwdJ7UHLw0mC1p4mZh0P1mnYwYWOzWAPlYTo7DCnfQUYCDbAvuiThJGJ3CvSLcasDRnelFbrBoMY0FP6jb17xbzd-6ophEV-adTSiEJFfowNnJwbFZ2LPB-P8Jq-vjN3LHqPzdqjg0wZ71YRworPPE8edrBiWlFtlIOYkKRfgLSrpztpG3nnrGVCwWrtAE-ciM4LT8YA93rsAccwFWumOaNuBuPK0wVxyaacW0boJ4h70IeWCHC~KcpkFxYI2jqePQ5g75v9BgxYRWhsFGxiaes3Przhex4zEfAkQja75Xer7txzqfWQjleYAypEVHYOYA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 [Enable AI Plagiarism Detection](<https://support.hackerrank.com/articles/8000786908-ai-plagiarism-detection#enabling-advanced-plagiarism-detection-for-a-test-15>) and refer to [Viewing Flagged Attempts](<https://support.hackerrank.com/articles/8000786908-ai-plagiarism-detection#viewing-flagged-plagiarism-attempts-26>) for more information. 
 
@@ -93,7 +93,7 @@ The autocomplete functionality in coding questions has been enhanced, providing 
 
   * Auto-Imports is enabled for 11 Languages. 
 
-![Autocomplete Fixed sn.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046038393-?Expires=253370764800&Signature=YvqmHNEydtsvRs5lFgwf4h~QJUUfbL00EaNSoMBcDhzUUWT52DR2UMGTwf6K-BHnngTw8wMCwn9QuEo1~DFurPnejMI65SqLFdaQ21RgjDrHp0pWHY72pEqKojBnz0ZyeoJb6pXTOlV0-mdIYuA-zvccHkiIkwFlJm13Xhgh02PLnxSDdtAZetx0~ttGpLPOzzCTumwV4qoBy1T7oINurIHiSocUvzsR3cCG-4D9plWr~br9cCfgm2ABZvxlOVMP9off5dEwx-BK3xlSMKX1Ydz7qG3baQZ66CeiRlV-Jo~My6fFdCt4FO4Iqpg74kWv8LBj75oykaV9VrH-I3hPxg__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![Autocomplete Fixed sn.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046038393-?Expires=253370764800&Signature=YvqmHNEydtsvRs5lFgwf4h~QJUUfbL00EaNSoMBcDhzUUWT52DR2UMGTwf6K-BHnngTw8wMCwn9QuEo1~DFurPnejMI65SqLFdaQ21RgjDrHp0pWHY72pEqKojBnz0ZyeoJb6pXTOlV0-mdIYuA-zvccHkiIkwFlJm13Xhgh02PLnxSDdtAZetx0~ttGpLPOzzCTumwV4qoBy1T7oINurIHiSocUvzsR3cCG-4D9plWr~br9cCfgm2ABZvxlOVMP9off5dEwx-BK3xlSMKX1Ydz7qG3baQZ66CeiRlV-Jo~My6fFdCt4FO4Iqpg74kWv8LBj75oykaV9VrH-I3hPxg__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 ### Optimized IDE Layout
 
@@ -133,7 +133,7 @@ We have upgraded the user export feature to provide faster performance and more 
 
   * Interview Invites Sent
 
-![User Data.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046040084-?Expires=253370764800&Signature=fBxw94j7Amc17T1J2sAkbydQLrvvftIrBRWriQsTo0wJnyCsh~jpV~BG8QuhYv3nIjL-RlLFoTsidJoxJFUnPQ-KQ8r91noFp2BvEm6iIyu-sfxKNbG6Ml3DXhkLC1CJFbgslyzAqxGikj00z8zp7lHL8bDwFeoSAltM1Kww1-VmDYpRgGlOKidnpR6cpphnUXjrYbuj5glLowDajtydQHd6vv6~-CVGN~6jv5rc96ymZwlcPhzm8DBgyLUq5Srdu3H-kpbCjIS6j1f7EVG89gXUUDTkofgxwWeKZywz7YwwiV6L4HLp1m3Ceft2DV2HoDE8kQ8m7hldWMDuZlbYmg__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![User Data.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046040084-?Expires=253370764800&Signature=fBxw94j7Amc17T1J2sAkbydQLrvvftIrBRWriQsTo0wJnyCsh~jpV~BG8QuhYv3nIjL-RlLFoTsidJoxJFUnPQ-KQ8r91noFp2BvEm6iIyu-sfxKNbG6Ml3DXhkLC1CJFbgslyzAqxGikj00z8zp7lHL8bDwFeoSAltM1Kww1-VmDYpRgGlOKidnpR6cpphnUXjrYbuj5glLowDajtydQHd6vv6~-CVGN~6jv5rc96ymZwlcPhzm8DBgyLUq5Srdu3H-kpbCjIS6j1f7EVG89gXUUDTkofgxwWeKZywz7YwwiV6L4HLp1m3Ceft2DV2HoDE8kQ8m7hldWMDuZlbYmg__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 ### Custom Question Export
 
@@ -275,7 +275,7 @@ Offers managers a comprehensive overview of their team’s certification progres
 
   * **Developers** : This section displays detailed information on individual developers’ certification status, scores, due dates, and recent activity. Managers can filter, sort, and take actions like sending reminders or adjusting due dates to effectively track and support the team’s progress.
 
-![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046044139-?Expires=253370764800&Signature=jx9lgNxw8f3dd0QEhqndnzwI2j4slQXKVZYws04WHvzVWMIhyAVGsDMTXg77TaCoBLfDF1NlT3OA7naJ7Wokae7-wehIOTSVMKhnJBIP8bwxtNNwe1Y-qa0Wp-z-Z9L3Ad7wUC3EjPOq~h7Y2HDvRvsUF~E860~t5vziIoNecOoAKDLOiwrbwQ1zc6XHwWcMXeCeongw4hTQkUodp1k2C4mxqXdNG1fQ5T1KR4HDzAWxTugmwP9wMwdHH7GsqujWv2pdb54wFHhdu8pEv7XjYoTfQzG-aESxM-i0dICqVYGJMiSKT2A-Btb1WyNt5Eg5P4FsyBodygGZOAJ4RvMvlg__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046044139-?Expires=253370764800&Signature=jx9lgNxw8f3dd0QEhqndnzwI2j4slQXKVZYws04WHvzVWMIhyAVGsDMTXg77TaCoBLfDF1NlT3OA7naJ7Wokae7-wehIOTSVMKhnJBIP8bwxtNNwe1Y-qa0Wp-z-Z9L3Ad7wUC3EjPOq~h7Y2HDvRvsUF~E860~t5vziIoNecOoAKDLOiwrbwQ1zc6XHwWcMXeCeongw4hTQkUodp1k2C4mxqXdNG1fQ5T1KR4HDzAWxTugmwP9wMwdHH7GsqujWv2pdb54wFHhdu8pEv7XjYoTfQzG-aESxM-i0dICqVYGJMiSKT2A-Btb1WyNt5Eg5P4FsyBodygGZOAJ4RvMvlg__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 ### Assessment Details Panel
 
@@ -313,7 +313,7 @@ In April, AI-powered mock interviews for basic problem-solving were launched, an
 
   * Improved Feedback Screen: After completing a mock interview, enjoy a redesigned feedback screen with detailed performance insights and an option to leave feedback on your experience
 
-![Mock Interview2.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046047506-?Expires=253370764800&Signature=A8Q9Wk-qgYOcNS7uleZoGchuvnr1kMAsqfUmYAVQXetudHoipkm-w8yKjAo8APVaD2s7EodwBc~WLZ3xekSCkOYeQajtUqwY1fUUJH0Me4j41RyO8dJxfApYnlTq3DeGyb9JbcFUbYbbvezw1DmoSeacxHNa-BpQVCA3LvlgT22a5MnzxDweHK3OhG2U223ZGQMn9RBZD7iIqLyIsD1J8lmugx24WvHSbYI6viiiUmNl0ics2cZhBcZjb5ETYDyLtRcHEDbFohn1up7ljbmn7u1fV09bMqt02F4Q7nfvocRkmrGj~3V1-GZYvPT8d7pxl0wD5c3Vkj86oPtjxoc15Q__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![Mock Interview2.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046047506-?Expires=253370764800&Signature=A8Q9Wk-qgYOcNS7uleZoGchuvnr1kMAsqfUmYAVQXetudHoipkm-w8yKjAo8APVaD2s7EodwBc~WLZ3xekSCkOYeQajtUqwY1fUUJH0Me4j41RyO8dJxfApYnlTq3DeGyb9JbcFUbYbbvezw1DmoSeacxHNa-BpQVCA3LvlgT22a5MnzxDweHK3OhG2U223ZGQMn9RBZD7iIqLyIsD1J8lmugx24WvHSbYI6viiiUmNl0ics2cZhBcZjb5ETYDyLtRcHEDbFohn1up7ljbmn7u1fV09bMqt02F4Q7nfvocRkmrGj~3V1-GZYvPT8d7pxl0wD5c3Vkj86oPtjxoc15Q__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 ### AI-powered Front-end (React) Mock Interviews 
 

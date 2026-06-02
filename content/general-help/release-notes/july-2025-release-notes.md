@@ -43,7 +43,7 @@ We have revamped the Test Settings to reduce complexity and improve usability. S
 
   * **New Options** : Add cutoff percentages (not just scores) and define test invite expiry by duration or end date.
 
-![TestSettings1.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F145b7038-e0b2-4f1b-a1b8-b646410de164-1753202400947-TestSettings1.gif-ec28d104-0ade-4563-b193-a539f6440299?Expires=253370764800&Signature=VhtAEHpcTWqHbRU2aunyxgOgNeqzR~tT1LVveDn8LbEtydP~IhpgIIa4J7oziM0hwXLOOqag7WaQ8Ltm8FDK4L8eS0MkrH-MBET~08HPVTdpA2dzd8pONbo4XGvhbuW~A40e1i~rXLWf860iWrBWxRcXnu9vVhXNrtXKag3P1bChsfwnuL8WMBtMwP~9qSjeYrLmVcXp3e4u1LFh~-drQxQjI4S7DeJIfL78Atgei4Ng3F07kyO1aYelXy84kGxE5Vs~nwqY24UuqZg~zF6gAyOmx~mzSk~Ibk-QPHSZA7JdZMhnFNrlQZa~D~~Q5WjFW0hd-4QS~C9Lcg6irI8yIA__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![TestSettings1.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F145b7038-e0b2-4f1b-a1b8-b646410de164-1753202400947-TestSettings1.gif-ec28d104-0ade-4563-b193-a539f6440299?Expires=253370764800&Signature=VhtAEHpcTWqHbRU2aunyxgOgNeqzR~tT1LVveDn8LbEtydP~IhpgIIa4J7oziM0hwXLOOqag7WaQ8Ltm8FDK4L8eS0MkrH-MBET~08HPVTdpA2dzd8pONbo4XGvhbuW~A40e1i~rXLWf860iWrBWxRcXnu9vVhXNrtXKag3P1bChsfwnuL8WMBtMwP~9qSjeYrLmVcXp3e4u1LFh~-drQxQjI4S7DeJIfL78Atgei4Ng3F07kyO1aYelXy84kGxE5Vs~nwqY24UuqZg~zF6gAyOmx~mzSk~Ibk-QPHSZA7JdZMhnFNrlQZa~D~~Q5WjFW0hd-4QS~C9Lcg6irI8yIA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 For more information, see [📄 Modify General Settings for Tests](</articles/9672590042>), [📄 Modify Question Settings for Tests](</articles/5424328799>), [📄 Modify Sections Settings for Tests](</articles/2528926257>), [📄 Modify Evaluation Settings for Tests](</articles/8294988738>), [📄 Configure Onboarding Settings for Tests](</articles/5956879724>), [📄 Configure Email Settings for Tests](</articles/2564162886>), [📄 Configure Test Invites Settings for Tests](</articles/9544354489>).
 
@@ -129,7 +129,7 @@ With this release, Proctor Mode is now generally available within the AI add-on 
 
   * **Block Multiple Monitors** : Candidates must use a single monitor. Tests won’t start (or will be paused) if multiple monitors are detected. This feature is supported on Chrome and Edge browsers. If a candidate tries to access the test using an unsupported browser like Firefox or Safari, they’ll be prompted to switch before starting.
 
-![Single Screen Proctor Mode.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F8ba2eb64-fa98-4e24-8861-ae4a6226d636-1753202628905-SingleScreenProctorMode.gif-60df353a-16f4-45dd-8404-b0824f81cecb?Expires=253370764800&Signature=nzYMBSYeQ5atNtscEdbS9WRnFor4RYYj2Oq7nGkcRnoyTerc~8yH2lmNGkR53gjHV~RAXhCJXo3yElIdeNI7sMh9TzhjPVTbotfNpPyFZzfUWtbTgqixx5pH0ehe1oDVj1CH45fQa09kkeTkXQJwPzhYr476~f6osy4rd034hu5WNE~rF8PRJIenfLjopWzVa0hNB~aO0sarBRun3AL3bDN4tZ7ZFBUU7q2XVwFtA0z96VwtjR0ROz2Siq1z20Q1Mim9D-wLpha0L5ySWAhzQF4n6mKtVD4-HkVIY1s84xX5CJ0VBFTzKR36Qh17ZjGxoDw-S6vzZg90rWX8A5VyVQ__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![Single Screen Proctor Mode.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F8ba2eb64-fa98-4e24-8861-ae4a6226d636-1753202628905-SingleScreenProctorMode.gif-60df353a-16f4-45dd-8404-b0824f81cecb?Expires=253370764800&Signature=nzYMBSYeQ5atNtscEdbS9WRnFor4RYYj2Oq7nGkcRnoyTerc~8yH2lmNGkR53gjHV~RAXhCJXo3yElIdeNI7sMh9TzhjPVTbotfNpPyFZzfUWtbTgqixx5pH0ehe1oDVj1CH45fQa09kkeTkXQJwPzhYr476~f6osy4rd034hu5WNE~rF8PRJIenfLjopWzVa0hNB~aO0sarBRun3AL3bDN4tZ7ZFBUU7q2XVwFtA0z96VwtjR0ROz2Siq1z20Q1Mim9D-wLpha0L5ySWAhzQF4n6mKtVD4-HkVIY1s84xX5CJ0VBFTzKR36Qh17ZjGxoDw-S6vzZg90rWX8A5VyVQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
   * **Session Replay in Candidate Reports:** You can now watch a complete recording of a candidate’s test session directly from the report. Session Replay captures the entire test-taking browser tab along with webcam images and system screenshots in one place. A timeline with key events, such as full-screen exits, tab switches, suspicious webcam activity, and screenshots, helps you quickly review critical moments for deeper insight into performance and integrity.
 
@@ -137,7 +137,7 @@ With this release, Proctor Mode is now generally available within the AI add-on 
 
   * **Expanded Question Type Support** : Proctor Mode now supports a broader range of question types, including multiple-choice, coding, sentence completion, file upload, and all Projects except DevOps. Support for additional question types is coming soon, giving you even more flexibility in secure assessments.
 
-![Proctor Mode.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F8a00c6d4-0333-4c61-b766-4dc8d2bff883-1753202528084-ProctorMode.gif-bf73bad3-a1e8-4c7a-bde6-9a010833ae6f?Expires=253370764800&Signature=hcOkGY4deEmekFI5k-KjpNJOAMY7U5qkp4xCdfpbHs-659TcQideYL-PxOyE6C6H0BLabJpk16DoxqkaiWBDMA3MvuIOnNvHwUg2FRpYdxB1JejWBzX3YfwZWnLuVIPaOag1twc70hPYJC4w9QzQc5npu~JuSEVhYQ1As-twTh4o-b8WIQXUPaF~dvQpdLaQSpk6DgS0YMrSaun-gJgjKzf9Vou4oO76yhTT1X0uUqAR~EufHCWZJO64cb1-oBA6-GLi9axlCkh272jiJk9TZv4ohm0KQztDeggZibjrPoghxB1rlDn9wArPjly~wtyw7uxwtpz90Obmt2-9BeRkqg__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![Proctor Mode.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F8a00c6d4-0333-4c61-b766-4dc8d2bff883-1753202528084-ProctorMode.gif-bf73bad3-a1e8-4c7a-bde6-9a010833ae6f?Expires=253370764800&Signature=hcOkGY4deEmekFI5k-KjpNJOAMY7U5qkp4xCdfpbHs-659TcQideYL-PxOyE6C6H0BLabJpk16DoxqkaiWBDMA3MvuIOnNvHwUg2FRpYdxB1JejWBzX3YfwZWnLuVIPaOag1twc70hPYJC4w9QzQc5npu~JuSEVhYQ1As-twTh4o-b8WIQXUPaF~dvQpdLaQSpk6DgS0YMrSaun-gJgjKzf9Vou4oO76yhTT1X0uUqAR~EufHCWZJO64cb1-oBA6-GLi9axlCkh272jiJk9TZv4ohm0KQztDeggZibjrPoghxB1rlDn9wArPjly~wtyw7uxwtpz90Obmt2-9BeRkqg__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 For more information, see [📄 Proctor Mode](</articles/5663779659>).
 
@@ -258,7 +258,7 @@ We’ve upgraded to JupyterLab 4.4.1 to deliver a smoother, faster, and more int
 
   * **Improved Performance:** Output rendering is quicker, with reduced lag when streaming or scrolling through large notebooks.
 
-![JupyterIDE\(Statusbar\)seocnd option.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1753201101398-JupyterIDE%2528Statusbar%2529seocndoption.gif?Expires=253370764800&Signature=Nf3gVqvPkTnJoa9wmJvAuAUhO7wE4udgwbestGbfaRLPClvBmCCEgrBjWcYS2NovFO2p8wkDWWUBCyknCUnC9EUAv537ZHo8n2RhRgb5Ay8gNbeic4oMEFLzZFT6J7RGBcr4Qflv4BkL6U0wmDPsi631zcWNiXw3xGdtpjE3zY-rpdR8-by3DI3QVXgk2L3R4UMnkEq7zomeI7kSxw0odpCYxSM~~A0tavFiMSNRiMVK6Ii9xqr6fYOXVzbXQl5FHnfF6wxU3t6gk~kXdqO-MBOIncFk7tIHtvPUdZsgby0ZH2jMJtlPKPs2ZBITTN3SQHfPQH1bRBKej1MbEfLx0g__&Key-Pair-Id=K3NV4LZ47N8M46)![JupyterIDE\(Code Consol\).gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1753201061263-JupyterIDE%2528CodeConsol%2529.gif?Expires=253370764800&Signature=OjcD9ViHOtkHnfweiwxffJTbv8lYoxuoje31pl804e0MnSiSvypPW6IiwjYvre~2cbUv2pffuatZidxWpO1bBgnDLsJ-yfn78GxfHfCK0N5xFUA1jTDmknPR4TqMYWHkMSBYQnEFTEAvf-cXTkvqM6hFXcY86RtDqN56bjPzmBlO4lJ9LeShKtnSBhVYId2BlcYCpIqWIuq6fi0~pJ36dVuBomgP1uOEiyY6~Um93dy7XYt9M1fRN0PH65kvTLj7L-k~vkmGD5mT-Y~tUi9s0HyIsXQmX~pK3AuZ~Ql5WnzdFcdIGJ4~swNaHLgTvEsQ~NV-UosagjixZhGFO6Of~w__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![JupyterIDE\(Statusbar\)seocnd option.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1753201101398-JupyterIDE%2528Statusbar%2529seocndoption.gif?Expires=253370764800&Signature=Nf3gVqvPkTnJoa9wmJvAuAUhO7wE4udgwbestGbfaRLPClvBmCCEgrBjWcYS2NovFO2p8wkDWWUBCyknCUnC9EUAv537ZHo8n2RhRgb5Ay8gNbeic4oMEFLzZFT6J7RGBcr4Qflv4BkL6U0wmDPsi631zcWNiXw3xGdtpjE3zY-rpdR8-by3DI3QVXgk2L3R4UMnkEq7zomeI7kSxw0odpCYxSM~~A0tavFiMSNRiMVK6Ii9xqr6fYOXVzbXQl5FHnfF6wxU3t6gk~kXdqO-MBOIncFk7tIHtvPUdZsgby0ZH2jMJtlPKPs2ZBITTN3SQHfPQH1bRBKej1MbEfLx0g__&Key-Pair-Id=K3NV4LZ47N8M46)![JupyterIDE\(Code Consol\).gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1753201061263-JupyterIDE%2528CodeConsol%2529.gif?Expires=253370764800&Signature=OjcD9ViHOtkHnfweiwxffJTbv8lYoxuoje31pl804e0MnSiSvypPW6IiwjYvre~2cbUv2pffuatZidxWpO1bBgnDLsJ-yfn78GxfHfCK0N5xFUA1jTDmknPR4TqMYWHkMSBYQnEFTEAvf-cXTkvqM6hFXcY86RtDqN56bjPzmBlO4lJ9LeShKtnSBhVYId2BlcYCpIqWIuq6fi0~pJ36dVuBomgP1uOEiyY6~Um93dy7XYt9M1fRN0PH65kvTLj7L-k~vkmGD5mT-Y~tUi9s0HyIsXQmX~pK3AuZ~Ql5WnzdFcdIGJ4~swNaHLgTvEsQ~NV-UosagjixZhGFO6Of~w__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 #### Higher Compute, When You Need It
 
@@ -323,7 +323,7 @@ We’ve introduced a series of whiteboard improvements to make editing, working 
 
   * **Improved Copy-Paste:** Images copied from Google Docs now paste cleanly onto the whiteboard—no extra steps required.
 
-![Improvements to Whiteboard experience.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F62580e00-4b89-4400-a5c9-a57e285bb8a1-1753201000420-ImprovementstoWhiteboardexperience.gif-65dd81db-677d-4bba-95e1-1506abea4d6e?Expires=253370764800&Signature=VZn5EKPTHqskwhCafqXuyHwzziw8yg6XeOH3VnVJtpXNGOenY0imecgXEvVnvVaq~13W5-gQYXI2M34Qt0argeAPm~z~isx~eATQ3NYJ8Zcd~SsYBMGr~ZmcpC1EVvcsnp6sb5Uvdi6pCwdnaxTY7E82pAB-TrnkY~YirL94NlPRDvo1-6bSmUfl~L12K4yc-WYxjY5qNyDeo0dgvCmJWWwNMw2ejNyhDyzfocDBjFDBmlg4MP4hNRIuZk2q8yjVKLkCMbXHkhHoNIJvcxv1lcx99DiKznd21GNyws9ohqKvHFPqpDVR~varen6YxyTAwupZcabnhbGvxs4ztOvBzA__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![Improvements to Whiteboard experience.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F62580e00-4b89-4400-a5c9-a57e285bb8a1-1753201000420-ImprovementstoWhiteboardexperience.gif-65dd81db-677d-4bba-95e1-1506abea4d6e?Expires=253370764800&Signature=VZn5EKPTHqskwhCafqXuyHwzziw8yg6XeOH3VnVJtpXNGOenY0imecgXEvVnvVaq~13W5-gQYXI2M34Qt0argeAPm~z~isx~eATQ3NYJ8Zcd~SsYBMGr~ZmcpC1EVvcsnp6sb5Uvdi6pCwdnaxTY7E82pAB-TrnkY~YirL94NlPRDvo1-6bSmUfl~L12K4yc-WYxjY5qNyDeo0dgvCmJWWwNMw2ejNyhDyzfocDBjFDBmlg4MP4hNRIuZk2q8yjVKLkCMbXHkhHoNIJvcxv1lcx99DiKznd21GNyws9ohqKvHFPqpDVR~varen6YxyTAwupZcabnhbGvxs4ztOvBzA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 ### **Interview Scorecard PDFs for Workday and Greenhouse**
 
@@ -421,7 +421,7 @@ You can now learn to build Retrieval-Augmented Generation (RAG) pipelines with h
 
   * **Build as You Go:** Each module combines concept walkthroughs (with diagrams and Q&A) followed by hands-on coding tasks where you complete or debug parts of a working RAG pipeline.
 
-![RAG.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1753200465129-RAG.gif?Expires=253370764800&Signature=SweQVKavol1gB3v6vW4fsuCTg0MuIdyzlRIRJqf83zZNr76gGkLiwlcUX3yd1~q-HrrJfpzgISnrYUnJVGY6VdwoP0xM7PwA6B3nYXVPSYqIY5AtFw6HM8gJ5o1ubKEEbGonNTzVpa~PjPeLRzTo-4nDs9zu7qjs241vQG5sUx7bQpzVkCEKYBxtD5zX-rOfNs9xQ6xe5-216bMrQUbjiasqbWaWk3eYqcURsERbLpW95s~INjixcYtll6b00CI-TIwM~Gygz035faxBFkA3BySOnQPWTBUT5XaMyBmk~8nglCvdRaNGzThaLP8QZIE1zMdwq6Q0LiY8E3BIBnRa8g__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![RAG.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1753200465129-RAG.gif?Expires=253370764800&Signature=SweQVKavol1gB3v6vW4fsuCTg0MuIdyzlRIRJqf83zZNr76gGkLiwlcUX3yd1~q-HrrJfpzgISnrYUnJVGY6VdwoP0xM7PwA6B3nYXVPSYqIY5AtFw6HM8gJ5o1ubKEEbGonNTzVpa~PjPeLRzTo-4nDs9zu7qjs241vQG5sUx7bQpzVkCEKYBxtD5zX-rOfNs9xQ6xe5-216bMrQUbjiasqbWaWk3eYqcURsERbLpW95s~INjixcYtll6b00CI-TIwM~Gygz035faxBFkA3BySOnQPWTBUT5XaMyBmk~8nglCvdRaNGzThaLP8QZIE1zMdwq6Q0LiY8E3BIBnRa8g__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 #### Prompt Engineering
 
@@ -433,7 +433,7 @@ Master the skill of writing clear, effective prompts that generate better AI out
 
   * **Build as You Go:** Each module includes challenges that focus on code-based and non-code-based prompting, complete with test cases to evaluate your outputs.
 
-![prompt_engineering.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1753200470636-prompt_engineering.gif?Expires=253370764800&Signature=HRhVA5Ez8SNXcL~9Czu3XYHaKkH2sbYG~y8z0TDB7Ww7lgSxw1F25CcGBTPwZhrRklNz2C35gTfNsqhXmEdFNyziSeUh9rGNnIOCtI3BI1BR56umZoLJYLJ4ZkJJaVMPKo~WxtxmAwbhQGUUwL8gu64plCr-o7cNDowMxmt5kcxp5Y7kinqrb2amG270DQqh3cFq76ELzasXKJkIpIFd9KjC2R1NXdZpi1d~aEtrhb6KOrcjOJgq8vEbTAVQzLrsILPqa2lN1tUJsaXWW9eqHZd3sR3VuG6EVKuFvrj3LcTi-w0MJ1JLN1w~FrG67Sc2jnUHYOxfjfFYY8JFPsDCpg__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![prompt_engineering.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1753200470636-prompt_engineering.gif?Expires=253370764800&Signature=HRhVA5Ez8SNXcL~9Czu3XYHaKkH2sbYG~y8z0TDB7Ww7lgSxw1F25CcGBTPwZhrRklNz2C35gTfNsqhXmEdFNyziSeUh9rGNnIOCtI3BI1BR56umZoLJYLJ4ZkJJaVMPKo~WxtxmAwbhQGUUwL8gu64plCr-o7cNDowMxmt5kcxp5Y7kinqrb2amG270DQqh3cFq76ELzasXKJkIpIFd9KjC2R1NXdZpi1d~aEtrhb6KOrcjOJgq8vEbTAVQzLrsILPqa2lN1tUJsaXWW9eqHZd3sR3VuG6EVKuFvrj3LcTi-w0MJ1JLN1w~FrG67Sc2jnUHYOxfjfFYY8JFPsDCpg__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 #### Agent Building
 
@@ -445,7 +445,7 @@ Get started with AI agents by building foundational skills that reflect how mode
 
   * **Guided Learning** : An AI tutor helps explain key concepts like the thought-action-observation loop, narrow tool use, and the basics of LLM integration, giving you a strong foundation for more advanced agentic systems
 
-![AgentBuilding.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1753200478836-AgentBuilding.gif?Expires=253370764800&Signature=dNA39Pz-YzfiWfwfPOX~jYhb~3HPAEqkv8K2DmsbKqHmOvxdPLKFPI8WQeyA1UJ6YKgGlFHKibSC8edYv3nPqC8PPvQ9p~rnazkPQOGxM4PO-PtbywNk4oE0T4hPqgJOqSlZ~40vRHMwvGuPvnjVz4KoS5rlIV2TY36KFNVMYrVdnyNzAJOnk-jV9CSaEfQ-3QIOOor9L4~GfnWcq3ssBKZdk3Yvcz9MfxBvCKF9O1DOcgB9wSMwfU7Mmn2nU0F2sm77GKvjHws7~ZW8dme9GkPXPnd6QdWyZpdzHqSSj8wZ-lowLdBWKDtnPBgyPimIPzWwun50m8KIWJEmCKzzXw__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![AgentBuilding.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1753200478836-AgentBuilding.gif?Expires=253370764800&Signature=dNA39Pz-YzfiWfwfPOX~jYhb~3HPAEqkv8K2DmsbKqHmOvxdPLKFPI8WQeyA1UJ6YKgGlFHKibSC8edYv3nPqC8PPvQ9p~rnazkPQOGxM4PO-PtbywNk4oE0T4hPqgJOqSlZ~40vRHMwvGuPvnjVz4KoS5rlIV2TY36KFNVMYrVdnyNzAJOnk-jV9CSaEfQ-3QIOOor9L4~GfnWcq3ssBKZdk3Yvcz9MfxBvCKF9O1DOcgB9wSMwfU7Mmn2nU0F2sm77GKvjHws7~ZW8dme9GkPXPnd6QdWyZpdzHqSSj8wZ-lowLdBWKDtnPBgyPimIPzWwun50m8KIWJEmCKzzXw__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 ### **Custom Certifications  **
 

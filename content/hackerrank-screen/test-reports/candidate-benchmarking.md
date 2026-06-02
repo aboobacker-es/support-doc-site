@@ -41,7 +41,7 @@ To view Benchmark data:
 
   5. Click a candidate's name to open the**Summary Report**. The **Benchmark** section in the Summary Report shows the candidate’s percentile ranking. For example, 85th percentile or 99th percentile.
 
-![bENCHMARK \(1\).png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760034008598-bENCHMARK%25281%2529.png?Expires=253370764800&Signature=qfmE4dF67gbDHk0T4XJbAh2n25FaiD5xIP3zfqw9yMOav7KfmFJkXYw5XFa7lUY-xQL9aHk7dUvUb~H94Gwg55Uh~o7zz9tEFDjxTqXgW3WIiUTMkno38Rmyf4363DUREJ73MxLGctDRLOfwEX9PJPbf~ylDdwzwVCe1aeiQqqtfBGAwYaVrB~1fLmwZY7kWGu5zCyoLl3G8XiKrYXca2BH2v5333nSWMJu98oEFKb7JQt-Uth~oOe9VGB1CvjudD3N0WW~MYVZLOASZira8zWncfHe9wqj3xPoT1qIl-NP~htzMBfwq7mvxrfy2MQOFP6GRrLHv~3Am0AxICNwSrw__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![bENCHMARK \(1\).png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760034008598-bENCHMARK%25281%2529.png?Expires=253370764800&Signature=qfmE4dF67gbDHk0T4XJbAh2n25FaiD5xIP3zfqw9yMOav7KfmFJkXYw5XFa7lUY-xQL9aHk7dUvUb~H94Gwg55Uh~o7zz9tEFDjxTqXgW3WIiUTMkno38Rmyf4363DUREJ73MxLGctDRLOfwEX9PJPbf~ylDdwzwVCe1aeiQqqtfBGAwYaVrB~1fLmwZY7kWGu5zCyoLl3G8XiKrYXca2BH2v5333nSWMJu98oEFKb7JQt-Uth~oOe9VGB1CvjudD3N0WW~MYVZLOASZira8zWncfHe9wqj3xPoT1qIl-NP~htzMBfwq7mvxrfy2MQOFP6GRrLHv~3Am0AxICNwSrw__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 :::note
 * Benchmark data is visible only to recruiters and hiring managers. Candidates cannot view this information.

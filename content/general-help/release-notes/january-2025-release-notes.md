@@ -23,7 +23,7 @@ AI is transforming software engineering, making prompt engineering a critical sk
 
   * Ability to evaluate proficiency in building effective prompts with automated
 
-![PE.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1737522189326-PE.gif?Expires=253370764800&Signature=T5X441gZzS7UotcksVUT0TtFNBs5kdOajmlqg6ci8vUR5zOukwcGgrrVDsSkAsbNNtyB4JSpanxo8QBLzGk0NeFqnXgS6GHF4A1hDqnmbET0r9-iiUmI24oxYNitw~suOfsXm3R6k7Czl8ftqy~KnbwutjrzeSYxPlLYkTyzsk43I1rp86H3iDEM3YSnxTjelywKM-mQhVeuNrSk4~z3UywcLmlYVtr6~oRQhnuVH5K4xJ60q6YbDqiz3O-0Wg9CQLP~wQ-Q8qOCHfgchguINEJRhG17u3Exj3ucOMG0cBrM3~76PdIFHXexF3XiuE-dscLL8iTPoL7X6o3FymAzGg__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![PE.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1737522189326-PE.gif?Expires=253370764800&Signature=T5X441gZzS7UotcksVUT0TtFNBs5kdOajmlqg6ci8vUR5zOukwcGgrrVDsSkAsbNNtyB4JSpanxo8QBLzGk0NeFqnXgS6GHF4A1hDqnmbET0r9-iiUmI24oxYNitw~suOfsXm3R6k7Czl8ftqy~KnbwutjrzeSYxPlLYkTyzsk43I1rp86H3iDEM3YSnxTjelywKM-mQhVeuNrSk4~z3UywcLmlYVtr6~oRQhnuVH5K4xJ60q6YbDqiz3O-0Wg9CQLP~wQ-Q8qOCHfgchguINEJRhG17u3Exj3ucOMG0cBrM3~76PdIFHXexF3XiuE-dscLL8iTPoL7X6o3FymAzGg__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 Refer to [Assessing Candidates on Prompt Engineering Skills](<https://support.hackerrank.com/articles/1231590424-assessing-candidates-on-prompt-engineering-skills>) for more details.
 
@@ -105,7 +105,7 @@ Candidates will benefit from a more intuitive coding experience with the latest 
 
   * **Resolved Accessibility Issues** : A more inclusive coding environment with previous accessibility issues addressed.
 
-![ab030cc0-7c6a-41ff-849f-90e53abe3d3d.GIF](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1737128796505-ab030cc0-7c6a-41ff-849f-90e53abe3d3d.GIF?Expires=253370764800&Signature=O-u~tqquQ669TuaoT0hPbGP5ctodwiU~Zj3xA-~~eq~Jw5FOsW038hII~0cgA0ueFmWKUNfz2bzSLtX3V0KVsoL1tN02WoKoEKggtDYBZRSbHeMh2WVX00eASEOYM5o-xUQuyn~5Bp00AIND2MkKpD2PXaaHN8Zmr~enIl8mu4K2t6XYf6R6b-hGvoYuorEytpYSi1zhid4ztu2259nQ8YLaRM4DzXcD9-fW0xKVTqRR1cKEd6kU0KdseNFeKeYDF2Z15lBR0S-xbGGicyNgC45gVjwHlxQ3oJIj-x4AvvP3w7uCHW4QdHbvGDZKi718xOZxSrALqN-y0ac5XiwWqA__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![ab030cc0-7c6a-41ff-849f-90e53abe3d3d.GIF](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1737128796505-ab030cc0-7c6a-41ff-849f-90e53abe3d3d.GIF?Expires=253370764800&Signature=O-u~tqquQ669TuaoT0hPbGP5ctodwiU~Zj3xA-~~eq~Jw5FOsW038hII~0cgA0ueFmWKUNfz2bzSLtX3V0KVsoL1tN02WoKoEKggtDYBZRSbHeMh2WVX00eASEOYM5o-xUQuyn~5Bp00AIND2MkKpD2PXaaHN8Zmr~enIl8mu4K2t6XYf6R6b-hGvoYuorEytpYSi1zhid4ztu2259nQ8YLaRM4DzXcD9-fW0xKVTqRR1cKEd6kU0KdseNFeKeYDF2Z15lBR0S-xbGGicyNgC45gVjwHlxQ3oJIj-x4AvvP3w7uCHW4QdHbvGDZKi718xOZxSrALqN-y0ac5XiwWqA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 Refer to [Using Monaco Editor to Answer Coding Questions](<https://candidatesupport.hackerrank.com/articles/9623161883-answer-coding-questions#using-the-hackerrank-coding-editor-6>) for more information. 
 
@@ -207,7 +207,7 @@ Key features:
 
   * Quickly create HackerRank interviews directly from Rooster
 
-![5aa41949-ef7a-433e-b630-294f23258022.GIF](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1737129253240-5aa41949-ef7a-433e-b630-294f23258022.GIF?Expires=253370764800&Signature=aENWqQ546GMpNPT4m1QaYWdQ9~9J~go6eTLMctjOC8JV72FJbGz5yrBYZqZ0emQftdLQJ~JiVNXort8gXDsZzlT5NNFo80t2Nocew4e03K1QZ6ZNitNbYO5HRAhWsP9EA5Tylczk9tbd5VDVIdS7cd3hqbRHas3t7fyWckallb4CE7fCmRtHW1ka3ZwmRDc~0sYCWegKN7IAZ64XxxM8pLodFNE6ORU19hRkRtaqpet~PoqSoDao~B1ZYaH-mHoNw5QuwFeR0-LQDDlqKJs7RGbcA4RiD5oJMWXCFrOZRH3yJBA0e7GN5p6zBAIiaJT--BiS0vbmCu21b4QYmIa9eQ__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![5aa41949-ef7a-433e-b630-294f23258022.GIF](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1737129253240-5aa41949-ef7a-433e-b630-294f23258022.GIF?Expires=253370764800&Signature=aENWqQ546GMpNPT4m1QaYWdQ9~9J~go6eTLMctjOC8JV72FJbGz5yrBYZqZ0emQftdLQJ~JiVNXort8gXDsZzlT5NNFo80t2Nocew4e03K1QZ6ZNitNbYO5HRAhWsP9EA5Tylczk9tbd5VDVIdS7cd3hqbRHas3t7fyWckallb4CE7fCmRtHW1ka3ZwmRDc~0sYCWegKN7IAZ64XxxM8pLodFNE6ORU19hRkRtaqpet~PoqSoDao~B1ZYaH-mHoNw5QuwFeR0-LQDDlqKJs7RGbcA4RiD5oJMWXCFrOZRH3yJBA0e7GN5p6zBAIiaJT--BiS0vbmCu21b4QYmIa9eQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 Refer to [Rooster - HackerRank Integration](<https://support.hackerrank.com/articles/5902644770-rooster-hackerrank-integration>) for more details.
 
@@ -246,7 +246,7 @@ Gain deeper insights into your team’s skills and achievements with the ability
 
   * **Role Certifications Report** : This export provides detailed information about certifications, such as insights into the number of users certified and assessed for each role, offering better visibility into your team’s progress and expertise.
 
-![unnamed \(1\).GIF](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1737129342357-unnamed%25281%2529.GIF?Expires=253370764800&Signature=lRnxWnF~UVM2OtnNGlCJBgkEc1rsN-voUAjoUhhR9O1U7MDT4Vgrdmy31Ta7lZ8Z36vqq8BAEwgT1sLUcuLxZrBBonwOMW3Kp5wxWtoL6W0O80WQ581jLGaeJilnzzfpdEWvxfHFSx9QrJne3y98C5kEAaPBE~IRLn5xTwzPqyplsjRk~oFOA91oO8dVTOT5TmpAYmFlgZs7jKvzf7vWbg60BoJrsxYSgkCALAu38dRc7Sj1JhHxOZzue8Bovo9yNL~Y62sfJEvYoRUAaURl7XxYAhXo1~WxwEPU6I--ag4vTMYWGKCdZD~tyM5PL6~xLCffuG49Arnf3rMmk0vTNA__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![unnamed \(1\).GIF](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1737129342357-unnamed%25281%2529.GIF?Expires=253370764800&Signature=lRnxWnF~UVM2OtnNGlCJBgkEc1rsN-voUAjoUhhR9O1U7MDT4Vgrdmy31Ta7lZ8Z36vqq8BAEwgT1sLUcuLxZrBBonwOMW3Kp5wxWtoL6W0O80WQ581jLGaeJilnzzfpdEWvxfHFSx9QrJne3y98C5kEAaPBE~IRLn5xTwzPqyplsjRk~oFOA91oO8dVTOT5TmpAYmFlgZs7jKvzf7vWbg60BoJrsxYSgkCALAu38dRc7Sj1JhHxOZzue8Bovo9yNL~Y62sfJEvYoRUAaURl7XxYAhXo1~WxwEPU6I--ag4vTMYWGKCdZD~tyM5PL6~xLCffuG49Arnf3rMmk0vTNA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 Refer to [Accessing SkillUp Employer Platform](<https://support.hackerrank.com/articles/4329363164-accessing-skillup-employer-platform>) for more details.
 
@@ -284,7 +284,7 @@ Refer to [Engage Marketing Insights](<https://support.hackerrank.com/articles/74
 
   * Ability to**shortlist candidates** , ensuring the eligibility and relevance of your top-of-the-funnel participants.
 
-![95c3c4d5-e88a-4e53-801e-bcc9d4603d2b.GIF](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1737129498549-95c3c4d5-e88a-4e53-801e-bcc9d4603d2b.GIF?Expires=253370764800&Signature=nrLCWDvzZoG82jw2U67Ws7RTSrEF89Zsf0jjxNyWXX19NSmWhMRVmHo6sZ4-6--bSusNS-JZXA0EIUiHXcgTXv8zGxHu0IDu~QbzZFMLydb4yEBomju0O~byooRStN17xuilkLmUbst~AdQzZu0ecubuAIXtN0zu16NedzAZO7hqHaK9qaXVnLWE-GF2abnIHw4ab-sis7MLPkl8HCz3Qm-hxeRs8hRvIrhVeJTx~hwKdmc93rIQQ6Ok7XTL1MJZ~~3tJkHSqFoit4iumhrEHoCl123~-zu83UkNhYYvNhow68vTl~wyupZixEypslyUPlJVjG9p3oxWF3yk7Sq28Q__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![95c3c4d5-e88a-4e53-801e-bcc9d4603d2b.GIF](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1737129498549-95c3c4d5-e88a-4e53-801e-bcc9d4603d2b.GIF?Expires=253370764800&Signature=nrLCWDvzZoG82jw2U67Ws7RTSrEF89Zsf0jjxNyWXX19NSmWhMRVmHo6sZ4-6--bSusNS-JZXA0EIUiHXcgTXv8zGxHu0IDu~QbzZFMLydb4yEBomju0O~byooRStN17xuilkLmUbst~AdQzZu0ecubuAIXtN0zu16NedzAZO7hqHaK9qaXVnLWE-GF2abnIHw4ab-sis7MLPkl8HCz3Qm-hxeRs8hRvIrhVeJTx~hwKdmc93rIQQ6Ok7XTL1MJZ~~3tJkHSqFoit4iumhrEHoCl123~-zu83UkNhYYvNhow68vTl~wyupZixEypslyUPlJVjG9p3oxWF3yk7Sq28Q__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 ## **Developer Community**
 
@@ -310,7 +310,7 @@ Developers can sharpen their React skills with a new practice track consisting o
 
   * **State Management** : Understand and implement robust state management solutions.
 
-![47084357-0f3d-4c15-b99c-35f48e999c40.GIF](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1737129584864-47084357-0f3d-4c15-b99c-35f48e999c40.GIF?Expires=253370764800&Signature=k489uuCOXC9STFU7SxE7gLWef07qDiFO21597SPcnmKnOKoGw55MpY9HNBCfVyojZlmZ~wgT5lj5phOTwTmWIEXMnXA7JZl85AtdA9ptYf~4xKw1DFGa-Z33gGmMkFsEkyXxs7M2uarI0is4r94X3kwHXDMB3g07ftS7EIO0uAYt1~R89KjoAriI8xNaZNX96QtFixegMBdNGfKVWCQTNyK4hR6hx4Dg7xlMP3wjlO3sTIAD2sAkMFUPCD6FyAaV0RY9YqRvezbOIZpX8bPf5cMBBJSplkSiGigzv5Ij0Yk937n~sawpHHuJEZrDCVCqzcr8NOrUt60dtTDUKUfOlg__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![47084357-0f3d-4c15-b99c-35f48e999c40.GIF](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1737129584864-47084357-0f3d-4c15-b99c-35f48e999c40.GIF?Expires=253370764800&Signature=k489uuCOXC9STFU7SxE7gLWef07qDiFO21597SPcnmKnOKoGw55MpY9HNBCfVyojZlmZ~wgT5lj5phOTwTmWIEXMnXA7JZl85AtdA9ptYf~4xKw1DFGa-Z33gGmMkFsEkyXxs7M2uarI0is4r94X3kwHXDMB3g07ftS7EIO0uAYt1~R89KjoAriI8xNaZNX96QtFixegMBdNGfKVWCQTNyK4hR6hx4Dg7xlMP3wjlO3sTIAD2sAkMFUPCD6FyAaV0RY9YqRvezbOIZpX8bPf5cMBBJSplkSiGigzv5Ij0Yk937n~sawpHHuJEZrDCVCqzcr8NOrUt60dtTDUKUfOlg__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 Refer to [HackerRank Community Upgrades](<https://www.hackerrank.com/blog/upgrades-to-the-hackerrank-community/>) for the latest updates.
 

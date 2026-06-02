@@ -45,7 +45,7 @@ HackerRank provides a comprehensive audit trail for all user events, allowing ad
 
   * **View** \- Modified field information and IP address.
 
-![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2Fab64843e-585c-4a59-a510-31c160449d44-1734046671941--51bfb268-716c-4eee-a337-3ab099c84899?Expires=253370764800&Signature=AcVcJnDB-CCpl6FCDlIlpUmFCh4jE5UGaOZoZVMvlwRwAvwqYd8YJQB9lXFS69Yye1Mo9aNFXkfNjQQ5duJtlvB1aE6Iecfpe6IS0Rd4uMV~RiJsvloaF~yMacNWMkQ46lPyacbf3ouHhTwktVOzd3Z4SF2YjUsYZC73WjPUSJ8Nm0QPyxfT~PL3kol6Kwyu2O7KxCwdjqbEKYQFF35YF9dWupUDSGGRAJrizg5SH9BYqe2XXKatv13GDSqrFZXGBV5LnGgtjSNHTPWWuJhMklQM0i09VfIvuSber2ltTj9QW~Rz0lRIC--i3uy7k2kVCbmUXw6GhM5sptEtR50ztQ__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2Fab64843e-585c-4a59-a510-31c160449d44-1734046671941--51bfb268-716c-4eee-a337-3ab099c84899?Expires=253370764800&Signature=AcVcJnDB-CCpl6FCDlIlpUmFCh4jE5UGaOZoZVMvlwRwAvwqYd8YJQB9lXFS69Yye1Mo9aNFXkfNjQQ5duJtlvB1aE6Iecfpe6IS0Rd4uMV~RiJsvloaF~yMacNWMkQ46lPyacbf3ouHhTwktVOzd3Z4SF2YjUsYZC73WjPUSJ8Nm0QPyxfT~PL3kol6Kwyu2O7KxCwdjqbEKYQFF35YF9dWupUDSGGRAJrizg5SH9BYqe2XXKatv13GDSqrFZXGBV5LnGgtjSNHTPWWuJhMklQM0i09VfIvuSber2ltTj9QW~Rz0lRIC--i3uy7k2kVCbmUXw6GhM5sptEtR50ztQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 :::note
 * HackerRank**** retains only the last three years of audit logs**.**

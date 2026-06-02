@@ -39,7 +39,7 @@ Custom roles allow organizations to tailor roles according to specific hiring ne
 
   * Use **Save to Draft button** to save the role without publishing it. 
 
-![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046377684-?Expires=253370764800&Signature=uUkS7oW6XdhFR7BX5KdmpGB43z1ew6gRgQFKFDg1U~HDw1NyZp15V4xBd4iGZtU9Xty7tlZHJ~Z3q5ZAxd1PjL8-wSijGoM-tbNAoBGZg73Eu7mu7OPgTwRnxrtTY6B3RpES3Cx5GL2AdQ3eL8aSBouCaGS5kMcZ4ZiDn11HJjNvvQwSmIxJqDT6REiuxYHDI~adHUWhX4xNtV3KlVrVoVXgTQhbkFuzwOj~Xn7VyuXRIvPJRcQrwR0DrcRaOxUtvSmhuR2FaTjgFRySuS0r-WlrDoaI5XmzxfY6F2VJG4ckj6UQGovz~UH7sk177o2-Q-RWME7T1e1e7v33fgOGUg__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046377684-?Expires=253370764800&Signature=uUkS7oW6XdhFR7BX5KdmpGB43z1ew6gRgQFKFDg1U~HDw1NyZp15V4xBd4iGZtU9Xty7tlZHJ~Z3q5ZAxd1PjL8-wSijGoM-tbNAoBGZg73Eu7mu7OPgTwRnxrtTY6B3RpES3Cx5GL2AdQ3eL8aSBouCaGS5kMcZ4ZiDn11HJjNvvQwSmIxJqDT6REiuxYHDI~adHUWhX4xNtV3KlVrVoVXgTQhbkFuzwOj~Xn7VyuXRIvPJRcQrwR0DrcRaOxUtvSmhuR2FaTjgFRySuS0r-WlrDoaI5XmzxfY6F2VJG4ckj6UQGovz~UH7sk177o2-Q-RWME7T1e1e7v33fgOGUg__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 :::note
 Published roles cannot be edited. To make changes, archive the role and create a new one with the same name.
@@ -53,28 +53,28 @@ Published roles cannot be edited. To make changes, archive the role and create a
 
   * Select a role from the list or search using the **search bar** at the top.
 
-![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046377977-?Expires=253370764800&Signature=S160kjVA6ZeOXzcRSXzgzXeaaamFHfb9ishrT6F8rvrDdlKQ7TRuPD6eYPOItw9m9c7pHRrDa0Bz-1QAbJcR~8BLDAbY8KExjfyU9nOq2qc15GnW9Q2a~IiqrSzlzqZro0wZ9~zDIrHI2JBS8OD9o7Ajia4nt3lNHGXkA9dCoTUXOedpOgO70oOK-IrcZnbqtWXByj1BKwTOiA07YcSr1w7F5ZlrBwgj20bJQbDNw8MUVvGRgXrkl3vqK87-9kLxG7M0U0PygNFKWGl3wkFmfr4ujYYp8ac81Hy1651a3wseimLVPTCMhBKNCccazYCfOYCmh3ovHSZw-4uvpZgh5g__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046377977-?Expires=253370764800&Signature=S160kjVA6ZeOXzcRSXzgzXeaaamFHfb9ishrT6F8rvrDdlKQ7TRuPD6eYPOItw9m9c7pHRrDa0Bz-1QAbJcR~8BLDAbY8KExjfyU9nOq2qc15GnW9Q2a~IiqrSzlzqZro0wZ9~zDIrHI2JBS8OD9o7Ajia4nt3lNHGXkA9dCoTUXOedpOgO70oOK-IrcZnbqtWXByj1BKwTOiA07YcSr1w7F5ZlrBwgj20bJQbDNw8MUVvGRgXrkl3vqK87-9kLxG7M0U0PygNFKWGl3wkFmfr4ujYYp8ac81Hy1651a3wseimLVPTCMhBKNCccazYCfOYCmh3ovHSZw-4uvpZgh5g__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 #### **Duplicating Roles**
 
   * Click on the three dots button associated with a role and select the **Duplicate Role** option to make a copy of it and make changes.
 
-![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046378302-?Expires=253370764800&Signature=dkNy1n2lWIBbqas2Hfs6y6SlmVKLFPx1~PKPwAwZVcgn067Rh8oYinzskIecYXOilve4iFYsKlLpHq1vrm1eL1wgVlPCyHlJWyuLK4q-ojew0jKhZcyXUq1MV3V~s0KH58aE-7YYLzSuNFiOA2yR9XpYMiKglE7z-FHmkrCMns4~EnRljltBiGRQDVBi4B7A3gVwpyRyPyHIJXDrC1K7NCf4vGBkJgMLLkkFQwD7olDmxHSU1nfo5~dEbAMheDxO~n-0lP718GR3hDuLC6XoKr1FyBCQ72eSmh1sBbybhw74FwBg7eCKmvCmvO67TlvnadQditEWJfQJw55pPUzz6Q__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046378302-?Expires=253370764800&Signature=dkNy1n2lWIBbqas2Hfs6y6SlmVKLFPx1~PKPwAwZVcgn067Rh8oYinzskIecYXOilve4iFYsKlLpHq1vrm1eL1wgVlPCyHlJWyuLK4q-ojew0jKhZcyXUq1MV3V~s0KH58aE-7YYLzSuNFiOA2yR9XpYMiKglE7z-FHmkrCMns4~EnRljltBiGRQDVBi4B7A3gVwpyRyPyHIJXDrC1K7NCf4vGBkJgMLLkkFQwD7olDmxHSU1nfo5~dEbAMheDxO~n-0lP718GR3hDuLC6XoKr1FyBCQ72eSmh1sBbybhw74FwBg7eCKmvCmvO67TlvnadQditEWJfQJw55pPUzz6Q__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 #### **Archiving Roles**
 
   * The Archive option allows you to remove irrelevant roles. To reuse and restore an archived role, click on the **Archived Roles** section.
 
-![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046378639-?Expires=253370764800&Signature=eACKWcI0HqB452bxuzYAuI3-ysH7omHgoZTyUYm0-gSX0BEDx6bQdeayM6F5L9omy0F~WK~gdfMq0vnKXSvVnNlwSZmwMX070PFxeKZP9O5E2cc1mZm3ki4rv7iPRNA95MESbB7XPmZ4th9bK1CKQ8-mMxHCWQ9HNlqE3AGTaC243sTHbFH61P49Trg4FIWTbPMR15FQmW2qbKOw0zJYLZWp9r1c6VUqvmaRt~iXMQ0xd-JM2RVNqQmEc~CZE2~a672AX255AnbkiG0B-Qt~bB1MgJWbA-UV~AvghVQoq0RAgliG-WO-Vui32mWPSR0EFIb8Sa7UGfYixUT-qpBx1w__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046378639-?Expires=253370764800&Signature=eACKWcI0HqB452bxuzYAuI3-ysH7omHgoZTyUYm0-gSX0BEDx6bQdeayM6F5L9omy0F~WK~gdfMq0vnKXSvVnNlwSZmwMX070PFxeKZP9O5E2cc1mZm3ki4rv7iPRNA95MESbB7XPmZ4th9bK1CKQ8-mMxHCWQ9HNlqE3AGTaC243sTHbFH61P49Trg4FIWTbPMR15FQmW2qbKOw0zJYLZWp9r1c6VUqvmaRt~iXMQ0xd-JM2RVNqQmEc~CZE2~a672AX255AnbkiG0B-Qt~bB1MgJWbA-UV~AvghVQoq0RAgliG-WO-Vui32mWPSR0EFIb8Sa7UGfYixUT-qpBx1w__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 ### Mapping Roles to Tests and Interviews
 
   * When creating a test, use the specific role from the list. 
 
-![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046379016-?Expires=253370764800&Signature=Z5MBfcGkWyPmo8OdUIEjuKdzTa5MvmDHCwMDfpHB3TWppB-LCmD6HguQcxjYPjui8DzJGWgTH1hILP6DhmlRpjQL7ZMzniAhlL4jj19bbYd0ynkD3IYRecCqLZXBMRdPpe-PXu~4ZQJO5rU4VsOL~k95jkzDPhtb7sMe6Qm-LrOuosEVOYZiGvDufuP6iKgT9woDomI05-oaVc6Kbp9OiKIZtPCwV0xio91~nKzfuvJhDedt7NtikKDQt~6gju4rRTne~lmIUBgpIH2T3l2Jtgi59GzKfpK15GmruyN3eZ8EW02hx09s~4ARrAdRXlc5H8zQ55Be2SqWdviAmWBT0g__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046379016-?Expires=253370764800&Signature=Z5MBfcGkWyPmo8OdUIEjuKdzTa5MvmDHCwMDfpHB3TWppB-LCmD6HguQcxjYPjui8DzJGWgTH1hILP6DhmlRpjQL7ZMzniAhlL4jj19bbYd0ynkD3IYRecCqLZXBMRdPpe-PXu~4ZQJO5rU4VsOL~k95jkzDPhtb7sMe6Qm-LrOuosEVOYZiGvDufuP6iKgT9woDomI05-oaVc6Kbp9OiKIZtPCwV0xio91~nKzfuvJhDedt7NtikKDQt~6gju4rRTne~lmIUBgpIH2T3l2Jtgi59GzKfpK15GmruyN3eZ8EW02hx09s~4ARrAdRXlc5H8zQ55Be2SqWdviAmWBT0g__&Key-Pair-Id=K3NV4LZ47N8M46)
 
   * Map interview sessions to roles during scheduling by selecting a role from the dropdown.
 
-![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046379381-?Expires=253370764800&Signature=EGRlM-kq3xFEBP85y2lChKnQgBw9Hny5yZXGPRv0y~FP6L-u7MvEDT5GKx0gD7qEmnvfR86SRQnmeWh5CVSFKiWu2dj-u8hRUXOU7r4Q9TsqztSDUWpVC9RJEyDZuFCSdIeHNn9qmaGXTx6~QOCh6Y-lzVFtUeCs5w1QAZEVzz9M1UGW83Uw85MMgdOmBtjZBg2CYiVYi3pUA~PJmmpQHoARuZodBFLXibHXW7ZOmDo-I6iizeQD8esYnocQov~Yg-AUhx5Yl-iz~MKKzwXhMaWF5dzSCjPV5JqnJq2Y8QVwgVwlp4m7g4v6-rbKCr4Wisxccj4lTOF4NpdTTnnVCQ__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046379381-?Expires=253370764800&Signature=EGRlM-kq3xFEBP85y2lChKnQgBw9Hny5yZXGPRv0y~FP6L-u7MvEDT5GKx0gD7qEmnvfR86SRQnmeWh5CVSFKiWu2dj-u8hRUXOU7r4Q9TsqztSDUWpVC9RJEyDZuFCSdIeHNn9qmaGXTx6~QOCh6Y-lzVFtUeCs5w1QAZEVzz9M1UGW83Uw85MMgdOmBtjZBg2CYiVYi3pUA~PJmmpQHoARuZodBFLXibHXW7ZOmDo-I6iizeQD8esYnocQov~Yg-AUhx5Yl-iz~MKKzwXhMaWF5dzSCjPV5JqnJq2Y8QVwgVwlp4m7g4v6-rbKCr4Wisxccj4lTOF4NpdTTnnVCQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 For detailed instructions, refer to[** **](<https://support.hackerrank.com/articles/8606775858-scoring-certified-assessments>)[**creating a test**](<https://support.hackerrank.com/articles/1649328687-hackerrank-certified-assessments>)**  and **[**creating an interview.**](<https://support.hackerrank.com/articles/8404005945-creating-an-interview>)

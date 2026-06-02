@@ -39,7 +39,7 @@ To access flexible roles:
 
   4. Go to the **User Roles** tab.
 
-![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F557a9934-80f3-402d-8e1c-4f6285e53ba3-AD_4nXd1yTwzzdfFzMdMgd6SCnSsACQUCLLwCZkbTqFQm5N_qTu-b9g7R3W5YFvz1XjZntqm1OBIzzJFmn2K_FeriT8dmiLSGL_ge2THMEv_tX_NXfeXnWK5NFcxPXMb5GuCO2GvIp_edg-a1c94eb1-2cb5-4bda-bb39-bb19ff773dba?Expires=253370764800&Signature=VA~0EQCGzR4XVUmnOyeoaH3D1i4CfLKP6PMWVzlSwLr6sf~XOypnRwRQils3tK7yP~T5Zf1K-fweShRHTVhtD8L9XVEC6HGBM~EfuuTFm7qdXUjWlb6XdL-vOoORLQCHbsCIM1Zx5DYhng68IrzDnw44Z6gExYYsPScnvmkheRcqT9yeITsN-WBmv6qIAbASsm~2Yt2hu6B8JXXVA-p4nnViLtXQE4XOf3yJQmDgH3PG7jEkGVVSq-WT79kYxRY~N6LRrex38wt7Do4Vza6uP6d0mUI~Kiv~nWIDx0jfa9h7HNgufBj4RPt2O~O0WpLzehup3R4PQ4pUTMreRxoc4g__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F557a9934-80f3-402d-8e1c-4f6285e53ba3-AD_4nXd1yTwzzdfFzMdMgd6SCnSsACQUCLLwCZkbTqFQm5N_qTu-b9g7R3W5YFvz1XjZntqm1OBIzzJFmn2K_FeriT8dmiLSGL_ge2THMEv_tX_NXfeXnWK5NFcxPXMb5GuCO2GvIp_edg-a1c94eb1-2cb5-4bda-bb39-bb19ff773dba?Expires=253370764800&Signature=VA~0EQCGzR4XVUmnOyeoaH3D1i4CfLKP6PMWVzlSwLr6sf~XOypnRwRQils3tK7yP~T5Zf1K-fweShRHTVhtD8L9XVEC6HGBM~EfuuTFm7qdXUjWlb6XdL-vOoORLQCHbsCIM1Zx5DYhng68IrzDnw44Z6gExYYsPScnvmkheRcqT9yeITsN-WBmv6qIAbASsm~2Yt2hu6B8JXXVA-p4nnViLtXQE4XOf3yJQmDgH3PG7jEkGVVSq-WT79kYxRY~N6LRrex38wt7Do4Vza6uP6d0mUI~Kiv~nWIDx0jfa9h7HNgufBj4RPt2O~O0WpLzehup3R4PQ4pUTMreRxoc4g__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 ### Customizing user roles
 
@@ -47,7 +47,7 @@ To customize a user role:
 
   1. Select the role you want to customize.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1772736319695-image.png?Expires=253370764800&Signature=UE-hzVzu2XhuYKisSPxYTxxfYFexSXTGjp51TnlsfUYTR-3bdExOq0rbROIZLB2~WlCTEeweytPiCHerqQ7OubeUVX73CrfeYaTKj8zcfitZDIks9xX2zZV1y9hH4dePHXxMBs~DLgf0uQ41tTMBXvVeVJeIXQQVJJzZDwP6iiD--1tCRLVOWY0vvDPLEC0St9mxv9zzC5doAh3YIXX6y7i4IumxrmXbcPfVRlA~ugcn8VZGFRmbwS5Nmegd5GUflfIqT0dojpejaS5AbOFN13t9h33Y9Nh0kBoLGxNBG3~pOPfn7utGXx91-brRz1FidtrrJGIMjqnrpl1JunOljw__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1772736319695-image.png?Expires=253370764800&Signature=UE-hzVzu2XhuYKisSPxYTxxfYFexSXTGjp51TnlsfUYTR-3bdExOq0rbROIZLB2~WlCTEeweytPiCHerqQ7OubeUVX73CrfeYaTKj8zcfitZDIks9xX2zZV1y9hH4dePHXxMBs~DLgf0uQ41tTMBXvVeVJeIXQQVJJzZDwP6iiD--1tCRLVOWY0vvDPLEC0St9mxv9zzC5doAh3YIXX6y7i4IumxrmXbcPfVRlA~ugcn8VZGFRmbwS5Nmegd5GUflfIqT0dojpejaS5AbOFN13t9h33Y9Nh0kBoLGxNBG3~pOPfn7utGXx91-brRz1FidtrrJGIMjqnrpl1JunOljw__&Key-Pair-Id=K3NV4LZ47N8M46)
   2. Turn on or off each entitlement using the toggle switch next to it.
 
   3. Scroll to the bottom of the page and click **Save Changes**.
@@ -64,12 +64,12 @@ To customize entitlements for an individual user:
 
   4. Go to the **Users** tab.
 
-![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F4a0009c2-d222-4c21-bd1c-7a44f8b1e178-AD_4nXf3t_yPA1F16uJT5y6qvh4Zi7Hd5b9hgKCK-KUIUWfztP313vVLt51cGIJZnoLvgQEl5vSR-dk_D7pRlTc54ix8H7pBKd3e2xoqR3bkmxYTQV2mW13fOHO7M4NoMnzLEOwGhUvRrw-6944e602-1f99-4597-8710-f000ed3f18a1?Expires=253370764800&Signature=bFHBEoEsJbvdoHuhaBg-n29powCGpHqF-QwC5hpdzvGcyKkYk6nY-2m80X~9QdhtgAT9DywFT8hVcTizkxrTKZfaJZPIXRD-JkvcC7-N8~tRn-6MXTwEe0zCsQgfn4OgGP5LkvlRsE5K4ocw9bst30-o2QpYNjbT98lc7OnmsJmgPXt8l8d~oxnB2mxQUXfEWYENKeTfB78zmPMuotXrn2KvHhNmSgU09sbAzhNAPWhJjgrTabCoc0e9fNK9a7wwyj8MrdZdWWQEsAMgB0jsBNS4aZadhtegzI7jQ~gxXm2kU6247VkbcfDc2olwtJEEVWvmPJ0RnR7AH0HiLAv8lw__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F4a0009c2-d222-4c21-bd1c-7a44f8b1e178-AD_4nXf3t_yPA1F16uJT5y6qvh4Zi7Hd5b9hgKCK-KUIUWfztP313vVLt51cGIJZnoLvgQEl5vSR-dk_D7pRlTc54ix8H7pBKd3e2xoqR3bkmxYTQV2mW13fOHO7M4NoMnzLEOwGhUvRrw-6944e602-1f99-4597-8710-f000ed3f18a1?Expires=253370764800&Signature=bFHBEoEsJbvdoHuhaBg-n29powCGpHqF-QwC5hpdzvGcyKkYk6nY-2m80X~9QdhtgAT9DywFT8hVcTizkxrTKZfaJZPIXRD-JkvcC7-N8~tRn-6MXTwEe0zCsQgfn4OgGP5LkvlRsE5K4ocw9bst30-o2QpYNjbT98lc7OnmsJmgPXt8l8d~oxnB2mxQUXfEWYENKeTfB78zmPMuotXrn2KvHhNmSgU09sbAzhNAPWhJjgrTabCoc0e9fNK9a7wwyj8MrdZdWWQEsAMgB0jsBNS4aZadhtegzI7jQ~gxXm2kU6247VkbcfDc2olwtJEEVWvmPJ0RnR7AH0HiLAv8lw__&Key-Pair-Id=K3NV4LZ47N8M46)
   5. Select the individual user whose entitlements you want to customize. The user's entitlement details side panel opens.
 
   6. Turn on or off each entitlement using the toggle switch next to it.
 
-![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2Fe80f916f-c509-4303-afb8-3c967eb923d3-AD_4nXcEJAip0XEOyeHt4Z87utmBnTz8yzXyCYT7ep_Th4CZdjZ319n-hl-C7bxloUuGDNt2VtVXmlgOuh6JDwbAj04GZk52T5krHNT-zntGXfpOfoaB_gDsv9dPa4_9Rq4Mxi0BrtQO-2e3478f1-f2ad-401a-91f4-99cfddf78972?Expires=253370764800&Signature=JEnyHuMY6HpbZ4uAZs1obc4D1D6RbEZh3pY9UYE0RaF4~YyWlWa5VZv-6oNkfwPPi43jApf3794dlchxIzvPzoOBtJDNDGK9RSB4MTqNWyXOvxe2WkF535-eA2dNjkRgIw5UlfCG403~dZFStn30O-Vme7d5ttaoC5lSr6DHPKeCdLzkGw5juEZ-FdRPGzflxUB~Xtn97cVwvEnrnNbu0tZqN7trXygFCvTyRPCuBpo0CYAQ3OwEwHeX8Ewe-WlJiXl6R8qeLd0a8-t8GK4krY7hlYlpINo1qoZuiDtj4P0dK17xud9cbHykqJF~tlljeIU1Yja-t7LbuZEt7EkR3Q__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2Fe80f916f-c509-4303-afb8-3c967eb923d3-AD_4nXcEJAip0XEOyeHt4Z87utmBnTz8yzXyCYT7ep_Th4CZdjZ319n-hl-C7bxloUuGDNt2VtVXmlgOuh6JDwbAj04GZk52T5krHNT-zntGXfpOfoaB_gDsv9dPa4_9Rq4Mxi0BrtQO-2e3478f1-f2ad-401a-91f4-99cfddf78972?Expires=253370764800&Signature=JEnyHuMY6HpbZ4uAZs1obc4D1D6RbEZh3pY9UYE0RaF4~YyWlWa5VZv-6oNkfwPPi43jApf3794dlchxIzvPzoOBtJDNDGK9RSB4MTqNWyXOvxe2WkF535-eA2dNjkRgIw5UlfCG403~dZFStn30O-Vme7d5ttaoC5lSr6DHPKeCdLzkGw5juEZ-FdRPGzflxUB~Xtn97cVwvEnrnNbu0tZqN7trXygFCvTyRPCuBpo0CYAQ3OwEwHeX8Ewe-WlJiXl6R8qeLd0a8-t8GK4krY7hlYlpINo1qoZuiDtj4P0dK17xud9cbHykqJF~tlljeIU1Yja-t7LbuZEt7EkR3Q__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 :::note
 A user's entitlements are restricted by the maximum entitlements granted to their assigned user role. Users cannot exceed the limitations set for their role.

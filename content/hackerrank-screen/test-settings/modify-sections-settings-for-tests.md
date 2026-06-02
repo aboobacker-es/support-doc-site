@@ -25,7 +25,7 @@ To modify section-level behavior for a test:
 
   4. Go to **Settings > Sections.**  
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1753694072302-image.png?Expires=253370764800&Signature=Cxrisxi-v0EHKkkqv5W1FY0wfpekpqlXK66m3QU~AHeog0O4wolxWsyp73FI16OF0u-GUFoq2sr3KxqH~rxBTYDkSZ7vU~DKRYWodGs6yOU~30OOMFodH8D-cgU1TK-cXhk3~RZJKjB52GgF6T0j3iiX201pM2sVaVKCGGSMv9KlvuQdjWOndaAz7XfEk-N2nkLii7tirnGq2vIhWHtOjjSFhATkNbo0YDyXa7Pju~boJutC8ptfGWzKYc2bP3bj-48qZ87lXp2bSNEUbjnoHtjf813VnHm6ICYYobZqnv71jw6XDCrcmsji8VO45WwW2sykqXk4pj6ro2-wOKEEmg__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1753694072302-image.png?Expires=253370764800&Signature=Cxrisxi-v0EHKkkqv5W1FY0wfpekpqlXK66m3QU~AHeog0O4wolxWsyp73FI16OF0u-GUFoq2sr3KxqH~rxBTYDkSZ7vU~DKRYWodGs6yOU~30OOMFodH8D-cgU1TK-cXhk3~RZJKjB52GgF6T0j3iiX201pM2sVaVKCGGSMv9KlvuQdjWOndaAz7XfEk-N2nkLii7tirnGq2vIhWHtOjjSFhATkNbo0YDyXa7Pju~boJutC8ptfGWzKYc2bP3bj-48qZ87lXp2bSNEUbjnoHtjf813VnHm6ICYYobZqnv71jw6XDCrcmsji8VO45WwW2sykqXk4pj6ro2-wOKEEmg__&Key-Pair-Id=K3NV4LZ47N8M46)
 
   
 In the **Sections** settings panel, you can update the following:

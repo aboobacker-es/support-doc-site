@@ -19,7 +19,7 @@ to start an interview immediately:
 
   3. Click **New**.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776850064456-image.png?Expires=253370764800&Signature=qs30Fk7sw1QqmgoeJVyvDUn5yD1M1PIE1hS1zIExq-Y~4nPOxjz18ePnpurfdem0e~noF6W3~Y0ZyNW9ikf3e8au7j6LzyRJuhSL-mMTOmMHhQ1Gkzmg10d3AZb1aGQkJ1AWa7kRtN00NV4yYJW7a37jJ~XXnS0NyM8LM9IHjxin10mN1OP-ebz6lNc~hXB66UqoiSy3uV7N~JwMt8zPfZb7c~cf0yX71UeWLCufHntccpC4B69spLJS0dKhzlaSY7wYTgflRd53LN6BOHpMbW5eXLJSLigxoSqFbHTo1yzAUrfqpWO6SLses-m88um3PifpQqXqx2I5zQguarTr5Q__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776850064456-image.png?Expires=253370764800&Signature=qs30Fk7sw1QqmgoeJVyvDUn5yD1M1PIE1hS1zIExq-Y~4nPOxjz18ePnpurfdem0e~noF6W3~Y0ZyNW9ikf3e8au7j6LzyRJuhSL-mMTOmMHhQ1Gkzmg10d3AZb1aGQkJ1AWa7kRtN00NV4yYJW7a37jJ~XXnS0NyM8LM9IHjxin10mN1OP-ebz6lNc~hXB66UqoiSy3uV7N~JwMt8zPfZb7c~cf0yX71UeWLCufHntccpC4B69spLJS0dKhzlaSY7wYTgflRd53LN6BOHpMbW5eXLJSLigxoSqFbHTo1yzAUrfqpWO6SLses-m88um3PifpQqXqx2I5zQguarTr5Q__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 The system opens the interview interface.
 
@@ -27,7 +27,7 @@ The system opens the interview interface.
 
   5. Copy the interview link and share it with the candidate.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776843949313-image.png?Expires=253370764800&Signature=m2fTHE~UNgsZIEyHu-6iKVXuZ~RXip5kpp1BPkp9hJqtuPJgdJw~tiuKnamdGIw0CCezUYCMJMamfgORscgarM7FK3LvwUjtNtNbjW6jD0yFVrjD6BTmu0XwtytJqBR0wkaebKyJUopYmfuvggwCHg~h~LjtWk4aIfQh6U3qngbY4f3gc8AkhGBzzFyflTubghY4H6Cx7C1aRcOJRsLdi7TgsyKNdy8xE7Y39BFlTy5PAtp28cL05bRIA3NSQyk1v49aLZj6QrlO0aZinqv6pbtvrhXJ4jo7HOANOcEwvw8uc5bP15Ig83tDO3gpQ1DTLDP8c~eTQ5tgKVW~8pGu5A__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776843949313-image.png?Expires=253370764800&Signature=m2fTHE~UNgsZIEyHu-6iKVXuZ~RXip5kpp1BPkp9hJqtuPJgdJw~tiuKnamdGIw0CCezUYCMJMamfgORscgarM7FK3LvwUjtNtNbjW6jD0yFVrjD6BTmu0XwtytJqBR0wkaebKyJUopYmfuvggwCHg~h~LjtWk4aIfQh6U3qngbY4f3gc8AkhGBzzFyflTubghY4H6Cx7C1aRcOJRsLdi7TgsyKNdy8xE7Y39BFlTy5PAtp28cL05bRIA3NSQyk1v49aLZj6QrlO0aZinqv6pbtvrhXJ4jo7HOANOcEwvw8uc5bP15Ig83tDO3gpQ1DTLDP8c~eTQ5tgKVW~8pGu5A__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 The candidate can use the link to join the interview immediately.
 
@@ -47,10 +47,10 @@ To schedule an interview:
 
   3. Click the drop-down next to **New** and select **Schedule for later**.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776850019457-image.png?Expires=253370764800&Signature=VU3m8QiRyvhN5QBlzw7JIZF54-JeJ9-mB9iYfk-h4sAO-OOvJPL-SN4PvQcrgYuTRld6xrijdHy9IhvaxOS1BAgKI-l7q5N5K6a1Z08F1ikHQ9GZeUT3YlOfhd~KcUkA7N0x1jNRXmYRcOEBV7aCd8LdBfNu8J20g5vmnIP0eAEwmGbsxoMtXrW42TDFvqTFAt~85IZvvRPeNoYz91fWu3y3Va-IZNQQasC3gJ2nbgtvqFF8uYR72MqkQmEBqS7bXutB9SnA~5YUen3XFwtaLeQRGGwRRaYp3M5C8CtZLYzO7RXLC5XCHW4OVL5OlX6-LcY1lkkXxn9CrQGhc1gsTA__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776850019457-image.png?Expires=253370764800&Signature=VU3m8QiRyvhN5QBlzw7JIZF54-JeJ9-mB9iYfk-h4sAO-OOvJPL-SN4PvQcrgYuTRld6xrijdHy9IhvaxOS1BAgKI-l7q5N5K6a1Z08F1ikHQ9GZeUT3YlOfhd~KcUkA7N0x1jNRXmYRcOEBV7aCd8LdBfNu8J20g5vmnIP0eAEwmGbsxoMtXrW42TDFvqTFAt~85IZvvRPeNoYz91fWu3y3Va-IZNQQasC3gJ2nbgtvqFF8uYR72MqkQmEBqS7bXutB9SnA~5YUen3XFwtaLeQRGGwRRaYp3M5C8CtZLYzO7RXLC5XCHW4OVL5OlX6-LcY1lkkXxn9CrQGhc1gsTA__&Key-Pair-Id=K3NV4LZ47N8M46)
   4. In the **Interview Details** panel:
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776770535027-image.png?Expires=253370764800&Signature=Wx3rZ9gA9ocUEHUfg29ZKmkdByNGTXfqrby9vpoQqP1SGWIZ1GXEoF23SsHPeIxXf3OW5F-OuyjQY-v46CvqeuJMlEpnHXxJ7-kuekUTE8Lt7EBmQkfc-BpWFqVSX9HPV3AWgxn-NEqxEcji6XTlztLcM0qbZ93Va6Uf9gZwDMp~l2xas-~0WpibnKOMK0s-MCCM4EYgu4VwmhKzJMnKKT5NPEE4o0QPX0oW1LHyRzlGp42-lJuWcFqavkRKJJhWxgcUBuVbVqRVBo78fOiXIvULi51ViiSoPYwC3mbEEh-0jl8QYrZv-J4fb-O3Bx3-7LeTXrzKnstA1uVCO5vsIw__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776770535027-image.png?Expires=253370764800&Signature=Wx3rZ9gA9ocUEHUfg29ZKmkdByNGTXfqrby9vpoQqP1SGWIZ1GXEoF23SsHPeIxXf3OW5F-OuyjQY-v46CvqeuJMlEpnHXxJ7-kuekUTE8Lt7EBmQkfc-BpWFqVSX9HPV3AWgxn-NEqxEcji6XTlztLcM0qbZ93Va6Uf9gZwDMp~l2xas-~0WpibnKOMK0s-MCCM4EYgu4VwmhKzJMnKKT5NPEE4o0QPX0oW1LHyRzlGp42-lJuWcFqavkRKJJhWxgcUBuVbVqRVBo78fOiXIvULi51ViiSoPYwC3mbEEh-0jl8QYrZv-J4fb-O3Bx3-7LeTXrzKnstA1uVCO5vsIw__&Key-Pair-Id=K3NV4LZ47N8M46)
      * (Optional) Update the **Interview Title**. 
 
      * Add **Interviewer(s)** and **Candidate email address**.
@@ -120,22 +120,22 @@ To search and filter Interviews:
 
      * **Search options:** Enter a candidate email address, interview title, or associated tags.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776770875796-image.png?Expires=253370764800&Signature=r8YiCsK8U7fqbFQwX3My0pkUXyZ6Grw95zAzmDWFB27h-dwzX6pl894BJA7ZXhek-XzGgtkEp0JHQptNdNetFL2D3qD4sRvNSGeJhUC9xkD9Mwqo3aBUrhRFiqSgEwCDXiBB3hlCLwW0J61XftsfU6twD40b~dfV2Z-0k~UcZLmsBGNlIICq~Fr0oYEDvzXEIjypC7wpje0h1mkUIvmhFUnRqgKzZGLyqBmkCIg11Zj7jM8boFA66pZjpgDFF9cntFZGJO-vKz8B7C9nnCkUKDM8SXHfiRTm96-LdRFoXWj3RQhcBQ3iunKsyAy9qxf8uKmcbcO3GOQlWWcf6wltig__&Key-Pair-Id=K3NV4LZ47N8M46)
+       ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776770875796-image.png?Expires=253370764800&Signature=r8YiCsK8U7fqbFQwX3My0pkUXyZ6Grw95zAzmDWFB27h-dwzX6pl894BJA7ZXhek-XzGgtkEp0JHQptNdNetFL2D3qD4sRvNSGeJhUC9xkD9Mwqo3aBUrhRFiqSgEwCDXiBB3hlCLwW0J61XftsfU6twD40b~dfV2Z-0k~UcZLmsBGNlIICq~Fr0oYEDvzXEIjypC7wpje0h1mkUIvmhFUnRqgKzZGLyqBmkCIg11Zj7jM8boFA66pZjpgDFF9cntFZGJO-vKz8B7C9nnCkUKDM8SXHfiRTm96-LdRFoXWj3RQhcBQ3iunKsyAy9qxf8uKmcbcO3GOQlWWcf6wltig__&Key-Pair-Id=K3NV4LZ47N8M46)
      * **Filter options:**
 
        * **Show** :
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776770814394-image.png?Expires=253370764800&Signature=mIKbV-zPbdvA5sEef7YLd4g60xckkAm4DhpKRy20xqD8R8p46lwv4ZOuA7s01mDNxnnxtIxowHwzmM~K1z1TsjnjNyMuLE9kTLr4P2GGlncX7m6QbzIlMPg4tf3oHtx0UH4FWey6WbYBLEfdOabAp75z1K3Zj0f5UKWaewj27PtZBf~bFd68nfL~wEbsb4FWq4nr~7XzlGdEOJ0RyivfixB0m7JAS~EHu1bn-2RilB4r5Q5Q7FHIVZaogI0VqtFdcpCnjDKRUtYsaVHnFNpxCZPwXTEYqoSOph~HAtABMAIUk9H-mE~wmAYgV3V40SdC5~r7UhMpVNVfGo1tbksuag__&Key-Pair-Id=K3NV4LZ47N8M46)
+         ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776770814394-image.png?Expires=253370764800&Signature=mIKbV-zPbdvA5sEef7YLd4g60xckkAm4DhpKRy20xqD8R8p46lwv4ZOuA7s01mDNxnnxtIxowHwzmM~K1z1TsjnjNyMuLE9kTLr4P2GGlncX7m6QbzIlMPg4tf3oHtx0UH4FWey6WbYBLEfdOabAp75z1K3Zj0f5UKWaewj27PtZBf~bFd68nfL~wEbsb4FWq4nr~7XzlGdEOJ0RyivfixB0m7JAS~EHu1bn-2RilB4r5Q5Q7FHIVZaogI0VqtFdcpCnjDKRUtYsaVHnFNpxCZPwXTEYqoSOph~HAtABMAIUk9H-mE~wmAYgV3V40SdC5~r7UhMpVNVfGo1tbksuag__&Key-Pair-Id=K3NV4LZ47N8M46)
          * **My Interviews** : Displays interviews you created or participated in.
 
          * **All Interviews** : Displays your interviews and interviews shared with you by your teammates.
 
        * **Created in:** Select a time range from the dropdown to filter interviews by creation date.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776770791682-image.png?Expires=253370764800&Signature=AcWl92H9Fd-lxhoS5YqwWRUtwcfYyJSewJUtOsPaK26gG-9oIDL5X509TOmORiVQuCne9Nsj6N9nJgACDu6590y~QMVficmLwYUhcDpM0kux3vHEcu4M1XKPCnXdEmW8CDTwJZ28iugMCQ79F9OPHI-WadopZOoTlfq7YjWMhbuUqpMmCoKBlMdwWp40JmCGdUlMlDaKiP81aDZrqU7z3McYwAkOsPROGTcaWbyJtX52~ELeQReLFhxqxXnyUUVl8Vzv-7OKPS-XGGcrLoMviobd5yw8Q5eIKDJlqwkFTnrAdOyTiAvTp11Wx9JGXSHqj0bO43NC~k-XxhxJ5kp2Pg__&Key-Pair-Id=K3NV4LZ47N8M46)
+         ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776770791682-image.png?Expires=253370764800&Signature=AcWl92H9Fd-lxhoS5YqwWRUtwcfYyJSewJUtOsPaK26gG-9oIDL5X509TOmORiVQuCne9Nsj6N9nJgACDu6590y~QMVficmLwYUhcDpM0kux3vHEcu4M1XKPCnXdEmW8CDTwJZ28iugMCQ79F9OPHI-WadopZOoTlfq7YjWMhbuUqpMmCoKBlMdwWp40JmCGdUlMlDaKiP81aDZrqU7z3McYwAkOsPROGTcaWbyJtX52~ELeQReLFhxqxXnyUUVl8Vzv-7OKPS-XGGcrLoMviobd5yw8Q5eIKDJlqwkFTnrAdOyTiAvTp11Wx9JGXSHqj0bO43NC~k-XxhxJ5kp2Pg__&Key-Pair-Id=K3NV4LZ47N8M46)
        * **Status:** Select **Ready Interviews** or **Finished Interviews** to filter interviews by status.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776770779933-image.png?Expires=253370764800&Signature=cHB7mWtZWz~zQCEudWHlXPaAfNQz8lsLqh0zZ0pY1KyoSVyxeFI~b-Yta3iOZSuefdlfTRm4gFFlO09463KQp0k9Z-y-gso8SZ2xyEJg8YXtDyL~SIe5brpbOU8d3D-m6qYQMspF3A7ga5EQhJdh5HQJdhO9keIICJJxZQDWDvgV3aKhbKAtd~QqEaTutYqkvY8Eur3xs6JHFRce94V1o32GyW8EpXOpsZOay1uNm5XjyIZgyZmx~pRnXkSM6wvxHYyPVq95XMwIeqqyH303bBnoCz-6qZJHqXRQteFt505ZjgChWw35qgGPcWEQsWHn-KQsiAs-0u4Vzm0yZVQ1cQ__&Key-Pair-Id=K3NV4LZ47N8M46)
+         ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776770779933-image.png?Expires=253370764800&Signature=cHB7mWtZWz~zQCEudWHlXPaAfNQz8lsLqh0zZ0pY1KyoSVyxeFI~b-Yta3iOZSuefdlfTRm4gFFlO09463KQp0k9Z-y-gso8SZ2xyEJg8YXtDyL~SIe5brpbOU8d3D-m6qYQMspF3A7ga5EQhJdh5HQJdhO9keIICJJxZQDWDvgV3aKhbKAtd~QqEaTutYqkvY8Eur3xs6JHFRce94V1o32GyW8EpXOpsZOay1uNm5XjyIZgyZmx~pRnXkSM6wvxHYyPVq95XMwIeqqyH303bBnoCz-6qZJHqXRQteFt505ZjgChWw35qgGPcWEQsWHn-KQsiAs-0u4Vzm0yZVQ1cQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 ## Join as an Interviewer
 

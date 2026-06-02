@@ -25,10 +25,10 @@ To reschedule an interview:
 
   4. Click **Invite Participants**.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1758777783789-image.png?Expires=253370764800&Signature=nqSpjlNM0JjrQkU8-xR8bA8vxx5JVXs4yKOg7eo6STc0KFxFwk7IHdu-29XstN-u-6gXmE5~QS-4MRfO5pZJDTdKVxpODZ8fvmodfNKtqlV4QgOWO7qc2FHiajerk4qii5Rf-FYfG0yBGp19vRec7uAYURICqT6Z5pj~n~sww-5-xYNmCbNeO5xglt9TXRQvsFo1BvuI1FVfBqZs0eX3oXtko1~SKFvFOarF0YsoQulgRhJmjC3JjYgZJByLYuNYsAUUN3OuItY~QdPxCCy4ZZRSTjmHcyll1tmvoQK9ju9XhPRNLUzKZb2pShQ1Sehe7HNDg37LuVX95fHzOegdoQ__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1758777783789-image.png?Expires=253370764800&Signature=nqSpjlNM0JjrQkU8-xR8bA8vxx5JVXs4yKOg7eo6STc0KFxFwk7IHdu-29XstN-u-6gXmE5~QS-4MRfO5pZJDTdKVxpODZ8fvmodfNKtqlV4QgOWO7qc2FHiajerk4qii5Rf-FYfG0yBGp19vRec7uAYURICqT6Z5pj~n~sww-5-xYNmCbNeO5xglt9TXRQvsFo1BvuI1FVfBqZs0eX3oXtko1~SKFvFOarF0YsoQulgRhJmjC3JjYgZJByLYuNYsAUUN3OuItY~QdPxCCy4ZZRSTjmHcyll1tmvoQK9ju9XhPRNLUzKZb2pShQ1Sehe7HNDg37LuVX95fHzOegdoQ__&Key-Pair-Id=K3NV4LZ47N8M46)
   5. Update the following fields:
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1758777799426-image.png?Expires=253370764800&Signature=rlfzQB-aAhZ1WA-L1MtLGWVNQ0e~B6wOAogympLGzaSWgItAY7Nxund0yrQBWfSeVq8e~s7Yn7yJlUzWI3AGUKxUJ3el5he~WDnaqBj-r~XTtqezLZBXe9axo04WxTwxgRNe1NvcVPybW48DaLcB5KFPmasv2-P~Ov3wJ22oFj-mv1ERe6wLGlEqUixOc6psM2x272rCgwVOuVkQaiRF~m6oPWzoLfcRUNlLgk24zVLoJnk543LA7mRcenb4sYgRjZeOQAV3VjlN8onOHyxYFGMA9iqwAQCS-H-SLx6Tmn6rF1a6s4FCdx8I1-HU3JdXYdYo3sM2reVhvsgdnR6Ubw__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1758777799426-image.png?Expires=253370764800&Signature=rlfzQB-aAhZ1WA-L1MtLGWVNQ0e~B6wOAogympLGzaSWgItAY7Nxund0yrQBWfSeVq8e~s7Yn7yJlUzWI3AGUKxUJ3el5he~WDnaqBj-r~XTtqezLZBXe9axo04WxTwxgRNe1NvcVPybW48DaLcB5KFPmasv2-P~Ov3wJ22oFj-mv1ERe6wLGlEqUixOc6psM2x272rCgwVOuVkQaiRF~m6oPWzoLfcRUNlLgk24zVLoJnk543LA7mRcenb4sYgRjZeOQAV3VjlN8onOHyxYFGMA9iqwAQCS-H-SLx6Tmn6rF1a6s4FCdx8I1-HU3JdXYdYo3sM2reVhvsgdnR6Ubw__&Key-Pair-Id=K3NV4LZ47N8M46)
      * **Date:** Choose the new interview date.
 
      * **Time:** Choose the new interview time.

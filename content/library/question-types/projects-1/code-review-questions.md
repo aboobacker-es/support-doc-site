@@ -19,10 +19,10 @@ To create a Code Review question:
 
   3. Click **Create Question**.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1765963674398-image.png?Expires=253370764800&Signature=Z5xIhKM8xt9OWWFHQyQepXHvcAh83sNo4rQFFXEHZY6pmZTsvVUy1~eEt4qDYf3L8oq6xS4YN4Yk8Iaytspe-1hw1ax47-T46mp3JgCP~L2czQm58KWxejOVd4j~uEw1TwhL~s7Ht1IkVXVvxKdU~BWds5ddvlEDfUQo3Ak7LfFg0OyvEgkrZo8nTmhEWDfuypojO5jCDFPiKnm-nVFE-J1bxEoPVv8pfS1FzkcMk6ihR0Ua8S94Jb6DGREx2czAbWN9ejYUagcX-YecBgyWNDO8GpHpAxW-LlEM3hxn8xCD7Pj2XgnFkd9wiJVuUju7RXWy~b8FPe-oydb34tIgFg__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1765963674398-image.png?Expires=253370764800&Signature=Z5xIhKM8xt9OWWFHQyQepXHvcAh83sNo4rQFFXEHZY6pmZTsvVUy1~eEt4qDYf3L8oq6xS4YN4Yk8Iaytspe-1hw1ax47-T46mp3JgCP~L2czQm58KWxejOVd4j~uEw1TwhL~s7Ht1IkVXVvxKdU~BWds5ddvlEDfUQo3Ak7LfFg0OyvEgkrZo8nTmhEWDfuypojO5jCDFPiKnm-nVFE-J1bxEoPVv8pfS1FzkcMk6ihR0Ua8S94Jb6DGREx2czAbWN9ejYUagcX-YecBgyWNDO8GpHpAxW-LlEM3hxn8xCD7Pj2XgnFkd9wiJVuUju7RXWy~b8FPe-oydb34tIgFg__&Key-Pair-Id=K3NV4LZ47N8M46)
   4. Select **Code Review** under **Projects**. 
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1765963783893-image.png?Expires=253370764800&Signature=G29D3B~oMF3Ja6As3ZZh3h-l9d2NjradPaKwK52fSkEnAULvaaIPEZ4N9Se-2Cdp4LYS7aD1ldXNWsPu3nrrpi0lMZ6YPmOoQg278nCTJIqv4W0VGvP2rz9vx5lydre0LEPpVdO2pew4ddJwVm~4GWxT6x9hACzLP4woAKHjci9maFah-Yy0cMzG0tITFwh0gntOee5dA5JcGK-6OUcgipbyWBC1ZsGEMrITENXI3tuJBJC5b4JIqE7BMlVNfOfimIM~bWOGg1htG2SeOwLO6Ck2N3gtRZ3WO8c6Zqj9v-EPPOJ19AOi2cWbCqyxqUJpCYXDMrQZ6SYUT2D-T8uslQ__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1765963783893-image.png?Expires=253370764800&Signature=G29D3B~oMF3Ja6As3ZZh3h-l9d2NjradPaKwK52fSkEnAULvaaIPEZ4N9Se-2Cdp4LYS7aD1ldXNWsPu3nrrpi0lMZ6YPmOoQg278nCTJIqv4W0VGvP2rz9vx5lydre0LEPpVdO2pew4ddJwVm~4GWxT6x9hACzLP4woAKHjci9maFah-Yy0cMzG0tITFwh0gntOee5dA5JcGK-6OUcgipbyWBC1ZsGEMrITENXI3tuJBJC5b4JIqE7BMlVNfOfimIM~bWOGg1htG2SeOwLO6Ck2N3gtRZ3WO8c6Zqj9v-EPPOJ19AOi2cWbCqyxqUJpCYXDMrQZ6SYUT2D-T8uslQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 The Code Review question creation workflow opens with the following three steps.
 
@@ -30,7 +30,7 @@ The Code Review question creation workflow opens with the following three steps.
 
   1. In the **Problem details** section:
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1765963963809-image.png?Expires=253370764800&Signature=b9peTo-jXM-197BfyB-S8SsAo~0N~h348NU7Srq08ifOvxkH3Nu9hawLTcMI6oKRYu1UOR7nGe259U2dqJzKqD38W-pYvK5a4ORDGVEnDSPD7~znWByQNX1LR0YjG~AU-2nY8x9GM3ZFffMpYXgY8NUWppRryRrho8S4SedNpGG0JA1h-yR7u3hJQGN0Rzdfw-Q3rsL7gaI70WK8rdcIt1OqqZSa5heXHcceJ4cHl16HL8DPkiQFXKLgGTe5zYeVySLrAmKGb~~RAM6jR1hv7tB6FcH4ndDl4twtOjBebjsE4N507oJK9lSPki4XBPD76iBqnlUIgvq2SOMQrhsrKg__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1765963963809-image.png?Expires=253370764800&Signature=b9peTo-jXM-197BfyB-S8SsAo~0N~h348NU7Srq08ifOvxkH3Nu9hawLTcMI6oKRYu1UOR7nGe259U2dqJzKqD38W-pYvK5a4ORDGVEnDSPD7~znWByQNX1LR0YjG~AU-2nY8x9GM3ZFffMpYXgY8NUWppRryRrho8S4SedNpGG0JA1h-yR7u3hJQGN0Rzdfw-Q3rsL7gaI70WK8rdcIt1OqqZSa5heXHcceJ4cHl16HL8DPkiQFXKLgGTe5zYeVySLrAmKGb~~RAM6jR1hv7tB6FcH4ndDl4twtOjBebjsE4N507oJK9lSPki4XBPD76iBqnlUIgvq2SOMQrhsrKg__&Key-Pair-Id=K3NV4LZ47N8M46)
      1. Enter the question name.
 
      2. Describe the problem in the **Problem description** field.
@@ -43,7 +43,7 @@ Click **See candidate preview** to view how the question appears to candidates.
 
   2. In the **Question properties** section:
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1765963979576-image.png?Expires=253370764800&Signature=Az89qkRoCqb5gNejGfUEL3ST1qtVZ4dBpI5ccFEcUWGOxWEio9c6hRSpLAsX66SSxdFAVHWwmT0U2pZ3SViHLevaK0n5iircY5MTNAcEEf0KVUCb-MHRUt1a-KYf-eKVZFsDHALzswld1I6zO~8OwAdBaL-jp9w-GgCKuWrU3LSccGlaljLwmFc2bRemEKyJhlp1t2f2NHUpCItQnMW4EsgACkwRvpBRKdYlYMn5qoAtz6-KW5dthHqyutAE-oTdOF2HoGxBfBzljR8y4S6h87XOoFHfW6fpag5thk58t8YN9UNFEanMTggZkv5yKy1hXqH-jhXwyEKbxMngL0dYVw__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1765963979576-image.png?Expires=253370764800&Signature=Az89qkRoCqb5gNejGfUEL3ST1qtVZ4dBpI5ccFEcUWGOxWEio9c6hRSpLAsX66SSxdFAVHWwmT0U2pZ3SViHLevaK0n5iircY5MTNAcEEf0KVUCb-MHRUt1a-KYf-eKVZFsDHALzswld1I6zO~8OwAdBaL-jp9w-GgCKuWrU3LSccGlaljLwmFc2bRemEKyJhlp1t2f2NHUpCItQnMW4EsgACkwRvpBRKdYlYMn5qoAtz6-KW5dthHqyutAE-oTdOF2HoGxBfBzljR8y4S6h87XOoFHfW6fpag5thk58t8YN9UNFEanMTggZkv5yKy1hXqH-jhXwyEKbxMngL0dYVw__&Key-Pair-Id=K3NV4LZ47N8M46)
      1. Enter the score.
 
      2. Add the recommended time in minutes.
@@ -52,7 +52,7 @@ Click **See candidate preview** to view how the question appears to candidates.
 
   3. (Optional) Add **Interviewer guidelines** for internal use, such as evaluation notes, hints, or reference solutions.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1765963993490-image.png?Expires=253370764800&Signature=o2OLUmOX8UJNTSBQP2gVBZs9PCJt~PGC--wOfEiphMdP8akVLEyMtkkKk7j4xHwoF0c93HcuWseJXf0M2x5SYe~~wu5oJLv-UTE14a38ZlUSE6aJWpFFIufzEK3zDW4OL~zUBs57kEWXjyuGSJ72OrG6~N2Y~y4-MFqO63yHAbBpFucxadMEN8nq9OxE34FdpqHy~kPxOIJcno2JmhXVKgpdwOpdimrY60XF-CWwHUy5KzgP4MsQuKVMSUPrj4l-DF5y44doDeZOS1EhVPu2xR9zhvhtr1whMoaX8gG8nhNc5KZXfu~foWzWbXChTdLK2cBSw-uRiXT-bYC2TaLhAg__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1765963993490-image.png?Expires=253370764800&Signature=o2OLUmOX8UJNTSBQP2gVBZs9PCJt~PGC--wOfEiphMdP8akVLEyMtkkKk7j4xHwoF0c93HcuWseJXf0M2x5SYe~~wu5oJLv-UTE14a38ZlUSE6aJWpFFIufzEK3zDW4OL~zUBs57kEWXjyuGSJ72OrG6~N2Y~y4-MFqO63yHAbBpFucxadMEN8nq9OxE34FdpqHy~kPxOIJcno2JmhXVKgpdwOpdimrY60XF-CWwHUy5KzgP4MsQuKVMSUPrj4l-DF5y44doDeZOS1EhVPu2xR9zhvhtr1whMoaX8gG8nhNc5KZXfu~foWzWbXChTdLK2cBSw-uRiXT-bYC2TaLhAg__&Key-Pair-Id=K3NV4LZ47N8M46)
   4. Click **Next**. 
 
 ### Step 2: Upload Code
@@ -83,13 +83,13 @@ To customize the grading rubric:
 
   2. Click the plus icon (**+**) next to the relevant line of code.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1765964160705-image.png?Expires=253370764800&Signature=pRyXtRpZNt76W4xJs3p8ZP0nqz4uiLgK96aMlYatpScwJipsr~xM1-YNR7trFFQ-x0fA-wMOutQDT3amZ9RJuX18U-aUWee7F4Ky~z~JOWi5v5kKJC0413oaG~TfDggbaLmPGdOCbmzJB9z2RmC6q60Atc-Iji19IHmHdKIrkaM-uBHuFpnQo4XLVSgwA1Fe4dBiFvHeaKARhgr5oXPeTj1j~2GYXch6kf4-zzm82ZBjcHLmzgqChR1tksFkgjGSzcmE1blY6TFV5EOwK1ck1716-1mCHyProOcPEAVMaqSh0WL9JLDXD09uWEpQugg0wGt3Qrpd-oC3vWf4e0hZPw__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1765964160705-image.png?Expires=253370764800&Signature=pRyXtRpZNt76W4xJs3p8ZP0nqz4uiLgK96aMlYatpScwJipsr~xM1-YNR7trFFQ-x0fA-wMOutQDT3amZ9RJuX18U-aUWee7F4Ky~z~JOWi5v5kKJC0413oaG~TfDggbaLmPGdOCbmzJB9z2RmC6q60Atc-Iji19IHmHdKIrkaM-uBHuFpnQo4XLVSgwA1Fe4dBiFvHeaKARhgr5oXPeTj1j~2GYXch6kf4-zzm82ZBjcHLmzgqChR1tksFkgjGSzcmE1blY6TFV5EOwK1ck1716-1mCHyProOcPEAVMaqSh0WL9JLDXD09uWEpQugg0wGt3Qrpd-oC3vWf4e0hZPw__&Key-Pair-Id=K3NV4LZ47N8M46)
   3. Enter your comment in the textbox. Use the formatting toolbar if needed. 
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1765964194424-image.png?Expires=253370764800&Signature=LcIz2o2tmdNYI9tnqYXXQapuWQ79LbPhAdCINSauO6H~SolnQsF4Br3jUHBHNanJFr9ADnZ0yUB8ZbK5NK9SAVr8XWcq3uh282SC85ZuxM6s9NPKmU2MHRMHReAmIAKqsqr9A2Fq7ns4uYbImVJ7ClysO5a-zkByM2HOzUtXeTkLtoosKoXiaJmqMe2u5nQ1av8NMchsAYUZq6gVu9HCR~KGm4YoKeFdC~kcFkJY~cLJYEUqrsY4xb8gFmcYrwgSyKvEEr~hVM3sZb4bfUue~U3SbNjqf5IKrjHntmfZleDtRoi3aWcd-dZaP2i-O2s3Mgj9TnK6y~tMli8iXnFiwg__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1765964194424-image.png?Expires=253370764800&Signature=LcIz2o2tmdNYI9tnqYXXQapuWQ79LbPhAdCINSauO6H~SolnQsF4Br3jUHBHNanJFr9ADnZ0yUB8ZbK5NK9SAVr8XWcq3uh282SC85ZuxM6s9NPKmU2MHRMHReAmIAKqsqr9A2Fq7ns4uYbImVJ7ClysO5a-zkByM2HOzUtXeTkLtoosKoXiaJmqMe2u5nQ1av8NMchsAYUZq6gVu9HCR~KGm4YoKeFdC~kcFkJY~cLJYEUqrsY4xb8gFmcYrwgSyKvEEr~hVM3sZb4bfUue~U3SbNjqf5IKrjHntmfZleDtRoi3aWcd-dZaP2i-O2s3Mgj9TnK6y~tMli8iXnFiwg__&Key-Pair-Id=K3NV4LZ47N8M46)
   4. (Optional) Click **Preview** to view the formatted comment.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1765964223170-image.png?Expires=253370764800&Signature=mDNAFqUW3G3jWfnP7PZQKin1G8fgAZ-PHJCuyFiaHZMCkegU42GOOJPPAM98z7biJxFoYfJPIuhzIQas90NMwM3y-AkRiiN8UpoqtkFtAmBUNGpfVsay9mn4DBTSMCVqNybk0TucjW-eQRjCwXYooneqlCV-ud3GDlne791rtQmzIOCNHVyLz3IBFV2XTvDHfmGOhNJNHiYTKo6nAgY~a8pfuV1NbIkCYl3IHDbnjGoHXtKt0gPqJ9KuGzUEM79wF5tYwU-z-7hqjCnuvu30-3ubxfot~soXdkuTp1F7CrjIOlqtKDVw9noNwKyASoVgj9vtV6gAf6UcU3dGYqa4uA__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1765964223170-image.png?Expires=253370764800&Signature=mDNAFqUW3G3jWfnP7PZQKin1G8fgAZ-PHJCuyFiaHZMCkegU42GOOJPPAM98z7biJxFoYfJPIuhzIQas90NMwM3y-AkRiiN8UpoqtkFtAmBUNGpfVsay9mn4DBTSMCVqNybk0TucjW-eQRjCwXYooneqlCV-ud3GDlne791rtQmzIOCNHVyLz3IBFV2XTvDHfmGOhNJNHiYTKo6nAgY~a8pfuV1NbIkCYl3IHDbnjGoHXtKt0gPqJ9KuGzUEM79wF5tYwU-z-7hqjCnuvu30-3ubxfot~soXdkuTp1F7CrjIOlqtKDVw9noNwKyASoVgj9vtV6gAf6UcU3dGYqa4uA__&Key-Pair-Id=K3NV4LZ47N8M46)
   5. Click **Add** to save the comment. 
 
 :::note
@@ -143,7 +143,7 @@ To score a Code Review question manually:
 
   3. Enter the score in the **Score** input field.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1765964708965-image.png?Expires=253370764800&Signature=NrA7img~YafKMBw3St7uWZwsaJkhCaY2HhV984lX9ZJ~WjmG5RTjQi~I4maYFHc7qVE6X2uAkEdsfGfuqaI7vO0yoLcKbyPk7h7LOMgVvdt--52-cmZj8dthFPwDjZlZtA4IkU61E0VMtg4A4UsZEk6CC-h-LqUUfXfQ8bRZzu7pkwcbQD9TpQgxwfCrwtkLuhA8EXtlIwGhdWPWtJ-EBzyQt66DyWl3ZcRu6-Dxl9I-KRclWOLpKXRFuG9MBNswNqdqb3kgMcV-plhwnsmrbSrpUe89uVPQle0KyQ6tgZh45K7SC0-MFm4stUsLgh8qPtJNViBHaSgvVh5LGJwE0A__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1765964708965-image.png?Expires=253370764800&Signature=NrA7img~YafKMBw3St7uWZwsaJkhCaY2HhV984lX9ZJ~WjmG5RTjQi~I4maYFHc7qVE6X2uAkEdsfGfuqaI7vO0yoLcKbyPk7h7LOMgVvdt--52-cmZj8dthFPwDjZlZtA4IkU61E0VMtg4A4UsZEk6CC-h-LqUUfXfQ8bRZzu7pkwcbQD9TpQgxwfCrwtkLuhA8EXtlIwGhdWPWtJ-EBzyQt66DyWl3ZcRu6-Dxl9I-KRclWOLpKXRFuG9MBNswNqdqb3kgMcV-plhwnsmrbSrpUe89uVPQle0KyQ6tgZh45K7SC0-MFm4stUsLgh8qPtJNViBHaSgvVh5LGJwE0A__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 ###  Automated Code Review Scoring
 

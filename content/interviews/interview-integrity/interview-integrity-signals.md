@@ -39,7 +39,7 @@ To enable Interview Integrity Signals:
 
   4. Scroll to the **Interview Integrity Signals** section.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1753773647459-image.png?Expires=253370764800&Signature=iUsPRD~yn2EvDhO5t-LBFPnGszVuhfuw89MC7-AivxSIznWqLP3OfsHKi0ZhUFg-jtH2Ki14guHZvBzVAtM2VBzNlYKLHDvhpZFAL9amnqeQWN7n7fAw09rLMF4wYUkhj27iQZ1yaKP2u759YyLbtkJnBavRA9RFs6Nq2lzDNTwu049N7lzEdbvYbOOpPgOxeydi65UFUx~rLf4OZx2PeGdhB4-PRlM4i4d~wbvC0oGy5ystCagtJHS6U1pRVjKN1p~qijWB8F9FLOVKc5436LAAKhu13Qg9iOcS1LIqrUY~KbwjzzPPUVHUmZg4O6wms0Qy8kWs~eJ6rbuKpQ9d6Q__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1753773647459-image.png?Expires=253370764800&Signature=iUsPRD~yn2EvDhO5t-LBFPnGszVuhfuw89MC7-AivxSIznWqLP3OfsHKi0ZhUFg-jtH2Ki14guHZvBzVAtM2VBzNlYKLHDvhpZFAL9amnqeQWN7n7fAw09rLMF4wYUkhj27iQZ1yaKP2u759YyLbtkJnBavRA9RFs6Nq2lzDNTwu049N7lzEdbvYbOOpPgOxeydi65UFUx~rLf4OZx2PeGdhB4-PRlM4i4d~wbvC0oGy5ystCagtJHS6U1pRVjKN1p~qijWB8F9FLOVKc5436LAAKhu13Qg9iOcS1LIqrUY~KbwjzzPPUVHUmZg4O6wms0Qy8kWs~eJ6rbuKpQ9d6Q__&Key-Pair-Id=K3NV4LZ47N8M46)
   5. In the **Interview Integrity Signals** section:
 
      * Select **Enable interview integrity signals for interviewers** to turn on real-time alerts during interviews.
@@ -82,7 +82,7 @@ The system groups the following types of suspicious signals into alerts:
 
   * **Out of Interview:** Candidate switches away from the coding environment to another browser tab. This behavior may indicate the use of external resources or tools during the interview. You can expand Out-of-interview events in the timeline to view each occurrence, including timestamp and duration.
 
-![Out-of-Interview Activity Details.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776590685450-Out-of-InterviewActivityDetails.gif?Expires=253370764800&Signature=pAmLXZWKrdfhwk1bQswdirds87w~ZVDrwmCj3Dj~GvPTQ5PAiEuF3ggpAGoOKlRaIvNGVJ~LH7QvLfy14oXM-CPmvi3jsZCWP6Vt6xT8Z10ptZbHCQmz3BRu87ZNEcCJ1cX95epXI1G4vDNG9VswkWyYazq0N5y5Nyl-PVO5qLLIUJ~1iqmsCgBhBN03wkP-vXUPRXnA2TDrm1hnWNRfWIVf8guCLXzIYPzLCMwPJpy1hChBIFSs3d6012Lc1jk-Sg1loJ~wSH7PdM1cQndmeMhLH9O79kqerWCveN05cVkCB3FZRXThOg0uPfBMkXZSaq0IOAeuQYpB9TxcMmixbw__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![Out-of-Interview Activity Details.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776590685450-Out-of-InterviewActivityDetails.gif?Expires=253370764800&Signature=pAmLXZWKrdfhwk1bQswdirds87w~ZVDrwmCj3Dj~GvPTQ5PAiEuF3ggpAGoOKlRaIvNGVJ~LH7QvLfy14oXM-CPmvi3jsZCWP6Vt6xT8Z10ptZbHCQmz3BRu87ZNEcCJ1cX95epXI1G4vDNG9VswkWyYazq0N5y5Nyl-PVO5qLLIUJ~1iqmsCgBhBN03wkP-vXUPRXnA2TDrm1hnWNRfWIVf8guCLXzIYPzLCMwPJpy1hChBIFSs3d6012Lc1jk-Sg1loJ~wSH7PdM1cQndmeMhLH9O79kqerWCveN05cVkCB3FZRXThOg0uPfBMkXZSaq0IOAeuQYpB9TxcMmixbw__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 :::note
 Actions such as opening the browser console or interacting with permission pop-ups may also trigger this signal, as they operate outside the coding environment.

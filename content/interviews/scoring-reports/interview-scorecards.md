@@ -17,7 +17,7 @@ To access the interview scorecards:
 
   2. Go to **Interviews > Scorecards**.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760192822729-image.png?Expires=253370764800&Signature=MFldpnbOdAcMpnJAkYBM~Zeb573Or9jC~r1scjl14ByfW3RkgVZBeTAyYmVMgsgbrm8cFfn~j3A5CsstMZriovaDBSrHrmEJYsnaMHbr3466hjEe55yMStjj2wKoM9yeCDh0-QI2~Oejphd7jtlypzhuYTIW3AFV3RdsU9Ws8qjo5j4lAnRIfmJ4zxl07Yg6pn5NrFrvW3jIhmXgT5mnQql-kfSI1H2n13aT403LFfHbs8llaJP5OSpdsq52I5gFAch7B-P4W~MpxiRxfjrzhp~hIv9MoLBaK96w2jVOA2jk6J-~8rKD4V5D~44pdlGgzZz2PI4e1EvPie1K32bvLg__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760192822729-image.png?Expires=253370764800&Signature=MFldpnbOdAcMpnJAkYBM~Zeb573Or9jC~r1scjl14ByfW3RkgVZBeTAyYmVMgsgbrm8cFfn~j3A5CsstMZriovaDBSrHrmEJYsnaMHbr3466hjEe55yMStjj2wKoM9yeCDh0-QI2~Oejphd7jtlypzhuYTIW3AFV3RdsU9Ws8qjo5j4lAnRIfmJ4zxl07Yg6pn5NrFrvW3jIhmXgT5mnQql-kfSI1H2n13aT403LFfHbs8llaJP5OSpdsq52I5gFAch7B-P4W~MpxiRxfjrzhp~hIv9MoLBaK96w2jVOA2jk6J-~8rKD4V5D~44pdlGgzZz2PI4e1EvPie1K32bvLg__&Key-Pair-Id=K3NV4LZ47N8M46)
   3. Use the search bar or filters to find scorecards easily:
 
      * **Search:** Enter the scorecard name.
@@ -64,10 +64,10 @@ To create a custom scorecard:
 
   3. Click **Create Scorecard**. A new scorecard appears with one section and one question by default.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760192778058-image.png?Expires=253370764800&Signature=pFpo9gRlt01DOwNCJT75c2t6xyeqOVM3USmqa1lnk-OcDeID6HWdbErtXpCE7bbqT73nP5r8lpMvhqYPk9vJ~bFdINAYjTjiy1z78~Bpvbk8jOSseF08mCvopP1DJoI3pfWFUuNVdhYBjYyBOYxmxj4oryjTZgWVlXHgelW1hH24OeBKDjCiXpNQIKpSZOcM9t~neR~I9brXwfykqvIS93u8wC-B21Pk3pPpxK~c8dursNWNYh-iPamKcrhu-LG44CqgDV0BnVeT10kqhAkOGInBBBwkYU2gCSNS7oAygVhzYJGvxnUlUzTqPpY4PrDCEzVCNCULncFrCRe26PnrIg__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760192778058-image.png?Expires=253370764800&Signature=pFpo9gRlt01DOwNCJT75c2t6xyeqOVM3USmqa1lnk-OcDeID6HWdbErtXpCE7bbqT73nP5r8lpMvhqYPk9vJ~bFdINAYjTjiy1z78~Bpvbk8jOSseF08mCvopP1DJoI3pfWFUuNVdhYBjYyBOYxmxj4oryjTZgWVlXHgelW1hH24OeBKDjCiXpNQIKpSZOcM9t~neR~I9brXwfykqvIS93u8wC-B21Pk3pPpxK~c8dursNWNYh-iPamKcrhu-LG44CqgDV0BnVeT10kqhAkOGInBBBwkYU2gCSNS7oAygVhzYJGvxnUlUzTqPpY4PrDCEzVCNCULncFrCRe26PnrIg__&Key-Pair-Id=K3NV4LZ47N8M46)
   4. Click the edit**** icon next to the scorecard title to rename the scorecard.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760193412413-image.png?Expires=253370764800&Signature=qMt20hOKlnFXpCTZcxYx5bG1cQNFLwStQs2g-605FNcPfv24OwCg0C7Z2ao3FzPUrcoIS2H-SJkH801wyR9grW1eqHFWFzDtIXcEN8715tqWbhjAzHgybBDwbT2vqM9njmJomkWgMfFZHl3u7oj-HH4tu3RRSMXPbg0rgDcy49sxSvINR7MjR6DBScmp3JEUl6iWZexIGwXoxSHSZ09JXOweuvTHdTX5isSa267t17MBZNreo3kuc81Mm7jtAEZUde9RRNQQr1WOOTmC8L9YXV1c1C8jmmYSh6PVp7YmF6BVFx3JwMKw0hujeTHwlNy2Ha62QAcRYZlqhi2lRcWj8g__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760193412413-image.png?Expires=253370764800&Signature=qMt20hOKlnFXpCTZcxYx5bG1cQNFLwStQs2g-605FNcPfv24OwCg0C7Z2ao3FzPUrcoIS2H-SJkH801wyR9grW1eqHFWFzDtIXcEN8715tqWbhjAzHgybBDwbT2vqM9njmJomkWgMfFZHl3u7oj-HH4tu3RRSMXPbg0rgDcy49sxSvINR7MjR6DBScmp3JEUl6iWZexIGwXoxSHSZ09JXOweuvTHdTX5isSa267t17MBZNreo3kuc81Mm7jtAEZUde9RRNQQr1WOOTmC8L9YXV1c1C8jmmYSh6PVp7YmF6BVFx3JwMKw0hujeTHwlNy2Ha62QAcRYZlqhi2lRcWj8g__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 #### Edit the default question
 
@@ -142,7 +142,7 @@ To add a question to a section:
 
   3. Select an input type.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760192256761-image.png?Expires=253370764800&Signature=tcx77Y8FCqbiCDZFgGfRLGKT-gnulY71gCWhl1Q~S6-E6sWC8QyUUbrZ6l3QfccOMKYKDRIl4NLRDIyeX165uKL040T1FjNNgscCNtInFG8ntwmyxBWhuEByOm-bG3sf1lvRoP0vCllEqykXlLgxDlM2Kqk9J~ogA9YkZuw83zneH884dLcVYYIuBHqleWW5uOzzU~y7~lILe1CENs3xKpgV7f03U8C8~EDsS0kdXAN0ggFaje6DjKSXyAtrGss7t22K1lxVP5EGAbZy2wcpBCGEiBiGpLA-Vokx2pSHxdKaFWUH50PWz3~0gXLlsMEKOnz-Sk0llsOm3iuxubzM~w__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760192256761-image.png?Expires=253370764800&Signature=tcx77Y8FCqbiCDZFgGfRLGKT-gnulY71gCWhl1Q~S6-E6sWC8QyUUbrZ6l3QfccOMKYKDRIl4NLRDIyeX165uKL040T1FjNNgscCNtInFG8ntwmyxBWhuEByOm-bG3sf1lvRoP0vCllEqykXlLgxDlM2Kqk9J~ogA9YkZuw83zneH884dLcVYYIuBHqleWW5uOzzU~y7~lILe1CENs3xKpgV7f03U8C8~EDsS0kdXAN0ggFaje6DjKSXyAtrGss7t22K1lxVP5EGAbZy2wcpBCGEiBiGpLA-Vokx2pSHxdKaFWUH50PWz3~0gXLlsMEKOnz-Sk0llsOm3iuxubzM~w__&Key-Pair-Id=K3NV4LZ47N8M46)
   4. Enter the question text.
 
   5. (Optional) Add a description to provide context for interviewers.
@@ -185,7 +185,7 @@ To assign a scorecard through templates:
 
   4. Choose an existing scorecard or click **Create a New Scorecard**.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760192066694-image.png?Expires=253370764800&Signature=Veezoyecg1lCGl2oPTbsX9GgsOaxue-Hy4~v36XY5UK0Z4kdWev8kxMC96nOn-fiz10l2JHV18z1Jx-VrdyIS2U40BZ1gZfzVT655qNGfzvmHHFMceJ0l6uMn~DKT03xwTkI7KnilylquhXnxOWk8PsE13bYKc6-iG1fp4j9uVf510bt3G1s9~3M8JGpZHLlhnWwLAqNriuvF~Lc8ndNkEsrZ6gOim6tE5SOG~ucSH9q88QIqCSNAaCcXUrIRAkz4B9FQ12dIzU2WYtVhQ~Awd~~FdIQCDhQpRtAJGrxsUZiYtTyAaS3cK2KBqDXwSaz5O3vRY6mbmuVz1SK0oN9Kg__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760192066694-image.png?Expires=253370764800&Signature=Veezoyecg1lCGl2oPTbsX9GgsOaxue-Hy4~v36XY5UK0Z4kdWev8kxMC96nOn-fiz10l2JHV18z1Jx-VrdyIS2U40BZ1gZfzVT655qNGfzvmHHFMceJ0l6uMn~DKT03xwTkI7KnilylquhXnxOWk8PsE13bYKc6-iG1fp4j9uVf510bt3G1s9~3M8JGpZHLlhnWwLAqNriuvF~Lc8ndNkEsrZ6gOim6tE5SOG~ucSH9q88QIqCSNAaCcXUrIRAkz4B9FQ12dIzU2WYtVhQ~Awd~~FdIQCDhQpRtAJGrxsUZiYtTyAaS3cK2KBqDXwSaz5O3vRY6mbmuVz1SK0oN9Kg__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 :::note
 If you do not select a scorecard, HackerRank uses the default scorecard.
@@ -201,7 +201,7 @@ To assign Scorecard during interview setup:
 
   3. In the **Interview Details** panel, scroll to **Interview Scorecard**.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760192039248-image.png?Expires=253370764800&Signature=KDNPgbW8RVnhs111VPotuTwyKnQjKeyXedTGXag6qTEncEZS1HYb1XNo1vH7naCiXk88gBjzKEiiyaE8l1eY864oCPk~G1WCAMXcF0WrVzhcffP4WTTK6KWnTe5wL0n~oCpJxgCqYSZB1jSdSsyx4kQgPIjGYL3qaH5zcEsjQvNrWaE1qKP79BYs1usCz5hGyNqeu4YwNIdL5O9oVT9BWiS2o~L8aUulgcWOIGaEIGv3FuFvhktIHD1Y64-qUvzV53ZZhwLo2QHXy5Q~xhnDe9RWZYng3MNN99Okj9VJucfV0L-5uossSqNPT3wnIf6DCq82o0vBeHo97yGlolbQhA__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760192039248-image.png?Expires=253370764800&Signature=KDNPgbW8RVnhs111VPotuTwyKnQjKeyXedTGXag6qTEncEZS1HYb1XNo1vH7naCiXk88gBjzKEiiyaE8l1eY864oCPk~G1WCAMXcF0WrVzhcffP4WTTK6KWnTe5wL0n~oCpJxgCqYSZB1jSdSsyx4kQgPIjGYL3qaH5zcEsjQvNrWaE1qKP79BYs1usCz5hGyNqeu4YwNIdL5O9oVT9BWiS2o~L8aUulgcWOIGaEIGv3FuFvhktIHD1Y64-qUvzV53ZZhwLo2QHXy5Q~xhnDe9RWZYng3MNN99Okj9VJucfV0L-5uossSqNPT3wnIf6DCq82o0vBeHo97yGlolbQhA__&Key-Pair-Id=K3NV4LZ47N8M46)
   4. Select a scorecard from the dropdown[.](<http://dropdown.Click>)
 
   5. Click **Save Without Inviting**.
@@ -218,7 +218,7 @@ To access and complete the scorecard during an interview:
 
   2. Click the **Scorecard** icon in the upper-right corner. The scorecard panel appears.
 
-![Scorecard.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760192018259-Scorecard.gif?Expires=253370764800&Signature=P~bhhdJv4AfyXKRnwJFRDzwSYem1yEef3Dp63S3PzEEQIYIK0I0RLvjJhXkF7ZBntLB2CAFDHGLjZhL-e~HLDjAmAnL~NkXdCmiWG-rLdJSF~n2AKrVVLbOqWm72iRM-PgHwq-Tsioe~oS4WyjCb~ViojDYR1WPHJnJXo6M2hxKXjxpEFbRyvwbuQVkH2Jj8A-FC~kkTxUJFjzkOlku0MdcRuVXbCT3lSmLkkde3SyOlSmd2IihflRDWCnGLPq6SOOvZROQRIgU3y9m1chtUoMi4GFxbcZi8wi-djb4yAYQt6fseZWWHcgDp9uNV7TbYvYjlFe5-bvhuXcPA1RyBvA__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![Scorecard.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760192018259-Scorecard.gif?Expires=253370764800&Signature=P~bhhdJv4AfyXKRnwJFRDzwSYem1yEef3Dp63S3PzEEQIYIK0I0RLvjJhXkF7ZBntLB2CAFDHGLjZhL-e~HLDjAmAnL~NkXdCmiWG-rLdJSF~n2AKrVVLbOqWm72iRM-PgHwq-Tsioe~oS4WyjCb~ViojDYR1WPHJnJXo6M2hxKXjxpEFbRyvwbuQVkH2Jj8A-FC~kkTxUJFjzkOlku0MdcRuVXbCT3lSmLkkde3SyOlSmd2IihflRDWCnGLPq6SOOvZROQRIgU3y9m1chtUoMi4GFxbcZi8wi-djb4yAYQt6fseZWWHcgDp9uNV7TbYvYjlFe5-bvhuXcPA1RyBvA__&Key-Pair-Id=K3NV4LZ47N8M46)
   3. Review the skills associated with the candidate’s role:
 
      * If the interview started from a test report, the system maps the test role automatically.
@@ -249,7 +249,7 @@ To view the scorecard in the Interview Report:
 
   4. Click the menu icon (☰) on the right to open the **Scorecard** section.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760191957769-image.png?Expires=253370764800&Signature=r4teXP0JxJdI73jmpZyFHRYnndsAZob5wtJ6j3Dy51vvHlH3ze~7qE9sdkCWVP-6unr4giTqawwEOZNeb6CKW4gusuYKhMfVVbQLz9IiSEI5tCppkKeKbK0MqMUIps-HmU3ZDbN3J8~7EG5lfdt8kh4sxn18vHwwyoFqWTGZxLYSdIQxzrj4nopcvtkBJD4zF506EtxBeQIsqv-qPe3Y3riJkpotnEkS7JdollEGZJNY7CvAyBb~ciu6PMF1N~6dbYHKRThzpkTkd-eM5KHM1dyQ6-hLsl9hlJJoHDZDfoRWZojVj4m834b3rorjQBJTtdY7zQoJma0V1Z~DOi9rQw__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760191957769-image.png?Expires=253370764800&Signature=r4teXP0JxJdI73jmpZyFHRYnndsAZob5wtJ6j3Dy51vvHlH3ze~7qE9sdkCWVP-6unr4giTqawwEOZNeb6CKW4gusuYKhMfVVbQLz9IiSEI5tCppkKeKbK0MqMUIps-HmU3ZDbN3J8~7EG5lfdt8kh4sxn18vHwwyoFqWTGZxLYSdIQxzrj4nopcvtkBJD4zF506EtxBeQIsqv-qPe3Y3riJkpotnEkS7JdollEGZJNY7CvAyBb~ciu6PMF1N~6dbYHKRThzpkTkd-eM5KHM1dyQ6-hLsl9hlJJoHDZDfoRWZojVj4m834b3rorjQBJTtdY7zQoJma0V1Z~DOi9rQw__&Key-Pair-Id=K3NV4LZ47N8M46)
   5. Select an evaluator’s name to view their scorecard and comments for the candidate.
 
 :::note

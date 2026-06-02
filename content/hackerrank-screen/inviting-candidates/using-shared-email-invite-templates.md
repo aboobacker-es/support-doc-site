@@ -23,7 +23,7 @@ Recruiters belonging to different HackerRank Teams can share and reuse email inv
 
   3. Templates created by you are listed under the **My Templates** tab, and the ones created by other Recruiters in HackerRank are listed under the **Shared Templates **tab.
 
-![Creating_an_Email_Template_-_My_Template.jpg](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046689349-?Expires=253370764800&Signature=B5KM-7YXraozFGsXLRUviBs~W3HHFZIOOjHVijJVQg1qnr2-inCQ3rj8shJMbk1P9OihiBkjWZ9OdQ4eOxBsooO28m9tDtk3XFkzQ5Nv~sxHs-xivj8HIYbIiPEuplns2k3a8~wSYSzSoVSTjXPvuLNhLwRDqraIZmUedA4j21DiRptvMJTHmLYPJGTYPgssoHoMJWXen8tPc4XtXl1mDkX3W6i0Q2WHzld7AHiD3QnMrANjbkgSQxJIZvsyJaKqYNONWArFd9AStpPBKpz4kJeov7rUUOqld9BZdG7cnmuYJDGrpHyEGqqWcu2vdZd55ljmN009o3Ob5w~2WOrU7g__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![Creating_an_Email_Template_-_My_Template.jpg](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046689349-?Expires=253370764800&Signature=B5KM-7YXraozFGsXLRUviBs~W3HHFZIOOjHVijJVQg1qnr2-inCQ3rj8shJMbk1P9OihiBkjWZ9OdQ4eOxBsooO28m9tDtk3XFkzQ5Nv~sxHs-xivj8HIYbIiPEuplns2k3a8~wSYSzSoVSTjXPvuLNhLwRDqraIZmUedA4j21DiRptvMJTHmLYPJGTYPgssoHoMJWXen8tPc4XtXl1mDkX3W6i0Q2WHzld7AHiD3QnMrANjbkgSQxJIZvsyJaKqYNONWArFd9AStpPBKpz4kJeov7rUUOqld9BZdG7cnmuYJDGrpHyEGqqWcu2vdZd55ljmN009o3Ob5w~2WOrU7g__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 ![Shared_Invite_-_Shared.jpg](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046689688-?Expires=253370764800&Signature=hpgTP-ReilY-RAWEZAuOkvcXdjNZ6VKRh-DHsWHt0McXRtedIlMPH-WPTvwZZZvW8CLLSi3x3-aGQ4Qq1YJOqa8PDdYWksd4dyJPo2gQcvWXTVyQvvUi~P8GQvoI84YCOgNwC37h7O7j6ZrkPiJMWVoRpHtMGN~XgMCEHkMzfja7BOBVc-hkoezInZPhmsqIhAMiZ1yKD3Ij~oXaJ4uZ4hp9Vs7kZl0OYuv6abYQI8ZhqtNWIcC1qKdaJX11g8b8apIfXDSfuGLYQW~~nYMVr3qZ9JP70EWI9cHLswIOLte5IwSIbjyOdJqSan4jedfr2akYSfmDNCObg~sTODgQwQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
@@ -45,7 +45,7 @@ To copy the format from a Shared Template to a new Template:
 
   2. In the right pane, edit the name of the template, or make changes in the Subject or contents.
 
-![Shared_Invite_-_Edit.jpg](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046689998-?Expires=253370764800&Signature=FtPrKghI~-BSttn7ltwuniomznaIjmWst2NuMJCGAj-FyD99dWz4LRQXjyfypVOLkXSyAF3ap9iY7qrvuR79BpToDRCINeBqZsEkUGmq3VuP1RrLyvPtn~TYsc1~pXmFjtNd4FenfhYtiItO9Zy9HTq1YZKv1JsQwjwQ2AiTtUnHAAI7lznN~eTXxNIeJ97lYNVdSdV8vZTOHnysNdq7FWSJ9gF61vZnje3lAopQFZb4B1uBYvR3Uj65W5hCLNZppXij7gjbI8xpCHe5r5lE~LQwOagxDc-DshFXMFQBY119XfLAps1GVCJPIGS5~w8WsanUjXETOBj972TdH7JY9A__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![Shared_Invite_-_Edit.jpg](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046689998-?Expires=253370764800&Signature=FtPrKghI~-BSttn7ltwuniomznaIjmWst2NuMJCGAj-FyD99dWz4LRQXjyfypVOLkXSyAF3ap9iY7qrvuR79BpToDRCINeBqZsEkUGmq3VuP1RrLyvPtn~TYsc1~pXmFjtNd4FenfhYtiItO9Zy9HTq1YZKv1JsQwjwQ2AiTtUnHAAI7lznN~eTXxNIeJ97lYNVdSdV8vZTOHnysNdq7FWSJ9gF61vZnje3lAopQFZb4B1uBYvR3Uj65W5hCLNZppXij7gjbI8xpCHe5r5lE~LQwOagxDc-DshFXMFQBY119XfLAps1GVCJPIGS5~w8WsanUjXETOBj972TdH7JY9A__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 3\. Click on the **Save** button.
 

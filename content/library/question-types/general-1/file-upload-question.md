@@ -21,13 +21,13 @@ To create a file upload question:
 
   3. Click **Create Question**.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1769673374508-image.png?Expires=253370764800&Signature=Rl7G7baZQprYEeHG38QItb6NUpX0yrYi0OT7Fhh2Egdp2VbSFf6bBWlwcMXjEa2EDQRYiZyh63S24CLHZLad7hf~6vcoWfMN7xfHM65b1M0h87HSVU3TtOiIp33EWyndIPZrpD1XC~iO0oth7fcUYW4GbB32Qv7if-tE-7USwpbSJSk~Sr3X02QkvDjLrWmxawblUE5MW2C5IIzAnB7fMkMdxmO~0HgtzVSHSSDQDGoXVn5w4TcGNWrI8W4EXlm1tvEBtWO3h~KzS1ekciFZwSyc8CGkd2BrxBDakaAv-q72rXoeIum0kBSXQb3OKpKb4XieXpiEq6sMNPIv-jP1Yw__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1769673374508-image.png?Expires=253370764800&Signature=Rl7G7baZQprYEeHG38QItb6NUpX0yrYi0OT7Fhh2Egdp2VbSFf6bBWlwcMXjEa2EDQRYiZyh63S24CLHZLad7hf~6vcoWfMN7xfHM65b1M0h87HSVU3TtOiIp33EWyndIPZrpD1XC~iO0oth7fcUYW4GbB32Qv7if-tE-7USwpbSJSk~Sr3X02QkvDjLrWmxawblUE5MW2C5IIzAnB7fMkMdxmO~0HgtzVSHSSDQDGoXVn5w4TcGNWrI8W4EXlm1tvEBtWO3h~KzS1ekciFZwSyc8CGkd2BrxBDakaAv-q72rXoeIum0kBSXQb3OKpKb4XieXpiEq6sMNPIv-jP1Yw__&Key-Pair-Id=K3NV4LZ47N8M46)
   4. Select **File Upload** under **General**.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1769674809184-image.png?Expires=253370764800&Signature=LgZklzbfTcCT0lTmKcH39iI9auBq2r~csTcTYLfGZspZLIvglog83CHVEigfRQfbmuc~ziffekGWaOTTAKalja~QNsnL2XTFF6xQGOzSJ7g3gmnxkwQPSMj2gbG2MEYbUuOCKoHjrO6BKeN~9KdRLrNelRp-AOTRCiqbTYgDNdCzN7Jxf6vMoeJRzTyPYaVBf0BlHmevY5jwbamsRkEpItK~rXZOjVdO8H53Uhkx5rKTA9uN0s32AL0WlaO58sPctYA6GgOg47drEwPOatDLW7L-R434DKyUxsDVrL1kpYYGpoMpuLKvMqdTRGg6eBEDGU35YoLd7q~9BqJjTvQObA__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1769674809184-image.png?Expires=253370764800&Signature=LgZklzbfTcCT0lTmKcH39iI9auBq2r~csTcTYLfGZspZLIvglog83CHVEigfRQfbmuc~ziffekGWaOTTAKalja~QNsnL2XTFF6xQGOzSJ7g3gmnxkwQPSMj2gbG2MEYbUuOCKoHjrO6BKeN~9KdRLrNelRp-AOTRCiqbTYgDNdCzN7Jxf6vMoeJRzTyPYaVBf0BlHmevY5jwbamsRkEpItK~rXZOjVdO8H53Uhkx5rKTA9uN0s32AL0WlaO58sPctYA6GgOg47drEwPOatDLW7L-R434DKyUxsDVrL1kpYYGpoMpuLKvMqdTRGg6eBEDGU35YoLd7q~9BqJjTvQObA__&Key-Pair-Id=K3NV4LZ47N8M46)
   5. In the **Problem details** section:
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1769674870462-image.png?Expires=253370764800&Signature=L2eY-FNFmttbNC0Yx81y4WWYTl1BIrUXQtaOonRtc7ewLS51E2eDyC4bCyO96wGi~MAiwtlBYPyn9c55SNSDbHhpC4TgRoWH5gwRjKwS6rJ-QZUEuHalWyHWQgUd4qtgWVotAoFDtW837d~4w35qGA6hqDZY1QlCM903PO42vS497EbZLaY6GtKf6tUAb548p0T8T49FAj6W6qVcW8lM3EhDiFfFM4FwTJK0D4bsclgsG3MOpyiNJ9w528gUgbVC-ic~2nBNokB-ohx5IOTDuAZXouod1NTLOfXqap2g6iVh0P6bpk-knfOCQfYNON9pWkxi2dos0VgebNAP8pH0rg__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1769674870462-image.png?Expires=253370764800&Signature=L2eY-FNFmttbNC0Yx81y4WWYTl1BIrUXQtaOonRtc7ewLS51E2eDyC4bCyO96wGi~MAiwtlBYPyn9c55SNSDbHhpC4TgRoWH5gwRjKwS6rJ-QZUEuHalWyHWQgUd4qtgWVotAoFDtW837d~4w35qGA6hqDZY1QlCM903PO42vS497EbZLaY6GtKf6tUAb548p0T8T49FAj6W6qVcW8lM3EhDiFfFM4FwTJK0D4bsclgsG3MOpyiNJ9w528gUgbVC-ic~2nBNokB-ohx5IOTDuAZXouod1NTLOfXqap2g6iVh0P6bpk-knfOCQfYNON9pWkxi2dos0VgebNAP8pH0rg__&Key-Pair-Id=K3NV4LZ47N8M46)
      1. Enter the **Question name**.
 
      2. Describe the problem in the **Problem description** field. You can use the formatting menu to format the text or to include elements such as tables or images.
@@ -40,7 +40,7 @@ Click **See candidate preview** to view how the question appears to candidates.
 
   6. In the **Question properties** section:
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1769674937401-image.png?Expires=253370764800&Signature=HoGDWcbOpx~Z7Jdx8BWev9mh4--QcKOv2CyzGDHgGN8Egr2i-kVtiHTZuJkhoKRRyPny0nW6qFIhnhlIouy0w3xCGVRyp0SjcKCxQn4pKGeLuJaML37LG-ENPz5mpnSMh3sKE1KCiLng8BC82XOtjZEs-xLFNYAc4UXQHveKaT7v5eLFPm65Va1Bxf6CDB3VYFR0MWzS3AOiuzEkGqW2RoE4bmKLgf03oF~ey~CFHQhxQ-b7XXYpChD6MrMuv~AI9MwbWmcSHC4J0HlkCoGi3CgWwFWaZ0mZLfIA0WV6omndUxrl8~YY2lo31nbofl1F9L~6sqYU~jLXu6SGEazx2w__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1769674937401-image.png?Expires=253370764800&Signature=HoGDWcbOpx~Z7Jdx8BWev9mh4--QcKOv2CyzGDHgGN8Egr2i-kVtiHTZuJkhoKRRyPny0nW6qFIhnhlIouy0w3xCGVRyp0SjcKCxQn4pKGeLuJaML37LG-ENPz5mpnSMh3sKE1KCiLng8BC82XOtjZEs-xLFNYAc4UXQHveKaT7v5eLFPm65Va1Bxf6CDB3VYFR0MWzS3AOiuzEkGqW2RoE4bmKLgf03oF~ey~CFHQhxQ-b7XXYpChD6MrMuv~AI9MwbWmcSHC4J0HlkCoGi3CgWwFWaZ0mZLfIA0WV6omndUxrl8~YY2lo31nbofl1F9L~6sqYU~jLXu6SGEazx2w__&Key-Pair-Id=K3NV4LZ47N8M46)
      1. Enter the **Score** based on difficulty.
 
      2. Add the **Recommended time** in minutes.
@@ -49,7 +49,7 @@ Click **See candidate preview** to view how the question appears to candidates.
 
   7. (Optional) Add **Interviewer guidelines** for internal use, such as evaluation notes and hints.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1769674966340-image.png?Expires=253370764800&Signature=de~uZ8Pxrk1SFEiO5~1xDQvdayepL~MWIkkjPCMYfqUXZljdUxRVr09jX2hCP8APV-C~ZD5joqr0uxWfhfQNNZAWhzyn-rQ6-JwwHcN3t-mFsn9PGyYdq9Gxl8xkFfUwFiQErLItJCJbG~nfcD358vabmBwFPlzKWr4NriGpT~-zSZK1UVeLCpOBBXjBQo8B8AecfEN7J0UTAYIgmi5tiAikkH-mpGjMpj41ZY93Kl7buguY5uvGqndt~L1H6xP-KYgMGNTliXTsjlaguoutvLeQGXPLKDxabrgJ1R3ICJNkZKnoCg~GWjSqO3V-d4gSlx9k-CCIS7Ejatbkn6668w__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1769674966340-image.png?Expires=253370764800&Signature=de~uZ8Pxrk1SFEiO5~1xDQvdayepL~MWIkkjPCMYfqUXZljdUxRVr09jX2hCP8APV-C~ZD5joqr0uxWfhfQNNZAWhzyn-rQ6-JwwHcN3t-mFsn9PGyYdq9Gxl8xkFfUwFiQErLItJCJbG~nfcD358vabmBwFPlzKWr4NriGpT~-zSZK1UVeLCpOBBXjBQo8B8AecfEN7J0UTAYIgmi5tiAikkH-mpGjMpj41ZY93Kl7buguY5uvGqndt~L1H6xP-KYgMGNTliXTsjlaguoutvLeQGXPLKDxabrgJ1R3ICJNkZKnoCg~GWjSqO3V-d4gSlx9k-CCIS7Ejatbkn6668w__&Key-Pair-Id=K3NV4LZ47N8M46)
   8. Click **Save question**.
 
 :::note

@@ -19,7 +19,7 @@ Prompt engineering is a valuable skill to assess in today's AI-driven world. The
 
      * Select a prompt engineering question from the available list and click on the title to view the details, such as description, expected outputs, and evaluation criteria.
 
-![Prompt Engineering \(1\).gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1737368187051-PromptEngineering%25281%2529.gif?Expires=253370764800&Signature=nmlm4PJDZwdlUrV20Pkkp6taMblKOWN2jb13d2zhgewkLMxMwUKOPi1X4KFmbCeaJ91AWxY915WfhySSr8Ef3R-T4CNOfM8cFZ5INl6RA92ypcO2HI0GY9LZjz8IIheg66zIkhBL9RbNXP7E48WSmy1acOTroa0GLhoPgP1kvpj61jJSEYNo9k8laDVmJz0QR9LfdPd6DIjwvLFs95rKD5IPvJD2m32mbXGvk0BWeSjQYv6HSfWqP6DeKe6aKvQnvbEjp5azni5WvJZCO3DG~IidiXFWLZa8xcDzREEopc7w2JaRTOJyC8TFMZ13A0wRpA2xqCvJtLvEe~WJ64CNCA__&Key-Pair-Id=K3NV4LZ47N8M46)
+       ![Prompt Engineering \(1\).gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1737368187051-PromptEngineering%25281%2529.gif?Expires=253370764800&Signature=nmlm4PJDZwdlUrV20Pkkp6taMblKOWN2jb13d2zhgewkLMxMwUKOPi1X4KFmbCeaJ91AWxY915WfhySSr8Ef3R-T4CNOfM8cFZ5INl6RA92ypcO2HI0GY9LZjz8IIheg66zIkhBL9RbNXP7E48WSmy1acOTroa0GLhoPgP1kvpj61jJSEYNo9k8laDVmJz0QR9LfdPd6DIjwvLFs95rKD5IPvJD2m32mbXGvk0BWeSjQYv6HSfWqP6DeKe6aKvQnvbEjp5azni5WvJZCO3DG~IidiXFWLZa8xcDzREEopc7w2JaRTOJyC8TFMZ13A0wRpA2xqCvJtLvEe~WJ64CNCA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 **Step 2: Adding the Question to a Test**
 

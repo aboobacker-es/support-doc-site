@@ -21,7 +21,7 @@ This token is not intended to support ATS integrations. To obtain API keys for i
 
   * Click the **arrow** next to the user icon in the top-right corner of the **Home** page and then click on **Settings**.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1735207710006-1735207351793-1735206765435-image.png-f458ef41-fe8a-4059-bd42-df7821ab3c5a-59f0a144-3e46-4134-9e3c-b39e3a88ec8e?Expires=253370764800&Signature=i8qJdkA9aH3IoMZ-5e5mCosx7JPT~Hnma6NDTnfEF04I-SbFY9oXzJriCaWIfLMLEhuFYNMz6gyd10NXS8-jJpUfIDl5D-k9EplxI9aMPEIQe43zemSyzi~LHSw1PxW6MdaV71p5E5-F8bDufewagvryvYh-6mqZr0TF2EQJBQqtIQWEnUNkvQl8qyQm-YeV4YYJcnN28K89VBgFQ3ObcdEnzsM956SAOdrvp9HDEn2nAFt0WT07DeJ9fVkwDWdOl-4~RKle9~3a0P-6sqwubPeUaaU1LhXNJh0XvGFd09Iu2aeQYjnBcAVORh1qLoMvSEip3BrGSFtWTpN1Y9cVNA__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1735207710006-1735207351793-1735206765435-image.png-f458ef41-fe8a-4059-bd42-df7821ab3c5a-59f0a144-3e46-4134-9e3c-b39e3a88ec8e?Expires=253370764800&Signature=i8qJdkA9aH3IoMZ-5e5mCosx7JPT~Hnma6NDTnfEF04I-SbFY9oXzJriCaWIfLMLEhuFYNMz6gyd10NXS8-jJpUfIDl5D-k9EplxI9aMPEIQe43zemSyzi~LHSw1PxW6MdaV71p5E5-F8bDufewagvryvYh-6mqZr0TF2EQJBQqtIQWEnUNkvQl8qyQm-YeV4YYJcnN28K89VBgFQ3ObcdEnzsM956SAOdrvp9HDEn2nAFt0WT07DeJ9fVkwDWdOl-4~RKle9~3a0P-6sqwubPeUaaU1LhXNJh0XvGFd09Iu2aeQYjnBcAVORh1qLoMvSEip3BrGSFtWTpN1Y9cVNA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
   * On the **API** page, click **New Token**.
 
@@ -31,7 +31,7 @@ This token is not intended to support ATS integrations. To obtain API keys for i
 
     * Click **Generate Token**.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1735207697884-1735207352303-1735206943076-image.png-50e74835-dd94-4722-9f91-d3fd3bbe5ca7-f9e213ef-d114-4aae-af2d-ab1eed22877f?Expires=253370764800&Signature=mTlwRbCphb-9gh4RIcRthgYQg9Gj-ASAOUnZb6htO-89vIaviYfFKyEPMjcSujJtOwNI0cv9QxDBVQCw1Z2xmqtDpzAzYzuehCzwyij39j4c~X0PYxleogcOOU8Vp9Ah-t32dbw6K4qt4bui3nBlLbvPq0y6W-Bq0yzC5PMzDz~fVMOIuVWH2iXSR5-XqnIEfMypZynKqOnf606PoNjT1RdJq4zYm9Zbk3o4~4hZPke4He7xcX9QBDnv3dUTNRsohWHxRqTmZQTLHmbh-hW3dBBBPARtYve2mMTZDmEjsFXNJbEkRuTgnAoxj-0mhrXVERmUPTOz9ifc9K2nw-txMg__&Key-Pair-Id=K3NV4LZ47N8M46)
+      ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1735207697884-1735207352303-1735206943076-image.png-50e74835-dd94-4722-9f91-d3fd3bbe5ca7-f9e213ef-d114-4aae-af2d-ab1eed22877f?Expires=253370764800&Signature=mTlwRbCphb-9gh4RIcRthgYQg9Gj-ASAOUnZb6htO-89vIaviYfFKyEPMjcSujJtOwNI0cv9QxDBVQCw1Z2xmqtDpzAzYzuehCzwyij39j4c~X0PYxleogcOOU8Vp9Ah-t32dbw6K4qt4bui3nBlLbvPq0y6W-Bq0yzC5PMzDz~fVMOIuVWH2iXSR5-XqnIEfMypZynKqOnf606PoNjT1RdJq4zYm9Zbk3o4~4hZPke4He7xcX9QBDnv3dUTNRsohWHxRqTmZQTLHmbh-hW3dBBBPARtYve2mMTZDmEjsFXNJbEkRuTgnAoxj-0mhrXVERmUPTOz9ifc9K2nw-txMg__&Key-Pair-Id=K3NV4LZ47N8M46)
 
   * The newly generated token will be displayed. You can use the options provided to copy, edit, or delete it.
 

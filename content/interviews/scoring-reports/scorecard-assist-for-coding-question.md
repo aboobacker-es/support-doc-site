@@ -55,7 +55,7 @@ To enable Scorecard Assist:
 
   4. In the **Scorecard Assist** section, select the **Enable Scorecard Assist** checkbox.  
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1753773966130-image.png?Expires=253370764800&Signature=j2-dyPfXfi4-xRKiVXZCFjuqBas1PuhNacQfDpoKdyJjvijSR10oEoCS-w~0KRFa0A4TekWwYcgBjWOO~chVx5x0G3Og338hmUqJ86BuLQzUDnLXonoqvqspXp7okmrpKXsPSDS4xrcSzIJYi0IY2pxGFpwxVHoocIvfyra5gAtv38~MNl6oRH6lgGIVbgiEF0AoUqMm7blI7zRKbklQpdhb5KOHHh4utWUbyYXQPdHWD2N6GtZSoUd9XfBCQCTzr7zeSzwnmvwnPRc7-pBKvhVxPZshQWwXQT5Vz2EOe-v8Th~XnDo3nmuchxZ8IJ8c9EuggIjH3DMbCnAddB32UQ__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1753773966130-image.png?Expires=253370764800&Signature=j2-dyPfXfi4-xRKiVXZCFjuqBas1PuhNacQfDpoKdyJjvijSR10oEoCS-w~0KRFa0A4TekWwYcgBjWOO~chVx5x0G3Og338hmUqJ86BuLQzUDnLXonoqvqspXp7okmrpKXsPSDS4xrcSzIJYi0IY2pxGFpwxVHoocIvfyra5gAtv38~MNl6oRH6lgGIVbgiEF0AoUqMm7blI7zRKbklQpdhb5KOHHh4utWUbyYXQPdHWD2N6GtZSoUd9XfBCQCTzr7zeSzwnmvwnPRc7-pBKvhVxPZshQWwXQT5Vz2EOe-v8Th~XnDo3nmuchxZ8IJ8c9EuggIjH3DMbCnAddB32UQ__&Key-Pair-Id=K3NV4LZ47N8M46)
   5. Click **Save**.
 
 :::note
@@ -68,7 +68,7 @@ Each interview report includes:
 
   * **Full transcript of the session:**
 
-![scorecard assist4.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1753775262817-scorecardassist4.gif?Expires=253370764800&Signature=LpN3VmhkVOAif8Fcruk3ryoVn6bERqZxROfJ0eLeMOwCHHrEcWhL65abD5ogdpTy1ZU5VERxRc0aVKFW9zm9p0BsqfgMs8Wo5VJDrpudibM1ruGbkP7xleQfVZF45TpI5etuVyWi3RzDNU2CTF9i3dFBZakdo6Hn79g5iW392Dzpl~gy5gVJSMPZKKJPao3J6vcqgxxmLAN5jngquR6EBdJmrevyY60Pt2oJkxlOi05V~wz349XRdTW2KHYw~3pciaNMFw8JNJyn3Ik~rs-Q6zJoioza27wHrDC1jTCC2a0LCjIHCjZFn7isqszuYr9YHgVvGSoOMQB61paJjifYKQ__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![scorecard assist4.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1753775262817-scorecardassist4.gif?Expires=253370764800&Signature=LpN3VmhkVOAif8Fcruk3ryoVn6bERqZxROfJ0eLeMOwCHHrEcWhL65abD5ogdpTy1ZU5VERxRc0aVKFW9zm9p0BsqfgMs8Wo5VJDrpudibM1ruGbkP7xleQfVZF45TpI5etuVyWi3RzDNU2CTF9i3dFBZakdo6Hn79g5iW392Dzpl~gy5gVJSMPZKKJPao3J6vcqgxxmLAN5jngquR6EBdJmrevyY60Pt2oJkxlOi05V~wz349XRdTW2KHYw~3pciaNMFw8JNJyn3Ik~rs-Q6zJoioza27wHrDC1jTCC2a0LCjIHCjZFn7isqszuYr9YHgVvGSoOMQB61paJjifYKQ__&Key-Pair-Id=K3NV4LZ47N8M46)
     * You can search the transcript by keyword (for example, optimal).
 
     * You can download it for future reference.
@@ -129,7 +129,7 @@ To view the scorecard in Greenhouse, see [View interview scorecard in Greenhouse
 
     * After microphone access is granted, transcription activates only when the candidate joins the interview and enables their microphone.  
 
-![scorecard assist3.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1753775476959-scorecardassist3.gif?Expires=253370764800&Signature=W63EtcibLN19vchjsZDS926kyJbEU7IDnFg3VxV8I4jJyHt3rtLzNX58M2FW7s5lvkdexZ0-vNWLB8HH1K~cLv2fxRBcBqWgjgaOJ8iwJ9zaCbVU-IBNYEEqZo3ZsdhDKp0o3EI6G2-sLe0Yj0bt~frIn8AyGiy3hbnhI~VRTpfbnQ7n1GOHlMxkLrF-6OKQmRTVId9R8Q~LqchReeKDdGM6Ru4P9TnsMHeg4uqhIom7Xj3xRH8qBkqxG~bsDzljGoPzITcoVZw6V5zAtGgk~1OMAZL4ZevDBkmO4Q-Q98BlH49DpHSlfvBiXc0~eH~t0i-UUUfKTVWaz8ioWUY4Iw__&Key-Pair-Id=K3NV4LZ47N8M46)
+      ![scorecard assist3.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1753775476959-scorecardassist3.gif?Expires=253370764800&Signature=W63EtcibLN19vchjsZDS926kyJbEU7IDnFg3VxV8I4jJyHt3rtLzNX58M2FW7s5lvkdexZ0-vNWLB8HH1K~cLv2fxRBcBqWgjgaOJ8iwJ9zaCbVU-IBNYEEqZo3ZsdhDKp0o3EI6G2-sLe0Yj0bt~frIn8AyGiy3hbnhI~VRTpfbnQ7n1GOHlMxkLrF-6OKQmRTVId9R8Q~LqchReeKDdGM6Ru4P9TnsMHeg4uqhIom7Xj3xRH8qBkqxG~bsDzljGoPzITcoVZw6V5zAtGgk~1OMAZL4ZevDBkmO4Q-Q98BlH49DpHSlfvBiXc0~eH~t0i-UUUfKTVWaz8ioWUY4Iw__&Key-Pair-Id=K3NV4LZ47N8M46)
   * **After the Interview:  **
 
     * The interviewer can review AI-suggested comments in the scorecard. 

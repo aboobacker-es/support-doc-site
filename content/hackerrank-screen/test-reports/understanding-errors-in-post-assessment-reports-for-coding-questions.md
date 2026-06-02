@@ -63,7 +63,7 @@ Our [Execution Environment Samples ](<https://candidatesupport.hackerrank.com/hc
 
     * If viewing a candidate report from before the update, you will see this message saying the question does not have playback.
 
-![Playback_not_present..jpg](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046208803-?Expires=253370764800&Signature=Zw-Ttnx0HwJeH98ohfgbxaRR98MpXVBxUWloFMMjM2~yg6Ec3p5yApDM0uXwxN5cPJcfYWKTbSlCF5lnuwrye7q3f-ZEE3JxzZb2tNRGsrYJ1IvA6swYWdSb8~1aCLtkw65RoKE2mx3euCfuMhGQNBOsAdImuRhDTomErJw~DK53rI8AEvjfxTbf4P51rVjKWw8CNA~g9YTmooPyQcrarjku4ylUft02KYAPeAdDjMvueSVhhS3lEepKJWhcWSeQBIO3N1ZHhcq0ofbcfcoNRxml1YREWR2bs9L7iJRLLHWh~hV~hQAJ7i8z4ayUfVdWFjT~VxVJl0PE9yIiWfawpQ__&Key-Pair-Id=K3NV4LZ47N8M46)
+      ![Playback_not_present..jpg](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046208803-?Expires=253370764800&Signature=Zw-Ttnx0HwJeH98ohfgbxaRR98MpXVBxUWloFMMjM2~yg6Ec3p5yApDM0uXwxN5cPJcfYWKTbSlCF5lnuwrye7q3f-ZEE3JxzZb2tNRGsrYJ1IvA6swYWdSb8~1aCLtkw65RoKE2mx3euCfuMhGQNBOsAdImuRhDTomErJw~DK53rI8AEvjfxTbf4P51rVjKWw8CNA~g9YTmooPyQcrarjku4ylUft02KYAPeAdDjMvueSVhhS3lEepKJWhcWSeQBIO3N1ZHhcq0ofbcfcoNRxml1YREWR2bs9L7iJRLLHWh~hV~hQAJ7i8z4ayUfVdWFjT~VxVJl0PE9yIiWfawpQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 ## Runtime Error
 

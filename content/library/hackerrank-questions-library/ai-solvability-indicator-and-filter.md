@@ -23,7 +23,7 @@ HackerRank marks AI-solvable questions with an **AI Solvable = Yes**  indicator.
 
   * As shown in the example below, you can curate your test using the **Hide AI-Solvable Coding Questions** filter in the left pane of the library.
 
-![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046193820-?Expires=253370764800&Signature=JIn67mGbtwbKSVTycvSTm6mORvOr7Tz1GEmk3BZ6S2Al9dxLzjRul4DRceb9V3IB0OjT23WqlAhXOtpQwxZuGLiiMET975Yhi-QIPaIuBSBouzql68aP5tOisa8HLIxdN-2aRUsNhvL-ybk80JIgfpetpM3YkzMFCM5qStFtWcs228gjvLwNd6ftzj583RoPGhVYG2ujUuDdZhy9EXwEzPrbeTv0NM9v5VFSUsy5tV69ekdjW9HzIBbcZRm1jvKo6xzLd37mc02KCuNdwn-gsau9WlOnxrHhq8LKfcP4K7SnVyA08~sD~xKpyFvZe5XriPMK0dUbpiMEy~3BD6E-Jg__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046193820-?Expires=253370764800&Signature=JIn67mGbtwbKSVTycvSTm6mORvOr7Tz1GEmk3BZ6S2Al9dxLzjRul4DRceb9V3IB0OjT23WqlAhXOtpQwxZuGLiiMET975Yhi-QIPaIuBSBouzql68aP5tOisa8HLIxdN-2aRUsNhvL-ybk80JIgfpetpM3YkzMFCM5qStFtWcs228gjvLwNd6ftzj583RoPGhVYG2ujUuDdZhy9EXwEzPrbeTv0NM9v5VFSUsy5tV69ekdjW9HzIBbcZRm1jvKo6xzLd37mc02KCuNdwn-gsau9WlOnxrHhq8LKfcP4K7SnVyA08~sD~xKpyFvZe5XriPMK0dUbpiMEy~3BD6E-Jg__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 ### Why This Feature Matters
 

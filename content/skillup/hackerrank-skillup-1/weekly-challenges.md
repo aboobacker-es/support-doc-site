@@ -29,7 +29,7 @@ To access the weekly challenge:
 
   2. Locate the weekly challenge banner on the right side of the homepage.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1769525879021-image.png?Expires=253370764800&Signature=M~KMbSgH2TiZ-hTuiDsQfWmsc1K9L0Bsq6ms~jpXRS-yEy6KQ~ul1YQ97rWWTPdO~-1K9QLKsJGkkGHLXsksWrXT5SC-NILF7cE7oO2tiWIRX1E1qBlUyY6nz4JjUkGsa~O75fS4w~zfTxeAyv48c6gVNl70BlB4tSjRoUApQsM23OjjtntOwWESxJeV-YGBCsyRTz4DYBEN2qRPr4cL3QlgVFRjr0tCkX06g5HygXOHGIT9feXPYvnPia1skvST7CkO33BxeOzNYycPHfutzmOsSN4N-34lFRzwsyhCd~PMIgxpEWm7eT6GAiG~81ve4B6o2YuTMAF4SIVOsHy27g__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1769525879021-image.png?Expires=253370764800&Signature=M~KMbSgH2TiZ-hTuiDsQfWmsc1K9L0Bsq6ms~jpXRS-yEy6KQ~ul1YQ97rWWTPdO~-1K9QLKsJGkkGHLXsksWrXT5SC-NILF7cE7oO2tiWIRX1E1qBlUyY6nz4JjUkGsa~O75fS4w~zfTxeAyv48c6gVNl70BlB4tSjRoUApQsM23OjjtntOwWESxJeV-YGBCsyRTz4DYBEN2qRPr4cL3QlgVFRjr0tCkX06g5HygXOHGIT9feXPYvnPia1skvST7CkO33BxeOzNYycPHfutzmOsSN4N-34lFRzwsyhCd~PMIgxpEWm7eT6GAiG~81ve4B6o2YuTMAF4SIVOsHy27g__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 The banner displays the remaining time to attempt the challenge, along with the current and previous week leaderboards.
 
@@ -83,22 +83,22 @@ To attempt the weekly Prompt Engineering challenge:
 
   2. Read the instructions, then click **Done**.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1769525946553-image.png?Expires=253370764800&Signature=XuTtHZHKGYXL-OpmAgD5l4oNLcS0kSZSsaH2EomUxnW2eHjb1QygN2EOECha6DijLovl-cWS8lbpTne7lkEFbHx0nR61bv6qvYCbSTKgjG7EKEK3VO-Sv6cWfCWT7nzPt4mxl68I2hRin40oVcDxnHzm6YUNdgDR5vsTwY0W3a2tJSMxAd~UXLLHQorLdJ1PSHmt9kqiLFazYvPovEYN91iI43YhcnBW7-rL4PbTVQR~Xqe8jwO9PPeN1cpHmjC-162AFBhN8SHW9dt63wxMkMJb9XE8oSvRvYpdpCwkEU333q-KvGs93LT44ald3GzCfaEWHNMGQDoMrCpLwSy3IQ__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1769525946553-image.png?Expires=253370764800&Signature=XuTtHZHKGYXL-OpmAgD5l4oNLcS0kSZSsaH2EomUxnW2eHjb1QygN2EOECha6DijLovl-cWS8lbpTne7lkEFbHx0nR61bv6qvYCbSTKgjG7EKEK3VO-Sv6cWfCWT7nzPt4mxl68I2hRin40oVcDxnHzm6YUNdgDR5vsTwY0W3a2tJSMxAd~UXLLHQorLdJ1PSHmt9kqiLFazYvPovEYN91iI43YhcnBW7-rL4PbTVQR~Xqe8jwO9PPeN1cpHmjC-162AFBhN8SHW9dt63wxMkMJb9XE8oSvRvYpdpCwkEU333q-KvGs93LT44ald3GzCfaEWHNMGQDoMrCpLwSy3IQ__&Key-Pair-Id=K3NV4LZ47N8M46)
   3. Review the high-level problem statement.
 
   4. Write a single prompt in the **Prompt** field that instructs the LLM to generate the solution.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1769525969876-image.png?Expires=253370764800&Signature=QIFkAn8CvdewR8FeqZofewoBN5r-NyWJ6W65owBUwFChsna~~tsLsaY2oX6ma5DB4NHQZSBTzke4ZnsfghHaxQH4OG7I12uB5mRr~PQBXheonCJ65RXLWO6vO3VuqTmBZ7bMPagWxexw9BaFBX3~VG4DtHQ52cHgbHfAlCg4VJdXDS9XP5A7wW6Z55IfBv3HEhv~ql0GZC39oxjfnbXE299LE2lFF6I4-BxhX7nD5Q6s9fxIjt-1y6AZPace-Wdeq9lH0Zk3RPHKg9Y53f1uF7pcgvQgS9K9r5XfC5-u~takNaWflmoW7Gju2bZXkkg8A4kJVZ3XcIFNndhFz2LdPg__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1769525969876-image.png?Expires=253370764800&Signature=QIFkAn8CvdewR8FeqZofewoBN5r-NyWJ6W65owBUwFChsna~~tsLsaY2oX6ma5DB4NHQZSBTzke4ZnsfghHaxQH4OG7I12uB5mRr~PQBXheonCJ65RXLWO6vO3VuqTmBZ7bMPagWxexw9BaFBX3~VG4DtHQ52cHgbHfAlCg4VJdXDS9XP5A7wW6Z55IfBv3HEhv~ql0GZC39oxjfnbXE299LE2lFF6I4-BxhX7nD5Q6s9fxIjt-1y6AZPace-Wdeq9lH0Zk3RPHKg9Y53f1uF7pcgvQgS9K9r5XfC5-u~takNaWflmoW7Gju2bZXkkg8A4kJVZ3XcIFNndhFz2LdPg__&Key-Pair-Id=K3NV4LZ47N8M46)
   5. Click **Generate Code**.
 
   6. Review the generated code and ensure that all test cases pass.
 
   7. Click **Submit.**
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1769525994434-image.png?Expires=253370764800&Signature=dumMpeczvXaCIQ27Ql3nrO48Ts6N-lZRNz8WEi46932vl9TbmkshwOm9bVrWN-crciUGuY09rwtuxnsO4995jNhoY-DLZ41SAhy~~JU9mAMfEe8XzWqgTFKaGzxKwoUV~OHxsnaQRGuP~T4oW22HBP7DVkeG48GPyBd64f1lYY3tZsjVgw5Fqge1mw8Tyl2Ysp2UYUlyTBbLN7lH-fQlVrKrj5CpDN7O1viuUmQiPrDh4DM8gV5-oCN92jqMMZt0qXUgl0dedPxs5myBpcPIfP6J-ODJAJEZN0OeBwH3~vAZeZ1Q~RpJ6OrCkY77RvrhRh29gOp-rvLu2CuaG81m6A__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1769525994434-image.png?Expires=253370764800&Signature=dumMpeczvXaCIQ27Ql3nrO48Ts6N-lZRNz8WEi46932vl9TbmkshwOm9bVrWN-crciUGuY09rwtuxnsO4995jNhoY-DLZ41SAhy~~JU9mAMfEe8XzWqgTFKaGzxKwoUV~OHxsnaQRGuP~T4oW22HBP7DVkeG48GPyBd64f1lYY3tZsjVgw5Fqge1mw8Tyl2Ysp2UYUlyTBbLN7lH-fQlVrKrj5CpDN7O1viuUmQiPrDh4DM8gV5-oCN92jqMMZt0qXUgl0dedPxs5myBpcPIfP6J-ODJAJEZN0OeBwH3~vAZeZ1Q~RpJ6OrCkY77RvrhRh29gOp-rvLu2CuaG81m6A__&Key-Pair-Id=K3NV4LZ47N8M46)
   8. In the confirmation dialog, click **Yes, Submit**.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1769526010328-image.png?Expires=253370764800&Signature=Eocz604fgzfibuZJfEFsMk6KHxfkvgwj4LETNUmn9C1VmK50NVfnsY8R0xkcn-1l7tHcJrF5JNY0Ij6FeDF8zeZW-ox48pNI-4p~Qulw-xtn1R9-eotALw-bBFECl-yoZNlpIshMJAlY9Mw00g4X5kO8Dl~yZrr~R-r-bUWb9Jcu4wuFpMYvYycKejRcxNm3et6ZhlZKUZnn7pogSk3Aa3mAPL7F4bLvTK66o1fMDIUVVxYOsSEv4Y67VC7VL2LFanV9-qLbxMWNbOMJiaJUMpZJVEN2r8vZEU-2mek5iKkfUKErEmII9cIygdPRr2CTJuJGP5tMf1pHFJIpHy8slw__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1769526010328-image.png?Expires=253370764800&Signature=Eocz604fgzfibuZJfEFsMk6KHxfkvgwj4LETNUmn9C1VmK50NVfnsY8R0xkcn-1l7tHcJrF5JNY0Ij6FeDF8zeZW-ox48pNI-4p~Qulw-xtn1R9-eotALw-bBFECl-yoZNlpIshMJAlY9Mw00g4X5kO8Dl~yZrr~R-r-bUWb9Jcu4wuFpMYvYycKejRcxNm3et6ZhlZKUZnn7pogSk3Aa3mAPL7F4bLvTK66o1fMDIUVVxYOsSEv4Y67VC7VL2LFanV9-qLbxMWNbOMJiaJUMpZJVEN2r8vZEU-2mek5iKkfUKErEmII9cIygdPRr2CTJuJGP5tMf1pHFJIpHy8slw__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 :::note
 * You can submit the challenge only after all test cases pass.

@@ -121,10 +121,10 @@ During an interview session, you can:
 
   * Confirm candidate presence using the colored indicators at the top of the screen.  
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1753787594485-image.png?Expires=253370764800&Signature=rmfgExUbYltujMnJ0hLMs8jzkTBK6Gb1oMbhYhQjLOQH~c--5Ywifkk~mt3KZrPwcRzZA7Pr8cVAe3bCjZC3pvrbj66MoM9UowPwDFbNg3RLE0XrNVEGYOsjXx2iJJdfenxtMHdfo4eBlTgyp1pWfw1sjBoDptdL6qbv72SDcDeb0Tya4~d2O8bTp36kXYSwNETfmhR14BUZb9Hc3ufIJZaWuaggi04sQ2LvzrwcVrpvf3jET7hxkm~7BZhol3iHd5vSA0kPlq~nHmkLMrserbE~wOuVugHW07W9sHRyyuiKxuoiYSU8vOOaFUZh8vX4cgrCN30~rzFKX9lYP4qj5g__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1753787594485-image.png?Expires=253370764800&Signature=rmfgExUbYltujMnJ0hLMs8jzkTBK6Gb1oMbhYhQjLOQH~c--5Ywifkk~mt3KZrPwcRzZA7Pr8cVAe3bCjZC3pvrbj66MoM9UowPwDFbNg3RLE0XrNVEGYOsjXx2iJJdfenxtMHdfo4eBlTgyp1pWfw1sjBoDptdL6qbv72SDcDeb0Tya4~d2O8bTp36kXYSwNETfmhR14BUZb9Hc3ufIJZaWuaggi04sQ2LvzrwcVrpvf3jET7hxkm~7BZhol3iHd5vSA0kPlq~nHmkLMrserbE~wOuVugHW07W9sHRyyuiKxuoiYSU8vOOaFUZh8vX4cgrCN30~rzFKX9lYP4qj5g__&Key-Pair-Id=K3NV4LZ47N8M46)
   * Monitor candidate activity using Observer Mode by clicking on their name.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1753787625996-image.png?Expires=253370764800&Signature=ERrH01H7H-Tud4YTrf4ugDbx3h1tcG4F8~vwKIBGttJkFP7UiR-iBztc4pYruwjZcAv0bqAtwh58qe-sly553FDlr9BBF4CPqOuELMxamEIO8uwJQfKo7~hrhJ-k3hrdxRR1q-8-8~qAg2lBUjfgxOXHgIsQ8rhNTJV-8~Klsdb4n76r5oDmj0R7owRwY4ysa8DWkqxDaGt4RUPk-bb-Vq1s~HFSwSsOa~9T17ROB5mjesjX7Ymzf~x3pIXS-E~Dd8ys85Gcg8-3MLkyOizWmIQ-9ug1kPpi5MOKjOe8EQsPqxKXycmbw4iqA1ENBQDi94CDrVOeGOZ8Kqt9UMhBFg__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1753787625996-image.png?Expires=253370764800&Signature=ERrH01H7H-Tud4YTrf4ugDbx3h1tcG4F8~vwKIBGttJkFP7UiR-iBztc4pYruwjZcAv0bqAtwh58qe-sly553FDlr9BBF4CPqOuELMxamEIO8uwJQfKo7~hrhJ-k3hrdxRR1q-8-8~qAg2lBUjfgxOXHgIsQ8rhNTJV-8~Klsdb4n76r5oDmj0R7owRwY4ysa8DWkqxDaGt4RUPk-bb-Vq1s~HFSwSsOa~9T17ROB5mjesjX7Ymzf~x3pIXS-E~Dd8ys85Gcg8-3MLkyOizWmIQ-9ug1kPpi5MOKjOe8EQsPqxKXycmbw4iqA1ENBQDi94CDrVOeGOZ8Kqt9UMhBFg__&Key-Pair-Id=K3NV4LZ47N8M46)
   * Assess connectivity using the Internet Quality Indicator for both you and the candidate.
 
   * Identify when a participant leaves the session through the Out of Interview message displayed below their name.

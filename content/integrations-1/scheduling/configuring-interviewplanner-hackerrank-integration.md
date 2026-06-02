@@ -46,13 +46,13 @@ When configuring the InterviewPlanner integration with HackerRank, the administr
 
   3. Click**Settings**.
 
-![settings.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046899688-?Expires=253370764800&Signature=UNFvrwSNKTojz3SOzJXn5PMD6eNE5CQSMAgXwyVmx41ctELjTylM53ivrOpIxyJLtDUfVnWbKX915lsw7XF9DfayNC8pzftNItTHUMAyd6YoenYxEKf8GqE-~CFtc2AZZqz-RLqcMzFiBJ1yakJTQOL5Fy7dwK3jXx8DaQgg19LZS6gxgSbhrJcbTYoZQDTHb4-ghVwl-YbbHtnBDjRuEVM~izDq5ULtgutW7ikn7jotyIFg-eKwGadY3jI7ri9uqOz08P3j9c54zqxWSGYNEQqnkGpceQmwiD9YxL8uRDdXN3e6JbMGY9ezWj1k3LdZCuR~S8VmGLXp11rqEVdHaA__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![settings.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046899688-?Expires=253370764800&Signature=UNFvrwSNKTojz3SOzJXn5PMD6eNE5CQSMAgXwyVmx41ctELjTylM53ivrOpIxyJLtDUfVnWbKX915lsw7XF9DfayNC8pzftNItTHUMAyd6YoenYxEKf8GqE-~CFtc2AZZqz-RLqcMzFiBJ1yakJTQOL5Fy7dwK3jXx8DaQgg19LZS6gxgSbhrJcbTYoZQDTHb4-ghVwl-YbbHtnBDjRuEVM~izDq5ULtgutW7ikn7jotyIFg-eKwGadY3jI7ri9uqOz08P3j9c54zqxWSGYNEQqnkGpceQmwiD9YxL8uRDdXN3e6JbMGY9ezWj1k3LdZCuR~S8VmGLXp11rqEVdHaA__&Key-Pair-Id=K3NV4LZ47N8M46)
   4. On the left pane, click**Integrations.** The**Integrations** page is displayed. Scroll down and click **Configure** on the **InterviewPlanner** option. You can also search the Integration from the Search bar.
 
-![integ_interview_planner.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046900550-?Expires=253370764800&Signature=a678CPX92laMOglVeTZtsv7C0RLbihRi1QK2CNYgrOdjgBR2B2aBPIlG~CqXEA~3baLFJpgTubnYVpMEoTuzfenUvNSB8MiTdCUf1MZChFIpHuy8siYC79wYMkbHZtzo~TO7Z6DqI9WPcZu9ADdzGqcBe9a5c2e7dKwe17GTwLT74sdShwB8C5C3NlLCt5Rv8mQH6MvvyDVg-BNl-yi-SVacZseBrZjAhJnp6oiwd4RWjg7rRpP8MRixhlgdY~iOiJmN7vGW1tszE0a-s3-xOVAk-lYgNVZ8K-kwhXBzT9g9ZeP2fC40XpqbOi~SiyMV~DLpTvfaciszZ-sWgy9TyQ__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![integ_interview_planner.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046900550-?Expires=253370764800&Signature=a678CPX92laMOglVeTZtsv7C0RLbihRi1QK2CNYgrOdjgBR2B2aBPIlG~CqXEA~3baLFJpgTubnYVpMEoTuzfenUvNSB8MiTdCUf1MZChFIpHuy8siYC79wYMkbHZtzo~TO7Z6DqI9WPcZu9ADdzGqcBe9a5c2e7dKwe17GTwLT74sdShwB8C5C3NlLCt5Rv8mQH6MvvyDVg-BNl-yi-SVacZseBrZjAhJnp6oiwd4RWjg7rRpP8MRixhlgdY~iOiJmN7vGW1tszE0a-s3-xOVAk-lYgNVZ8K-kwhXBzT9g9ZeP2fC40XpqbOi~SiyMV~DLpTvfaciszZ-sWgy9TyQ__&Key-Pair-Id=K3NV4LZ47N8M46)
   5. Click **Generate API Token** to generate the API token.
 
-![integ_interview_planner1.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046900909-?Expires=253370764800&Signature=Hk2WvjMaXlkuFE4waxWX5g85fIbbM398153Vj1BcbhiDp6HyrrAlRjt0tzSZvulthfaz5rZp1Vaumc1g~lU6eZnIukSIKGwavZczjpqRHixSe5sssY4djHAOtfpIlcgQwXwcH6RB66vvHpMADvSsDp-QWh7uEPg-1fkschHiCxYw60AS3VlE1IQjyERwm~HqozTJSLggls8lw~nHLy9K7CHxXbSwNRt2Tlyr4WivD3AAd9CN7ZzKkUUPrLhvXmT6BCVJW8h7yqX9reBoMnJGzBckq1xb1hO0wdJ0UEaMHUeiDVyf65ZjY-lQd-KYyLUhSz6fcNM3naHoCXzLh8X4Yw__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![integ_interview_planner1.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046900909-?Expires=253370764800&Signature=Hk2WvjMaXlkuFE4waxWX5g85fIbbM398153Vj1BcbhiDp6HyrrAlRjt0tzSZvulthfaz5rZp1Vaumc1g~lU6eZnIukSIKGwavZczjpqRHixSe5sssY4djHAOtfpIlcgQwXwcH6RB66vvHpMADvSsDp-QWh7uEPg-1fkschHiCxYw60AS3VlE1IQjyERwm~HqozTJSLggls8lw~nHLy9K7CHxXbSwNRt2Tlyr4WivD3AAd9CN7ZzKkUUPrLhvXmT6BCVJW8h7yqX9reBoMnJGzBckq1xb1hO0wdJ0UEaMHUeiDVyf65ZjY-lQd-KYyLUhSz6fcNM3naHoCXzLh8X4Yw__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 A unique API Key is displayed.
 
@@ -69,12 +69,12 @@ Ensure to store the API key safely. Once the popup is closed, you cannot retriev
 
   2. Under **Settings** , click **Account > Integrations **on the left navigation pane.
 
-![intrvwplanner_login.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046901736-?Expires=253370764800&Signature=BJS6PcwSVBQlfi31l~Fr~zhPpZGtbNai~B~iG1eXqZnAsNzOvnA1ZeD22RpaGu~gaOyKbRssbLSdbzOYeKWx3hKtR8PaXxxidcFoGfoV2C-In9s24TDmL5w-7zJjm0tMKjWZwJpjg02dHIKwPBIo~fE660gWpbXKJosJ3Y~d1dHuljHMgpCSh5eFsAtnhe8d3Cj9PzErd8lsoQmtI-zzdmdJFTm02pEZHHlzU2sVYyjSITAHeNoN2KHkqoYKNAZcEeVzvHWyoVndP~sbED9JuRyDxvLPsPGvKGAk6twxXZ~LmYjhNL-9DkqFbNOm5pWEkBz5s-HsCnu10hNpYqpb8A__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![intrvwplanner_login.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046901736-?Expires=253370764800&Signature=BJS6PcwSVBQlfi31l~Fr~zhPpZGtbNai~B~iG1eXqZnAsNzOvnA1ZeD22RpaGu~gaOyKbRssbLSdbzOYeKWx3hKtR8PaXxxidcFoGfoV2C-In9s24TDmL5w-7zJjm0tMKjWZwJpjg02dHIKwPBIo~fE660gWpbXKJosJ3Y~d1dHuljHMgpCSh5eFsAtnhe8d3Cj9PzErd8lsoQmtI-zzdmdJFTm02pEZHHlzU2sVYyjSITAHeNoN2KHkqoYKNAZcEeVzvHWyoVndP~sbED9JuRyDxvLPsPGvKGAk6twxXZ~LmYjhNL-9DkqFbNOm5pWEkBz5s-HsCnu10hNpYqpb8A__&Key-Pair-Id=K3NV4LZ47N8M46)
   3. Scroll down to the Live Coding section and click Edit. 
 
   4. In the Live Coding Type drop-down, select HackerRank.
 
-![live_coding.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046902068-?Expires=253370764800&Signature=QBCIxMfmaxBW29vPhiSiZ3sLnELfQAThdLsBUPDVc0SXGirEgDZiHNtBmctvRg3WCz6BniA5cjn4a6Dx6BotYEid0yVti9VVPA474Il8BirsJycBXs2WjQOgdiSZGCn-8PDfEaTpF19fAr5R8-hv87axBpIV~AeWZd2GIp47ZigNpg9U6he2b4gKRQey4vEZlCxEqvJ8JU~6WP8hbOIYhGDQYXAr7TSO1k2oyagAK7Pk8x9XdTh2t5RISxoNlAlfTtXHFFYSI3xgN1MwYQnsdJZQd86qgcaPOynLJ8dIP8k9GdxAiBo3wpPZUf1v3fhXkLAwlNhmVOJfs~It31CwPA__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![live_coding.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046902068-?Expires=253370764800&Signature=QBCIxMfmaxBW29vPhiSiZ3sLnELfQAThdLsBUPDVc0SXGirEgDZiHNtBmctvRg3WCz6BniA5cjn4a6Dx6BotYEid0yVti9VVPA474Il8BirsJycBXs2WjQOgdiSZGCn-8PDfEaTpF19fAr5R8-hv87axBpIV~AeWZd2GIp47ZigNpg9U6he2b4gKRQey4vEZlCxEqvJ8JU~6WP8hbOIYhGDQYXAr7TSO1k2oyagAK7Pk8x9XdTh2t5RISxoNlAlfTtXHFFYSI3xgN1MwYQnsdJZQd86qgcaPOynLJ8dIP8k9GdxAiBo3wpPZUf1v3fhXkLAwlNhmVOJfs~It31CwPA__&Key-Pair-Id=K3NV4LZ47N8M46)
   5. Enter the API Key that you generated from HackerRank.
 
   6. Click **Save.** The API Key is added and the InterviewPlanner integration with HackerRank is completed.

@@ -31,7 +31,7 @@ To generate the code stub automatically while creating a question, describe the 
 
   4. Click on the **Generate Code** button to generate the code stub.  
 
-![input_array3.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046602447-?Expires=253370764800&Signature=Ovm82k-9K6a0BssGWssU2ZySYytBMpSwmdaQp84dKpSkyKl~Cg-yRYF~vRZyP-t-~pym5pjQtLcgMyupb0K5ZzBZsn8yTOnaj~6oZE2F6fhdNbOCvHpHOvY6a--ezVH4fI2rpJkBiqE1WUJvL-UAjGomxYiQg2uq8tJFr8TcNbM5KnurnjRAUt2gbUiTty38a6~ESKuuKPldo5Cp08Tj3dxQxl5ieJ1e~lNSM6NbBJjmk9-DjWLEITPcuxZTwlJHoLJu9C9F-sfR-Y1X5y-F~mOkX2N7pD-KZ0XqFGgyJEOFVMV0EK9nFh0ASz28LTRixOaHSqZ1UMrdS3-6ypQDGQ__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![input_array3.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046602447-?Expires=253370764800&Signature=Ovm82k-9K6a0BssGWssU2ZySYytBMpSwmdaQp84dKpSkyKl~Cg-yRYF~vRZyP-t-~pym5pjQtLcgMyupb0K5ZzBZsn8yTOnaj~6oZE2F6fhdNbOCvHpHOvY6a--ezVH4fI2rpJkBiqE1WUJvL-UAjGomxYiQg2uq8tJFr8TcNbM5KnurnjRAUt2gbUiTty38a6~ESKuuKPldo5Cp08Tj3dxQxl5ieJ1e~lNSM6NbBJjmk9-DjWLEITPcuxZTwlJHoLJu9C9F-sfR-Y1X5y-F~mOkX2N7pD-KZ0XqFGgyJEOFVMV0EK9nFh0ASz28LTRixOaHSqZ1UMrdS3-6ypQDGQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 _Generating a code stub_
 

@@ -25,7 +25,7 @@ To export the interview list:
 
   4. Click the export icon.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776767553190-image.png?Expires=253370764800&Signature=MqzGr1Z~17nMHKlY2Pr7kw~drlScE~UZ2DU1TdhKl5lge80Qxbx1spjthNX-vCwK6X2dcLxDZDfVdYLk7Z923LY7WcDEYDN4Zdna9451b5bnmxj5tHwhTYZ78EnKRiDnxFJdb7R6EmMyVY8Wr8WSjJEESs20mPe1MavgIhNhnNuB2DPfkHGFdHvDz2VLCGid82DPgLD~4t~jwpI2yEEEXlBSPxKr7Jn6hw7gb9r2I2nESyO66UrRN0UuMhWp-RkRzNChp4T95jmjuQOtF~cNt4oYE6aJzo9hSsIcF481R6APMwao5SIg9WPh82p9Ey4J4g94d21OpBbThqaAvbLWDA__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776767553190-image.png?Expires=253370764800&Signature=MqzGr1Z~17nMHKlY2Pr7kw~drlScE~UZ2DU1TdhKl5lge80Qxbx1spjthNX-vCwK6X2dcLxDZDfVdYLk7Z923LY7WcDEYDN4Zdna9451b5bnmxj5tHwhTYZ78EnKRiDnxFJdb7R6EmMyVY8Wr8WSjJEESs20mPe1MavgIhNhnNuB2DPfkHGFdHvDz2VLCGid82DPgLD~4t~jwpI2yEEEXlBSPxKr7Jn6hw7gb9r2I2nESyO66UrRN0UuMhWp-RkRzNChp4T95jmjuQOtF~cNt4oYE6aJzo9hSsIcF481R6APMwao5SIg9WPh82p9Ey4J4g94d21OpBbThqaAvbLWDA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 The platform downloads the interview list as a `.csv` file, and a success message appears.
 

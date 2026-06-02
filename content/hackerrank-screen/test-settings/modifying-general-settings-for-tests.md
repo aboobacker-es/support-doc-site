@@ -25,7 +25,7 @@ To modify the general settings of a test:
 
   4. Go to **Settings > General.**  
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1753693496158-image.png?Expires=253370764800&Signature=ilTIdaKGYfWrEGqAKslNefJ0vkyIGaqqPcMR5GprvUVfKHCnclW~trdCFBK8lrNouUtvzLRci681ES9cHuuc4jMkI1zj3eWEZQSUy97Xa-beYQ8K6mrFUCMHk5D8~vyFG5TKZrg7Vkq8xG49t8ooxsCySAG7n4eXC1BxvOCk1elYavPbd~YIZ0gIGNue1c178Z0UMre7meOm8MeFskUKQVS0dQxg6geR1IhOEMYRXImTsQ6r-drxbTcXmLkAs4B2JpUsSWkebZD0X3tRcXdJLMM9ddtc8~N5Gr7JvdQnVotbybNCmlJJowDiipS96PEbr1ruz8rffDDuXm-tcb7YRA__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1753693496158-image.png?Expires=253370764800&Signature=ilTIdaKGYfWrEGqAKslNefJ0vkyIGaqqPcMR5GprvUVfKHCnclW~trdCFBK8lrNouUtvzLRci681ES9cHuuc4jMkI1zj3eWEZQSUy97Xa-beYQ8K6mrFUCMHk5D8~vyFG5TKZrg7Vkq8xG49t8ooxsCySAG7n4eXC1BxvOCk1elYavPbd~YIZ0gIGNue1c178Z0UMre7meOm8MeFskUKQVS0dQxg6geR1IhOEMYRXImTsQ6r-drxbTcXmLkAs4B2JpUsSWkebZD0X3tRcXdJLMM9ddtc8~N5Gr7JvdQnVotbybNCmlJJowDiipS96PEbr1ruz8rffDDuXm-tcb7YRA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
   
 In the **General** section, you can update the following:

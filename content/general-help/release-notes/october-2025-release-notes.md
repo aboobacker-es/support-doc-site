@@ -97,7 +97,7 @@ AI-assisted IDE in Tests gives candidates intelligent, AI-first coding support t
 
   * **Autocomplete only in Unguarded mode:** AI-powered autocomplete is now limited to Unguarded mode only, keeping usage purely for help and guidance.
 
-![AI in Screen.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1759775112032-AIinScreen.gif?Expires=253370764800&Signature=tUYw8U6rBtrsKM2ln~yba1EYWv6C1L7AOIyr2llXuyDibuGplRbRjmhv0w7VLSjXqKORPR1jpiTN9uRvfrKoJsNXdfK8iHGTRMAeQKC81TQxmA5Kv9PxowfCgeviy7A6tQ4FBLQYJwRr01mv9mrxGimBjb5cj5g7pWlM0Y156AauApdLHIJKnvFV-gih1C983JFKhBPqX6bHkAkjObeCEloQbsXk5Ce7-~DNoitj1FXjQ-a-4oKYsJEY8gmq5WlO2EBEo1TPTuU4MToOqQhYbtxI9cDHKZVw48eIdjpM4VWuGk09H4IXJBoj4sAD2atAgq~QdN0WCvcqlhDSjvaTZA__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![AI in Screen.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1759775112032-AIinScreen.gif?Expires=253370764800&Signature=tUYw8U6rBtrsKM2ln~yba1EYWv6C1L7AOIyr2llXuyDibuGplRbRjmhv0w7VLSjXqKORPR1jpiTN9uRvfrKoJsNXdfK8iHGTRMAeQKC81TQxmA5Kv9PxowfCgeviy7A6tQ4FBLQYJwRr01mv9mrxGimBjb5cj5g7pWlM0Y156AauApdLHIJKnvFV-gih1C983JFKhBPqX6bHkAkjObeCEloQbsXk5Ce7-~DNoitj1FXjQ-a-4oKYsJEY8gmq5WlO2EBEo1TPTuU4MToOqQhYbtxI9cDHKZVw48eIdjpM4VWuGk09H4IXJBoj4sAD2atAgq~QdN0WCvcqlhDSjvaTZA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 For more information, see [📄 AI-Assisted Tests](</articles/1152916770>).
 
@@ -204,7 +204,7 @@ Project-type questions now run on the latest VS Code v1.103.2, bringing new capa
 
   * **Smarter terminal:** IntelliSense has been upgraded to understand full command chains (`;` , `&&` , `||` , pipes, etc.). Candidates now get suggestions for each command in the sequence, speeding up complex workflows like `npm ci && npm run build && npm test` while reducing typos and retyping.
 
-![VS Code IDE Upgrade.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1759311708195-VSCodeIDEUpgrade.gif?Expires=253370764800&Signature=o~zaosMM2Bv-lMXOixyXZg-u~YgSM0IbVlJgGnk~vY~xwI43FDFNiAdo-od10FBb1QbnycuoEjYUO3YRx-kA9nTvzpOUG0sGUsNx9aRggxaPQOC9gHdnIQy7vWnBdUSgKKt8S0CpgLQjsKrsZ1gKMGNUYWHZphhYk1dHsw-dZq0MJR2Kgwym0k1GNCF-Gs-amIMBhfX6wlq2pe6IyOvQ2HW16TiPogMDW8ejatjuEOQ3UbE3QUEw-GiLgLU7Sq9gLknkSg5TQ37d0JhSCdyf5TOraBGtfJbZHJKdLW4gt7CNseGD0XDDTm9dvNi7jZ35~bwIz4T~5f5MfbWCQLYk3A__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![VS Code IDE Upgrade.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1759311708195-VSCodeIDEUpgrade.gif?Expires=253370764800&Signature=o~zaosMM2Bv-lMXOixyXZg-u~YgSM0IbVlJgGnk~vY~xwI43FDFNiAdo-od10FBb1QbnycuoEjYUO3YRx-kA9nTvzpOUG0sGUsNx9aRggxaPQOC9gHdnIQy7vWnBdUSgKKt8S0CpgLQjsKrsZ1gKMGNUYWHZphhYk1dHsw-dZq0MJR2Kgwym0k1GNCF-Gs-amIMBhfX6wlq2pe6IyOvQ2HW16TiPogMDW8ejatjuEOQ3UbE3QUEw-GiLgLU7Sq9gLknkSg5TQ37d0JhSCdyf5TOraBGtfJbZHJKdLW4gt7CNseGD0XDDTm9dvNi7jZ35~bwIz4T~5f5MfbWCQLYk3A__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 For more information, see [📄 Create Front-end, Back-end, Full-stack, and Mobile Questions](</articles/1570281449>).
 
@@ -222,7 +222,7 @@ Integrity settings have been reorganized to make test setup more straightforward
 
   * Question shuffle and watermarking are now in Question Settings, keeping all question-related options together for easier access.
 
-![Intergrity Settings revamp.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1759311494372-IntergritySettingsrevamp.gif?Expires=253370764800&Signature=RwrmmVkUwFhCyRWS327dg7pEga77nfgdeAkw2TmqxUBZektYDg69QnPAMIIVvAAfiL-bJ5CBtjgQIuFPzOoHGHwUutEx8P0GkJ~FAkV1OJLrVK2eiXcM1Or3Yox5uXft5QvdKCSZrAUVO1x2YrWUgjGkjnaFfIISu3vwI6YWzwVpzV5FbHTmtnedVwjoUPvnTsXsXP~ry6O03sj0neHPfwAuUb~sP3QlmGDwaSMFNSp-23ZSe0PVKaMaY1rSmR5DbwbF66FKQzGzwrMoTrubFl7EHk0RIg5LaHjrCI5Pg92mb~3njkHrtm48Jl0RitZQ-kI4YjiB52vLhLnRYOlqag__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![Intergrity Settings revamp.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1759311494372-IntergritySettingsrevamp.gif?Expires=253370764800&Signature=RwrmmVkUwFhCyRWS327dg7pEga77nfgdeAkw2TmqxUBZektYDg69QnPAMIIVvAAfiL-bJ5CBtjgQIuFPzOoHGHwUutEx8P0GkJ~FAkV1OJLrVK2eiXcM1Or3Yox5uXft5QvdKCSZrAUVO1x2YrWUgjGkjnaFfIISu3vwI6YWzwVpzV5FbHTmtnedVwjoUPvnTsXsXP~ry6O03sj0neHPfwAuUb~sP3QlmGDwaSMFNSp-23ZSe0PVKaMaY1rSmR5DbwbF66FKQzGzwrMoTrubFl7EHk0RIg5LaHjrCI5Pg92mb~3njkHrtm48Jl0RitZQ-kI4YjiB52vLhLnRYOlqag__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 For more information, see [📄 HackerRank Test Integrity](</articles/1079706165>),[📄 Modify Question Settings for Tests](</articles/5424328799>).
 
@@ -274,13 +274,13 @@ The AI-assisted IDE in Interviews is now smarter, faster, and enabled for more p
 
   * **Expanded Coverage:** You can now enable the AI Assistant for React, Angular, and other project-based questions directly from the scratchpad in Interviews.
 
-![StartfromScratch.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1759312247459-StartfromScratch.gif?Expires=253370764800&Signature=OLTT3dJvTlINt4bA~7V8JnXoCONusQy~CZJvIfaGD4mBesS3lXVBJz8xGDYuoqIwgSHEw1zCk55D2IdL9BcPk9zmB3jtpTZPpzqRkm39uvA4N8XcPQKSTSsHMhOPXaNmFrpHcmdLh74RbEaiL9c-VsYEHXgHEUTH0a-d24LroIjtOczehZD1oQmAK3P~zeB4mYVLjXwZEGNf4onx~Qj5k37c18HiormwA9PKfzsP29BSeXmrcWBLl8-mKWkm49hM3BNP~JEngjdB7DNOco3xHEMH3DIIGBGSXF2rcMj3LIvDKzk0X-jz4B7E2Yj57QR6pR-4N07Gj-tUbGjHun11Sw__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![StartfromScratch.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1759312247459-StartfromScratch.gif?Expires=253370764800&Signature=OLTT3dJvTlINt4bA~7V8JnXoCONusQy~CZJvIfaGD4mBesS3lXVBJz8xGDYuoqIwgSHEw1zCk55D2IdL9BcPk9zmB3jtpTZPpzqRkm39uvA4N8XcPQKSTSsHMhOPXaNmFrpHcmdLh74RbEaiL9c-VsYEHXgHEUTH0a-d24LroIjtOczehZD1oQmAK3P~zeB4mYVLjXwZEGNf4onx~Qj5k37c18HiormwA9PKfzsP29BSeXmrcWBLl8-mKWkm49hM3BNP~JEngjdB7DNOco3xHEMH3DIIGBGSXF2rcMj3LIvDKzk0X-jz4B7E2Yj57QR6pR-4N07Gj-tUbGjHun11Sw__&Key-Pair-Id=K3NV4LZ47N8M46)
   * **Faster responses:** Autocompletions and  Agent mode edits now appear twice as fast, helping candidates stay focused, without breaking momentum.
 
-![FasterResponses.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1759312249073-FasterResponses.gif?Expires=253370764800&Signature=WXUh2LzE-I1gRZ4nxaMjhW6TkyH8Chj6F07BUa2kldlkE6hSqr0Sn94akvfDScHX0vi~ovwa3igHSnbjygedWTIPm4vN5fOpISMBExlvd6GY-Oos-iOcoanXqcxrjDjlioYOshnaF~M~bCDhLPxm1dlrrSyCo4ceO2Ifpf9Uo4KCc1GhEVJmNR8YV0TUZPO9av2SIqUWSFKjLztqnbwUF44y-sOwjhGvBFsZFR5tJedDtePt6t6xWTu6SOjOy8ivoedLGND5YJcAHM0J76PnUHOvxPX0~24V7XFc9fNG-jdypkzlsyk4zzGDuGEkYiKuzN18C0o-Y7cTaQrLzb~BIw__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![FasterResponses.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1759312249073-FasterResponses.gif?Expires=253370764800&Signature=WXUh2LzE-I1gRZ4nxaMjhW6TkyH8Chj6F07BUa2kldlkE6hSqr0Sn94akvfDScHX0vi~ovwa3igHSnbjygedWTIPm4vN5fOpISMBExlvd6GY-Oos-iOcoanXqcxrjDjlioYOshnaF~M~bCDhLPxm1dlrrSyCo4ceO2Ifpf9Uo4KCc1GhEVJmNR8YV0TUZPO9av2SIqUWSFKjLztqnbwUF44y-sOwjhGvBFsZFR5tJedDtePt6t6xWTu6SOjOy8ivoedLGND5YJcAHM0J76PnUHOvxPX0~24V7XFc9fNG-jdypkzlsyk4zzGDuGEkYiKuzN18C0o-Y7cTaQrLzb~BIw__&Key-Pair-Id=K3NV4LZ47N8M46)
   * **Smarter model with Auto mode:** The AI-assisted IDE now supports the latest models, including Sonnet-4.5, GPT-5 mini, GPT-5, and Qwen-3-Coder-480B. You can also enable Auto Mode, which automatically selects the best model based on response speed. This provides greater reliability while ensuring candidates are assessed with the most up-to-date AI tools.
 
-![Smarter Models.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1759312252727-SmarterModels.gif?Expires=253370764800&Signature=o4e-wfQxv4OPLpk1fmRE-uZFfVJRDc1qetHP3X~bKl-2CzazmQlVHAjYOsY0ljaUgpGYM0h0Tqtz8LiBxeZ-qZ6DgkwCsXiN2CTVA6IAohxqoqlVnbqpuY553k9imqGtWwWQceeEjZ3ptu0vkipNwdhXd-zlwhC4ytH9qkzHNw5W7rxpBV9IRaNfruQKREhNKWSkvu5QI2U9qqRPvQaN5-~swMjhYmYYq-6pRsR3TINAy5fuiMuxoTdXIn3KtK5ze5cMuNYRFClh-jb~zo6nPT4VQE6Ou8TSN4Y5iJRjznYzWaA9iyKidk76Mb~IS5wgt4qNYYNTZ59bs3K16nz~fg__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![Smarter Models.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1759312252727-SmarterModels.gif?Expires=253370764800&Signature=o4e-wfQxv4OPLpk1fmRE-uZFfVJRDc1qetHP3X~bKl-2CzazmQlVHAjYOsY0ljaUgpGYM0h0Tqtz8LiBxeZ-qZ6DgkwCsXiN2CTVA6IAohxqoqlVnbqpuY553k9imqGtWwWQceeEjZ3ptu0vkipNwdhXd-zlwhC4ytH9qkzHNw5W7rxpBV9IRaNfruQKREhNKWSkvu5QI2U9qqRPvQaN5-~swMjhYmYYq-6pRsR3TINAy5fuiMuxoTdXIn3KtK5ze5cMuNYRFClh-jb~zo6nPT4VQE6Ou8TSN4Y5iJRjznYzWaA9iyKidk76Mb~IS5wgt4qNYYNTZ59bs3K16nz~fg__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 For more information, see [📄 AI-Assisted Interviews](</articles/5821380141>).
 
@@ -298,13 +298,13 @@ The interview login flow has been redesigned to make setup smoother and give par
 
   * **Revamped login experience:** The new login page introduces clear sections for candidates and interviewers, making entry points easy to navigate.
 
-![Revamped login experience.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1759312535000-Revampedloginexperience.gif?Expires=253370764800&Signature=c0Ld8Knkx1U8VEVtyp1KdD-6gwGJF9KDRQdpRP-5CDBrEPp9lAtcQ1V89uWcmUXT-jMOZ~N2njec~OLibQdzBvBfMD--WavaJ-kHJjxxqE0b0XGjfKtNESjjGPcU4NpjYUA5m67AA-qbTuDdlSvZqQAS1kEMotjpCR-REhSAD6J7Hiqh8ezh5yAh-d2FStmEEODuVpxWRifZGUd1fXCf1yh~G6hKDowkqy8IIRAhOorokBDIZ7qig4fK7lriW57zcwrb-4Erq0qvwaxvevjMlbpOx9C7C5uwOmBlSdeBkGKdiAPL6uFFNhc2YbrbPN7a3WwUbtz4gYrSiXFatqmmBg__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![Revamped login experience.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1759312535000-Revampedloginexperience.gif?Expires=253370764800&Signature=c0Ld8Knkx1U8VEVtyp1KdD-6gwGJF9KDRQdpRP-5CDBrEPp9lAtcQ1V89uWcmUXT-jMOZ~N2njec~OLibQdzBvBfMD--WavaJ-kHJjxxqE0b0XGjfKtNESjjGPcU4NpjYUA5m67AA-qbTuDdlSvZqQAS1kEMotjpCR-REhSAD6J7Hiqh8ezh5yAh-d2FStmEEODuVpxWRifZGUd1fXCf1yh~G6hKDowkqy8IIRAhOorokBDIZ7qig4fK7lriW57zcwrb-4Erq0qvwaxvevjMlbpOx9C7C5uwOmBlSdeBkGKdiAPL6uFFNhc2YbrbPN7a3WwUbtz4gYrSiXFatqmmBg__&Key-Pair-Id=K3NV4LZ47N8M46)
   * **Proactive compatibility checks:** Device type, window size, browser support, and local storage are now checked upfront and asynchronously. If an issue is detected, both candidates and interviewers receive real-time notifications, making it easy to resolve problems before the session starts.
 
-![Proactive compatibility checks.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1759312555248-Proactivecompatibilitychecks.gif?Expires=253370764800&Signature=qR4YBGa1nBt-YqqjNWicH-2oV1em1CbJWfG7pgxlgNci6wfPT8VmhNqDkz1aEyQg9oWH1wexMDxF6omj58dq7ohZDZkm7OQxRWzecdRp8-6FdF326~az00MVFyKvpjgr~xKHE0LiSTUrKsc2edvKtCfjpxXekxDo0K38vu1Lw4FiNrdS6IVKAoWT95eUWIviwPhG5cfwmR4PuANlj4i6e~zvrbS5j6jbXLZJJ2abWiOzor0OVuM-Tyo2jXI5AzWN9a8-yiC-74LhW9JAYfg8X7sN3mCFUlPDf-D9nsoSkjCzeIxqBDwlJ9t4pKmmqtcxulp0VhRnNYZZ4okyoOEFGw__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![Proactive compatibility checks.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1759312555248-Proactivecompatibilitychecks.gif?Expires=253370764800&Signature=qR4YBGa1nBt-YqqjNWicH-2oV1em1CbJWfG7pgxlgNci6wfPT8VmhNqDkz1aEyQg9oWH1wexMDxF6omj58dq7ohZDZkm7OQxRWzecdRp8-6FdF326~az00MVFyKvpjgr~xKHE0LiSTUrKsc2edvKtCfjpxXekxDo0K38vu1Lw4FiNrdS6IVKAoWT95eUWIviwPhG5cfwmR4PuANlj4i6e~zvrbS5j6jbXLZJJ2abWiOzor0OVuM-Tyo2jXI5AzWN9a8-yiC-74LhW9JAYfg8X7sN3mCFUlPDf-D9nsoSkjCzeIxqBDwlJ9t4pKmmqtcxulp0VhRnNYZZ4okyoOEFGw__&Key-Pair-Id=K3NV4LZ47N8M46)
   * **Move candidates to lobby:** If no interviewer joins a scheduled interview within 3 minutes, candidates are now automatically moved to the lobby. This helps reduce confusion and ensures candidates aren’t left waiting in an empty session.
 
-![MovetoLobby.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1759312396630-MovetoLobby.gif?Expires=253370764800&Signature=GiY2owmdkhlPHyAAU8mFQJa034BGYqriFpZPxM1AkQyMWHaYjH-VqJl8KiosMbdkqk99pXoGWywQ8vynNItWHzR18jxf8IAwg0vlYzYdRwhqlibqv3XBkXOoa-1md3WqqdEyQpSZ5inLhWTFGTOj5zxorlRvJP9dSe4~C-f01~eHqESQtqwHrlANPXFHHXzqsA96vTDqKswSBWPXv7P6KASfwLWhK2LEWv1wTyLy~h3AGzgUv3gf93oU4r3hwPX6DPGuRQRDjAuRdFYEEqK72QyFkeaPsOLItJt1LDHMXZ-2hS04PO8z9qQRg~cUJPMSmzK6ZtfiumI1CRY0rIVUog__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![MovetoLobby.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1759312396630-MovetoLobby.gif?Expires=253370764800&Signature=GiY2owmdkhlPHyAAU8mFQJa034BGYqriFpZPxM1AkQyMWHaYjH-VqJl8KiosMbdkqk99pXoGWywQ8vynNItWHzR18jxf8IAwg0vlYzYdRwhqlibqv3XBkXOoa-1md3WqqdEyQpSZ5inLhWTFGTOj5zxorlRvJP9dSe4~C-f01~eHqESQtqwHrlANPXFHHXzqsA96vTDqKswSBWPXv7P6KASfwLWhK2LEWv1wTyLy~h3AGzgUv3gf93oU4r3hwPX6DPGuRQRDjAuRdFYEEqK72QyFkeaPsOLItJt1LDHMXZ-2hS04PO8z9qQRg~cUJPMSmzK6ZtfiumI1CRY0rIVUog__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 For more information, see [Logging into HackerRank Interview.](<https://candidatesupport.hackerrank.com/articles/1952658165-logging-into-hackerrank-interview>)
 
@@ -444,7 +444,7 @@ Mock Interviews are now smarter, smoother, and more content-rich, making practic
 
   * **Fresh content:** Try new questions in coding, system design, React, and Node.js, along with a modern coding editor and a cleaner, more intuitive interface for easier practice.
 
-![Mock Interview Improvement \(1\).gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1759312416037-MockInterviewImprovement%25281%2529.gif?Expires=253370764800&Signature=RPIEvcNMy1br0wP~1o3UmLJVMIteYOH9A4uOqtoELkXq~3kernH9YSxnABn8Cxx6rva2Q3sWUPhdZL2tY1pdvsTC9Q6p68~AOO7~w2J63paemcwTnXI0Jd7vsjayxZvPb0rmA1GM5IEu-M~CLurAbsvaFJnEhHVXrSM0qCbKbVRi8LG8XxImLyN-~LtEgYpt7dCaQs5D6ipWtmOStuz67ym-QOBxRr0HTuylM2n2e9r68~1TmJmGV7Nk8dP~C859udYC5ju5m9LLl7-JX0S~QoyJtpWA5xrsOlw7Mgr5cCEiF6ruW6qWogLtJRv5yqyU0vyzYvl7k~eCVWNavMj4zQ__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![Mock Interview Improvement \(1\).gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1759312416037-MockInterviewImprovement%25281%2529.gif?Expires=253370764800&Signature=RPIEvcNMy1br0wP~1o3UmLJVMIteYOH9A4uOqtoELkXq~3kernH9YSxnABn8Cxx6rva2Q3sWUPhdZL2tY1pdvsTC9Q6p68~AOO7~w2J63paemcwTnXI0Jd7vsjayxZvPb0rmA1GM5IEu-M~CLurAbsvaFJnEhHVXrSM0qCbKbVRi8LG8XxImLyN-~LtEgYpt7dCaQs5D6ipWtmOStuz67ym-QOBxRr0HTuylM2n2e9r68~1TmJmGV7Nk8dP~C859udYC5ju5m9LLl7-JX0S~QoyJtpWA5xrsOlw7Mgr5cCEiF6ruW6qWogLtJRv5yqyU0vyzYvl7k~eCVWNavMj4zQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 ### Software Engineer Prep Kit
 
@@ -458,7 +458,7 @@ The Software Engineer Prep Kit helps you get interview-ready with curated challe
 
   * **Role Certification:** Validate your skills with a final assessment tailored to your target role. Earn a verifiable certificate that you can easily share with recruiters and on LinkedIn.
 
-![SEPrepKitUpdated2.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1759312449041-SEPrepKitUpdated2.gif?Expires=253370764800&Signature=oZdGetDipgnS3ngD~iHdX0i1qcIfdt3QFREmEolNLe2PqcmxUizbFgicN8uW8qaCTcmV6ZYglpd~qfdR1I9lkBesG4lQ6SYR8PwVMz2yE0ok-oJPvZ9umB-oXr1c8V7lnihBjz24yV0V7UrgLqP0ybG-FerrUI9tp0sjHKXoT0verJUVb8i25FXjFohVhMzbdk8RjMDKY-xoPfi1lQuCKt7es4X6Q0SDw8vsjU~28huVx0NTjJ48lMwbWgrnl6Txr~ZUK5S05ZEb5nb4b89kKuMP2eDmnqKKJ9CkgHjCASo3BJdkchJVrF4EVAiMvbqdpsM6-SqK4zBT9CqD3NccOg__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![SEPrepKitUpdated2.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1759312449041-SEPrepKitUpdated2.gif?Expires=253370764800&Signature=oZdGetDipgnS3ngD~iHdX0i1qcIfdt3QFREmEolNLe2PqcmxUizbFgicN8uW8qaCTcmV6ZYglpd~qfdR1I9lkBesG4lQ6SYR8PwVMz2yE0ok-oJPvZ9umB-oXr1c8V7lnihBjz24yV0V7UrgLqP0ybG-FerrUI9tp0sjHKXoT0verJUVb8i25FXjFohVhMzbdk8RjMDKY-xoPfi1lQuCKt7es4X6Q0SDw8vsjU~28huVx0NTjJ48lMwbWgrnl6Txr~ZUK5S05ZEb5nb4b89kKuMP2eDmnqKKJ9CkgHjCASo3BJdkchJVrF4EVAiMvbqdpsM6-SqK4zBT9CqD3NccOg__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 For more information, see [Introduction to Prep Kits](<https://help.hackerrank.com/articles/1723224478-introduction-to-prep-kits>).
 

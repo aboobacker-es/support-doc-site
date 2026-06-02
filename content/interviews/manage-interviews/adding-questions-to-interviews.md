@@ -43,7 +43,7 @@ To add a question:
 
        * Create a custom question:
 
-![Save Custom Questions in Interviews.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760281177360-SaveCustomQuestionsinInterviews.gif?Expires=253370764800&Signature=nm6~10esVZc1Culsm6wbuKTIxSE-4aanYktkWNXG-8zVY4ALoS9WzUbAsHeU3fHWWd057hgaTnc8FgOlFiaz-7~h-dRxpkIABpWesHxkV1eE99omEbwgXwjY3p6YPCUJ1pBqZKMLAp1A15w6sh1~wbeRjhwXKmYzdFqTngZOaQt3nJ8221RiDKel9KQ41kkyT-8MVZodLy2sUcSrAGBx2Adl2kxcbqhUdePRnLdrxTTWKCfnF4zbK-C~bVWGUL86ZxSozLFLcHg1thMy8XrbdF7Ct3Q83mrrEkeiCQgaHWvQVKFyjB3OsATYn6iVw~XpT8~ioqz65KGWy0OESYoxNA__&Key-Pair-Id=K3NV4LZ47N8M46)
+         ![Save Custom Questions in Interviews.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760281177360-SaveCustomQuestionsinInterviews.gif?Expires=253370764800&Signature=nm6~10esVZc1Culsm6wbuKTIxSE-4aanYktkWNXG-8zVY4ALoS9WzUbAsHeU3fHWWd057hgaTnc8FgOlFiaz-7~h-dRxpkIABpWesHxkV1eE99omEbwgXwjY3p6YPCUJ1pBqZKMLAp1A15w6sh1~wbeRjhwXKmYzdFqTngZOaQt3nJ8221RiDKel9KQ41kkyT-8MVZodLy2sUcSrAGBx2Adl2kxcbqhUdePRnLdrxTTWKCfnF4zbK-C~bVWGUL86ZxSozLFLcHg1thMy8XrbdF7Ct3Q83mrrEkeiCQgaHWvQVKFyjB3OsATYn6iVw~XpT8~ioqz65KGWy0OESYoxNA__&Key-Pair-Id=K3NV4LZ47N8M46)
          1. In the **Create your question** panel, enter the question name and description.
 
          2. Format the content using the available formatting options such as bold, italics, bullet or numbered lists, and code snippets.
@@ -62,19 +62,19 @@ To add a question:
 
        3. Select one or more tasks from the repository.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776587675229-image.png?Expires=253370764800&Signature=N4yEaM3XkWpATZ1tQTn5e4fulSdojkXhK6nDZDWT8uSQsSSXl1AZcIZoDRbbzMkrJhLAEo8~Obh7xCJIEhZUyCZ7I4ati9IkIAaV4h~XOsUxelERx9QfVbgHCKN2T11eh7CxCzZbghvlMWsYG2EwSPCDQuJd5s8fSq7sJdQ4s7~3f3IMf0VZOGTgLTX1hCiA1CNiuV~JAHujQf0qVA1wqF8~5gnPIj6lTbfuEkesglVre7LaHbW4DWNyuUuMcGLMteZFPTNK9BIbQZfLL6hZWzjHur22JRRYQIsy4gbmzfj7JY3tuBiYsqT4R5qskfJBlHKerOhOnYZLGszsEBdsdA__&Key-Pair-Id=K3NV4LZ47N8M46)
+          ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776587675229-image.png?Expires=253370764800&Signature=N4yEaM3XkWpATZ1tQTn5e4fulSdojkXhK6nDZDWT8uSQsSSXl1AZcIZoDRbbzMkrJhLAEo8~Obh7xCJIEhZUyCZ7I4ati9IkIAaV4h~XOsUxelERx9QfVbgHCKN2T11eh7CxCzZbghvlMWsYG2EwSPCDQuJd5s8fSq7sJdQ4s7~3f3IMf0VZOGTgLTX1hCiA1CNiuV~JAHujQf0qVA1wqF8~5gnPIj6lTbfuEkesglVre7LaHbW4DWNyuUuMcGLMteZFPTNK9BIbQZfLL6hZWzjHur22JRRYQIsy4gbmzfj7JY3tuBiYsqT4R5qskfJBlHKerOhOnYZLGszsEBdsdA__&Key-Pair-Id=K3NV4LZ47N8M46)
        4. Click **Use**.
 
      * **Project Question:** Choose one of the following options:
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F97f720fb-35f0-47c9-887e-b06953560cfd-1760283774565-image.png-044ffc1b-8c81-4084-803c-86e81b7840e9?Expires=253370764800&Signature=kMioczZl1aCB~vF3mub1WvWCydH1CuwrCQ5dvPW1uMBAJp5lTtQR3NQEqlnLhTRy4DVXpBIULeePM0rQU~PBPxwn5fTR30oivBlqPVIHB1NT~nR7~5xcHnllneYqj3ELEnSs7QxjCmiFQBcQ21xSenyJIGarOXffOaLjE5c3gOZibL-wzNw-I7FutaBQu8uligjgWZSAwZcDIbmmaNabmNr4qR5AfBP3fUPntNBTZMA7agCIpbMM0Mj9cbzlyfLFAj6rZmAMoW-C0Q3WwX835cLeDFo3zWI~kcmHaMFj2wMqNXNP-N7F6AGhMT1n-nEFAMlXgTAUrH8c2FzoASdC6A__&Key-Pair-Id=K3NV4LZ47N8M46)
+       ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F97f720fb-35f0-47c9-887e-b06953560cfd-1760283774565-image.png-044ffc1b-8c81-4084-803c-86e81b7840e9?Expires=253370764800&Signature=kMioczZl1aCB~vF3mub1WvWCydH1CuwrCQ5dvPW1uMBAJp5lTtQR3NQEqlnLhTRy4DVXpBIULeePM0rQU~PBPxwn5fTR30oivBlqPVIHB1NT~nR7~5xcHnllneYqj3ELEnSs7QxjCmiFQBcQ21xSenyJIGarOXffOaLjE5c3gOZibL-wzNw-I7FutaBQu8uligjgWZSAwZcDIbmmaNabmNr4qR5AfBP3fUPntNBTZMA7agCIpbMM0Mj9cbzlyfLFAj6rZmAMoW-C0Q3WwX835cLeDFo3zWI~kcmHaMFj2wMqNXNP-N7F6AGhMT1n-nEFAMlXgTAUrH8c2FzoASdC6A__&Key-Pair-Id=K3NV4LZ47N8M46)
        * **Start from Scratch:** Start the interview with a basic project template. You can customize it as needed.
 
        * **Import from Library:** Open the HackerRank Library filtered by the selected question type. For more information, see Using Question Library.
 
        * **Import Your Own Project:** Use your existing application as the project base.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F2dd63a4e-e6eb-48f8-a721-d4fb3198a23f-1760282216923-image.png-55c52a04-ca82-455f-a974-56195d102850?Expires=253370764800&Signature=GFdHSi7ZZK3HOjyj51O7J5tkDCZav8xbVOGJ3OQluAYtlabOzVvDbKP~XqtE918ZJEDniAukOLs3lu~oa3Fhnp6o-qYVf9JhnR-x6MNGUjVVywsoxV5sgIrEMR9Dpx~RNPETuoiR3n9RanaE9iR3yt1g5rcte3db4WK6LKex9IdVxCKRj5a3LqB0hDgz5OU-4Av85j7ahsGI3i7Nf4DOh3wmr6XWt5N1PIH0cKppdHpeVdJVdXWwixiwEertWJKpbHa3ic5zrEAiBjaIYISOw30IP5REreHgahJYcEQlUs96GZHgFQ12EPryGRN8ZWZH7ety4npFkREHpJsuWxsf7Q__&Key-Pair-Id=K3NV4LZ47N8M46)
+         ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F2dd63a4e-e6eb-48f8-a721-d4fb3198a23f-1760282216923-image.png-55c52a04-ca82-455f-a974-56195d102850?Expires=253370764800&Signature=GFdHSi7ZZK3HOjyj51O7J5tkDCZav8xbVOGJ3OQluAYtlabOzVvDbKP~XqtE918ZJEDniAukOLs3lu~oa3Fhnp6o-qYVf9JhnR-x6MNGUjVVywsoxV5sgIrEMR9Dpx~RNPETuoiR3n9RanaE9iR3yt1g5rcte3db4WK6LKex9IdVxCKRj5a3LqB0hDgz5OU-4Av85j7ahsGI3i7Nf4DOh3wmr6XWt5N1PIH0cKppdHpeVdJVdXWwixiwEertWJKpbHa3ic5zrEAiBjaIYISOw30IP5REreHgahJYcEQlUs96GZHgFQ12EPryGRN8ZWZH7ety4npFkREHpJsuWxsf7Q__&Key-Pair-Id=K3NV4LZ47N8M46)
          1. Enter a public Git URL or upload a Zip file as a source.
 
          2. Enter the name of the Project. 
@@ -89,10 +89,10 @@ To import questions from the Question Library:
 
      * Select **Question Library** in the **Explore** section.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760280959574-image.png?Expires=253370764800&Signature=EABIgCjZPPa6DAYteKUwKVqSdi2I7NU1fKT94dAH6m670TEhOLIEM-4mmNpya7TEjEicAa9G5QLTZyLXLAH5FjH1dv4xdGSU0WSiL1lU7V0CLegnovzm7BfXoOUwTIaiUmd6S01MifQ41pn-lGACOImbIgN7n9IGHJ0YbE8X9tadwZz7MhDPDpLXhbnVfzy7F3QtxxvH7YrI0wczX6o4pfUid5xpjFyUYgkuyVkjAQm6o-LgoqUlbWzkgmAeFktGvaaa0RvHFx6JQx0aVSolLUra2N8c-o0fMgAcoHP6NLzQrWeFfIRPY7BiugwuXsO0VUK3QQa4awlL5VXQaX4IVA__&Key-Pair-Id=K3NV4LZ47N8M46)
+       ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760280959574-image.png?Expires=253370764800&Signature=EABIgCjZPPa6DAYteKUwKVqSdi2I7NU1fKT94dAH6m670TEhOLIEM-4mmNpya7TEjEicAa9G5QLTZyLXLAH5FjH1dv4xdGSU0WSiL1lU7V0CLegnovzm7BfXoOUwTIaiUmd6S01MifQ41pn-lGACOImbIgN7n9IGHJ0YbE8X9tadwZz7MhDPDpLXhbnVfzy7F3QtxxvH7YrI0wczX6o4pfUid5xpjFyUYgkuyVkjAQm6o-LgoqUlbWzkgmAeFktGvaaa0RvHFx6JQx0aVSolLUra2N8c-o0fMgAcoHP6NLzQrWeFfIRPY7BiugwuXsO0VUK3QQa4awlL5VXQaX4IVA__&Key-Pair-Id=K3NV4LZ47N8M46)
      * In the left panel, select the **Questions** section.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760280981783-image.png?Expires=253370764800&Signature=o~U3dxVzhXSOd6mAOxLqDnf-nX-Cudx7EpFel2nSvdvp~K3a5n~9kScbhsKi-Zd02K7A6JEX1Fegj6NwOS5JDJV2H784V4TWoz~hyvEBdYZOXB7DUS07xLm6mZQ4dqLV5Kv4QpC~LhHBVo6vlxu6-yz53EFG20Uq5N6rVTN7QmgbzvZw6az2hhFURPGNS9EpL7ANssPFhRVvJrgHQxkX67fXVoVe1ds-GakPbH~-oklETnDlnEJnZbLUlcBZv7nuqu-kZYI2Xt-~rLivTD29ZjRvs8fP2y2L93l8D4-BYA~HFZCwx3nzqGAjYCA6z496Y2DkWmp8IC1Eimy5NUHmrQ__&Key-Pair-Id=K3NV4LZ47N8M46)
+       ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760280981783-image.png?Expires=253370764800&Signature=o~U3dxVzhXSOd6mAOxLqDnf-nX-Cudx7EpFel2nSvdvp~K3a5n~9kScbhsKi-Zd02K7A6JEX1Fegj6NwOS5JDJV2H784V4TWoz~hyvEBdYZOXB7DUS07xLm6mZQ4dqLV5Kv4QpC~LhHBVo6vlxu6-yz53EFG20Uq5N6rVTN7QmgbzvZw6az2hhFURPGNS9EpL7ANssPFhRVvJrgHQxkX67fXVoVe1ds-GakPbH~-oklETnDlnEJnZbLUlcBZv7nuqu-kZYI2Xt-~rLivTD29ZjRvs8fP2y2L93l8D4-BYA~HFZCwx3nzqGAjYCA6z496Y2DkWmp8IC1Eimy5NUHmrQ__&Key-Pair-Id=K3NV4LZ47N8M46)
   2. Use the search bar or filters to quickly find the questions.
 
      * **Search:** Enter a keyword in the search bar to find specific questions. You can enclose a search term in quotation marks ( " " ) to perform an exact match search. For example, “Questions".
@@ -101,7 +101,7 @@ To import questions from the Question Library:
 
        * **Show:**
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760282022367-image.png?Expires=253370764800&Signature=JBUc3iCh8f6HSXdoyf8D8xNZLhqaxwiMAXUMu6d5XvKvv02RXPsb5d4YdSm4EnVCxk~IwEUdiJXWqI38GnyfvCOesWJm95H~H-9fssQfj1CFYcE~DRIJ4gKOunkmOvY4AFOt8dPYajH6p-pdzbCVX~j8Ut2Yf09P~8KBM-i3bBj2GcoGf-UHXWgfgijiU9rjvx9iDd-alZ~0furycDnHMZDgwGThraFQ7przzu0Jn1NRPf82V0918cnRMNR84GTWnXeq9Ax2~HMJ51oXrlrjz8h1FfNtSgFMGM2wWMqQfqgtTcBj0mHkSQvGfc9h2DFNXdmIp~VSvmVQUTEqExzAtA__&Key-Pair-Id=K3NV4LZ47N8M46)
+         ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760282022367-image.png?Expires=253370764800&Signature=JBUc3iCh8f6HSXdoyf8D8xNZLhqaxwiMAXUMu6d5XvKvv02RXPsb5d4YdSm4EnVCxk~IwEUdiJXWqI38GnyfvCOesWJm95H~H-9fssQfj1CFYcE~DRIJ4gKOunkmOvY4AFOt8dPYajH6p-pdzbCVX~j8Ut2Yf09P~8KBM-i3bBj2GcoGf-UHXWgfgijiU9rjvx9iDd-alZ~0furycDnHMZDgwGThraFQ7przzu0Jn1NRPf82V0918cnRMNR84GTWnXeq9Ax2~HMJ51oXrlrjz8h1FfNtSgFMGM2wWMqQfqgtTcBj0mHkSQvGfc9h2DFNXdmIp~VSvmVQUTEqExzAtA__&Key-Pair-Id=K3NV4LZ47N8M46)
          * **HackerRank Library:** Displays questions from the HackerRank Library. 
 
          * **Recently Used:** Displays questions you recently used.
@@ -112,13 +112,13 @@ To import questions from the Question Library:
 
      * **Type:** Filter by question type. For example, Coding, Bug Fix, Database Engineer.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776586818515-image.png?Expires=253370764800&Signature=QOINg0qqFZ6UbP9UAOUxZE2tbpzpr61~vNlUGkiDZSMKgwy6eFX-7PBxKGIekS2Zq9g65TANoOhXVBG~Ep-J4vbNGOSDY2u8d-oLN~FH8H1RUHY1rRU63rdJBcLKwz5HxUYfSpxYZ3RWkrPdKq62o4WdzJXsk4kVebWsIFZVYUePWJ6odOSH184LIuSpz9lQB-GXSw3nRVSDLDyrkJAOrOWPSq0~zDg1TJLgyW00EgWhqXt3TS6XRyofcdgqQcG04a7dCHq5iancGdlMl58pKef6JmVXDlcGHSJw8AC70DleDA9ox1ZV6kA4EJ-lbhXTOOyuAIFLeAHO6mVqACoSmw__&Key-Pair-Id=K3NV4LZ47N8M46)
+       ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1776586818515-image.png?Expires=253370764800&Signature=QOINg0qqFZ6UbP9UAOUxZE2tbpzpr61~vNlUGkiDZSMKgwy6eFX-7PBxKGIekS2Zq9g65TANoOhXVBG~Ep-J4vbNGOSDY2u8d-oLN~FH8H1RUHY1rRU63rdJBcLKwz5HxUYfSpxYZ3RWkrPdKq62o4WdzJXsk4kVebWsIFZVYUePWJ6odOSH184LIuSpz9lQB-GXSw3nRVSDLDyrkJAOrOWPSq0~zDg1TJLgyW00EgWhqXt3TS6XRyofcdgqQcG04a7dCHq5iancGdlMl58pKef6JmVXDlcGHSJw8AC70DleDA9ox1ZV6kA4EJ-lbhXTOOyuAIFLeAHO6mVqACoSmw__&Key-Pair-Id=K3NV4LZ47N8M46)
      * **Skills:** Select **Skills** using checkboxes or search for specific skills, then click **Apply.**
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760281757783-image.png?Expires=253370764800&Signature=bX69s1C4h4ZD5hHmsAbjai8qDU~2qTWVQEIm4q4Tt9XcxpSuCZ3AMTcZqzVGz1DbcM8StysNiJnMXhPZz57DBDPZ54StKDaGsXJhj3Q0iIp62VI3xf1aELEAoOjTmBoFf2KjmulDcmeCfCFaP6OHuCbdd7nzBmTG1wMs0Z8ZeXKpU4CpctylU8O5UJJCaPwIk6mEhgolVxZT2e1NsOVDAtjELDLj99u8065QL2N2oYT-81r3iEM8F03T~etSPqI0LIKSBMWnEwUHdYyld0MdZ8fUHfbwsf2q16ZZ7HBX6VXd7-BGe6ApsMI8rpmcROYmORBIYgt10W87R3TvZcqupg__&Key-Pair-Id=K3NV4LZ47N8M46)
+       ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760281757783-image.png?Expires=253370764800&Signature=bX69s1C4h4ZD5hHmsAbjai8qDU~2qTWVQEIm4q4Tt9XcxpSuCZ3AMTcZqzVGz1DbcM8StysNiJnMXhPZz57DBDPZ54StKDaGsXJhj3Q0iIp62VI3xf1aELEAoOjTmBoFf2KjmulDcmeCfCFaP6OHuCbdd7nzBmTG1wMs0Z8ZeXKpU4CpctylU8O5UJJCaPwIk6mEhgolVxZT2e1NsOVDAtjELDLj99u8065QL2N2oYT-81r3iEM8F03T~etSPqI0LIKSBMWnEwUHdYyld0MdZ8fUHfbwsf2q16ZZ7HBX6VXd7-BGe6ApsMI8rpmcROYmORBIYgt10W87R3TvZcqupg__&Key-Pair-Id=K3NV4LZ47N8M46)
      * **Tags:** Select**Tags** using checkboxes or search for specific tags, then click**Apply**.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760281874450-image.png?Expires=253370764800&Signature=M38iXUzcMGpQhv8vkW~1IdGHvX2ap~XnSc3fCNYy6vgS~wmujxzddE7mK8mLRslaQHcanLGSih~p96ZayXXJgm8uD5B1RFfXB-7AG8juZ0Y5tsVr8RS7~e2tKsTdiZNm1Jy8OkAJZZ1kjXBfpzbgm6C23m0oTOgamnd0SypK5ccjTsCCGneLykjFBaFdOj7pJYBE0dXdG~Q7gbAfJbfmNf9u~A0Ea5j8hG3SYDkbdTczAONQXJ8p26lCfUv-3rp92CI5od95BuwBHF5Esh2l3GlBC2lZG~F0xEWIZZEk68v9pWV7GUQMOhsfhaChxeNwBO~reOJKm8Ccu49grjsQaA__&Key-Pair-Id=K3NV4LZ47N8M46)
+       ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760281874450-image.png?Expires=253370764800&Signature=M38iXUzcMGpQhv8vkW~1IdGHvX2ap~XnSc3fCNYy6vgS~wmujxzddE7mK8mLRslaQHcanLGSih~p96ZayXXJgm8uD5B1RFfXB-7AG8juZ0Y5tsVr8RS7~e2tKsTdiZNm1Jy8OkAJZZ1kjXBfpzbgm6C23m0oTOgamnd0SypK5ccjTsCCGneLykjFBaFdOj7pJYBE0dXdG~Q7gbAfJbfmNf9u~A0Ea5j8hG3SYDkbdTczAONQXJ8p26lCfUv-3rp92CI5od95BuwBHF5Esh2l3GlBC2lZG~F0xEWIZZEk68v9pWV7GUQMOhsfhaChxeNwBO~reOJKm8Ccu49grjsQaA__&Key-Pair-Id=K3NV4LZ47N8M46)
   3. Click**Use** for the question you want to add.
 
 :::note

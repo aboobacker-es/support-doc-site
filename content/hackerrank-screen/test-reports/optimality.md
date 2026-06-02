@@ -31,7 +31,7 @@ To set up Optimality Evaluation:
 
   3. For custom questions, add the following in the **Interview Guidelines** section:
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1753698716860-image.png?Expires=253370764800&Signature=b2jo9gDvG4YmqDYtIEwYX~nz3EBh-mSF9-vkqSzD8r7OBNOoAqblKkefclL~ZKDz8rK7WeR6c20~S3PEmlm-mPtD~OpObPXl9XUIW6q2wVl0JW4iChAKvEBUx6ZIutczP4CWDugYIi~Vlt8dVPR0M0MRc5LzQ~VNDhkUIi78yDMMZTNVhSMwniYTbnwxt03C2fHKPCSc2YP3dhEVPztzUJhrAipajs8dCNRfAMqcxI29wWszYeOyVwpTmpw3-GXzFGixXZ1r~bEMEcQ0P2nzUxzG8G~2sByGaev3fRwAupThyYeUUJXz9LAgEEYgmCt0zL~MtC-dqX~X0JhUdW-NFw__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1753698716860-image.png?Expires=253370764800&Signature=b2jo9gDvG4YmqDYtIEwYX~nz3EBh-mSF9-vkqSzD8r7OBNOoAqblKkefclL~ZKDz8rK7WeR6c20~S3PEmlm-mPtD~OpObPXl9XUIW6q2wVl0JW4iChAKvEBUx6ZIutczP4CWDugYIi~Vlt8dVPR0M0MRc5LzQ~VNDhkUIi78yDMMZTNVhSMwniYTbnwxt03C2fHKPCSc2YP3dhEVPztzUJhrAipajs8dCNRfAMqcxI29wWszYeOyVwpTmpw3-GXzFGixXZ1r~bEMEcQ0P2nzUxzG8G~2sByGaev3fRwAupThyYeUUJXz9LAgEEYgmCt0zL~MtC-dqX~X0JhUdW-NFw__&Key-Pair-Id=K3NV4LZ47N8M46)
      * **Time complexity:** insert expected complexity
 
      * **Space complexity:** insert expected complexity

@@ -42,19 +42,19 @@ Lever - HackerRank Interview integration is a two-step process that involves the
 
   1. Log in to **Lever,  **click on the **Settings** option.
 
-![lever_setting.jpg](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047105067-?Expires=253370764800&Signature=X1cCulKciFd2NS6vl5HzsqZUe60rpmT8MSYZ7SfPXYuhR6zlaLSZ9IVCL31zbIACCRRjoO~zNtb-VGMhLdSo8oo1Ii~usE9QiH4GY~ni3OZO9m7rRqlDolwHc8i3H2yNfDl9LRRFS8mfRY~7WY9lhQ6RXAdTzNZnXp0oKAbFLsHgn7HwOabAugugwIQ3Z6OI~hYNfSx9B67DQ6668nZiaigESoXDDpVBUOHMKPCclI60N2ABcy-yhquId2oCbzitDbZbKuzzshJDzwdek6VD7quodx~XUs0B5CwAl0smYSMf2b09Q6jdQV96-fOx5Ieao64MQr50nRUoCbxhBndQpg__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![lever_setting.jpg](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047105067-?Expires=253370764800&Signature=X1cCulKciFd2NS6vl5HzsqZUe60rpmT8MSYZ7SfPXYuhR6zlaLSZ9IVCL31zbIACCRRjoO~zNtb-VGMhLdSo8oo1Ii~usE9QiH4GY~ni3OZO9m7rRqlDolwHc8i3H2yNfDl9LRRFS8mfRY~7WY9lhQ6RXAdTzNZnXp0oKAbFLsHgn7HwOabAugugwIQ3Z6OI~hYNfSx9B67DQ6668nZiaigESoXDDpVBUOHMKPCclI60N2ABcy-yhquId2oCbzitDbZbKuzzshJDzwdek6VD7quodx~XUs0B5CwAl0smYSMf2b09Q6jdQV96-fOx5Ieao64MQr50nRUoCbxhBndQpg__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 _Lever Settings_
 
   2. Click on the**Integration and API  **option from the left pane.
 
-![Intergration_and_API.jpg](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047105476-?Expires=253370764800&Signature=nXe~UMYhxCM1SdA4MlImw3Xt3Y06AOYvoYE-9yJfJpxoHqGW7EAxoDkeolIv5nArcSt0i4TSod4tG0lkN-Z5hxfV-UbFmO5OGh6mgUFhgYlC7RXBDcAe0gWhJwBIpDD6hkLPKyUueIoPRDtjRyAXJVcAUGl73itmhMQQ2YyzkQZ~3amPmTtk255VPBG9yJ3yUslX~GZWve2fobwf-iElByO2pBoqv9HhmMfdasqS9-ZSeZExtbvttxPDlS4aXAHcbIsoNozJMQu10lx4feap8tbT-cyThMyGWG6kJGda6ZaOwYd0J-pP-MWy3tzJgLDNRCwRpZZ0leIJ78JFqIslBQ__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![Intergration_and_API.jpg](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047105476-?Expires=253370764800&Signature=nXe~UMYhxCM1SdA4MlImw3Xt3Y06AOYvoYE-9yJfJpxoHqGW7EAxoDkeolIv5nArcSt0i4TSod4tG0lkN-Z5hxfV-UbFmO5OGh6mgUFhgYlC7RXBDcAe0gWhJwBIpDD6hkLPKyUueIoPRDtjRyAXJVcAUGl73itmhMQQ2YyzkQZ~3amPmTtk255VPBG9yJ3yUslX~GZWve2fobwf-iElByO2pBoqv9HhmMfdasqS9-ZSeZExtbvttxPDlS4aXAHcbIsoNozJMQu10lx4feap8tbT-cyThMyGWG6kJGda6ZaOwYd0J-pP-MWy3tzJgLDNRCwRpZZ0leIJ78JFqIslBQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 _Integration and API tab in Lever_
 
   3. Click on the **Webhooks** tab to open the Webhook configurations page.
 
-![Webhooks.jpg](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047105949-?Expires=253370764800&Signature=mO-9cOVb7gs6T6lMOuycFRRrM1sFR8IYvZWkYxnWH2tW9ICzWiRcP7iq9jE2o61qgWLHkf4n0e1QBMYVo4YQbPAnU4kp0AJ2f5cz73F-HmAk5N0HxHPgXzV3jIGASHPlhv8gf6sRnR-jOOm0NwurKSuHvSz2ycwz6lI1GVkcgI00cgJrrOHxNmCbsXSda1sKlqgaYeLJVrvI1v6fP5VxXMUFZK783ecxzAhI2BvZm-0YFC24p-S-qta~zQIZKXyp8kCRH29nMPQmqX98HA0vXNUxdUXybhx5XZoOSYnkLTQp8F5goBa9~Xmq3jtW4QQA2GS7-r~P5W6eh1KT0HEX1Q__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![Webhooks.jpg](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047105949-?Expires=253370764800&Signature=mO-9cOVb7gs6T6lMOuycFRRrM1sFR8IYvZWkYxnWH2tW9ICzWiRcP7iq9jE2o61qgWLHkf4n0e1QBMYVo4YQbPAnU4kp0AJ2f5cz73F-HmAk5N0HxHPgXzV3jIGASHPlhv8gf6sRnR-jOOm0NwurKSuHvSz2ycwz6lI1GVkcgI00cgJrrOHxNmCbsXSda1sKlqgaYeLJVrvI1v6fP5VxXMUFZK783ecxzAhI2BvZm-0YFC24p-S-qta~zQIZKXyp8kCRH29nMPQmqX98HA0vXNUxdUXybhx5XZoOSYnkLTQp8F5goBa9~Xmq3jtW4QQA2GS7-r~P5W6eh1KT0HEX1Q__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 _Webhooks Configuration Page_
 
@@ -64,13 +64,13 @@ _Webhooks Configuration Page_
 
      * Click on the  '**\+ add webhook** ' option as shown below.
 
-![Options.jpg](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047106761-?Expires=253370764800&Signature=IIehfL1VyLv~6ORa7gAGhEsvep28JRmczxumUPJsGy~gmvWo7qXcJNh5-t5pWnqHF36NP7hOPa9J0reZgG2Ka9q-jfXqJSsuh9835KvjsMnzU6wJHU-oE-axJoe54yX2Ez1v9YMU8PTLSpmJgy1xpJ2t9Huy1wy61wyOACWvnoMG9o6J03VaCjSIfqYxy7XP3FgLbDMtHDU6-hLgApXjLXduU1dpCFguuzYrGjMf-sVNrUQRmTk-mep3WJ8pPKjm3A~qlxTKnz-NM0on0~903U~Lf3FTRUTtLj5-U3Hg5CtYkhMUg8sl9jTJ6BCIKPIR-OFl-B84MX7A5sNnxZVrzQ__&Key-Pair-Id=K3NV4LZ47N8M46)
+       ![Options.jpg](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047106761-?Expires=253370764800&Signature=IIehfL1VyLv~6ORa7gAGhEsvep28JRmczxumUPJsGy~gmvWo7qXcJNh5-t5pWnqHF36NP7hOPa9J0reZgG2Ka9q-jfXqJSsuh9835KvjsMnzU6wJHU-oE-axJoe54yX2Ez1v9YMU8PTLSpmJgy1xpJ2t9Huy1wy61wyOACWvnoMG9o6J03VaCjSIfqYxy7XP3FgLbDMtHDU6-hLgApXjLXduU1dpCFguuzYrGjMf-sVNrUQRmTk-mep3WJ8pPKjm3A~qlxTKnz-NM0on0~903U~Lf3FTRUTtLj5-U3Hg5CtYkhMUg8sl9jTJ6BCIKPIR-OFl-B84MX7A5sNnxZVrzQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 _Options for generating the Webhook URL_
 
   5. On either of the options (toggle switched on or '+' is clicked) a unique signing token is generated as shown below.
 
-![Signing_token.jpg](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047107160-?Expires=253370764800&Signature=c7tokvIm~lfZAxJLMS8qvhfNHaeJ6LemgwcOq~2UsB5nWQPFI2DOze-DVAT3a663H-IyiBGF3lA386gE9xun~atd8-FVGV80tVX5kvI7a2ztBA~UE6W6ypnn36yZmNd40dhRFIpv6yZgBQm88szrytmPbrjqW1c6e0ABWX8ExpGl1SBpxD1VRrbn9y-DwaWJgfOLCjAOWun46Zp7CzYV6O3pnCzgLOO2NBivwP4pyFP7KimIoQ1~mduQqPgKPQcupusz~Bq0WP3GxcjealLwxhhh1dTvK5ADUfXxbXT1ZDffFwONlDPxh7ZcSjvs3wMgfsLomSMOeUYvkAnScPSIgA__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![Signing_token.jpg](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047107160-?Expires=253370764800&Signature=c7tokvIm~lfZAxJLMS8qvhfNHaeJ6LemgwcOq~2UsB5nWQPFI2DOze-DVAT3a663H-IyiBGF3lA386gE9xun~atd8-FVGV80tVX5kvI7a2ztBA~UE6W6ypnn36yZmNd40dhRFIpv6yZgBQm88szrytmPbrjqW1c6e0ABWX8ExpGl1SBpxD1VRrbn9y-DwaWJgfOLCjAOWun46Zp7CzYV6O3pnCzgLOO2NBivwP4pyFP7KimIoQ1~mduQqPgKPQcupusz~Bq0WP3GxcjealLwxhhh1dTvK5ADUfXxbXT1ZDffFwONlDPxh7ZcSjvs3wMgfsLomSMOeUYvkAnScPSIgA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 _Unique Signing token generation_
 
@@ -78,7 +78,7 @@ _Unique Signing token generation_
 
   7. Click on the **Partner Integrations** tab.
 
-![Partner_integration_.jpg](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047107604-?Expires=253370764800&Signature=iCTZU9i8yCvcRD8hXiky42cSWRfpmSAShHOhIyEcjtczK09DYPneqviy-CHHGXNxuuS1MfEBDlXOAwWc02CXycT~mTmdKZ8oM7c42FXE65hmTwtxU0xgwek6ELWgqkNvN8dSeZz551sT0yIex8Aepbs2ftrMKTYoshf2TqHCAqvJ7DLS80W7K-BNQeY27WMHCGSgu99qmH6-a3whrT3Tc4xCJpCMCP6tMd~GVXnAvcZ2IWcB7fYGJGHQUzWPVUB5Yhv9ivsaFBHl8O-cT0nqDo~ZTZ9yHzpMhXngf0ZkwmECo~9TjSTzUmcLkqm64Uml2O0Bz8SzKjqBFe60cEx6qQ__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![Partner_integration_.jpg](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047107604-?Expires=253370764800&Signature=iCTZU9i8yCvcRD8hXiky42cSWRfpmSAShHOhIyEcjtczK09DYPneqviy-CHHGXNxuuS1MfEBDlXOAwWc02CXycT~mTmdKZ8oM7c42FXE65hmTwtxU0xgwek6ELWgqkNvN8dSeZz551sT0yIex8Aepbs2ftrMKTYoshf2TqHCAqvJ7DLS80W7K-BNQeY27WMHCGSgu99qmH6-a3whrT3Tc4xCJpCMCP6tMd~GVXnAvcZ2IWcB7fYGJGHQUzWPVUB5Yhv9ivsaFBHl8O-cT0nqDo~ZTZ9yHzpMhXngf0ZkwmECo~9TjSTzUmcLkqm64Uml2O0Bz8SzKjqBFe60cEx6qQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 _This page provides settings to enable integration with HackerRank_
 
@@ -93,7 +93,7 @@ _Enabling Lever's integration with HackerRank Interview_
 
   9. After checking on the connection status of HackerRank Tests, scroll up to the top of the page and access the **API Credentials Tab  **(At the top of the screen)
 
-![Lever_API_Credentials.jpg](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047108464-?Expires=253370764800&Signature=TKWkLn0nA7vmmr27ybv02ciuUQ86HP18ObZgnW8fv-MHoNpkzwnIx2XVb6-mSNmtELocCyodQYYsDUpsNhMNPe2nuJNI4iQ2vwrM3fBYwU9FRUwxfkJKM6L7wEm-2hnkKt~7DnZFxk7O-QeXuwkdg9-KEQoLpOiSe1v6A3WpNhKp7C07GHEJlS0TzngzlKyB9NsRKxruG0g-ILYPDuwynRfWW5TmdGXIfYrGIRrPpwMYbsF6FINkbXXPfLkToyE-5qBOgqPSJDB7pQute1qEaY8rpgJUZchZTKix64y4IcgrZXiVJ5XjCsTz63xHVdkMAvpB-m6fHHJicSDXpY71tg__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![Lever_API_Credentials.jpg](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047108464-?Expires=253370764800&Signature=TKWkLn0nA7vmmr27ybv02ciuUQ86HP18ObZgnW8fv-MHoNpkzwnIx2XVb6-mSNmtELocCyodQYYsDUpsNhMNPe2nuJNI4iQ2vwrM3fBYwU9FRUwxfkJKM6L7wEm-2hnkKt~7DnZFxk7O-QeXuwkdg9-KEQoLpOiSe1v6A3WpNhKp7C07GHEJlS0TzngzlKyB9NsRKxruG0g-ILYPDuwynRfWW5TmdGXIfYrGIRrPpwMYbsF6FINkbXXPfLkToyE-5qBOgqPSJDB7pQute1qEaY8rpgJUZchZTKix64y4IcgrZXiVJ5XjCsTz63xHVdkMAvpB-m6fHHJicSDXpY71tg__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 _API Credentials Tab within Lever_
 
@@ -109,7 +109,7 @@ _API Credentials Tab within Lever_
 
            * Scroll down past the **Read endpoints** section (as seen below) to access the **Write endpoints** section.
 
-![Read_Endpoints.jpg](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047108940-?Expires=253370764800&Signature=Ly13NiLCAyR89rpvJMZyLb-TyJk8DA1LuHN24SpfPvF37AqaNxSFgw6WsT~Smk7R0zHxZtgn7LI7XIMHW3r1dJ7bBMf0ykfK~FLbfnyBLHQhefxqeuMe3pyGLK2KlHvxR1q6mlYW5VLOtTO3COdxtN76nYv91Uyh8buQDX29qvf4wxk-IY~H2OKjJX7H4o28hllHLHdOw09RJVbrryVaKVfi2RHl032kV3rjKdJWd-nGQorFNli7gx9cQ2IkeMhTvfsgEuRNbz74Lpfmtg5XklrmdfPQT~BwT33q7pgofnfqxmkmj1-3MPo15TsS22yOOKc-yjDeFqdNpK4TPegQyw__&Key-Pair-Id=K3NV4LZ47N8M46)
+             ![Read_Endpoints.jpg](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047108940-?Expires=253370764800&Signature=Ly13NiLCAyR89rpvJMZyLb-TyJk8DA1LuHN24SpfPvF37AqaNxSFgw6WsT~Smk7R0zHxZtgn7LI7XIMHW3r1dJ7bBMf0ykfK~FLbfnyBLHQhefxqeuMe3pyGLK2KlHvxR1q6mlYW5VLOtTO3COdxtN76nYv91Uyh8buQDX29qvf4wxk-IY~H2OKjJX7H4o28hllHLHdOw09RJVbrryVaKVfi2RHl032kV3rjKdJWd-nGQorFNli7gx9cQ2IkeMhTvfsgEuRNbz74Lpfmtg5XklrmdfPQT~BwT33q7pgofnfqxmkmj1-3MPo15TsS22yOOKc-yjDeFqdNpK4TPegQyw__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 _Read endpoints within Lever API credentials_
 
@@ -119,25 +119,25 @@ _Read endpoints within Lever API credentials_
 
   2. On the home page, click the arrow next to the user icon on the top right corner of the page, and select the **Settings  **option.
 
-![HR_settings_Lever.jpg](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047109348-?Expires=253370764800&Signature=pNz1s8oGgdSW1jY-Q2FEcE2uUX1u0jbsS3C4xGwNBt2Lf2f9DpSE2fgGeTMnckcle-N~LdPEG3PtytO4ndp--MHGTNp4FlHwJhh9oAxJV9FDbEfjBVfTp1l6-4QpDpanzriqbHoXrFLhNRvdvvFTVvkPxgyqgvOBUhVGi-WowD3WZspzFNYfs7VNUao-PH3R-gl7E6gvXYc3wMTq2ro7keEXgfoVUUwjhwg2iev~HPP2rlkdOj~bjEEWofJymPTIaZ4LaDrBmdhrFDU-CkLtLh1ZOb4O7XOG6xpNn8tLb8gOky23EptcrFRusVP55UsIHvilQSbmhLj-ytnesJcgdg__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![HR_settings_Lever.jpg](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047109348-?Expires=253370764800&Signature=pNz1s8oGgdSW1jY-Q2FEcE2uUX1u0jbsS3C4xGwNBt2Lf2f9DpSE2fgGeTMnckcle-N~LdPEG3PtytO4ndp--MHGTNp4FlHwJhh9oAxJV9FDbEfjBVfTp1l6-4QpDpanzriqbHoXrFLhNRvdvvFTVvkPxgyqgvOBUhVGi-WowD3WZspzFNYfs7VNUao-PH3R-gl7E6gvXYc3wMTq2ro7keEXgfoVUUwjhwg2iev~HPP2rlkdOj~bjEEWofJymPTIaZ4LaDrBmdhrFDU-CkLtLh1ZOb4O7XOG6xpNn8tLb8gOky23EptcrFRusVP55UsIHvilQSbmhLj-ytnesJcgdg__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 _Accessing the settings page in HackerRank for Work_
 
   3. Click on the **ATS Integration** option, and navigate to the Lever integration area.
 
-![Lever_Configure.jpg](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047109701-?Expires=253370764800&Signature=F3F33iXGiIU0FFTbM6hOAmj2B2rvWMpB6RWxa6AjX8eR~w3YYJzH8p55SfCgsHUf1dooETDycTExVmm9FXMJoeUJvquD0IHPHLS7vo8Fsm2s-EKkzz0l1p0FfSPYDfIm4N1LAtYGKVUEldxwCOlhGYaMGmBuLrRoVFwpG3fa91EHXsVA1ra6Sn3MGg4axuxjfQYpSkSvdOLlENTOntI7oCYKNAewO1GF~6tPVbWyDWU7bF8gjDecmy7jBHpRqtVSzi4WFYvRKOf~FUAD8H5Gj6CatrQ59uv0IqP29OWz3yTd8yu9ZsI332mSxzDIs4Y6zUDQBD3ydEQ4F6XLVovgpg__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![Lever_Configure.jpg](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047109701-?Expires=253370764800&Signature=F3F33iXGiIU0FFTbM6hOAmj2B2rvWMpB6RWxa6AjX8eR~w3YYJzH8p55SfCgsHUf1dooETDycTExVmm9FXMJoeUJvquD0IHPHLS7vo8Fsm2s-EKkzz0l1p0FfSPYDfIm4N1LAtYGKVUEldxwCOlhGYaMGmBuLrRoVFwpG3fa91EHXsVA1ra6Sn3MGg4axuxjfQYpSkSvdOLlENTOntI7oCYKNAewO1GF~6tPVbWyDWU7bF8gjDecmy7jBHpRqtVSzi4WFYvRKOf~FUAD8H5Gj6CatrQ59uv0IqP29OWz3yTd8yu9ZsI332mSxzDIs4Y6zUDQBD3ydEQ4F6XLVovgpg__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 _Lever Configuration_
 
   4. In the respective fields, add the **Lever API Key** and **Lever Webhook signing token** , as shown below.
 
-![image5.jpg](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047110153-?Expires=253370764800&Signature=cavBAec2nkUwJzjaporqaOSqu6cORqpp9Lrwg7KnF7Lkn2KAKMtQse6LKXPbKg3uJ-D8kQEGEAMCSwv0PLQslSDTRSgsAjlVfv9BgyNr8HPcLoUJ2vYirfONwRkXPA0uc6bDmuRxFZpEd-ofxBjY2EHFw7yFCG8C488LNHHRRBm8eYOQawmSJJ9nod9CdmPpDBXhZTvqOXiP1HYs9A3MGilbJERFcYVFyTFLJfFfGW1oB-RF496q2hE8AEGKdQYuNtniOLbHHJaGB5LTEclN7-~mjBPiDByCiwDjh~YwfLjX4n~vzhEsgJXvFDbZUZtrnzkBCfF4FM2hV5vdWw1UhQ__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image5.jpg](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047110153-?Expires=253370764800&Signature=cavBAec2nkUwJzjaporqaOSqu6cORqpp9Lrwg7KnF7Lkn2KAKMtQse6LKXPbKg3uJ-D8kQEGEAMCSwv0PLQslSDTRSgsAjlVfv9BgyNr8HPcLoUJ2vYirfONwRkXPA0uc6bDmuRxFZpEd-ofxBjY2EHFw7yFCG8C488LNHHRRBm8eYOQawmSJJ9nod9CdmPpDBXhZTvqOXiP1HYs9A3MGilbJERFcYVFyTFLJfFfGW1oB-RF496q2hE8AEGKdQYuNtniOLbHHJaGB5LTEclN7-~mjBPiDByCiwDjh~YwfLjX4n~vzhEsgJXvFDbZUZtrnzkBCfF4FM2hV5vdWw1UhQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 _The HackerRank settings page with Lever integration fields_
 
   5. HackerRank creates the Webhook URL. Copy this URL. The integration completes when you add this URL to Lever.
 
-![image2.jpg](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047110449-?Expires=253370764800&Signature=FYhxIn1qzS9jIpvboTJa6TcXDMtaO8WRxwFYLPmORmqqKxf-fzuoUSZFMKGpBafzDwKJGgaG98AQZxWC3XlQ~R5D5HL0l77bxsMi2NGUALRGokLsOCJNMBH51pIxkGT3c3deKybQ5EeH0-ClU15C5hc4gxI71AHxVqhwNCB6iquruHtTQBkOUoJDJrgtE8Ok8ZKkQTzZ3zz3JfJIWahkLp7uHr8DaUirdRnWdVDLsZF93du9cZgANjRqY5mXi9V5nfTljuBjZRdf-JcZpqpPUC32ATj5WWnA9MR0zQQUhMpfYiuQE4MbiMI6PsHbmcmNL18Hf6HcpsTQrSuoU5di8Q__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image2.jpg](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047110449-?Expires=253370764800&Signature=FYhxIn1qzS9jIpvboTJa6TcXDMtaO8WRxwFYLPmORmqqKxf-fzuoUSZFMKGpBafzDwKJGgaG98AQZxWC3XlQ~R5D5HL0l77bxsMi2NGUALRGokLsOCJNMBH51pIxkGT3c3deKybQ5EeH0-ClU15C5hc4gxI71AHxVqhwNCB6iquruHtTQBkOUoJDJrgtE8Ok8ZKkQTzZ3zz3JfJIWahkLp7uHr8DaUirdRnWdVDLsZF93du9cZgANjRqY5mXi9V5nfTljuBjZRdf-JcZpqpPUC32ATj5WWnA9MR0zQQUhMpfYiuQE4MbiMI6PsHbmcmNL18Hf6HcpsTQrSuoU5di8Q__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 _The Webhook URL from the HackerRank settings page_
 
@@ -145,13 +145,13 @@ _The Webhook URL from the HackerRank settings page_
 
   7. Click on the **Webhooks** tab, and under the **Webhook Configuration** , turn on the **Candidate Stage Change** event. In Lever, this is the event trigger that sends an interview link request to interview.
 
-![Candidate_stage.jpg](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047110855-?Expires=253370764800&Signature=Aam5SdlhVtfkuYX5CoidBeMmU0pw6U9pKcd6CBlR1l5ac86Kx~HQylIBuU2u47rv~ARqUYV7jDziQ6F-ycINdrPsq2FOs4cdtCCT9O6Thsmj~qMXTqVMEYdopD1shM~ZpfDDFiorjOSOuWtMePZPMXC4kjHYl4KJ3~5dgLrEb990MkcVZ1dDpAG8Wgdoo0YwGSh0MyC97wKEgYUyTgoqFiTQBV7p6PlPqOcBwXE1Y9ctw1kizlUu~2xVLUDhhcDy7cr85FqNlPOMhxLFmslFxY~EnR37TqbJ1stczud~klXXh2ObrEb2JIT9hoXA4l59HXbB~NbPuEZOkXRKYvucrw__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![Candidate_stage.jpg](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047110855-?Expires=253370764800&Signature=Aam5SdlhVtfkuYX5CoidBeMmU0pw6U9pKcd6CBlR1l5ac86Kx~HQylIBuU2u47rv~ARqUYV7jDziQ6F-ycINdrPsq2FOs4cdtCCT9O6Thsmj~qMXTqVMEYdopD1shM~ZpfDDFiorjOSOuWtMePZPMXC4kjHYl4KJ3~5dgLrEb990MkcVZ1dDpAG8Wgdoo0YwGSh0MyC97wKEgYUyTgoqFiTQBV7p6PlPqOcBwXE1Y9ctw1kizlUu~2xVLUDhhcDy7cr85FqNlPOMhxLFmslFxY~EnR37TqbJ1stczud~klXXh2ObrEb2JIT9hoXA4l59HXbB~NbPuEZOkXRKYvucrw__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 _The 'Candidate Stage Change' event trigger sends a request to interview_
 
   8. Click on the **Add Webhook** option for the **Candidate Stage Change** event, and add the Webhook URL obtained from HackerRank.
 
-![add_webhook.jpg](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047111289-?Expires=253370764800&Signature=GCktrvSxTNc7UxQ0vFtA8ycWRrcDX0Sn1078ev4zyNS70sGqfugVSkjbZF3f8DvegD-W1-QiH394YCvmeq7q3pkXATfw5icaXwMM~QmTCB-gSMkO9yv~zH36x~g2ZBC6lbKabSVGs1MqQS-osg-yRDhvpF5I5~UKpC6WXFIAbPHFBmEtclMdmu9ohyzUbnCIkVQtV7mm9YGCJJiUU61ePtRhLbuSqZvYqbB24RGfYDw~kdUjvAy1caZAC~YQYCDG8enwXAGTCp7mrDKKUvLYuRQZdmc2IwQNyrxgYW-33vIhgA2Zz-6KgEQ7sCaXHRrQyDaYy4CF8MzOW5L5~Y4CnA__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![add_webhook.jpg](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734047111289-?Expires=253370764800&Signature=GCktrvSxTNc7UxQ0vFtA8ycWRrcDX0Sn1078ev4zyNS70sGqfugVSkjbZF3f8DvegD-W1-QiH394YCvmeq7q3pkXATfw5icaXwMM~QmTCB-gSMkO9yv~zH36x~g2ZBC6lbKabSVGs1MqQS-osg-yRDhvpF5I5~UKpC6WXFIAbPHFBmEtclMdmu9ohyzUbnCIkVQtV7mm9YGCJJiUU61ePtRhLbuSqZvYqbB24RGfYDw~kdUjvAy1caZAC~YQYCDG8enwXAGTCp7mrDKKUvLYuRQZdmc2IwQNyrxgYW-33vIhgA2Zz-6KgEQ7sCaXHRrQyDaYy4CF8MzOW5L5~Y4CnA__&Key-Pair-Id=K3NV4LZ47N8M46)
   9. Click on the **Verify Connection** button. When the URL is verified, you will see a checkmark displayed. You can include or remove the 'https://' from the HackerRank URL.
 
   10. ![url.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1735338969593-url.png-ad91ab99-fe48-45de-a1c9-8da8cc9e3b02?Expires=253370764800&Signature=HEVwXDG~yEGSg1u9pIBykMC-D7JoR-btxiN4SsouIM81rqHmOxp4aMKXbYZ~1YA-iwNaqLX9jfbke7CLP03YuaPRY60f5rmCtDlSdfz0wfA7sdYZPoRYYmNJSTeQWNKT8DL1X4wUnfuysWJ8tc2zLBFxOAOeJNGqTZswGnf4LX7Jc~yr77zMhiu~5P14K6SQl1lAvfkQ9iWuCXYNlg2c8frBNNb8PkMGCRfI72IhRli-xUxlY407d5HeafHBPpWUt~srQwDpHsa3vKZiUXo1o82E5PzQYUjYwhC0J5z3DZf9hnOBkz9juxvyJvAXv81wnZGJpzGJc2oHGDvSvS5HNw__&Key-Pair-Id=K3NV4LZ47N8M46)

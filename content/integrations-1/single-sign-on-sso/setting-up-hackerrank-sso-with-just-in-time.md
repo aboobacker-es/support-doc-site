@@ -55,7 +55,7 @@ To enable JIT provisioning:
 
   3. In the **Just-in-Time provisioning** section, enter the email domain(s) that should be routed through SSO. For example, [hackerrank.com](<http://hackerrank.com>).
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1749119636434-image.png?Expires=253370764800&Signature=VgIERAE~IkI4n1KxOxO~nbqRC6MZ-m0cOXZRi46k1ESb-RzXAaJjBmzGoQ-h-CLQn9PgLt5ofAqXXk3fnBDp1FjxeuPQO6~F-d23fYCQHtKQVIvBBG7L6ETLNjXF6rnn5gxPJ-WGhmpHnIwU0l7B9PrXnjXbVJxyFTaUldBEe5~VC81haR-rRQ7bKq0uAFGl~yQaoOCDa~53~gNW-iRft~7zl6lICuN8HXFbRX5OodAjGeGaCNhW-G31J5CgzUmP4~suDfzoqTSc9FBwGeCDDj6YDFnih7YdlxNkzSZLDZ16hMXBGgnCY8qIPKRVb7U0cqfoaY-aIfmanwUVfKT8YA__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1749119636434-image.png?Expires=253370764800&Signature=VgIERAE~IkI4n1KxOxO~nbqRC6MZ-m0cOXZRi46k1ESb-RzXAaJjBmzGoQ-h-CLQn9PgLt5ofAqXXk3fnBDp1FjxeuPQO6~F-d23fYCQHtKQVIvBBG7L6ETLNjXF6rnn5gxPJ-WGhmpHnIwU0l7B9PrXnjXbVJxyFTaUldBEe5~VC81haR-rRQ7bKq0uAFGl~yQaoOCDa~53~gNW-iRft~7zl6lICuN8HXFbRX5OodAjGeGaCNhW-G31J5CgzUmP4~suDfzoqTSc9FBwGeCDDj6YDFnih7YdlxNkzSZLDZ16hMXBGgnCY8qIPKRVb7U0cqfoaY-aIfmanwUVfKT8YA__&Key-Pair-Id=K3NV4LZ47N8M46)
   4. Select a default **role** and **team** (optional) for new users.
 
   5. Click**Save & Enable**

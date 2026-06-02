@@ -25,7 +25,7 @@ Create questions faster than ever with our reinvented workflow designed to help 
 
   * Ability to upload questions in bulk with images using Excel sheets and seamlessly edit them before publishing.
 
-![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046116303-?Expires=253370764800&Signature=otC3fPtECzxXqqMovN9ugfDVdAe7NOPWVFXnZZgjYzm3c4VqP5XlZdJCSTE9T3t-S8S9H2dCqXNrtxFYA8bg-XQXESYd~l8b7wgpP5HGa9UALd4FcMJ1Z2ek6AFqsTCsbDDsJNrsCxxQjxT5bFauSXM-TEmwH~sKDgX1jF2UHIRDnw9GF93SAY6GgJh7t79-wQAK7r4OPN6UlvXJy0y1ZRILW058Akzyryj0RML0xLQdi~4zQ19owk1rk3bLTkTA60rAPxOjl5cTnQN0LwAaCvkx0wEFTYQxWjdPnYAF6miZ7XAz7cPJOqc9o6lt9RNEV8wyE3rjzJWryETaMvg4kw__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046116303-?Expires=253370764800&Signature=otC3fPtECzxXqqMovN9ugfDVdAe7NOPWVFXnZZgjYzm3c4VqP5XlZdJCSTE9T3t-S8S9H2dCqXNrtxFYA8bg-XQXESYd~l8b7wgpP5HGa9UALd4FcMJ1Z2ek6AFqsTCsbDDsJNrsCxxQjxT5bFauSXM-TEmwH~sKDgX1jF2UHIRDnw9GF93SAY6GgJh7t79-wQAK7r4OPN6UlvXJy0y1ZRILW058Akzyryj0RML0xLQdi~4zQ19owk1rk3bLTkTA60rAPxOjl5cTnQN0LwAaCvkx0wEFTYQxWjdPnYAF6miZ7XAz7cPJOqc9o6lt9RNEV8wyE3rjzJWryETaMvg4kw__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 Visit [Creating Custom Questions](<https://support.hackerrank.com/collections/6791011056-creating-custom-questions>)[ ](<https://support.hackerrank.com/hc/en-us/sections/19063128425491-Creating-Custom-Questions>)section to learn more.
 
@@ -41,7 +41,7 @@ Key highlights:
 
   * Configure scoring and IDE settings with ease from an intuitive interface
 
-![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046116710-?Expires=253370764800&Signature=TDhW7XyaexzUfRwhXWnlJEQrDu76Aeg2QXUQ0RU3Vm7nfrAEXl5Rbnuebruys37jVstp9RR4kKP5qAFHrbj9UJmJYClkG7AuvLei3HQUiNsZGZ4HzJC8scCJ4cRnsI~MAVjtk2dakByT0FMHiwIWkVGdEjgRquR5bEd1NLCcqA4O3vj1gBpp0pchK2x8BjWRLOeIz8drZrC5svYSk0IZ9m8jmi4oDCrxKF7I1k4UWeX4iUSMBpb-k8ofnn5B9gd6Z5V~HS3NRwInPbb04SfSaDi57I840UUIfJZqzcdSaTDP6AvevT4cUJFzHeE40oHvV1aptzQzYzONfPO7HNxG5Q__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046116710-?Expires=253370764800&Signature=TDhW7XyaexzUfRwhXWnlJEQrDu76Aeg2QXUQ0RU3Vm7nfrAEXl5Rbnuebruys37jVstp9RR4kKP5qAFHrbj9UJmJYClkG7AuvLei3HQUiNsZGZ4HzJC8scCJ4cRnsI~MAVjtk2dakByT0FMHiwIWkVGdEjgRquR5bEd1NLCcqA4O3vj1gBpp0pchK2x8BjWRLOeIz8drZrC5svYSk0IZ9m8jmi4oDCrxKF7I1k4UWeX4iUSMBpb-k8ofnn5B9gd6Z5V~HS3NRwInPbb04SfSaDi57I840UUIfJZqzcdSaTDP6AvevT4cUJFzHeE40oHvV1aptzQzYzONfPO7HNxG5Q__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 Visit[📄 Creating Front-end, Back-end Full stack and Mobile Questions](</docs/3147b674-5cbb-4bde-9528-7699bb64b1a7/articles/908ad923-0654-46e7-a50c-e6c53b3146fd>)[ ](<https://support.hackerrank.com/hc/en-us/articles/115005461568-Creating-Front-end-Back-end-Full-stack-and-Mobile-Questions>)article to learn more.
 
@@ -63,7 +63,7 @@ Key highlights:
 
   * Reduce question leaks during large campus drives and events
 
-![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046118206-?Expires=253370764800&Signature=T4gkvCYqNTbwPnGgrrnnNvbXvfjIKVMikqhsiqhVRAkguUpRUqY7ns1kVBDdGxivUxz3H5pFurRt7kKPs-HwUo2fDnXiocHRcJX7CqwvvHFdgnyk6pyNPkD~vE9FWOCiChGMN3qSK-~BX-M4VoVvjen5iMhytFCtUfjGS10LtcE-P0LfEEIo6DJBYf7wJ97HC011VL9cPxF24Xy-hw41xUtRebPXtE6RD5FxC~hoDItiQlwcInqF-nZ7RHfc6LeszTlHv~iZycF5AIsa7m-JxZba24cnkzaxjn1~zp~ZHXIYdXzHtOEXgHIUkd0fQjaxPMwSwtg-F0rkYko9~OEt5Q__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046118206-?Expires=253370764800&Signature=T4gkvCYqNTbwPnGgrrnnNvbXvfjIKVMikqhsiqhVRAkguUpRUqY7ns1kVBDdGxivUxz3H5pFurRt7kKPs-HwUo2fDnXiocHRcJX7CqwvvHFdgnyk6pyNPkD~vE9FWOCiChGMN3qSK-~BX-M4VoVvjen5iMhytFCtUfjGS10LtcE-P0LfEEIo6DJBYf7wJ97HC011VL9cPxF24Xy-hw41xUtRebPXtE6RD5FxC~hoDItiQlwcInqF-nZ7RHfc6LeszTlHv~iZycF5AIsa7m-JxZba24cnkzaxjn1~zp~ZHXIYdXzHtOEXgHIUkd0fQjaxPMwSwtg-F0rkYko9~OEt5Q__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 Visit[📄 Watermarking the Tests](</docs/3147b674-5cbb-4bde-9528-7699bb64b1a7/articles/8bf21aa5-3280-4b32-9a9a-9e6771fc7b38>)article to learn more.
 
@@ -77,7 +77,7 @@ Key highlights:
 
   * Access additional signals around candidate behavior and potential plagiarism
 
-![Multiple Monitor Detection.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046118805-?Expires=253370764800&Signature=dtZ6QjpDhMLZ9lOqjm3L0AzE~IOpf0Kq4YnaHzQIqQxXxcw47Oj4TAq4QhqgM9EcPNvo~Jkb7gvuExII-SLJGW2-u4LgNw2Pt560k0YajxnnfBeWLylfsemUCS13XRESa3YsMO2P8Uy6nWKUfNn0y2M2BdhWrGToX6PL2A3tuHTWagL5AaAiBjTMSZAUQEFB6i4TRH2~bDKsLXJ22bIMtD~zA7ftYDWIo1AMa1DxWCftbjOc3eL2I12rf1lO3VWpdAhIllr8~JbLOT~~uT95wgAaTXnoq3FHVc97bMhit97w52~mUiK83WbSVAVxRFpSz2pTkGaxKx8ogsxb4OeHfA__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![Multiple Monitor Detection.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046118805-?Expires=253370764800&Signature=dtZ6QjpDhMLZ9lOqjm3L0AzE~IOpf0Kq4YnaHzQIqQxXxcw47Oj4TAq4QhqgM9EcPNvo~Jkb7gvuExII-SLJGW2-u4LgNw2Pt560k0YajxnnfBeWLylfsemUCS13XRESa3YsMO2P8Uy6nWKUfNn0y2M2BdhWrGToX6PL2A3tuHTWagL5AaAiBjTMSZAUQEFB6i4TRH2~bDKsLXJ22bIMtD~zA7ftYDWIo1AMa1DxWCftbjOc3eL2I12rf1lO3VWpdAhIllr8~JbLOT~~uT95wgAaTXnoq3FHVc97bMhit97w52~mUiK83WbSVAVxRFpSz2pTkGaxKx8ogsxb4OeHfA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 Visit[📄 Multiple Monitor Detection](</docs/3147b674-5cbb-4bde-9528-7699bb64b1a7/articles/762413ce-d51c-4d62-b522-59dc8c1fac8c>)article to learn more.
 
@@ -97,7 +97,7 @@ Key highlights:
 
   * Details reasons for flagged images
 
-![image_analysis_snagit.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046119510-?Expires=253370764800&Signature=DLvD3-CtuG1nIRL-m2Ub0XIsgnkQksWgoqdys~PzfQSlyuia84WJ75fXTbVUhMfXon8HvSiYZUKd~3RWYxJWEzI6dHQbV3-SyKfl89sF3oHCag5eLiqGXL-6veYVYh7E59r2r1UfMcBDSJ0nx8Dr-Zow30CmC8mJNCTXQOPbjXCdd8kL6r5YyH5TPVhr95oQcshvq-dCHAIjRU2iKukDZ00evI0t-RqkNA6Nx-mBNxCRtFQVe5fm3I6n2tQwaHVEDcoj5KF7eZUqYSBui5Tei8W~bNAz8M2p1BCGKzvVAksBRVybBpynK52OzM0guo7d88UkSx1Km-zTm85mbPovjg__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![image_analysis_snagit.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046119510-?Expires=253370764800&Signature=DLvD3-CtuG1nIRL-m2Ub0XIsgnkQksWgoqdys~PzfQSlyuia84WJ75fXTbVUhMfXon8HvSiYZUKd~3RWYxJWEzI6dHQbV3-SyKfl89sF3oHCag5eLiqGXL-6veYVYh7E59r2r1UfMcBDSJ0nx8Dr-Zow30CmC8mJNCTXQOPbjXCdd8kL6r5YyH5TPVhr95oQcshvq-dCHAIjRU2iKukDZ00evI0t-RqkNA6Nx-mBNxCRtFQVe5fm3I6n2tQwaHVEDcoj5KF7eZUqYSBui5Tei8W~bNAz8M2p1BCGKzvVAksBRVybBpynK52OzM0guo7d88UkSx1Km-zTm85mbPovjg__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 Visit [Detect Suspicious Activity Using Image Analysis](<https://support.hackerrank.com/articles/7825915809-impersonation-detection#image-analysis-41>)[ ](<https://support.hackerrank.com/hc/en-us/articles/17971376196627-Detect-Suspicious-Activity-Using-Image-Analysis>)article to learn more.
 
@@ -113,7 +113,7 @@ Tabs that are locked by interviewers will now be hidden from candidates. This en
 
   * The interview tab is not visible to the candidate when the interviewer is exploring the library and still choosing the task
 
-![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046119884-?Expires=253370764800&Signature=LvMpn-gdCeF5qRsYJQdUoGi6JnXHw2zZi~bZz-hhwo59CMzrAS0bxSfEgLDhK-VawNFDrdwlQMN3s51x8ZapUwjOkbBF6yXKjfycacp3oGJ7uJ30ngqRLQThBu2iZIBGbtSIyPsCvMz9o3h3hONho6d32Wd9ARrhSj6Zdm6BfZiqHttEKrasS051-YI5KKaSvxc9ADvvwylIgvGU8h6BxLlLWc9b9xyoN19BxCkghVEiJNQr2uheHAae6e5-ks6hQRZvLzqC3fC7O8v6XEtnE2OpHMY-~yanMAJhHQzG2ZBBelHrSKTAUX2ivU0jzuLEbXQRhowNNERidOf53zFmxA__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046119884-?Expires=253370764800&Signature=LvMpn-gdCeF5qRsYJQdUoGi6JnXHw2zZi~bZz-hhwo59CMzrAS0bxSfEgLDhK-VawNFDrdwlQMN3s51x8ZapUwjOkbBF6yXKjfycacp3oGJ7uJ30ngqRLQThBu2iZIBGbtSIyPsCvMz9o3h3hONho6d32Wd9ARrhSj6Zdm6BfZiqHttEKrasS051-YI5KKaSvxc9ADvvwylIgvGU8h6BxLlLWc9b9xyoN19BxCkghVEiJNQr2uheHAae6e5-ks6hQRZvLzqC3fC7O8v6XEtnE2OpHMY-~yanMAJhHQzG2ZBBelHrSKTAUX2ivU0jzuLEbXQRhowNNERidOf53zFmxA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 Visit[📄 Hiding Locked Tabs in Interviews](</docs/3147b674-5cbb-4bde-9528-7699bb64b1a7/articles/04053e4c-5446-467e-9362-16e7cff7e3c1>)article to learn more.
 
@@ -131,7 +131,7 @@ With our new reporting, you’ll access:
 
   * Underlying data and rich insights into your HackerRank usage
 
-![Insights_Snagit.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046120837-?Expires=253370764800&Signature=a12O6b91MeOeu3KjijalU8JCMw1bkx1g4hhk3jhgzwSIk-8Tm6Zp4sGXBzBBu5ptR5AJJ1tdo0uwUjXnenbJNt-DZMlPpdjHg9BiT1qBYk9C20QOJDtx7z0aGU7RSPZJaRbnBp7xdSnYoFu8GjwNQagsIwKYojl0ZAqSvYsUvRUWim42yLA9ss3yo4JAVy3yzz8rz0AtoNHfrfHaFStEhNi~k6x8jXXvJb4xYYDXYEoh16uLuV7PofAm0RXQq7yfCJm3ADyVPqjUurKRk1AXLvYMLZJ6Z1X7ZhVjq9C4EtKyqHxXQxEE9DeldYesyRXPHfVQCUT41w1h6ihqxGQtiA__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![Insights_Snagit.gif](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1734046120837-?Expires=253370764800&Signature=a12O6b91MeOeu3KjijalU8JCMw1bkx1g4hhk3jhgzwSIk-8Tm6Zp4sGXBzBBu5ptR5AJJ1tdo0uwUjXnenbJNt-DZMlPpdjHg9BiT1qBYk9C20QOJDtx7z0aGU7RSPZJaRbnBp7xdSnYoFu8GjwNQagsIwKYojl0ZAqSvYsUvRUWim42yLA9ss3yo4JAVy3yzz8rz0AtoNHfrfHaFStEhNi~k6x8jXXvJb4xYYDXYEoh16uLuV7PofAm0RXQq7yfCJm3ADyVPqjUurKRk1AXLvYMLZJ6Z1X7ZhVjq9C4EtKyqHxXQxEE9DeldYesyRXPHfVQCUT41w1h6ihqxGQtiA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 Visit[📄 Account Insights](</docs/3147b674-5cbb-4bde-9528-7699bb64b1a7/articles/1b39068e-5840-4a91-82f2-5f9a7032a9a7>)article to learn more.
 

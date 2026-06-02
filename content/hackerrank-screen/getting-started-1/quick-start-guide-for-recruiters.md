@@ -23,7 +23,7 @@ The library includes:
 
   * Options to manage shared questions among team members.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1738610832664-image.png?Expires=253370764800&Signature=JWkfbgQ7odtmcrITHT7gzI6nm0y71z5pCPyjzX4R9nddjXidjuaPE1N-U0X04N5pU87I6W6k9a2MVKYiTtRyb0MMLJA7c~g~8CDJDfrlvMc9aQXB9G-V1UI6DCjLyTsPvQUMWcJtimDeC1zcfyydSYkdl2oPZ1LNonVcrpj0hB~3qP1wrTLHraY3tBBdV9SUhTyc6Ru-Qs4kFH6rNUsG2WuwC2u~cLlVtVKc~Ca1HF5UOExyf-pxUtIHn1b-oeB0yNV-gNfaqtbUU605XOpptW22D64QJgKjA7qVbfqmNYbTBDvwBO2hfxOlaJF2~s1uCO1FAI1dYCvEcxa2iPerjA__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1738610832664-image.png?Expires=253370764800&Signature=JWkfbgQ7odtmcrITHT7gzI6nm0y71z5pCPyjzX4R9nddjXidjuaPE1N-U0X04N5pU87I6W6k9a2MVKYiTtRyb0MMLJA7c~g~8CDJDfrlvMc9aQXB9G-V1UI6DCjLyTsPvQUMWcJtimDeC1zcfyydSYkdl2oPZ1LNonVcrpj0hB~3qP1wrTLHraY3tBBdV9SUhTyc6Ru-Qs4kFH6rNUsG2WuwC2u~cLlVtVKc~Ca1HF5UOExyf-pxUtIHn1b-oeB0yNV-gNfaqtbUU605XOpptW22D64QJgKjA7qVbfqmNYbTBDvwBO2hfxOlaJF2~s1uCO1FAI1dYCvEcxa2iPerjA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 ### Tests
 
@@ -43,7 +43,7 @@ Refer to:
 
   * [Creating a Custom Test](<https://support.hackerrank.com/articles/2031393332-creating-a-custom-test>)
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1738610931196-image.png?Expires=253370764800&Signature=dWeK3ft-W7Q-9gWBoakJIVwyjNa4LB9~FV6nNZwf6sPOxIrSScQEiuCpbhW-2Cdlos685aH6-2QOMbjEGh2EHhT~ReW4MlZUiH6~OmQD7duLs-F2mbCHfqqjfX8mFbSGgIT-UeqvZY-D1p-x43orS9-CnBW3VB~TqdciOA4aj7uJA89dqAmplNMwD7YmX0Oa10bqB08uSZ-0McywVp~zbobCzZfw~kM-sAbE8tDrUE-mc20dd~uydQxiZ0xx4A74eepeqQlKrm3G6FDkkwaj5597oltXraIN31K1lTluczoFQ~nQ~pW10-83sRqBhTdQCkT1CFd~GtS2cKxyjz8boQ__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1738610931196-image.png?Expires=253370764800&Signature=dWeK3ft-W7Q-9gWBoakJIVwyjNa4LB9~FV6nNZwf6sPOxIrSScQEiuCpbhW-2Cdlos685aH6-2QOMbjEGh2EHhT~ReW4MlZUiH6~OmQD7duLs-F2mbCHfqqjfX8mFbSGgIT-UeqvZY-D1p-x43orS9-CnBW3VB~TqdciOA4aj7uJA89dqAmplNMwD7YmX0Oa10bqB08uSZ-0McywVp~zbobCzZfw~kM-sAbE8tDrUE-mc20dd~uydQxiZ0xx4A74eepeqQlKrm3G6FDkkwaj5597oltXraIN31K1lTluczoFQ~nQ~pW10-83sRqBhTdQCkT1CFd~GtS2cKxyjz8boQ__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 For additional guidance, visit the[ ](<https://support.hackerrank.com/articles/5297005851-hackerrank-academy>)[HackerRank Academy](<https://support.hackerrank.com/articles/5297005851-hackerrank-academy>) to access on-demand training courses on test creation, working with the Library, and more.
 
@@ -71,7 +71,7 @@ Refer to related articles for specific configurations:
 
   * [Proctoring HackerRank Tests](<https://support.hackerrank.com/articles/1079706165-proctoring-hackerrank-tests>)
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1738610964228-image.png?Expires=253370764800&Signature=Lln~y~~6dUI9Ni5qzp6aobjxlM3hXYlfK9who8nKTv1wuBn7UpQu6Tx0P6Jg9slLhKylcFld4gtapP0Lj-0ZZSqBLklTQqfzahjKkxFU2~dDGWNTTl9vxVd9a2FWB-W1XdIbVhQpOkacsLzUQ-VUZ0NtR~Ae0SPSjVfKt-IUPfU-WrC6VvWR~WR3b0~3u17HOvSZPdOapiyuS6iD9gL-IxWeU8pVRZzOpLk05cInfcZnpD35aGYmhZbdUkNuMvS1D7-eyamo1o55xKViGA~cWNlPy~BcQq2qyuF0iZBjYfYitjKymwpzdpspZ7rt5uVH7rT1em1Cr9H75lLQlhX6gA__&Key-Pair-Id=K3NV4LZ47N8M46)
+    ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1738610964228-image.png?Expires=253370764800&Signature=Lln~y~~6dUI9Ni5qzp6aobjxlM3hXYlfK9who8nKTv1wuBn7UpQu6Tx0P6Jg9slLhKylcFld4gtapP0Lj-0ZZSqBLklTQqfzahjKkxFU2~dDGWNTTl9vxVd9a2FWB-W1XdIbVhQpOkacsLzUQ-VUZ0NtR~Ae0SPSjVfKt-IUPfU-WrC6VvWR~WR3b0~3u17HOvSZPdOapiyuS6iD9gL-IxWeU8pVRZzOpLk05cInfcZnpD35aGYmhZbdUkNuMvS1D7-eyamo1o55xKViGA~cWNlPy~BcQq2qyuF0iZBjYfYitjKymwpzdpspZ7rt5uVH7rT1em1Cr9H75lLQlhX6gA__&Key-Pair-Id=K3NV4LZ47N8M46)
 
 ### Inviting Candidates
 

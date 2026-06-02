@@ -27,7 +27,7 @@ To enable Hide Question Title:
 
   5. Turn on the **Hide Question Title** toggle.
 
-![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760282177486-image.png?Expires=253370764800&Signature=C1iftUgkuqIhEeLZPx6KLodlvEUSGyu7IPgok8sYT9N687vE8ozAx32lvX4xzJDkRLEKgrGtxIoJFAvvNSS9iy4rahuHHe23SVbuEJe2~rtZfO0qpUPveV0W7-58DkomCSejR71zTxYcVuOEte2OJYxferhgoIUJyBsxnQ-oU0pBDeBM0n~sd2Ft1q6BOItlhkp4HOyRiWUmfX5xtmJA45U8j4-H79QbudAmIzOXtCOSxFMRcgM3zKjmQx8ClmN046LqQ08CkoUUvxuSKe9K88iOxagUOdhu~SaDBHQ7ux8NtGUVzLnNK2Qbgbw8igSSzMQFB6IQetokAypRAgzB0g__&Key-Pair-Id=K3NV4LZ47N8M46)
+     ![image.png](https://assets.usepylon.com/e6a58e21-be80-4777-9eaf-f73beeee94d9%2F1760282177486-image.png?Expires=253370764800&Signature=C1iftUgkuqIhEeLZPx6KLodlvEUSGyu7IPgok8sYT9N687vE8ozAx32lvX4xzJDkRLEKgrGtxIoJFAvvNSS9iy4rahuHHe23SVbuEJe2~rtZfO0qpUPveV0W7-58DkomCSejR71zTxYcVuOEte2OJYxferhgoIUJyBsxnQ-oU0pBDeBM0n~sd2Ft1q6BOItlhkp4HOyRiWUmfX5xtmJA45U8j4-H79QbudAmIzOXtCOSxFMRcgM3zKjmQx8ClmN046LqQ08CkoUUvxuSKe9K88iOxagUOdhu~SaDBHQ7ux8NtGUVzLnNK2Qbgbw8igSSzMQFB6IQetokAypRAgzB0g__&Key-Pair-Id=K3NV4LZ47N8M46)
   6. Click **Save Changes**. 
 
 :::note
