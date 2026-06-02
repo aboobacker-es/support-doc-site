@@ -240,8 +240,13 @@ body {
 }
 
 /* Top border divider above each first-level section (except first) */
+.menu > .menu__list > .menu__list-item--collapsible:not(:first-child) {
+  margin-top: 12px;
+}
+
 .menu > .menu__list > .menu__list-item--collapsible:not(:first-child) > .menu__list-item-collapsible > .menu__link {
   border-top: 1px solid var(--stripe-border);
+  padding-top: 20px;
 }
 
 /* Hide caret on first-level section headers (they're always expanded) */
