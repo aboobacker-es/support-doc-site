@@ -227,10 +227,10 @@ body {
 /* First level only: root .menu__list > item */
 .menu > .menu__list > .menu__list-item--collapsible > .menu__list-item-collapsible > .menu__link {
   flex: 1;
-  font-size: 0.6875rem;
+  font-size: 0.8125rem;
   font-weight: 700;
   text-transform: uppercase;
-  letter-spacing: 0.07em;
+  letter-spacing: 0.06em;
   color: var(--stripe-ink);
   background: transparent !important;
   border-radius: 0;
@@ -254,15 +254,7 @@ body {
 }
 
 /* ── Nested sub-categories: same size as articles + ">" arrow ─────────── */
-.menu__list .menu__list > .menu__list-item--collapsible > .menu__list-item-collapsible {
-  display: flex;
-  align-items: center;
-  flex-direction: row-reverse;  /* caret first (right), then link text */
-  justify-content: flex-end;
-}
-
 .menu__list .menu__list > .menu__list-item--collapsible > .menu__list-item-collapsible > .menu__link {
-  flex: 1;
   font-size: 0.875rem;
   font-weight: 400;
   text-transform: none;
@@ -276,30 +268,31 @@ body {
   border-radius: 0;
 }
 
+/* "›" arrow via pseudo-element — rotates when expanded */
+.menu__list .menu__list > .menu__list-item--collapsible > .menu__list-item-collapsible > .menu__link::before {
+  content: '›';
+  display: inline-block;
+  font-size: 1.1rem;
+  line-height: 1;
+  margin-right: 5px;
+  transition: transform 0.2s ease;
+  transform-origin: 50% 55%;
+  color: #697386;
+}
+
+/* Rotate to point down when the category is expanded */
+.menu__list .menu__list > .menu__list-item--collapsible:not(.menu__list-item--collapsed) > .menu__list-item-collapsible > .menu__link::before {
+  transform: rotate(90deg);
+}
+
+/* Hide the native caret button — we're using ::before instead */
+.menu__list .menu__list > .menu__list-item--collapsible > .menu__list-item-collapsible > .menu__caret {
+  display: none !important;
+}
+
 .menu__list .menu__list > .menu__list-item--collapsible > .menu__list-item-collapsible > .menu__link:hover {
   color: var(--stripe-ink);
   background: transparent !important;
-}
-
-/* Caret on nested sub-categories — force visible */
-.menu__list .menu__list > .menu__list-item--collapsible > .menu__list-item-collapsible > .menu__caret {
-  display: flex !important;
-  visibility: visible !important;
-  align-items: center;
-  justify-content: center;
-  width: 24px !important;
-  height: 24px !important;
-  min-width: 24px;
-  padding: 0;
-  opacity: 0.6;
-  flex-shrink: 0;
-  margin-right: 8px;
-}
-
-.menu__list .menu__list > .menu__list-item--collapsible > .menu__list-item-collapsible > .menu__caret svg {
-  display: block !important;
-  width: 16px;
-  height: 16px;
 }
 
 [data-theme='dark'] .menu__list .menu__list > .menu__list-item--collapsible > .menu__list-item-collapsible > .menu__link {
