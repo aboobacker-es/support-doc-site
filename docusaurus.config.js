@@ -113,7 +113,7 @@ const config = {
             position: 'left',
           },
           {
-            to: '/general-help/release-notes/whats-new-on-hackerrank',
+            to: '/general-help/release-notes/april-2026-release-notes',
             label: 'Release notes',
             position: 'left',
           },
