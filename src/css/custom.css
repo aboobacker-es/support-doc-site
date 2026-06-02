@@ -400,6 +400,26 @@ h1.docTitle_node_modules-\@docusaurus-theme-classic-lib-theme-DocItem-Content-st
   line-height: var(--ifm-line-height-base);
 }
 
+/* Paragraph wrapper inside a list item (Markdown often wraps images in <p>) */
+.markdown li > p {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+/* Images inside list items — left-aligned, indented with the text */
+.markdown li img {
+  display: block;
+  margin: 10px 0 16px 0;
+  max-width: 100%;
+  border-radius: 6px;
+  border: 1px solid #e6ebf1;
+  box-shadow: 0 2px 8px rgba(0 0 0 / 0.07);
+}
+
+[data-theme='dark'] .markdown li img {
+  border-color: #21262d;
+}
+
 /* Inline code */
 .markdown code {
   font-family: var(--ifm-font-family-monospace);
