@@ -28,8 +28,6 @@
 
   /* Layout */
   --ifm-navbar-height: 60px;
-  --ifm-sidebar-width: 272px;
-  --doc-sidebar-width: 272px;
   --ifm-container-width-xl: 1440px;
 
   /* Navbar (dark green — matches support.hackerrank.com header) */
@@ -46,12 +44,14 @@
   --ifm-font-color-secondary: #6b7280;
 
   /* Sidebar */
-  --ifm-menu-color: #374151;
+  --ifm-menu-color: #425466;
   --ifm-menu-color-active: #16a34a;
-  --ifm-menu-color-background-active: #f0fdf4;
-  --ifm-menu-color-background-hover: #f3f4f6;
+  --ifm-menu-color-background-active: transparent;
+  --ifm-menu-color-background-hover: #f6f9fc;
   --ifm-menu-link-padding-vertical: 6px;
-  --ifm-menu-link-padding-horizontal: 12px;
+  --ifm-menu-link-padding-horizontal: 16px;
+  --ifm-sidebar-width: 260px;
+  --doc-sidebar-width: 260px;
 
   /* Borders */
   --ifm-toc-border-color: #e5e7eb;
@@ -141,7 +141,17 @@ html {
 
 /* ─── Sidebar ────────────────────────────────────────────────────────────── */
 .theme-doc-sidebar-container {
-  border-right: 1px solid var(--ifm-color-emphasis-200) !important;
+  border-right: 1px solid #e6ebf1 !important;
+  background: #ffffff;
+}
+
+[data-theme='dark'] .theme-doc-sidebar-container {
+  border-right-color: #1e293b !important;
+  background: #0f172a;
+}
+
+.menu {
+  padding: 12px 0 24px;
 }
 
 .menu__list {
@@ -149,60 +159,103 @@ html {
   padding: 0;
 }
 
-/* Category headers */
-.menu__list-item-collapsible > .menu__link,
-.menu__list-item-collapsible > .menu__link:hover {
-  font-size: 0.75rem;
-  font-weight: 700;
-  letter-spacing: 0.06em;
-  text-transform: uppercase;
-  color: #9ca3af;
+/* Top-level collapsible categories */
+.menu__list-item-collapsible > .menu__link {
+  font-size: 0.8125rem;
+  font-weight: 600;
+  letter-spacing: 0;
+  text-transform: none;
+  color: #0a2540;
   background: transparent !important;
-  padding-top: 18px;
-  padding-bottom: 4px;
-  cursor: pointer;
+  border-radius: 0;
+  padding: 7px 16px;
+}
+
+.menu__list-item-collapsible > .menu__link:hover {
+  background: #f6f9fc !important;
+  color: #0a2540;
+}
+
+[data-theme='dark'] .menu__list-item-collapsible > .menu__link {
+  color: #e2e8f0;
+}
+
+[data-theme='dark'] .menu__list-item-collapsible > .menu__link:hover {
+  background: rgba(255 255 255 / 0.05) !important;
 }
 
 .menu__caret {
   display: flex;
   align-items: center;
-  opacity: 0.5;
+  opacity: 0.45;
 }
 
-/* Regular menu items */
+/* All menu links */
 .menu__link {
-  border-radius: 6px;
+  border-radius: 0;
   font-size: 0.875rem;
   font-weight: 400;
-  transition: background 0.12s ease, color 0.12s ease;
+  color: #425466;
+  transition: color 0.1s ease, background 0.1s ease;
+  padding: 6px 16px;
 }
 
 .menu__link:hover {
-  background: var(--ifm-menu-color-background-hover);
-  color: var(--ifm-font-color-base);
+  background: #f6f9fc;
+  color: #0a2540;
 }
 
-/* Active item — left accent border */
-.menu__link--active {
-  font-weight: 500;
-  color: var(--ifm-menu-color-active);
-  background: var(--ifm-menu-color-background-active);
-  border-left: 3px solid var(--ifm-color-primary);
-  padding-left: 9px;
+[data-theme='dark'] .menu__link {
+  color: #94a3b8;
 }
 
+[data-theme='dark'] .menu__link:hover {
+  background: rgba(255 255 255 / 0.05);
+  color: #e2e8f0;
+}
+
+/* Active item — left border only, no background */
+.menu__link--active,
 .menu__link--active:hover {
-  background: var(--ifm-menu-color-background-active);
+  font-weight: 500;
+  color: #16a34a !important;
+  background: transparent !important;
+  border-left: 2px solid #16a34a;
+  border-radius: 0;
+  padding-left: 14px;
 }
 
-/* Sub-level items */
+[data-theme='dark'] .menu__link--active,
+[data-theme='dark'] .menu__link--active:hover {
+  color: #4ade80 !important;
+  border-left-color: #4ade80;
+}
+
+/* Sub-level items — indented */
 .menu__list .menu__list .menu__link {
   font-size: 0.8125rem;
-  color: var(--ifm-font-color-secondary);
+  color: #697386;
+  padding-left: 28px;
 }
 
-.menu__list .menu__list .menu__link--active {
-  color: var(--ifm-menu-color-active);
+.menu__list .menu__list .menu__link:hover {
+  color: #0a2540;
+  background: #f6f9fc;
+}
+
+.menu__list .menu__list .menu__link--active,
+.menu__list .menu__list .menu__link--active:hover {
+  color: #16a34a !important;
+  padding-left: 26px;
+}
+
+[data-theme='dark'] .menu__list .menu__list .menu__link {
+  color: #64748b;
+}
+
+[data-theme='dark'] .menu__list .menu__list .menu__link--active,
+[data-theme='dark'] .menu__list .menu__list .menu__link--active:hover {
+  color: #4ade80 !important;
 }
 
 /* ─── TOC (right column) ─────────────────────────────────────────────────── */
