@@ -113,9 +113,20 @@ const config = {
             position: 'left',
           },
           {
-            to: '/general-help/academy/hackerrank-academy-video-tutorial',
+            to: '/general-help/release-notes/whats-new-on-hackerrank',
             label: 'Release notes',
             position: 'left',
+          },
+          {
+            label: 'More',
+            type: 'dropdown',
+            position: 'left',
+            items: [
+              {
+                label: 'Additional resources',
+                to: '/general-help/academy/hackerrank-academy-video-tutorial',
+              },
+            ],
           },
           {
             href: 'https://www.hackerrank.com',
