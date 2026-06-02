@@ -1,149 +1,176 @@
 import React from 'react';
 import Link from '@docusaurus/Link';
-import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
-import clsx from 'clsx';
 import styles from './index.module.css';
 
-const CATEGORIES = [
+/* ── Featured task cards (top grid) ─────────────────────────── */
+const FEATURED = [
   {
-    icon: '🖥️',
-    title: 'Screen',
-    description: 'Create tests, invite candidates, and review results.',
-    href: '/hackerrank-screen',
-    count: 88,
-    color: '#dcfce7',
+    icon: (
+      <svg viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <rect x="3" y="3" width="14" height="14" rx="2" stroke="currentColor" strokeWidth="1.5"/>
+        <path d="M7 10h6M10 7v6" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round"/>
+      </svg>
+    ),
+    title: 'Create a test',
+    desc: 'Build assessments from the library or from scratch.',
+    href: '/hackerrank-screen/managing-tests/creating-a-new-test',
   },
   {
-    icon: '💬',
-    title: 'Interviews',
-    description: 'Conduct live technical interviews with integrated tools.',
+    icon: (
+      <svg viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <circle cx="10" cy="7" r="3" stroke="currentColor" strokeWidth="1.5"/>
+        <path d="M4 17c0-3.314 2.686-6 6-6s6 2.686 6 6" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round"/>
+        <path d="M15 4l2 2-4 4" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/>
+      </svg>
+    ),
+    title: 'Invite candidates',
+    desc: 'Send test invitations by email or shareable link.',
+    href: '/hackerrank-screen/inviting-candidates',
+  },
+  {
+    icon: (
+      <svg viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <rect x="2" y="4" width="16" height="12" rx="2" stroke="currentColor" strokeWidth="1.5"/>
+        <circle cx="10" cy="10" r="2.5" stroke="currentColor" strokeWidth="1.5"/>
+        <path d="M2 8h2M16 8h2M2 12h2M16 12h2" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round"/>
+      </svg>
+    ),
+    title: 'Live interviews',
+    desc: 'Run real-time technical interviews with a collaborative IDE.',
     href: '/interviews',
-    count: 43,
-    color: '#dbeafe',
   },
   {
-    icon: '🔗',
-    title: 'Integrations',
-    description: 'Connect HackerRank with your ATS, SSO, and other tools.',
-    href: '/integrations-1',
-    count: 95,
-    color: '#fef9c3',
-  },
-  {
-    icon: '⚙️',
-    title: 'Account Settings',
-    description: 'Manage users, roles, teams, and company configuration.',
-    href: '/account-settings',
-    count: 51,
-    color: '#f3e8ff',
-  },
-  {
-    icon: '📚',
-    title: 'Library',
-    description: 'Build and manage your question bank and assessments.',
-    href: '/library',
-    count: 51,
-    color: '#ffedd5',
-  },
-  {
-    icon: '❓',
-    title: 'General Help',
-    description: 'Release notes, evaluation guides, and FAQs.',
-    href: '/general-help',
-    count: 28,
-    color: '#e0f2fe',
-  },
-  {
-    icon: '🎓',
-    title: 'SkillUp',
-    description: 'Learning paths and upskilling for developers.',
-    href: '/skillup',
-    count: 19,
-    color: '#fce7f3',
-  },
-  {
-    icon: '🤖',
-    title: 'Chakra AI',
-    description: 'AI-powered interview documentation and guides.',
+    icon: (
+      <svg viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M10 2L12.5 7.5H18L13.5 11L15.5 17L10 13.5L4.5 17L6.5 11L2 7.5H7.5L10 2Z" stroke="currentColor" strokeWidth="1.5" strokeLinejoin="round"/>
+      </svg>
+    ),
+    title: 'AI interviews (Chakra)',
+    desc: 'Automate first-round interviews with an AI interviewer.',
     href: '/chakra',
-    count: 7,
-    color: '#ccfbf1',
   },
   {
-    icon: '⚡',
-    title: 'Engage',
-    description: 'Developer engagement and community features.',
-    href: '/engage-',
-    count: 9,
-    color: '#fef3c7',
+    icon: (
+      <svg viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M4 6h12M4 10h12M4 14h7" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round"/>
+      </svg>
+    ),
+    title: 'Connect your ATS',
+    desc: 'Integrate with Greenhouse, Lever, Workday, and 60+ more.',
+    href: '/integrations-1/applicant-tracking-systems',
+  },
+  {
+    icon: (
+      <svg viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <rect x="3" y="3" width="6" height="6" rx="1" stroke="currentColor" strokeWidth="1.5"/>
+        <rect x="11" y="3" width="6" height="6" rx="1" stroke="currentColor" strokeWidth="1.5"/>
+        <rect x="3" y="11" width="6" height="6" rx="1" stroke="currentColor" strokeWidth="1.5"/>
+        <rect x="11" y="11" width="6" height="6" rx="1" stroke="currentColor" strokeWidth="1.5"/>
+      </svg>
+    ),
+    title: 'Set up SSO',
+    desc: 'Configure SAML or SCIM with Okta, Azure AD, and others.',
+    href: '/integrations-1/single-sign-on-sso',
+  },
+  {
+    icon: (
+      <svg viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M10 2a5 5 0 015 5v1h1a2 2 0 012 2v6a2 2 0 01-2 2H4a2 2 0 01-2-2v-6a2 2 0 012-2h1V7a5 5 0 015-5z" stroke="currentColor" strokeWidth="1.5"/>
+        <circle cx="10" cy="13" r="1.5" fill="currentColor"/>
+      </svg>
+    ),
+    title: 'Test integrity',
+    desc: 'Proctoring, plagiarism detection, and security settings.',
+    href: '/hackerrank-screen/test_integrity',
+  },
+  {
+    icon: (
+      <svg viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <circle cx="10" cy="10" r="8" stroke="currentColor" strokeWidth="1.5"/>
+        <path d="M10 6v4l3 3" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round"/>
+      </svg>
+    ),
+    title: 'Manage team roles',
+    desc: 'Set permissions, teams, and admin access levels.',
+    href: '/account-settings/roles-management',
+  },
+  {
+    icon: (
+      <svg viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M10 3v3M10 14v3M3 10h3M14 10h3" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round"/>
+        <circle cx="10" cy="10" r="3" stroke="currentColor" strokeWidth="1.5"/>
+      </svg>
+    ),
+    title: 'Question library',
+    desc: 'Browse, create, and manage coding and MCQ questions.',
+    href: '/library',
   },
 ];
 
-const QUICK_LINKS = [
-  { label: 'Create a test', href: '/hackerrank-screen/managing-tests/creating-a-new-test' },
-  { label: 'Invite candidates', href: '/hackerrank-screen/inviting-candidates' },
-  { label: 'Set up SSO', href: '/integrations-1/single-sign-on-(sso)-' },
-  { label: 'Connect an ATS', href: '/integrations-1/applicant-tracking-systems' },
-  { label: 'Manage team roles', href: '/account-settings/roles-management' },
-  { label: 'Test integrity', href: '/hackerrank-screen/test_integrity' },
+/* ── Product categories ──────────────────────────────────────── */
+const PRODUCTS = [
+  { title: 'Screen',         desc: 'Technical assessments and hiring tests.',         href: '/hackerrank-screen', count: 88,  color: '#16a34a' },
+  { title: 'Interviews',     desc: 'Live coding and pair-programming sessions.',       href: '/interviews',        count: 43,  color: '#2563eb' },
+  { title: 'Integrations',   desc: 'ATS, SSO, scheduling, and API connections.',      href: '/integrations-1',   count: 95,  color: '#9333ea' },
+  { title: 'Settings',       desc: 'Users, teams, roles, and company configuration.', href: '/account-settings',  count: 51,  color: '#0891b2' },
+  { title: 'Library',        desc: 'Question bank, types, scoring, and curation.',    href: '/library',           count: 51,  color: '#d97706' },
+  { title: 'Chakra AI',      desc: 'AI-powered automated interview platform.',        href: '/chakra',            count: 7,   color: '#2EC866' },
+  { title: 'SkillUp',        desc: 'Developer learning paths and upskilling.',        href: '/skillup',           count: 19,  color: '#e11d48' },
+  { title: 'Engage',         desc: 'Hackathons and developer community events.',      href: '/engage-',           count: 9,   color: '#ea580c' },
+  { title: 'General Help',   desc: 'Release notes, guides, and FAQs.',               href: '/general-help',      count: 28,  color: '#64748b' },
 ];
-
-function CategoryCard({ icon, title, description, href, count, color }) {
-  return (
-    <Link to={href} className={styles.card}>
-      <div className={styles.cardIcon} style={{ background: color }}>
-        <span>{icon}</span>
-      </div>
-      <div className={styles.cardBody}>
-        <h3 className={styles.cardTitle}>{title}</h3>
-        <p className={styles.cardDesc}>{description}</p>
-        <span className={styles.cardCount}>{count} articles</span>
-      </div>
-    </Link>
-  );
-}
 
 export default function Home() {
-  const { siteConfig } = useDocusaurusContext();
-
   return (
-    <Layout title="Help Center" description={siteConfig.tagline} noSidebar>
-      {/* Hero */}
-      <div className={styles.hero}>
-        <div className={styles.heroInner}>
-          <p className={styles.heroEyebrow}>HackerRank Documentation</p>
-          <h1 className={styles.heroTitle}>How can we help you?</h1>
-          <p className={styles.heroSubtitle}>
-            Find answers, guides, and resources for all HackerRank products.
-          </p>
-        </div>
-      </div>
+    <Layout title="Docs" description="HackerRank product documentation, guides, and resources." noSidebar>
+      <div className={styles.page}>
 
-      {/* Quick links */}
-      <div className={styles.quickSection}>
-        <div className={styles.sectionInner}>
-          <p className={styles.sectionLabel}>Popular articles</p>
-          <div className={styles.quickGrid}>
-            {QUICK_LINKS.map((link) => (
-              <Link key={link.href} to={link.href} className={styles.quickLink}>
-                {link.label} →
-              </Link>
-            ))}
+        {/* ── Page header ─────────────────────────────────────── */}
+        <div className={styles.pageHeader}>
+          <div className={styles.inner}>
+            <h1 className={styles.pageTitle}>HackerRank Documentation</h1>
+            <p className={styles.pageSubtitle}>
+              Explore guides and resources for all HackerRank products.
+            </p>
           </div>
         </div>
-      </div>
 
-      {/* Category grid */}
-      <div className={styles.categorySection}>
-        <div className={styles.sectionInner}>
-          <p className={styles.sectionLabel}>Browse by product</p>
-          <div className={styles.cardGrid}>
-            {CATEGORIES.map((cat) => (
-              <CategoryCard key={cat.href} {...cat} />
-            ))}
+        {/* ── Featured tasks ───────────────────────────────────── */}
+        <section className={styles.section}>
+          <div className={styles.inner}>
+            <h2 className={styles.sectionHeading}>Get started</h2>
+            <div className={styles.featuredGrid}>
+              {FEATURED.map((item) => (
+                <Link key={item.href + item.title} to={item.href} className={styles.featuredCard}>
+                  <span className={styles.featuredIcon}>{item.icon}</span>
+                  <span className={styles.featuredTitle}>{item.title}</span>
+                  <span className={styles.featuredDesc}>{item.desc}</span>
+                </Link>
+              ))}
+            </div>
           </div>
-        </div>
+        </section>
+
+        {/* ── Browse by product ────────────────────────────────── */}
+        <section className={styles.section}>
+          <div className={styles.inner}>
+            <h2 className={styles.sectionHeading}>Browse by product</h2>
+            <div className={styles.productGrid}>
+              {PRODUCTS.map((p) => (
+                <Link key={p.href} to={p.href} className={styles.productCard}>
+                  <span className={styles.productDot} style={{ background: p.color }} />
+                  <span className={styles.productBody}>
+                    <span className={styles.productTitle}>{p.title}</span>
+                    <span className={styles.productDesc}>{p.desc}</span>
+                  </span>
+                  <span className={styles.productCount}>{p.count} articles</span>
+                </Link>
+              ))}
+            </div>
+          </div>
+        </section>
+
       </div>
     </Layout>
   );
