@@ -3,7 +3,7 @@ import Link from '@docusaurus/Link';
 import Layout from '@theme/Layout';
 import styles from './index.module.css';
 
-/* ── Featured task cards (top grid) ─────────────────────────── */
+/* ── Featured task cards ─────────────────────────────────────── */
 const FEATURED = [
   {
     icon: (
@@ -110,11 +110,11 @@ const FEATURED = [
 
 /* ── Product categories ──────────────────────────────────────── */
 const PRODUCTS = [
-  { title: 'Screen',      desc: 'Save time and accelerate your hiring with assessments.',  href: '/hackerrank-screen', count: 88,  color: '#16a34a' },
-  { title: 'Interview',   desc: 'Conduct stellar technical interviews at scale.',          href: '/interviews',        count: 43,  color: '#2563eb' },
-  { title: 'Engage',      desc: 'Promote your tech brand and attract top talent.',         href: '/engage',           count: 9,   color: '#ea580c' },
-  { title: 'SkillUp',     desc: 'Mobilize your tech talent with learning paths.',          href: '/skillup',           count: 19,  color: '#e11d48' },
-  { title: 'Chakra',      desc: 'Pre-screen candidates with AI-powered interviews.',       href: '/chakra',            count: 7,   color: '#2EC866' },
+  { title: 'Screen',    desc: 'Save time and accelerate your hiring with assessments.',  href: '/hackerrank-screen', count: 88, color: '#16a34a' },
+  { title: 'Interview', desc: 'Conduct stellar technical interviews at scale.',           href: '/interviews',        count: 43, color: '#2563eb' },
+  { title: 'Engage',    desc: 'Promote your tech brand and attract top talent.',          href: '/engage',            count: 9,  color: '#ea580c' },
+  { title: 'SkillUp',   desc: 'Mobilize your tech talent with learning paths.',           href: '/skillup',           count: 19, color: '#e11d48' },
+  { title: 'Chakra',    desc: 'Pre-screen candidates with AI-powered interviews.',        href: '/chakra',            count: 7,  color: '#2EC866' },
 ];
 
 export default function Home() {
@@ -122,14 +122,29 @@ export default function Home() {
     <Layout title="Docs" description="HackerRank product documentation, guides, and resources." noSidebar>
       <div className={styles.page}>
 
-        {/* ── Page header ─────────────────────────────────────── */}
-        <div className={styles.pageHeader}>
-          <div className={styles.inner}>
-            <h1 className={styles.pageTitle}>HackerRank Documentation</h1>
-            <p className={styles.pageSubtitle}>
-              Explore guides and resources for all HackerRank products.
+        {/* ── Hero ─────────────────────────────────────────────── */}
+        <div className={styles.hero}>
+          {/* White content area */}
+          <div className={styles.heroContent}>
+            <h1 className={styles.heroTitle}>
+              <span className={styles.heroAccent}>HackerRank</span>{' '}
+              Documentation
+            </h1>
+            <p className={styles.heroSubtitle}>
+              Guides, references, and resources for every HackerRank product.
             </p>
+            <div className={styles.heroCta}>
+              <Link to="/hackerrank-screen/managing-tests/creating-a-new-test" className={styles.heroBtnPrimary}>
+                Get started
+              </Link>
+              <Link to="/hackerrank-screen" className={styles.heroBtnOutline}>
+                Browse products
+              </Link>
+            </div>
           </div>
+
+          {/* Dark green glow gradient bar */}
+          <div className={styles.heroGlow} aria-hidden="true" />
         </div>
 
         {/* ── Browse by product ────────────────────────────────── */}
