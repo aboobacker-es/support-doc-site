@@ -5,6 +5,7 @@ pylon_id: 31e677b2-f573-4bd4-a5fd-f7b784516d27
 published_url: https://support.hackerrank.com/articles/8182862423-DevOps-Questions-in-HackerRank-Interviews
 last_edited: "2024-12-12"
 is_published: true
+sidebar_position: 29
 ---
 
 HackerRank Interviews allows you to use DevOps questions to evaluate a candidate's Linux skills during live interviews. This article explains importing and utilizing DevOps questions within the HackerRank Interviews platform.

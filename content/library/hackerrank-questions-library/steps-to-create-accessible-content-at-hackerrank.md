@@ -5,6 +5,7 @@ pylon_id: cc954007-c008-44fb-a776-7260dd197d5c
 published_url: https://support.hackerrank.com/articles/4968606472-Steps-to-Create-Accessible-Content-at-HackerRank
 last_edited: "2026-05-27"
 is_published: true
+sidebar_position: 11
 ---
 
 ## Overview

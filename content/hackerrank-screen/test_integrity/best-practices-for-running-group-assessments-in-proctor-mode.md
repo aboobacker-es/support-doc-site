@@ -5,6 +5,7 @@ pylon_id: fc33898b-dbc5-404e-8489-1454ed2eea00
 published_url: https://support.hackerrank.com/articles/9264843630-Best-Practices-for-Running-Group-Assessments-in-Proctor-Mode
 last_edited: "2026-02-06"
 is_published: true
+sidebar_position: 14
 ---
 
 This article provides best practices for running group assessments in Proctor Mode, where multiple candidates take the assessment simultaneously at a shared physical location. Following these guidelines helps ensure a smooth, stable, and fair assessment experience for all candidates.

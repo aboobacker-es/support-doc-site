@@ -5,6 +5,7 @@ pylon_id: 91a8165e-8d80-4e02-ab8d-349f5ccb2e99
 published_url: https://support.hackerrank.com/articles/2296520412-Subjective-Questions
 last_edited: "2026-03-26"
 is_published: true
+sidebar_position: 1
 ---
 
 Subjective questions allow you to ask candidates open-ended questions. You can provide a prompt, and candidates can respond in their own words.

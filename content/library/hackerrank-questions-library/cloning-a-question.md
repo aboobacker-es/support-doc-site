@@ -5,6 +5,7 @@ pylon_id: b98ab93b-d6e6-412f-a4a9-eb5fdd7da733
 published_url: https://support.hackerrank.com/articles/9746551127-Clone-a-Question
 last_edited: "2025-08-14"
 is_published: true
+sidebar_position: 3
 ---
 
 HackerRank for Work enables you to clone existing questions. When you clone a question, the platform creates an independent copy with a unique Question ID. Any changes made to the original question do not affect the cloned version.

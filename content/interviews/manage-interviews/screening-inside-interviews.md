@@ -5,6 +5,7 @@ pylon_id: ecad6d90-60b4-407f-924b-fd330bb3f87a
 published_url: https://support.hackerrank.com/articles/2218911700-Import-Questions-from-Screen-Test
 last_edited: "2025-09-28"
 is_published: true
+sidebar_position: 39
 ---
 
 HackerRank Tests is a coding assessment framework that automates the screening of developers. With the **Tests** integration, interviewers can import a candidate’s screening test, including questions and submitted code, directly into an interview session.

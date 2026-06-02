@@ -5,6 +5,7 @@ pylon_id: dda2edc0-f02a-4f21-9eb2-4e7d7fd7332f
 published_url: https://support.hackerrank.com/articles/6257623198-Cancel-a-Test-Invite
 last_edited: "2025-05-12"
 is_published: true
+sidebar_position: 26
 ---
 
 HackerRank for Work allows you to cancel a test invitation that you have already sent to a candidate.

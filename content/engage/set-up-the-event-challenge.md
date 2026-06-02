@@ -5,6 +5,7 @@ pylon_id: 8896558d-176c-4705-b47a-81a66b439560
 published_url: https://support.hackerrank.com/articles/7640208607-Set-Up-the-Event-Challenge
 last_edited: "2025-10-15"
 is_published: true
+sidebar_position: 4
 ---
 
 HackerRank Engage recommends a set of coding questions by default to help you quickly set up challenges for your event.

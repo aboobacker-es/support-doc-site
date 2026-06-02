@@ -5,6 +5,7 @@ pylon_id: 78448697-84e8-42cb-84d8-f21ff15cac8a
 published_url: https://support.hackerrank.com/articles/8826242281-Database-Questions
 last_edited: "2026-03-26"
 is_published: true
+sidebar_position: 2
 ---
 
 Database questions allow you to assess a candidate’s ability to work with SQL and Database Management Systems (DBMS). These questions measure skills such as writing queries, retrieving data, and managing database structures.

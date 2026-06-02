@@ -5,6 +5,7 @@ pylon_id: 43c867ca-f1e2-403a-a649-a8f0cf1f955a
 published_url: https://support.hackerrank.com/articles/9728791902-Evaluate-Integrity-Signals-for-Flagged-Candidates-at-Scale-in-Proctor-Mode
 last_edited: "2026-01-28"
 is_published: true
+sidebar_position: 13
 ---
 
 Proctor Mode helps test administrators quickly identify potential integrity issues in online assessments. [Proctor mode reports](<https://support.hackerrank.com/articles/5663779659-proctor-mode#after-the-test-generate-post-test-integrity-report-26>) are easy to review for individual sessions, but become inefficient and challenging when evaluating candidate attempts at scale.

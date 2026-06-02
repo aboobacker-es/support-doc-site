@@ -5,6 +5,7 @@ pylon_id: 75e1fac0-c6fd-4146-97f1-ea0ad5818a69
 published_url: https://support.hackerrank.com/articles/8294988738-Modify-Evaluation-Settings-for-Tests
 last_edited: "2025-07-30"
 is_published: true
+sidebar_position: 5
 ---
 
 You can set scoring thresholds and apply uniform scoring logic for multiple-choice questions (MCQs) to ensure consistent evaluation across all candidates.

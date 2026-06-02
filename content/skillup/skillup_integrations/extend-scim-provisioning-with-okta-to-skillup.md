@@ -5,6 +5,7 @@ pylon_id: e81ae616-8bdf-4d3d-a5a8-feca99b22283
 published_url: https://support.hackerrank.com/articles/9570265682-Extend-SCIM-Provisioning-with-Okta-to-SkillUp
 last_edited: "2025-11-05"
 is_published: true
+sidebar_position: 1
 ---
 
 SkillUp supports SCIM-based provisioning with Okta to automatically synchronize users, roles, and profile attributes. SkillUp and HackerRank for Work share the same SCIM endpoint and authentication mechanism. 

@@ -5,6 +5,7 @@ pylon_id: 37c486bc-399f-43b8-ab92-1960ffdd8bcd
 published_url: https://support.hackerrank.com/articles/3052727240-Limitations-With-HackerRank-Projects
 last_edited: "2026-02-19"
 is_published: true
+sidebar_position: 27
 ---
 
 The project questions on HackerRank use VM-based containers, with specific limitations on the number of workspaces a company can have at any given time. 

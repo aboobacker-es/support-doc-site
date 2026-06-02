@@ -5,6 +5,7 @@ pylon_id: 477121e7-9101-4aac-abf4-fb248658c9e8
 published_url: https://support.hackerrank.com/articles/8239997164-Replacing-Interview-Questions
 last_edited: "2024-12-12"
 is_published: true
+sidebar_position: 37
 ---
 
 HackerRank interviews allow you to exchange an existing question during an interview. Please follow the below steps to learn how to do it. 

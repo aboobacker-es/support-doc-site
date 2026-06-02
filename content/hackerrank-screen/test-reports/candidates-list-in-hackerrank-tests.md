@@ -5,6 +5,7 @@ pylon_id: 0fd5a55c-a7a4-4068-b96c-4b26d88e71c0
 published_url: https://support.hackerrank.com/articles/9135272973-View-Candidates-List-for-a-Test
 last_edited: "2025-10-14"
 is_published: true
+sidebar_position: 6
 ---
 
 The candidates list in the test interface provides a centralized view of all invited candidates and their test statuses. It helps you track candidate progress, review reports, and manage invitations in one place.

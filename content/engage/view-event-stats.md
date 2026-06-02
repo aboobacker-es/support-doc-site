@@ -5,6 +5,7 @@ pylon_id: 5342a254-009b-4bea-bf65-6036f7ffd9e1
 published_url: https://support.hackerrank.com/articles/5336874519-View-Event-Statistics
 last_edited: "2025-10-15"
 is_published: true
+sidebar_position: 7
 ---
 
 Use the **Overview** dashboard of your event to access key insights after it ends. Insights are presented as visual charts based on either registrations or attempts, depending on the event status.

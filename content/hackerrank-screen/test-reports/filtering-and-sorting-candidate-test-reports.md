@@ -5,6 +5,7 @@ pylon_id: ed1920da-00bb-4594-8a79-4aad483488fc
 published_url: https://support.hackerrank.com/articles/1829746072-Filtering-and-Sorting-Candidate-Test-Reports
 last_edited: "2025-01-20"
 is_published: true
+sidebar_position: 14
 ---
 
 You can use various filters to search and view relevant reports. You can filter reports with filters such as the candidate's name, email ID, and status. After filtering reports, you can also sort these reports based on your selected criteria.

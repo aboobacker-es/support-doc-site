@@ -5,6 +5,7 @@ pylon_id: fac94e4a-ac88-454b-9cfc-cd527516e0a4
 published_url: https://support.hackerrank.com/articles/3572240492-HackerRank-Glossary
 last_edited: "2026-03-05"
 is_published: true
+sidebar_position: 5
 ---
 
 Here is a glossary of all the terms and definitions you need to know while using the HackerRank for Work platform.

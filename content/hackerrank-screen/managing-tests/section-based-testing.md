@@ -5,6 +5,7 @@ pylon_id: d576be1b-d86a-422b-a2ef-c6435e3eeaff
 published_url: https://support.hackerrank.com/articles/5546852679-Manage-Sections-in-Tests
 last_edited: "2025-10-15"
 is_published: true
+sidebar_position: 10
 ---
 
 Sections help you organize test questions by topic or skill. You can also include code repositories as separate sections to assess real-world development skills. You can set time limits for each section and control how questions appear to candidates. You can configure multiple sections in a test to create a more focused and adaptive assessment experience.

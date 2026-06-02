@@ -5,6 +5,7 @@ pylon_id: 7f301f10-1807-4756-87f2-44038b803a77
 published_url: https://support.hackerrank.com/articles/4376717308-Diagram-Questions
 last_edited: "2025-11-19"
 is_published: true
+sidebar_position: 6
 ---
 
 Diagram questions aim to assess a candidate's skills in creating class diagrams, architecture diagrams, workflow diagrams, and circuit diagrams. The candidates can create simple or complex diagrams as required and the examiners can view them to evaluate.

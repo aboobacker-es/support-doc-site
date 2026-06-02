@@ -5,6 +5,7 @@ pylon_id: 7f345ce8-aeae-4d6d-8620-3dc5e8c924ef
 published_url: https://support.hackerrank.com/articles/4666032442-Evaluation-Methods-for-Test-Questions
 last_edited: "2026-03-30"
 is_published: true
+sidebar_position: 1
 ---
 
 HackerRank supports two evaluation methods for questions in a test, based on the question type.

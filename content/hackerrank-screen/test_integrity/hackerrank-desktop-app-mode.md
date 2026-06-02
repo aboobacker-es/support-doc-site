@@ -5,6 +5,7 @@ pylon_id: 2951c46b-e324-42ec-9a35-cdcd9cae6b7c
 published_url: https://support.hackerrank.com/articles/5973590014-HackerRank-Desktop-App-Mode
 last_edited: "2026-04-21"
 is_published: true
+sidebar_position: 9
 ---
 
 This feature is part of the AI Add-on. For more information, see [📄 HackerRank AI Add-on](</articles/5847651809>).

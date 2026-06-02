@@ -5,6 +5,7 @@ pylon_id: 9ba862f2-fe27-4461-af4c-d2aebdc50f79
 published_url: https://support.hackerrank.com/articles/4894957291-Create-a-Question
 last_edited: "2026-03-30"
 is_published: true
+sidebar_position: 5
 ---
 
 HackerRank for Work allows you to create questions based on your hiring requirements. You can create questions from the **Library** or while creating or editing a test.

@@ -5,6 +5,7 @@ pylon_id: 0f90541d-a5c0-42d3-9e16-4c361c6d367b
 published_url: https://support.hackerrank.com/articles/2040951869-Archive-a-Question
 last_edited: "2025-09-25"
 is_published: true
+sidebar_position: 4
 ---
 
 Archive a question when it is no longer in use but you want to keep it for future reference. You can archive only questions created by you or your team members in your organization.

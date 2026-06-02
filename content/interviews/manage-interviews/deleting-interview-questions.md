@@ -5,6 +5,7 @@ pylon_id: 16ce6788-f036-4904-b5ed-2b4ee6fad0f3
 published_url: https://support.hackerrank.com/articles/5520105382-Deleting-Interview-Questions
 last_edited: "2024-12-12"
 is_published: true
+sidebar_position: 28
 ---
 
 ## Overview

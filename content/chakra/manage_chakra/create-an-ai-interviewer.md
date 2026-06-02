@@ -5,6 +5,7 @@ pylon_id: 6c69eabb-5de9-4741-8e21-61b0b2e2f60e
 published_url: https://support.hackerrank.com/articles/8041423965-Create-an-AI-Interviewer
 last_edited: "2026-04-19"
 is_published: true
+sidebar_position: 2
 ---
 
 You can use Chakra to create an AI interviewer based on a job role or job description. Chakra analyzes your input and generates a structured interview plan that you can review and refine.

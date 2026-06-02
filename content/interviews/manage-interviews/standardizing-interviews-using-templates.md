@@ -5,6 +5,7 @@ pylon_id: 4ec4b637-6f9b-42b6-83dd-a18c86da04f8
 published_url: https://support.hackerrank.com/articles/2837093779-Manage-Interviews-Templates
 last_edited: "2025-12-15"
 is_published: true
+sidebar_position: 40
 ---
 
 Interview templates help hiring managers and interviewers maintain consistency across interviews. A template ensures that every candidate for a specific role receives the same set of questions and is evaluated using the same criteria.

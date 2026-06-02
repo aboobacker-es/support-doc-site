@@ -5,6 +5,7 @@ pylon_id: f2de7629-2add-4a87-ab7c-3aee4672897a
 published_url: https://support.hackerrank.com/articles/7216974183-Interviewing-with-Whiteboards
 last_edited: "2024-12-12"
 is_published: true
+sidebar_position: 6
 ---
 
 Whiteboards are a common tool used during onsite technical interviews to evaluate candidates' skills. They are particularly effective in assessing:

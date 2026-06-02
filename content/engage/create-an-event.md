@@ -5,6 +5,7 @@ pylon_id: 7dae3910-74e6-4f98-bfd9-5dee1feb918c
 published_url: https://support.hackerrank.com/articles/7549509598-Create-an-Event
 last_edited: "2025-10-16"
 is_published: true
+sidebar_position: 1
 ---
 
 Engage streamlines the process of creating events by using AI to generate key assets such as microsites, email events, and coding challenges tailored to your hiring goals. 

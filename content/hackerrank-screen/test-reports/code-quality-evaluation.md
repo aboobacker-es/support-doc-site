@@ -5,6 +5,7 @@ pylon_id: 753a2490-35b2-4071-b8a4-6df58da25255
 published_url: https://support.hackerrank.com/articles/9625818007-Code-Quality-Evaluation
 last_edited: "2025-12-01"
 is_published: true
+sidebar_position: 17
 ---
 
 This feature is part of the AI Add-on. For more information, see [📄 Advanced Evaluation](</articles/7098008997>).

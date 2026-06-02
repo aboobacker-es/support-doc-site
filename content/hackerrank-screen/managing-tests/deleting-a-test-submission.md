@@ -5,6 +5,7 @@ pylon_id: 95a925b2-1d7e-4fae-a5f8-b4716932528a
 published_url: https://support.hackerrank.com/articles/9556988565-Delete-a-Test-Submission
 last_edited: "2025-09-03"
 is_published: true
+sidebar_position: 11
 ---
 
 If you want a candidate to reattempt a test, you can delete the candidate’s test submission. This action permanently removes the candidate’s previous attempt, including all proctoring records, and resets their test status to **Invited**.

@@ -5,6 +5,7 @@ pylon_id: 9b12af05-f174-4716-a309-d601491472f7
 published_url: https://support.hackerrank.com/articles/9707768362-Set-Up-Emails
 last_edited: "2025-10-16"
 is_published: true
+sidebar_position: 5
 ---
 
 Use email communication to engage eligible candidates to improve participation on the day of your event.

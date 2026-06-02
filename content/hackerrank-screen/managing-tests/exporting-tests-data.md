@@ -5,6 +5,7 @@ pylon_id: d4a62b24-68be-4acd-b896-ffb5e1a612e2
 published_url: https://support.hackerrank.com/articles/7081156839-Export-Tests-Data
 last_edited: "2025-09-03"
 is_published: true
+sidebar_position: 12
 ---
 
 You can export test-level data as a CSV file that includes test details, test settings, attempt statistics, and more.

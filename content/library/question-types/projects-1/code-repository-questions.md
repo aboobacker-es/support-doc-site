@@ -5,6 +5,7 @@ pylon_id: 75a07b4b-a7ef-41dc-a10e-19b77dcbe590
 published_url: https://support.hackerrank.com/articles/1900882930-Code-Repository-Questions
 last_edited: "2026-05-27"
 is_published: true
+sidebar_position: 2
 ---
 
 Code Repository lets you create multiple questions from a single repository. Each question can assess a different objective, such as fixing a bug, building a feature, or working on a specific part of the application, while reusing the same base setup. 

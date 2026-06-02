@@ -5,6 +5,7 @@ pylon_id: b2048e70-73fc-42a4-8068-a1cd6d006a3d
 published_url: https://support.hackerrank.com/articles/6081633644-Prompt-Engineering-Questions
 last_edited: "2026-03-26"
 is_published: true
+sidebar_position: 4
 ---
 
 Prompt engineering questions assess a candidate’s ability to write structured instructions that guide AI systems to generate accurate and reliable outputs.

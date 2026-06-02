@@ -5,6 +5,7 @@ pylon_id: 70376365-f469-4cf0-a771-b793966b8704
 published_url: https://support.hackerrank.com/articles/8000786908-AI-Plagiarism-Detection
 last_edited: "2026-05-27"
 is_published: true
+sidebar_position: 10
 ---
 
 Plagiarism in the hiring process compromises the integrity of evaluations, making it difficult to assess a candidate’s abilities accurately. Plagiarism detection tools help maintain fairness, creating a level playing field that leads to better hiring decisions.

@@ -5,6 +5,7 @@ pylon_id: 524e33d5-213b-42d8-a25c-4c7c6ffe9c5c
 published_url: https://support.hackerrank.com/articles/5936478208-Audio-or-Video-Device-Selection-During-Interview
 last_edited: "2026-02-19"
 is_published: true
+sidebar_position: 24
 ---
 
 ## Selecting Audio or Video Device During an Interview

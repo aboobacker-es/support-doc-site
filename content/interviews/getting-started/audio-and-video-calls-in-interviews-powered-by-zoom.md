@@ -5,6 +5,7 @@ pylon_id: 4de7d6ce-a2a9-4729-9061-5e6dcfc537dd
 published_url: https://support.hackerrank.com/articles/6271433412-Audio-and-Video-Calls-in-Interviews-Powered-by-Zoom
 last_edited: "2025-10-14"
 is_published: true
+sidebar_position: 9
 ---
 
 HackerRank Interviews include built-in audio and video calling features that allow interviewers and candidates to communicate seamlessly. By integrating with Zoom, HackerRank ensures a smooth and uninterrupted interview experience.

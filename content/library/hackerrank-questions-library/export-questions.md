@@ -5,6 +5,7 @@ pylon_id: ced7a795-93d1-431c-8a1c-d0c81e2ffc60
 published_url: https://support.hackerrank.com/articles/9028620307-Export-Questions
 last_edited: "2025-09-25"
 is_published: true
+sidebar_position: 10
 ---
 
 You can export test and interview questions from the Library into a CSV file.

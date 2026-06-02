@@ -5,6 +5,7 @@ pylon_id: 70c00539-c61c-458e-9471-510dfc70232b
 published_url: https://support.hackerrank.com/articles/5805684780-Zoom---HackerRank-Interview-Integration
 last_edited: "2024-12-12"
 is_published: true
+sidebar_position: 1
 ---
 
 ## Overview

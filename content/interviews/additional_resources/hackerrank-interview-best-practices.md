@@ -5,6 +5,7 @@ pylon_id: ed2178da-c591-41d5-9acc-c0c02a7a84b8
 published_url: https://support.hackerrank.com/articles/5533854049-HackerRank-Interview-Best-Practices
 last_edited: "2025-07-07"
 is_published: true
+sidebar_position: 6
 ---
 
 This guide has been developed to assist you and your organization with best practices for HackerRank Interviews.

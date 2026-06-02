@@ -5,6 +5,7 @@ pylon_id: 432af9ab-8b77-446f-b982-65dd323adec9
 published_url: https://support.hackerrank.com/articles/7392770596-Source-and-Manage-Candidates-for-Events
 last_edited: "2026-04-22"
 is_published: true
+sidebar_position: 2
 ---
 
 After setting up your event, you can source and manage candidates through the following:

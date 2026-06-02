@@ -5,6 +5,7 @@ pylon_id: 06a2dfae-837f-4307-94c8-730f4988368e
 published_url: https://support.hackerrank.com/articles/4262355406-Code-Review-Questions
 last_edited: "2026-03-26"
 is_published: true
+sidebar_position: 6
 ---
 
 Code Review questions assess a candidate's ability to review and critique existing code, mirroring real-world engineering workflows. These questions are suitable for senior-level candidates who have industry experience, mentor others, or regularly participate in code reviews.

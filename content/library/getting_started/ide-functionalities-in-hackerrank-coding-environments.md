@@ -5,6 +5,7 @@ pylon_id: 951bd490-f87a-4f43-b216-6c284c640281
 published_url: https://support.hackerrank.com/articles/3699635252-IDE-Functionalities-in-HackerRank-Coding-Environments
 last_edited: "2026-05-20"
 is_published: true
+sidebar_position: 2
 ---
 
 HackerRank coding environments provide IDE features that improve code editing, navigation, debugging, and developer productivity across Front-end, Back-end, Full-stack, Mobile, QA Engineer, and Generative AI question types.

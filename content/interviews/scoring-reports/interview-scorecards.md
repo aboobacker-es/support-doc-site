@@ -5,6 +5,7 @@ pylon_id: 71ef5ddf-392f-447e-9569-78591ba1f6a8
 published_url: https://support.hackerrank.com/articles/9842091173-Interview-Scorecards
 last_edited: "2025-12-30"
 is_published: true
+sidebar_position: 1
 ---
 
 The interviewer scorecard is a private scorecard for interviewers to manually evaluate candidate skills during an interview. Each scorecard lists predefined skills based on the candidate’s role and provides structured input fields for feedback.

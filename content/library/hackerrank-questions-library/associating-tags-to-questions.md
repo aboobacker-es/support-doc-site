@@ -5,6 +5,7 @@ pylon_id: 328ce3de-84dd-44cc-8985-d57e02fc9d4e
 published_url: https://support.hackerrank.com/articles/9412060538-Associating-Tags-to-Questions
 last_edited: "2026-03-30"
 is_published: true
+sidebar_position: 6
 ---
 
 HackerRank for Work allows you to categorize your questions by setting difficulty levels through tags. Based on a question’s complexity, you can assign tags such as Easy, Medium, or Hard. Additionally, you can add custom tags to organize questions by subject or parameters like Algorithm, Problem-Solving, etc.

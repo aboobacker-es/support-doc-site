@@ -5,6 +5,7 @@ pylon_id: 4e01ca05-5311-455a-a61c-4aab5bfc8dec
 published_url: https://support.hackerrank.com/articles/8398508792-Export-Interview-List
 last_edited: "2026-04-21"
 is_published: true
+sidebar_position: 30
 ---
 
 You can download the interview list as a `.csv` file to view, share, or analyze interview data offline.

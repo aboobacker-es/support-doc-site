@@ -5,6 +5,7 @@ pylon_id: 9f40d0e2-4d2d-4756-a04f-8d1b021e89f5
 published_url: https://support.hackerrank.com/articles/5847159594-Scorecard-Assist
 last_edited: "2026-01-28"
 is_published: true
+sidebar_position: 3
 ---
 
 This feature is part of the AI Add-on. For more information, see [📄 HackerRank AI Add-on](</articles/5847651809>).

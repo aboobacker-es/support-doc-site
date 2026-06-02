@@ -5,6 +5,7 @@ pylon_id: c6ac8b56-edf9-4d16-94a7-258d49c7e9b6
 published_url: https://support.hackerrank.com/articles/3527033062-Front-End,-Back-End-and-Full-Stack-Test-Reports-
 last_edited: "2025-01-20"
 is_published: true
+sidebar_position: 18
 ---
 
 You can view the Test report of a candidate after the candidate has taken a test. For Front-end, Back-end, and Full-stack project-type questions, the report displays a Candidate's performance score based on the scoring mechanism specified. You can conduct further review and evaluation by downloading or launching the Candidate's project directly in an IDE.

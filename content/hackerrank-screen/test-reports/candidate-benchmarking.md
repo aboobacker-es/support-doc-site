@@ -5,6 +5,7 @@ pylon_id: a05cf74b-b55b-4558-9aa8-59eea58f3414
 published_url: https://support.hackerrank.com/articles/6075450367-Candidate-Benchmark
 last_edited: "2026-01-28"
 is_published: true
+sidebar_position: 3
 ---
 
 Candidate Performance Benchmark helps you understand how candidates perform compared to others who have attempted the same questions. It calculates a candidate’s percentile based on their score compared to all other test-takers during the last calendar year. This method provides a standardized way to understand performance regardless of question difficulty or test composition.

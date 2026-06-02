@@ -5,6 +5,7 @@ pylon_id: 63522882-7ffe-47fa-8f40-57f96ef4c11d
 published_url: https://support.hackerrank.com/articles/7530103378-Create-Test-Variants
 last_edited: "2026-01-28"
 is_published: true
+sidebar_position: 13
 ---
 
 Test variants allow you to create a single assessment that adapts to different candidate profiles. You can design multiple variants within the same assessment to personalize the evaluation based on roles, skills, or other criteria. This approach eliminates the need to manage separate tests, improves efficiency, and ensures candidates are assessed on the most relevant content.

@@ -5,6 +5,7 @@ pylon_id: 63c2c81e-de74-4ada-8659-2a06c852a040
 published_url: https://support.hackerrank.com/articles/2354192461-Question-Types-in-HackerRank
 last_edited: "2026-05-08"
 is_published: true
+sidebar_position: 3
 ---
 
 HackerRank Tests support multiple question types that help you evaluate different skills in a single assessment or interview. You can add questions from the HackerRank Library or create custom questions based on your hiring requirements.

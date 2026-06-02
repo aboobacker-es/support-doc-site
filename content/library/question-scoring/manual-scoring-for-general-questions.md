@@ -5,6 +5,7 @@ pylon_id: ffee0a66-7317-42d5-a51b-4e447065652a
 published_url: https://support.hackerrank.com/articles/2056253220-Manual-Scoring-for-General-Question-Types
 last_edited: "2026-03-30"
 is_published: true
+sidebar_position: 2
 ---
 
 Manual scoring allows you to review each candidate's submission and assign a score based on your evaluation.

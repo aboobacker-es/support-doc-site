@@ -5,6 +5,7 @@ pylon_id: 84ad461d-2550-4e7e-81ae-7f9338aee634
 published_url: https://support.hackerrank.com/articles/7571200514-Attach-a-File-to-a-Problem-Statement
 last_edited: "2025-05-14"
 is_published: true
+sidebar_position: 5
 ---
 
 You can support your problem statement by attaching a relevant file while creating a question. This file can be included by uploading it as an attachment or linking it directly within the **Problem Description**. During the test, candidates can view and download the file from the question description section.

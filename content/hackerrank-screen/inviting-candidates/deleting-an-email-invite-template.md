@@ -5,6 +5,7 @@ pylon_id: 812ae5ee-07a1-4ccc-ae4c-835d367d44b4
 published_url: https://support.hackerrank.com/articles/1128741183-Deleting-an-Email-Template
 last_edited: "2026-05-27"
 is_published: true
+sidebar_position: 22
 ---
 
 Once created, you can delete an existing Email Invite Template if you no longer require it. This article will walk you through the steps to delete the existing Email Invite Template. 

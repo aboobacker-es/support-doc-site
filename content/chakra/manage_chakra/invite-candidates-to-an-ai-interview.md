@@ -5,6 +5,7 @@ pylon_id: d4f007d8-ebf7-4d14-beb5-a464340891f7
 published_url: https://support.hackerrank.com/articles/5542727476-Invite-Candidates-to-an-AI-Interview
 last_edited: "2026-04-19"
 is_published: true
+sidebar_position: 6
 ---
 
 Chakra allows recruiters to invite candidates to an AI interview through an interview link. Candidates can use this link to start the interview.

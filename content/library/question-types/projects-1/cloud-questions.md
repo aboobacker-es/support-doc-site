@@ -5,6 +5,7 @@ pylon_id: 67b27213-499f-4463-b979-68e4bca60f48
 published_url: https://support.hackerrank.com/articles/1938573113-Cloud-Questions
 last_edited: "2026-05-08"
 is_published: true
+sidebar_position: 5
 ---
 
 Cloud questions assess cloud computing skills through real-world, hands-on tasks performed on cloud platforms. HackerRank provides temporary access to a cloud provider’s UI console, allowing candidates to complete tasks during a test or interview.

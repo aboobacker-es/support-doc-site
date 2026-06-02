@@ -5,6 +5,7 @@ pylon_id: 5c5a5daf-f65a-4b16-9c91-c5f60a41250c
 published_url: https://support.hackerrank.com/articles/8491534135-Greenhouse---Chakra-Integration-User-Guide
 last_edited: "2026-04-22"
 is_published: true
+sidebar_position: 3
 ---
 
 This guide outlines how to use the Greenhouse - HackerRank integration to schedule Chakra interviews and review interview results directly in Greenhouse.

@@ -5,6 +5,7 @@ pylon_id: dae50d43-6d17-4b5b-848c-3123444c5cd3
 published_url: https://support.hackerrank.com/articles/6424218208-Introduction-to-HackerRank-Engage
 last_edited: "2025-10-15"
 is_published: true
+sidebar_position: 9
 ---
 
 HackerRank Engage is a platform that helps companies strengthen their tech brand and attract top-tier developers through developer-focused events. It enables organizations to source candidates from multiple channels, build relationships, and maintain an active talent pipeline all within a single platform.

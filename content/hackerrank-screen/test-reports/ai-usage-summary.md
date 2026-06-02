@@ -5,6 +5,7 @@ pylon_id: 5075d153-4ed1-4bf5-bea2-8fbdd0a4643f
 published_url: https://support.hackerrank.com/articles/1773201418-AI-Fluency-Evaluation
 last_edited: "2026-02-11"
 is_published: true
+sidebar_position: 16
 ---
 
 This feature is part of the AI Add-on. For more information, see [📄 Advanced Evaluation](</articles/7098008997>).

@@ -5,6 +5,7 @@ pylon_id: a5021c14-9d67-4722-b6c3-41fcb7155cac
 published_url: https://support.hackerrank.com/articles/6908366644-Introduction-to-Chakra
 last_edited: "2026-05-20"
 is_published: true
+sidebar_position: 1
 ---
 
 Chakra is an AI-powered interviewer that conducts fully autonomous interviews for technical and non-technical roles. It mirrors the structure and rigor of real-world interviews. It delivers consistent and unbiased candidate evaluations and supports high-volume hiring without compromising interview quality or integrity.

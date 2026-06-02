@@ -5,6 +5,7 @@ pylon_id: d729f033-c871-4a86-94d2-3525e9804d46
 published_url: https://support.hackerrank.com/articles/2274056414-Hide-Question-Title
 last_edited: "2025-10-14"
 is_published: true
+sidebar_position: 9
 ---
 
 You can enhance test integrity by hiding question titles from candidates during an assessment. When you enable this feature, candidates cannot view the original titles of questions in a test. This reduces the risk of online answer searches.

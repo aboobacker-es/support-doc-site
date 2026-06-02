@@ -5,6 +5,7 @@ pylon_id: d1083020-a1a0-4f28-b14a-ff41e4c9050d
 published_url: https://support.hackerrank.com/articles/8016598860-Use-Templates-in-Interviews
 last_edited: "2025-12-15"
 is_published: true
+sidebar_position: 41
 ---
 
 You can use and manage templates during an interview.

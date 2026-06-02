@@ -5,6 +5,7 @@ pylon_id: 2174fddb-0221-4709-8bed-d2b279ab54e4
 published_url: https://support.hackerrank.com/articles/6201558176-Assess-Candidates-in-Canadian-French-Language
 last_edited: "2025-09-03"
 is_published: true
+sidebar_position: 10
 ---
 
 HackerRank enables test administrators to configure the candidate-facing language for assessments. This setting determines the language displayed in the candidate’s emails, login screen, and test environment. You can select **English** or **Canadian French** when sending tests.

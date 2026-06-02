@@ -5,6 +5,7 @@ pylon_id: bfd40a5d-c508-4567-bc35-ba85aab62f35
 published_url: https://support.hackerrank.com/articles/7771245202-HTML/CSS/JavaScript-Questions
 last_edited: "2026-03-26"
 is_published: true
+sidebar_position: 4
 ---
 
 HTML/CSS/JavaScript questions evaluate a candidate’s ability to build functional and visually accurate web interfaces using core front-end technologies.

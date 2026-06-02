@@ -5,6 +5,7 @@ pylon_id: 47da4439-8ba0-4382-a4fe-8d1da12de69c
 published_url: https://support.hackerrank.com/articles/9248897371-Quick-Start-Guide-for-Recruiters
 last_edited: "2025-02-13"
 is_published: true
+sidebar_position: 1
 ---
 
 HackerRank is a technology hiring platform designed to help companies efficiently hire skilled developers in a remote-first world. It enables objective evaluation of tech talent at every stage of the recruiting process. This article introduces the key features of HackerRank Screen to help you get started.

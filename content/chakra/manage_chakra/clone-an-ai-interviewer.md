@@ -5,6 +5,7 @@ pylon_id: 524103db-29fa-4323-a9b1-9024a52cb8be
 published_url: https://support.hackerrank.com/articles/8961150967-Clone-an-AI-Interviewer
 last_edited: "2026-04-15"
 is_published: true
+sidebar_position: 5
 ---
 
 Clone an AI interviewer to create a copy of an existing interviewer, including its prompts and sections. You can use the cloned version to adapt the setup for a different role without creating a new interviewer from scratch.

@@ -5,6 +5,7 @@ pylon_id: ee8332a8-5898-49f5-be72-21aa7981f98d
 published_url: https://support.hackerrank.com/articles/2528926257-Modify-Sections-Settings-for-Tests
 last_edited: "2025-07-30"
 is_published: true
+sidebar_position: 3
 ---
 
 You can control how test sections are displayed, ordered, and navigated to create a structured test-taking experience for candidates.

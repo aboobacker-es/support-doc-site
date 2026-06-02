@@ -5,6 +5,7 @@ pylon_id: 6705acd6-bdf9-4870-9753-7003d5a26fb7
 published_url: https://support.hackerrank.com/articles/9544354489-Configure-Test-Invites-Settings-for-Tests
 last_edited: "2025-07-30"
 is_published: true
+sidebar_position: 2
 ---
 
 You can manage how test invites are generated, shared, and secured. HackerRank lets you configure the following test invite settings:

@@ -5,6 +5,7 @@ pylon_id: 04053e4c-5446-467e-9362-16e7cff7e3c1
 published_url: https://support.hackerrank.com/articles/2284202564-Hide-Locked-Tabs-in-Interviews
 last_edited: "2025-09-28"
 is_published: true
+sidebar_position: 2
 ---
 
 You can use the **Automatic Tab Locking and Hiding** feature to help candidates stay focused during an interview. This feature ensures that only the active tab is visible to the candidate, allowing you to control the interview flow.

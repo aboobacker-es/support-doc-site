@@ -5,6 +5,7 @@ pylon_id: 32362a5d-ee40-47bd-bb3f-4cb3bf3d9d51
 published_url: https://support.hackerrank.com/articles/2096315953-Test-Labels
 last_edited: "2026-05-27"
 is_published: true
+sidebar_position: 17
 ---
 
 You can create labels for the tests in HackerRank. The labels are nothing but a set of words and phrases which will help in organizing your tests. With the help of these labels, you can easily filter and find the relevant tests. This article will walk you through the steps in creating the test labels. 

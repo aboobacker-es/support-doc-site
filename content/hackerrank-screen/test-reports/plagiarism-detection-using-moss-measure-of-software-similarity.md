@@ -5,6 +5,7 @@ pylon_id: 041ed132-4865-467a-abe4-c2f1df41fb27
 published_url: https://support.hackerrank.com/articles/2106056073-Plagiarism-Detection-Using-MOSS-(Measure-of-Software-Similarity)
 last_edited: "2026-05-27"
 is_published: true
+sidebar_position: 9
 ---
 
 Plagiarism in the hiring process compromises the integrity of evaluations, making it difficult to assess a candidate’s ability. Plagiarism detection tools help maintain fairness, creating a level playing field that leads to better hiring decisions.

@@ -5,6 +5,7 @@ pylon_id: dc0bc8d9-3689-4624-9d4e-4b0ee7b9f059
 published_url: https://support.hackerrank.com/articles/2686193421-Best-Practices-for-Running-Group-Assessments-in-HackerRank-Desktop-App-Mode
 last_edited: "2026-03-12"
 is_published: true
+sidebar_position: 15
 ---
 
 This article provides best practices for running group assessments in HackerRank Desktop App Mode, where multiple candidates take the assessment simultaneously at a shared physical location. Following these guidelines helps ensure a smooth, stable, and fair assessment experience for all candidates.

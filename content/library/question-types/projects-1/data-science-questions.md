@@ -5,6 +5,7 @@ pylon_id: 81e3c4cc-ad39-4fac-8bab-5a8f298ad253
 published_url: https://support.hackerrank.com/articles/5187107609-Data-Science-Questions
 last_edited: "2026-04-22"
 is_published: true
+sidebar_position: 4
 ---
 
 Data Science questions help you evaluate candidates on real-world data science skills using hands-on, practical challenges.

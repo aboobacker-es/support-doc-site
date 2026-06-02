@@ -5,6 +5,7 @@ pylon_id: 0932710c-bad5-4bab-9878-a1a9b7163d14
 published_url: https://support.hackerrank.com/articles/8263794320-Viewing-a-Candidate's-Detailed-Test-Report
 last_edited: "2026-01-28"
 is_published: true
+sidebar_position: 2
 ---
 
 HackerRank for Work provides Detailed Test reports that help you review your candidate's performance in a test. These test reports are generated once the candidate submits their test, their answers are evaluated, and the scores are assigned based on the scoring mechanism.

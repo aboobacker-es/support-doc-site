@@ -5,6 +5,7 @@ pylon_id: 66dd8f3f-495f-438f-a127-a93fee65edd9
 published_url: https://support.hackerrank.com/articles/7355446816-Generative-AI-Questions
 last_edited: "2026-03-26"
 is_published: true
+sidebar_position: 7
 ---
 
 Generative AI questions assess a candidate’s ability to design, build, and evaluate AI-powered solutions in real-world environments.

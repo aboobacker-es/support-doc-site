@@ -5,6 +5,7 @@ pylon_id: 28cfbf56-d0f6-49be-a4b8-ebeda4c0f974
 published_url: https://support.hackerrank.com/articles/8404005945-Create-an-Interview
 last_edited: "2026-04-22"
 is_published: true
+sidebar_position: 3
 ---
 
 As a recruiter, you can schedule an interview between candidates and interviewers. You can start an interview immediately or schedule an interview at a convenient time.

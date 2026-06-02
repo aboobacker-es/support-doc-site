@@ -5,6 +5,7 @@ pylon_id: 4ed6a9d7-c611-4bf3-9b73-6461998379c7
 published_url: https://support.hackerrank.com/articles/9607697321-Review-Integrity-Issues-in-Proctor-Mode
 last_edited: "2026-04-21"
 is_published: true
+sidebar_position: 12
 ---
 
 Proctor Mode generates Summary Report, Session Replay, and Detailed Report to help you assess candidate behavior and overall test integrity. This article explains how to interpret these reports and review common integrity issues.

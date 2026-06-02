@@ -5,6 +5,7 @@ pylon_id: ac698fb6-3bd3-4066-8b98-bed8230ae1c3
 published_url: https://support.hackerrank.com/articles/8472393759-Ashby---Chakra-Integration-User-Guide
 last_edited: "2026-04-22"
 is_published: true
+sidebar_position: 4
 ---
 
 This guide outlines how to use the Ashby - HackerRank integration to schedule Chakra interviews and review interview results directly in Greenhouse.

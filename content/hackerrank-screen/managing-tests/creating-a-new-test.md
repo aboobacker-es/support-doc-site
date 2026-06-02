@@ -5,6 +5,7 @@ pylon_id: 77d2d5da-424e-428c-9fad-0af7e58c70d0
 published_url: https://support.hackerrank.com/articles/6967597139-Create-a-Test
 last_edited: "2025-12-03"
 is_published: true
+sidebar_position: 1
 ---
 
 You can create a test in HackerRank to assess candidates for specific skills, experience levels, or job roles. Depending on your selection, HackerRank recommends relevant questions or allows you to build the test from scratch.

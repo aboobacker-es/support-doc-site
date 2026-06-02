@@ -5,6 +5,7 @@ pylon_id: 45c02af4-ba05-4385-b4bc-101cd6473efb
 published_url: https://support.hackerrank.com/articles/2513748038-Multiple-Choice-Questions
 last_edited: "2026-03-26"
 is_published: true
+sidebar_position: 3
 ---
 
 Multiple Choice Questions (MCQs) allow candidates to select one or more correct answers from a list of options. The system evaluates responses automatically based on the answer key defined for the question.

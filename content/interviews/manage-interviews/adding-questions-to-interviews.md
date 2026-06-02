@@ -5,6 +5,7 @@ pylon_id: d69e0da9-ed0d-4b7b-b661-285180ef4911
 published_url: https://support.hackerrank.com/articles/6761309830-Add-Questions-to-Interview
 last_edited: "2026-04-22"
 is_published: true
+sidebar_position: 23
 ---
 
 You can add existing questions from the HackerRank Library, your company library, or by creating custom questions during an interview session.

@@ -5,6 +5,7 @@ pylon_id: 2bb3c274-756c-445d-a515-207b8dce4eda
 published_url: https://support.hackerrank.com/articles/3225598042-Clone-a-Test
 last_edited: "2025-09-25"
 is_published: true
+sidebar_position: 5
 ---
 
 Cloning a test allows you to create a new test with the same questions and settings as the original. Changes made to the original test after cloning do not appear in the cloned test, and changes in the cloned test do not affect the original.

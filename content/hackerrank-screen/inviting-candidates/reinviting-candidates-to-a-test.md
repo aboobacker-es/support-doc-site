@@ -5,6 +5,7 @@ pylon_id: a7b4d9b2-f6b2-4b57-826b-30061839be41
 published_url: https://support.hackerrank.com/articles/1002936098-Reinvite-Candidates-to-a-Test
 last_edited: "2025-12-04"
 is_published: true
+sidebar_position: 25
 ---
 
 If a candidate experiences an issue such as a power outage or loss of internet connection, you can reinvite them to retake the test at any time. You do not need to delete the previous invite or attempt before sending a new one.

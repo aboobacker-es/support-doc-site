@@ -5,6 +5,7 @@ pylon_id: 0558ab60-50ff-4e8d-8aa2-f3345050de54
 published_url: https://support.hackerrank.com/articles/6788713830-Interview-Report
 last_edited: "2026-04-22"
 is_published: true
+sidebar_position: 2
 ---
 
 The interview report provides a detailed view of candidate performance. It helps interviewers and hiring managers to review responses and make informed hiring decisions.

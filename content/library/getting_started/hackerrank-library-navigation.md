@@ -5,6 +5,7 @@ pylon_id: 9be5d44e-f75b-401f-9905-e4f5037cbdde
 published_url: https://support.hackerrank.com/articles/5664166353-Introduction-to-HackerRank-Library
 last_edited: "2026-03-30"
 is_published: true
+sidebar_position: 1
 ---
 
 The HackerRank Library provides ready-to-use questions for tests and interviews. It includes:

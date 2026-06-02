@@ -5,6 +5,7 @@ pylon_id: ddb4a9df-d392-4791-afdd-180046a311ae
 published_url: https://support.hackerrank.com/articles/9059560249-Introduction-to-HackerRank-Interviews
 last_edited: "2026-04-22"
 is_published: true
+sidebar_position: 1
 ---
 
 HackerRank Interviews is an online platform for conducting live coding interviews. Interviewers can use the platform to invite candidates to a live session, where both the candidate and the interviewer communicate, write code, and collaborate in real time.

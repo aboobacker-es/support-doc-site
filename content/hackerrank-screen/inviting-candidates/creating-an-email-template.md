@@ -5,6 +5,7 @@ pylon_id: 3b715b2f-91aa-4860-a1f5-d60a04bf6dbf
 published_url: https://support.hackerrank.com/articles/9684438314-Manage-Email-Templates
 last_edited: "2026-01-28"
 is_published: true
+sidebar_position: 19
 ---
 
 Email templates in HackerRank allow you to standardize and streamline candidate communications. You can create, edit, reuse, and share customized email invitation templates with your team to ensure consistent messaging across hiring scenarios.

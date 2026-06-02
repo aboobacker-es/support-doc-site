@@ -5,6 +5,7 @@ pylon_id: 97bc1008-7a85-438b-a9c7-62f9f8a8effd
 published_url: https://support.hackerrank.com/articles/8415416322-Archive-a-Test
 last_edited: "2025-09-25"
 is_published: true
+sidebar_position: 6
 ---
 
 Archiving a test helps you manage your test library by moving unused tests out of the **Active Tests** tab. An archived test is no longer available for inviting candidates or publishing. You can restore an archived test at any time.

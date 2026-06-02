@@ -5,6 +5,7 @@ pylon_id: a96b90e0-0d7b-4b13-88d7-3ee665933d9f
 published_url: https://support.hackerrank.com/articles/6697457900-Share-a-Question
 last_edited: "2025-09-25"
 is_published: true
+sidebar_position: 2
 ---
 
 You can share questions created by you and your team members in your organization. You can grant **Viewer** or **Editor** access, or transfer ownership to another team member.

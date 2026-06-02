@@ -5,6 +5,7 @@ pylon_id: e93675ae-ad1b-4ee6-ae17-bf1bd8999b97
 published_url: https://support.hackerrank.com/articles/1786677446-Download-Test-Reports
 last_edited: "2025-10-14"
 is_published: true
+sidebar_position: 7
 ---
 
 HackerRank test reports provide a detailed view of a candidate’s performance and scores in a test. After candidates complete a test, you can view their detailed performance reports and download them in PDF or Excel formats.

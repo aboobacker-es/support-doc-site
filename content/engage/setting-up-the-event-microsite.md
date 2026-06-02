@@ -5,6 +5,7 @@ pylon_id: 50800ac1-a072-45fe-8069-7d3cfd3f2162
 published_url: https://support.hackerrank.com/articles/3958121708-Set-Up-a-Microsite
 last_edited: "2025-10-15"
 is_published: true
+sidebar_position: 3
 ---
 
 You can set up a microsite to present your event details, customize the candidate experience, and promote your employer brand.

@@ -5,6 +5,7 @@ pylon_id: 7797ed51-3597-4c8a-a03a-301a623dbde5
 published_url: https://support.hackerrank.com/articles/3087722674-Data-Science-Projects-in-HackerRank-Interviews
 last_edited: "2025-06-05"
 is_published: true
+sidebar_position: 27
 ---
 
 You can now import Data Science questions into the HackerRank interviews. With this feature, interviewers can assess candidates on skills during live interviews, view their code inside the Interview report, and rerun the same inside the IDE. This article will walk you through the steps to import Data Science project questions in HackerRank Interview. 

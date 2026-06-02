@@ -5,6 +5,7 @@ pylon_id: 4cdf702e-ea8a-41e8-a2e9-9a93a827940a
 published_url: https://support.hackerrank.com/articles/2097730024-Revoke-Test-Access
 last_edited: "2025-06-26"
 is_published: true
+sidebar_position: 3
 ---
 
 HackerRank for Work allows admins to revoke test access from specific users or teams.

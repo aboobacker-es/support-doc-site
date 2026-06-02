@@ -5,6 +5,7 @@ pylon_id: 28f6c7e9-8fb1-4fe4-ae87-d71765814384
 published_url: https://support.hackerrank.com/articles/7394210877-AI-Solvability-Indicator-and-Filter
 last_edited: "2025-09-25"
 is_published: true
+sidebar_position: 9
 ---
 
 HackerRank automatically flags coding questions that artificial intelligence (AI) tools, such as ChatGPT, Gemini, etc. can solve in its library. To ensure transparency, HackerRank performs monthly automated analyses of its question library to simulate how AI tools would perform on these questions. This feature aims to inform users about AI-solvable questions, helping them design tests effectively, particularly where plagiarism might be a concern.

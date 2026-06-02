@@ -5,6 +5,7 @@ pylon_id: f2a21f12-edf6-4cf2-9620-850bd5cdbea9
 published_url: https://support.hackerrank.com/articles/3255724462-View-Test-Question-Insights
 last_edited: "2026-01-27"
 is_published: true
+sidebar_position: 7
 ---
 
 HackerRank provides insights into every test question to help recruiters analyze candidate performance across multiple parameters. The insights show how candidates approach a question and their success rate in solving it. You can use this analysis to select suitable questions for your test.

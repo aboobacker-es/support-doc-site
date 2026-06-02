@@ -5,6 +5,7 @@ pylon_id: 796d4944-9f64-4ac4-afdd-ba758655feec
 published_url: https://support.hackerrank.com/articles/7581923631-Configure-Single-Sign-On-(SSO)-for-SkillUp
 last_edited: "2025-11-05"
 is_published: true
+sidebar_position: 2
 ---
 
 SSO allows members of your organization to securely access SkillUp using their existing corporate credentials, eliminating the need for separate login details.

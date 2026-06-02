@@ -5,6 +5,7 @@ pylon_id: 6b2385c3-0f5c-4eb9-a66b-abf4cd2f3078
 published_url: https://support.hackerrank.com/articles/9322191698-End-your-Event-on-a-High-Note-With-the-Leaderboard
 last_edited: "2025-01-21"
 is_published: true
+sidebar_position: 6
 ---
 
 Once the event is completed, create a buzz about your tech brand by publishing the event leaderboard from the **Candidates** tab. 

@@ -5,6 +5,7 @@ pylon_id: a0e967dc-9f85-43be-b9e2-96bffefd6078
 published_url: https://support.hackerrank.com/articles/9999244916-Question-Types-in-HackerRank-Interviews
 last_edited: "2025-04-10"
 is_published: true
+sidebar_position: 11
 ---
 
 ## Overview

@@ -5,6 +5,7 @@ pylon_id: 07119f1f-45dc-4777-9fdb-684b6cfe02d4
 published_url: https://support.hackerrank.com/articles/7964147006-Test-Insights
 last_edited: "2026-05-27"
 is_published: true
+sidebar_position: 4
 ---
 
 HackerRank Insights, powered by Highcharts, provides powerful analytics to evaluate candidate performance across tests. The interactive graphs enable you to explore trends in scores, assess question difficulty, and monitor overall test completion rates.

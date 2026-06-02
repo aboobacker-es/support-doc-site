@@ -5,6 +5,7 @@ pylon_id: 5a9f0b30-5761-4b93-b374-09919000e7bd
 published_url: https://support.hackerrank.com/articles/7127221409-Send-Bulk-Email-Invites
 last_edited: "2025-09-17"
 is_published: true
+sidebar_position: 24
 ---
 
 The Bulk Invite feature allows you to send test invitations to many candidates at once using a CSV file.

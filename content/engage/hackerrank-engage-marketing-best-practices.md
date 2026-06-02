@@ -5,6 +5,7 @@ pylon_id: 8783b442-3997-4575-82e5-c2b70666483b
 published_url: https://support.hackerrank.com/articles/7196095057-HackerRank-Engage---Marketing-Best-Practices
 last_edited: "2024-12-20"
 is_published: true
+sidebar_position: 8
 ---
 
 This article outlines best practices and recommendations for marketing efforts related to HackerRank Engage events. It provides guidance on how to effectively engage with potential candidates, optimize outreach strategies, and leverage existing resources to maximize event success.

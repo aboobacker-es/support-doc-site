@@ -5,6 +5,7 @@ pylon_id: 8490c75f-8d75-4921-b8bf-b676c59f11a3
 published_url: https://support.hackerrank.com/articles/5956879724-Configure-Onboarding-Settings-for-Tests
 last_edited: "2026-04-06"
 is_published: true
+sidebar_position: 4
 ---
 
 HackerRank allows you to configure the onboarding settings for a test to collect candidate details and display test instructions before the test begins. Most settings are optional and customizable to fit your hiring needs.

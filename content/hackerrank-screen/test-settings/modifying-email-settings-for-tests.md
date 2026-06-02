@@ -5,6 +5,7 @@ pylon_id: bf7f1631-0ff2-4263-a607-82e422a2e381
 published_url: https://support.hackerrank.com/articles/2564162886-Configure-Email-Settings-for-Tests
 last_edited: "2025-10-15"
 is_published: true
+sidebar_position: 6
 ---
 
 You can manage the emails sent before, during, and after a test. HackerRank lets you configure the following types of test emails:

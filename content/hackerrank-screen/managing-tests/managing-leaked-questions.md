@@ -5,6 +5,7 @@ pylon_id: 579eb939-7289-4eb3-aafd-d68018a209ec
 published_url: https://support.hackerrank.com/articles/8820947031-Manage-Leaked-Questions
 last_edited: "2026-04-22"
 is_published: true
+sidebar_position: 15
 ---
 
 A question is considered leaked if it appears in publicly accessible search results and matches a HackerRank Library or customer-created question both structurally and semantically.

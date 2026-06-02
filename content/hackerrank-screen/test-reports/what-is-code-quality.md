@@ -5,6 +5,7 @@ pylon_id: b13ef524-f6fb-47ba-8ad2-3c9dd35a6a3c
 published_url: https://support.hackerrank.com/articles/9722863972-What-is-Code-Quality
 last_edited: "2025-08-13"
 is_published: true
+sidebar_position: 20
 ---
 
 Code Quality is an approximation of the usefulness and maintainability of the code in the long term. Code Quality provides insights to the hiring managers about the coding practices and style of the candidate. This enables the hiring managers to make better hiring decisions that are not just based on the accuracy of the code written by the candidate.

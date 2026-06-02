@@ -5,6 +5,7 @@ pylon_id: 88775787-e555-4456-bc3b-f0ac9317ed60
 published_url: https://support.hackerrank.com/articles/1649328687-HackerRank-Certified-Assessments
 last_edited: "2026-05-27"
 is_published: true
+sidebar_position: 2
 ---
 
 ## What is a Certified Assessment? 

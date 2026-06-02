@@ -5,6 +5,7 @@ pylon_id: 84089ab7-9812-4b0f-9fe0-504edd3f0fed
 published_url: https://support.hackerrank.com/articles/5424328799-Modify-Question-Settings-for-Tests
 last_edited: "2026-05-19"
 is_published: true
+sidebar_position: 7
 ---
 
 You can customize question settings in a test to manage programming language access, question display options, and candidate experience for test cases and project questions.

@@ -5,6 +5,7 @@ pylon_id: 3967785f-4620-4098-9c3a-82dab933a08d
 published_url: https://support.hackerrank.com/articles/2125093931-Lock-a-Test
 last_edited: "2026-02-19"
 is_published: true
+sidebar_position: 4
 ---
 
 Locking a test prevents changes to its questions and settings. Only test owners and company administrators can lock or unlock a test.

@@ -5,6 +5,7 @@ pylon_id: a12df25d-381b-4eaf-8b1b-f7097fa1c423
 published_url: https://support.hackerrank.com/articles/8584583879-I/o-Console-Inside-the-Interviews
 last_edited: "2024-12-24"
 is_published: true
+sidebar_position: 32
 ---
 
 ## Overview

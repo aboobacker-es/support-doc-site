@@ -5,6 +5,7 @@ pylon_id: bcc509b5-d27b-4fbe-bc69-49371bc1d760
 published_url: https://support.hackerrank.com/articles/8117531949-Approximate-Solution-Type-Questions
 last_edited: "2026-03-27"
 is_published: true
+sidebar_position: 3
 ---
 
 Approximate Solution questions allow you to assess a candidate’s ability to solve optimization problems where more than one correct answer exists, such as in image processing or computer vision.

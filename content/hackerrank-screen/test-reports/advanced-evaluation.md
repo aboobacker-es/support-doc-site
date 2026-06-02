@@ -5,6 +5,7 @@ pylon_id: 77cf8e0b-57e1-498f-9c64-9526abcb1170
 published_url: https://support.hackerrank.com/articles/7098008997-Advanced-Evaluation
 last_edited: "2026-02-11"
 is_published: true
+sidebar_position: 5
 ---
 
 This feature is part of the AI Add-on. For more information, see [📄 HackerRank AI Add-on](</articles/5847651809>).

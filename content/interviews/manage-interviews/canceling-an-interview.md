@@ -5,6 +5,7 @@ pylon_id: cdd394a2-79c9-4bd0-9963-2b52b3d23782
 published_url: https://support.hackerrank.com/articles/6488043690-Delete-an-Interview
 last_edited: "2025-09-28"
 is_published: true
+sidebar_position: 25
 ---
 
 You can delete a scheduled HackerRank Interview at any time. When you delete an interview, HackerRank automatically sends email notifications to the candidate and all interviewers.

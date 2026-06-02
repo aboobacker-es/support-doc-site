@@ -5,6 +5,7 @@ pylon_id: 8dbda967-8356-4c0a-b048-3160d0a1dcfa
 published_url: https://support.hackerrank.com/articles/8606775858-Scoring-Certified-Assessments
 last_edited: "2025-03-11"
 is_published: true
+sidebar_position: 3
 ---
 
 ## Overview

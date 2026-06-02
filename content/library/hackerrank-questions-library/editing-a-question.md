@@ -5,6 +5,7 @@ pylon_id: 42d7599b-3e87-41db-87f8-088223ef5f32
 published_url: https://support.hackerrank.com/articles/9349097996-Edit-a-Question
 last_edited: "2025-08-14"
 is_published: true
+sidebar_position: 1
 ---
 
 You can edit questions in your personal library that appear under the **My company** questions section. This section displays all questions created by you and other team members in your company.

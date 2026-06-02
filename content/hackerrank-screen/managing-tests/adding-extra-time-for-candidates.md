@@ -5,6 +5,7 @@ pylon_id: 93d61263-173d-419b-9e97-a4a0e7455bd8
 published_url: https://support.hackerrank.com/articles/4811403281-Extend-Test-Duration-for-Candidates
 last_edited: "2026-05-27"
 is_published: true
+sidebar_position: 18
 ---
 
 HackerRank for Work allows you to extend the test duration for candidates in two ways:

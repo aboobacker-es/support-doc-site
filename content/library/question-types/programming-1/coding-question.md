@@ -5,6 +5,7 @@ pylon_id: 7d6a3a86-98de-48f9-89cb-ab17f75c048e
 published_url: https://support.hackerrank.com/articles/2474669643-Coding-Questions
 last_edited: "2026-03-27"
 is_published: true
+sidebar_position: 1
 ---
 
 Coding questions allow you to assess a candidate’s problem-solving skills in specific programming languages. The system evaluates the candidate code submission using predefined test cases.

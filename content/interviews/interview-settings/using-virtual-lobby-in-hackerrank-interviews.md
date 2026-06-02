@@ -5,6 +5,7 @@ pylon_id: e1d49e60-f0e1-40e2-a43b-687266c25830
 published_url: https://support.hackerrank.com/articles/1151935613-Using-Virtual-Lobby-in-HackerRank-Interviews
 last_edited: "2026-05-27"
 is_published: true
+sidebar_position: 3
 ---
 
 ## Overview

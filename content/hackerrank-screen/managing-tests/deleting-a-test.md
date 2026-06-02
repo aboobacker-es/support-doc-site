@@ -5,6 +5,7 @@ pylon_id: 5d22b81b-6a96-451c-84d0-61badffb4869
 published_url: https://support.hackerrank.com/articles/9552481360-Delete-a-Test
 last_edited: "2025-09-03"
 is_published: true
+sidebar_position: 8
 ---
 
 You can delete a test when you no longer need it. Deleting a test permanently removes it from your account along with all associated candidate reports. The questions used in the test remain in your Library.

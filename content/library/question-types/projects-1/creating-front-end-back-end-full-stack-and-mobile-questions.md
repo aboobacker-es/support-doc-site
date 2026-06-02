@@ -5,6 +5,7 @@ pylon_id: 908ad923-0654-46e7-a50c-e6c53b3146fd
 published_url: https://support.hackerrank.com/articles/1570281449-Front-end,-Back-end,-Full-stack,-Mobile,-and-QA-Engineer-Questions
 last_edited: "2026-03-30"
 is_published: true
+sidebar_position: 1
 ---
 
 HackerRank project questions help you assess candidates in realistic, project-based development environments. Candidates work with multi-file codebases that simulate real-world software development, making it easier to evaluate their practical skills. 

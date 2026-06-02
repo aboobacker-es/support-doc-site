@@ -5,6 +5,7 @@ pylon_id: ce9218fc-3f4a-4737-a559-fbe0cd739a56
 published_url: https://support.hackerrank.com/articles/1263202297-Observation-Mode-in-Interviews
 last_edited: "2025-04-23"
 is_published: true
+sidebar_position: 35
 ---
 
 Observation Mode in HackerRank Interviews allows interviewers  to monitor a candidate’s screen activity in real time. This feature operates similarly to screen sharing, enabling you to observe the candidate's progress throughout the interview without interruption.

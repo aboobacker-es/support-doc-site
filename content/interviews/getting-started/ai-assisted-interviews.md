@@ -5,6 +5,7 @@ pylon_id: 1492d18e-d7b8-414d-9abd-85483d55a074
 published_url: https://support.hackerrank.com/articles/5821380141-AI-Assisted-Interviews
 last_edited: "2026-04-22"
 is_published: true
+sidebar_position: 8
 ---
 
 This feature is part of the AI Add-on. For more information, see [📄 HackerRank AI Add-on](</articles/5847651809>).

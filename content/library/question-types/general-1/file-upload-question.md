@@ -5,6 +5,7 @@ pylon_id: 6e6227c6-8994-4fd0-95c5-9dfed5bea225
 published_url: https://support.hackerrank.com/articles/3284451474-File-Upload-Questions
 last_edited: "2026-03-26"
 is_published: true
+sidebar_position: 7
 ---
 
 A File Upload question allows you to create tasks that require candidates to submit a file as their response. You can use this question type for simple or complex tasks. For example, ask candidates to submit a sample business plan or upload a `.zip` file containing a coding project.

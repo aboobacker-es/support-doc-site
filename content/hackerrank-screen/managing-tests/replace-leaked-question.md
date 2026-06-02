@@ -5,6 +5,7 @@ pylon_id: 5a5ff31e-aabc-486a-b1c6-226976ab4446
 published_url: https://support.hackerrank.com/articles/2349070108-Replace-Leaked-Question
 last_edited: "2025-11-18"
 is_published: true
+sidebar_position: 9
 ---
 
 When a question is flagged as leaked, a warning icon appears beside its title in your test. You can manually replace any question identified as leaked online.

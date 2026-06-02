@@ -5,6 +5,7 @@ pylon_id: 9f70e231-12d5-47fd-b5c2-7285457cc8a8
 published_url: https://support.hackerrank.com/articles/4755292353-Optimality 
 last_edited: "2025-12-01"
 is_published: true
+sidebar_position: 19
 ---
 
 This feature is part of the AI Add-on. For more information, see [📄 Advanced Evaluation](</articles/7098008997>).

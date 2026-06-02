@@ -5,6 +5,7 @@ pylon_id: c08ada3a-b649-4e27-90d5-1f94940829a0
 published_url: https://support.hackerrank.com/articles/4162887849-Using-Shared-Email-Templates
 last_edited: "2025-01-20"
 is_published: true
+sidebar_position: 21
 ---
 
 Recruiters belonging to different HackerRank Teams can share and reuse email invite Templates. Assuming that you are one of many recruiters in HackerRank, email invite templates created by you and all other recruiters can be shared and reused by all the members.

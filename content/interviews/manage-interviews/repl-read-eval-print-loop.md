@@ -5,6 +5,7 @@ pylon_id: 86c8cba9-3733-4143-8ca9-f421ef13a715
 published_url: https://support.hackerrank.com/articles/6745090586-REPL-[-Read — Eval — Print — Loop]-
 last_edited: "2024-12-12"
 is_published: true
+sidebar_position: 36
 ---
 
 REPL is an “interactive” environment that helps debug and evaluate blocks of code by executing them in realtime. 

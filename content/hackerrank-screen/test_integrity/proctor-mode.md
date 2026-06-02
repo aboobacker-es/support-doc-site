@@ -5,6 +5,7 @@ pylon_id: 90138fc5-1335-48d7-bc61-dc591f99d664
 published_url: https://support.hackerrank.com/articles/5663779659-Proctor-Mode
 last_edited: "2026-04-22"
 is_published: true
+sidebar_position: 2
 ---
 
 This feature is part of the AI Add-on. For more information, see [📄 HackerRank AI Add-on](</articles/5847651809>).

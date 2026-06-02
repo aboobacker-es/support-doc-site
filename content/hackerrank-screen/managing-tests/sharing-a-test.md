@@ -5,6 +5,7 @@ pylon_id: 0329a02a-b483-4e99-89d5-cbabfc258b50
 published_url: https://support.hackerrank.com/articles/9398245856-Grant-Test-Access
 last_edited: "2025-09-01"
 is_published: true
+sidebar_position: 2
 ---
 
 HackerRank for Work allows admins to grant access to a test for specific users or teams.

@@ -5,6 +5,7 @@ pylon_id: 06ddd7bc-c5eb-4f62-a1d8-f9b9a88ec8c6
 published_url: https://support.hackerrank.com/articles/1152916770-AI-Assisted-Tests
 last_edited: "2026-04-22"
 is_published: true
+sidebar_position: 4
 ---
 
 This feature is part of the AI Add-on. For more information, see [📄 HackerRank AI Add-on](</articles/5847651809>).

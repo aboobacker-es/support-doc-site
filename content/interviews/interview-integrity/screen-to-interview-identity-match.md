@@ -5,6 +5,7 @@ pylon_id: 2b4317ac-da37-4a1f-925c-bdef844408fd
 published_url: https://support.hackerrank.com/articles/8605077096-Screen-to-Interview-Identity-Match
 last_edited: "2025-12-01"
 is_published: true
+sidebar_position: 2
 ---
 
 This feature is part of the AI Add-on. For more information, see [📄 HackerRank AI Add-on](</articles/5847651809>).

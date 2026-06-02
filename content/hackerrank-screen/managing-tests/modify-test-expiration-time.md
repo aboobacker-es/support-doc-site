@@ -5,6 +5,7 @@ pylon_id: b76e9cb5-7696-4e2d-81e2-7b451eee6632
 published_url: https://support.hackerrank.com/articles/2979262079-Modify-Test-Expiration-Time
 last_edited: "2026-03-10"
 is_published: true
+sidebar_position: 14
 ---
 
 You can define a start and end time (including time zone) to control when a test remains active.

@@ -5,6 +5,7 @@ pylon_id: 6608481e-ffc0-4bfb-8f68-3fb5b773172f
 published_url: https://support.hackerrank.com/articles/1079706165-HackerRank-Test-Integrity
 last_edited: "2025-11-05"
 is_published: true
+sidebar_position: 1
 ---
 
 HackerRank offers multiple integrity modes and add-on features to help you maintain the right balance between rule enforcement, candidate experience, and compliance.

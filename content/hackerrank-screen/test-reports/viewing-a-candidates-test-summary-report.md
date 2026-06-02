@@ -5,6 +5,7 @@ pylon_id: b9f5126e-7e8f-4653-a86c-49f400b32e92
 published_url: https://support.hackerrank.com/articles/8111267829-View-Candidate-Test-Summary-Report
 last_edited: "2026-01-28"
 is_published: true
+sidebar_position: 1
 ---
 
 HackerRank provides two versions of the candidate Summary Report:

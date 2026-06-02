@@ -5,6 +5,7 @@ pylon_id: d2d5e69e-5ce2-4a4d-b398-76827e865c50
 published_url: https://support.hackerrank.com/articles/4481890289-Download-Tests-as-PDF
 last_edited: "2025-09-01"
 is_published: true
+sidebar_position: 7
 ---
 
 You can download a HackerRank test as a PDF to share or review offline. 

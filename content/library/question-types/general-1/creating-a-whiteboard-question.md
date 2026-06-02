@@ -5,6 +5,7 @@ pylon_id: dff70f98-7dfc-4417-8ee2-2a8594ec3826
 published_url: https://support.hackerrank.com/articles/2578948087-Whiteboard-Questions
 last_edited: "2026-03-26"
 is_published: true
+sidebar_position: 5
 ---
 
 Whiteboard questions replicate traditional system design or brainstorming interviews in a digital, collaborative format. A whiteboard question provides candidates and interviewers with an online whiteboard to draw, sketch, and visually explain technical solutions.

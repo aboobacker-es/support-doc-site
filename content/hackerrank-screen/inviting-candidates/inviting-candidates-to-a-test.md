@@ -5,6 +5,7 @@ pylon_id: 7911bb8a-2966-4ca7-b9ae-956dfbc6fb99
 published_url: https://support.hackerrank.com/articles/6027855406-Invite-Candidates-to-a-Test
 last_edited: "2026-01-28"
 is_published: true
+sidebar_position: 23
 ---
 
 HackerRank for Work allows recruiters to invite candidates to take a test. Test invitations are sent via email, including a link to the test and other necessary details. You can customize your email invitations and save them as templates. 

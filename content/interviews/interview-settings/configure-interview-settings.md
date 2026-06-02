@@ -5,6 +5,7 @@ pylon_id: 02e6d1b4-f99f-4cd5-a56c-06ce62f08b2e
 published_url: https://support.hackerrank.com/articles/6563947154-Configure-Interview-Settings
 last_edited: "2025-09-29"
 is_published: true
+sidebar_position: 1
 ---
 
 You can customize the HackerRank Interview environment to suit your workflow during a live interview.

@@ -5,6 +5,7 @@ pylon_id: 62d68312-6f98-4c48-9ed7-38f6e751d5e3
 published_url: https://support.hackerrank.com/articles/6818900787-View-Candidate-Report-in-Chakra
 last_edited: "2026-04-20"
 is_published: true
+sidebar_position: 7
 ---
 
 The candidate report summarizes a completed AI interview. It organizes evidence and feedback so you can quickly evaluate a candidate's performance and integrity.

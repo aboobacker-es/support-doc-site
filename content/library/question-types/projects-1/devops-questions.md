@@ -5,6 +5,7 @@ pylon_id: 1b620a44-e070-4180-9eb9-a6aa09cf4e99
 published_url: https://support.hackerrank.com/articles/5929074504-DevOps-Questions
 last_edited: "2026-03-26"
 is_published: true
+sidebar_position: 3
 ---
 
 DevOps questions allow you to assess a candidate’s proficiency with Linux through hands-on tasks. Each question provides a sandboxed Linux virtual machine (VM) where candidates complete real-world scenarios, such as:

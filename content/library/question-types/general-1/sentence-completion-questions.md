@@ -5,6 +5,7 @@ pylon_id: 8397b76f-cecc-4ab0-8d89-c21c686b695d
 published_url: https://support.hackerrank.com/articles/5866154232-Sentence-Completion-Questions
 last_edited: "2026-04-06"
 is_published: true
+sidebar_position: 2
 ---
 
 Sentence completion questions are fill-in-the-blank items that assess a candidate’s understanding of a concept or subject. Each question provides a sentence or short passage with one or more missing words or phrases. Candidates type their answers directly into the blanks.

@@ -5,6 +5,7 @@ pylon_id: 7f418d74-0e32-4ad5-9531-a79b8eae708f
 published_url: https://support.hackerrank.com/articles/2342466364-Reschedule-an-Interview
 last_edited: "2025-09-28"
 is_published: true
+sidebar_position: 38
 ---
 
 You can reschedule an interview to a different time. When you reschedule, HackerRank automatically sends email notifications to the candidate and interviewers with the updated time.

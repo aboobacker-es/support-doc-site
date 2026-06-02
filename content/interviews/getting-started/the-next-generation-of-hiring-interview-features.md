@@ -5,6 +5,7 @@ pylon_id: 32521290-82e7-4431-809a-12393c628d44
 published_url: https://support.hackerrank.com/articles/5377881818-The-Next-Generation-of-Hiring:-Interview-Features
 last_edited: "2025-02-21"
 is_published: true
+sidebar_position: 13
 ---
 
 At HackerRank, we are spearheading the AI revolution in developer productivity, fundamentally transforming the software development landscape.

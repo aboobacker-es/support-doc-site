@@ -5,6 +5,7 @@ pylon_id: 2db64c3c-2898-449d-b4c8-efa2eb2b0cf7
 published_url: https://support.hackerrank.com/articles/5161582600-Interview-Integrity-Signals
 last_edited: "2026-04-22"
 is_published: true
+sidebar_position: 1
 ---
 
 Interview Integrity Signals notify interviewers only when the system detects meaningful clusters of suspicious candidate activity, such as multiple copy-paste actions, frequent window resizing, and switching tabs. This grouped notification approach minimizes distractions and ensures that interviewers receive only critical alerts, helping them stay focused during the interview. To learn about the types of supported signals, see[ Types of Suspicious Signals](<https://support.hackerrank.com/articles/5161582600-interview-integrity-signals#types-of-suspicious-signals-11>).

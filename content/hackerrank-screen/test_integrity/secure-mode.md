@@ -5,6 +5,7 @@ pylon_id: 390ab75c-506c-472e-870f-ab089a9c6aa6
 published_url: https://support.hackerrank.com/articles/2545360734-Secure-Mode
 last_edited: "2026-04-21"
 is_published: true
+sidebar_position: 5
 ---
 
 Secure Mode helps maintain the integrity of assessments by preventing unfair practices and ensuring a controlled testing environment. It ensures candidates rely solely on their skills for a fair evaluation.
