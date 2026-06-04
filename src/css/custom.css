@@ -16,10 +16,10 @@
   --ifm-color-primary-lighter:  #4ade80;
   --ifm-color-primary-lightest: #86efac;
 
-  /* Stripe's exact palette */
-  --stripe-ink:        #1a1a2e;   /* headings, strong text */
-  --stripe-body:       #3c4257;   /* body text */
-  --stripe-muted:      #697386;   /* secondary text, labels */
+  /* KB-article exact palette */
+  --stripe-ink:        #0f172a;   /* headings, strong text */
+  --stripe-body:       #374151;   /* body text */
+  --stripe-muted:      #6b7280;   /* secondary text, labels */
   --stripe-border:     #e3e8ee;   /* borders, dividers */
   --stripe-surface:    #f6f9fc;   /* subtle bg, code, table headers */
   --stripe-white:      #ffffff;
@@ -29,22 +29,22 @@
     'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
   --ifm-font-family-monospace: 'SFMono-Regular', Consolas,
     'Liberation Mono', Menlo, Courier, monospace;
-  --ifm-font-size-base:   15px;
-  --ifm-line-height-base: 1.7;
+  --ifm-font-size-base:   16px;
+  --ifm-line-height-base: 1.75;
   --ifm-font-weight-bold: 600;
   --ifm-font-color-base:       var(--stripe-body);
   --ifm-font-color-secondary:  var(--stripe-muted);
 
-  /* Headings */
+  /* Headings — exact match to KB-article globals.css */
   --ifm-heading-font-weight: 700;
   --ifm-heading-color:       var(--stripe-ink);
-  --ifm-h1-font-size:  2rem;       /* 30px — Stripe H1 */
+  --ifm-h1-font-size:  1.875rem;   /* 30px at 16px base */
   --ifm-h2-font-size:  1.3125rem;  /* 21px */
-  --ifm-h3-font-size:  1.0625rem;  /* 17px */
-  --ifm-h4-font-size:  0.9375rem;  /* 15px */
+  --ifm-h3-font-size:  1.125rem;   /* 18px */
+  --ifm-h4-font-size:  1rem;       /* 16px */
 
   /* Layout */
-  --ifm-navbar-height:        57px;
+  --ifm-navbar-height:        63px;
   --ifm-sidebar-width:        260px;
   --doc-sidebar-width:        260px;
   --ifm-container-width-xl:   1440px;
@@ -131,11 +131,20 @@
 html {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  scroll-behavior: smooth;
 }
 
 body {
   color: var(--stripe-body);
+  font-size: 16px;
+  line-height: 1.75;
 }
+
+/* ─── Scrollbar — thin, transparent until hover (KB-article style) ──────── */
+::-webkit-scrollbar { width: 4px; height: 4px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: transparent; border-radius: 4px; transition: background 0.2s; }
+::-webkit-scrollbar-thumb:hover { background: #c8d0d8; }
 
 /* ─── Navbar — white, KB-article style ──────────────────────────────────── */
 .navbar {
@@ -490,54 +499,51 @@ body {
   color: #c9d1d9;
 }
 
-/* H1 — Stripe: ~32px, weight 800, very dark */
+/* H1 — 30px, weight 700 (KB-article exact) */
 .markdown h1 {
-  font-size: var(--ifm-h1-font-size);
-  font-weight: 800;
+  font-size: 30px;
+  font-weight: 700;
   color: var(--stripe-ink);
   letter-spacing: -0.03em;
   line-height: 1.2;
-  margin-bottom: 8px;
+  margin: 0 0 8px;
   border: none;
 }
 
-/* Subtitle paragraph immediately after H1 — Stripe's lede style */
+/* Subtitle paragraph immediately after H1 */
 .markdown h1 + p {
-  font-size: 1.125rem;
+  font-size: 18px;
   color: var(--stripe-muted);
   font-weight: 400;
   line-height: 1.6;
   margin-bottom: 2rem;
 }
 
-/* H2 — Stripe: ~21px, weight 700, dark, NO bottom border */
+/* H2 — 21px, weight 700 */
 .markdown h2 {
-  font-size: var(--ifm-h2-font-size);
+  font-size: 21px;
   font-weight: 700;
   color: var(--stripe-ink);
   letter-spacing: -0.02em;
-  margin-top: 2.5rem;
-  margin-bottom: 0.75rem;
-  border: none;   /* Stripe H2 has NO border */
+  margin: 1.75rem 0 0.4rem;
+  border: none;
 }
 
-/* H3 */
+/* H3 — 18px, weight 600 */
 .markdown h3 {
-  font-size: var(--ifm-h3-font-size);
+  font-size: 18px;
   font-weight: 600;
   color: var(--stripe-ink);
   letter-spacing: -0.01em;
-  margin-top: 2rem;
-  margin-bottom: 0.5rem;
+  margin: 1.25rem 0 0.35rem;
 }
 
-/* H4 */
+/* H4 — 16px, weight 600 */
 .markdown h4 {
-  font-size: var(--ifm-h4-font-size);
+  font-size: 16px;
   font-weight: 600;
   color: var(--stripe-ink);
-  margin-top: 1.5rem;
-  margin-bottom: 0.4rem;
+  margin: 1rem 0 0.25rem;
 }
 
 [data-theme='dark'] .markdown h1,
@@ -549,7 +555,7 @@ body {
 
 /* Body paragraphs */
 .markdown p {
-  margin-bottom: 1rem;
+  margin-bottom: 0.75rem;
   line-height: 1.7;
 }
 
@@ -581,7 +587,7 @@ body {
 }
 
 .markdown li {
-  margin-bottom: 0.4rem;
+  margin-bottom: 0.25rem;
   line-height: 1.7;
 }
 
@@ -901,8 +907,8 @@ div[class*='codeBlockTitle'] {
 }
 
 .generatedIndexPage h1 {
-  font-size: 2rem;
-  font-weight: 800;
+  font-size: 30px;
+  font-weight: 700;
   color: var(--stripe-ink);
   letter-spacing: -0.03em;
 }
