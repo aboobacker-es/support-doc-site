@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,400&display=swap');
+/* Satoshi loaded via headTags in docusaurus.config.js */
 
 /* ─── Color tokens ───────────────────────────────────────────────────────── */
 :root {
@@ -25,7 +25,7 @@
   --stripe-white:      #ffffff;
 
   /* Typography */
-  --ifm-font-family-base: 'Inter', -apple-system, BlinkMacSystemFont,
+  --ifm-font-family-base: 'Satoshi', -apple-system, BlinkMacSystemFont,
     'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
   --ifm-font-family-monospace: 'SFMono-Regular', Consolas,
     'Liberation Mono', Menlo, Courier, monospace;
@@ -49,11 +49,11 @@
   --doc-sidebar-width:        260px;
   --ifm-container-width-xl:   1440px;
 
-  /* Navbar — HackerRank dark green brand */
-  --ifm-navbar-background-color: #162e1e;
-  --ifm-navbar-link-color:        #d1e8d8;
-  --ifm-navbar-link-hover-color:  #ffffff;
-  --ifm-navbar-link-active-color: #2ec866;
+  /* Navbar — white, matching KB-article */
+  --ifm-navbar-background-color: #ffffff;
+  --ifm-navbar-link-color:        #374151;
+  --ifm-navbar-link-hover-color:  #111827;
+  --ifm-navbar-link-active-color: #16a34a;
   --ifm-navbar-shadow:            none;
 
   /* Surfaces */
@@ -111,6 +111,7 @@
   --ifm-navbar-link-color:        #c9d1d9;
   --ifm-navbar-link-hover-color:  #e6edf3;
   --ifm-navbar-link-active-color: #4ade80;
+  --ifm-navbar-shadow:            none;
   --ifm-background-color:         #0d1117;
   --ifm-background-surface-color: #161b22;
   --ifm-code-background:          #161b22;
@@ -136,64 +137,92 @@ body {
   color: var(--stripe-body);
 }
 
-/* ─── Navbar — white, Stripe style ──────────────────────────────────────── */
+/* ─── Navbar — white, KB-article style ──────────────────────────────────── */
 .navbar {
-  border-bottom: 1px solid var(--stripe-border);
+  border-bottom: 1px solid #e2e8f0;
   box-shadow: none;
   padding: 0 24px;
+  height: 63px;
 }
 
 .navbar__inner {
   max-width: 100%;
 }
 
-/* Logo: "HackerRank" dark text + green square (from SVG) */
+/* Logo */
 .navbar__logo {
-  height: 24px;
-  margin-right: 4px;
+  height: 30px;
+  margin-right: 0;
+  margin-top: -2px;
 }
 
-/* "Docs" title */
+/* "Docs" text next to logo */
 .navbar__title {
-  font-size: 1rem;
-  font-weight: 600;
-  letter-spacing: -0.01em;
-  color: #ffffff;
-}
-
-.navbar__logo {
-  height: 26px;
-  margin-right: 6px;
+  font-size: 13px;
+  font-weight: 500;
+  color: #9ca3af;
+  letter-spacing: 0.02em;
 }
 
 .navbar__link {
   font-size: 0.875rem;
   font-weight: 500;
-  color: #d1e8d8;
+  color: #374151;
   transition: color 0.1s;
+  padding: 6px 12px;
+  border-radius: 6px;
 }
 
 .navbar__link:hover {
-  color: #ffffff;
+  color: #111827;
   background: transparent;
   text-decoration: none;
 }
 
 .navbar__link--active {
-  color: #2ec866 !important;
+  color: #16a34a !important;
 }
 
 /* Search bar */
 .navbar__search-input {
-  background: rgba(255 255 255 / 0.1);
-  border: 1px solid rgba(255 255 255 / 0.15);
-  color: #ffffff;
+  background: #f3f4f6;
+  border: 1px solid #e5e7eb;
+  color: #374151;
   border-radius: 6px;
   font-size: 0.8125rem;
 }
 
 .navbar__search-input::placeholder {
-  color: rgba(255 255 255 / 0.5);
+  color: #9ca3af;
+}
+
+/* HackerRank.com external link on the right */
+.navbar__item.navbar__link[href="https://www.hackerrank.com"] {
+  font-size: 13px;
+  font-weight: 500;
+  color: #374151;
+}
+
+[data-theme='dark'] .navbar {
+  border-bottom-color: #21262d;
+}
+
+[data-theme='dark'] .navbar__title {
+  color: #6b7280;
+}
+
+[data-theme='dark'] .navbar__link {
+  color: #c9d1d9;
+}
+
+[data-theme='dark'] .navbar__link:hover {
+  color: #e6edf3;
+}
+
+[data-theme='dark'] .navbar__search-input {
+  background: #1e293b;
+  border-color: #334155;
+  color: #c9d1d9;
 }
 
 /* ─── Sidebar — white, Stripe exact ─────────────────────────────────────── */
@@ -339,18 +368,22 @@ body {
   color: #e6edf3;
 }
 
-/* Active item — brand color, no background (pure Stripe) */
+/* Active item — brand color + left border indicator (KB-article style) */
 .menu__link--active,
 .menu__link--active:hover {
   font-weight: 500;
   color: var(--color-brand) !important;
   background: transparent !important;
   border-radius: 0;
+  border-left: 2px solid var(--color-brand) !important;
+  margin-left: -1px;
+  padding-left: 14px !important;
 }
 
 [data-theme='dark'] .menu__link--active,
 [data-theme='dark'] .menu__link--active:hover {
   color: #4ade80 !important;
+  border-left-color: #4ade80 !important;
 }
 
 /* Sub-items — indented */
@@ -1020,15 +1053,11 @@ div[class*='codeBlockTitle'] {
   color: #64748b;
 }
 
-/* ─── Footer ─────────────────────────────────────────────────────────────── */
+/* ─── Footer — KB-article white style ───────────────────────────────────── */
 .footer {
-  background: var(--stripe-surface);
+  background: #ffffff;
   border-top: 1px solid var(--stripe-border);
-}
-
-.footer--dark {
-  background: #0a1a0e;
-  border-top-color: rgba(255 255 255 / 0.07);
+  padding: 48px 0 32px;
 }
 
 .footer__title {
@@ -1036,25 +1065,47 @@ div[class*='codeBlockTitle'] {
   font-weight: 700;
   letter-spacing: 0.08em;
   text-transform: uppercase;
-  color: #6b7280;
+  color: var(--stripe-ink);
   margin-bottom: 12px;
 }
 
 .footer__link-item {
-  font-size: 0.875rem;
-  color: #8b949e;
-  transition: color 0.12s;
+  font-size: 0.8125rem;
+  color: var(--stripe-muted);
+  transition: color 0.1s;
 }
 
 .footer__link-item:hover {
-  color: #ffffff;
+  color: var(--stripe-ink);
   text-decoration: none;
 }
 
 .footer__copyright {
-  font-size: 0.8125rem;
-  color: #6b7280;
-  border-top: 1px solid rgba(255 255 255 / 0.07);
-  padding-top: 1.5rem;
-  margin-top: 2rem;
+  font-size: 0.75rem;
+  color: var(--stripe-muted);
+  border-top: 1px solid var(--stripe-border);
+  padding-top: 20px;
+  margin-top: 40px;
+}
+
+[data-theme='dark'] .footer {
+  background: #0d1117;
+  border-top-color: #21262d;
+}
+
+[data-theme='dark'] .footer__title {
+  color: #e6edf3;
+}
+
+[data-theme='dark'] .footer__link-item {
+  color: #6e7681;
+}
+
+[data-theme='dark'] .footer__link-item:hover {
+  color: #e6edf3;
+}
+
+[data-theme='dark'] .footer__copyright {
+  color: #6e7681;
+  border-top-color: #21262d;
 }

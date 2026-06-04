@@ -11,6 +11,16 @@ const config = {
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
 
+  headTags: [
+    {
+      tagName: 'link',
+      attributes: {
+        rel: 'stylesheet',
+        href: 'https://api.fontshare.com/v2/css?f[]=satoshi@300,400,500,600,700,800,900&display=swap',
+      },
+    },
+  ],
+
   markdown: {
     format: 'detect', // .md → CommonMark, .mdx → MDX — avoids JSX errors in article content
   },
@@ -63,13 +73,12 @@ const config = {
         respectPrefersColorScheme: true,
       },
       navbar: {
-        title: 'Docs',
+        title: '',
         logo: {
-          alt: 'HackerRank Logo',
-          src: 'img/logo.svg',
-          srcDark: 'img/logo-white.svg',
+          alt: 'HackerRank',
+          src: 'img/logo-light.png',
+          href: '/',
         },
-        style: 'dark',
         items: [
           {
             label: 'Product guides',
@@ -136,35 +145,41 @@ const config = {
         ],
       },
       footer: {
-        style: 'dark',
+        style: 'light',
         links: [
           {
-            title: 'Products',
+            title: 'Information & Security',
             items: [
-              { label: 'Screen', to: '/hackerrank-screen' },
-              { label: 'Interviews', to: '/interviews' },
-              { label: 'Library', to: '/library' },
-              { label: 'SkillUp', to: '/skillup' },
+              { label: 'Security', href: 'https://www.hackerrank.com/security' },
+              { label: 'Privacy Policy', href: 'https://www.hackerrank.com/privacy' },
+              { label: 'Terms of Service', href: 'https://www.hackerrank.com/terms' },
             ],
           },
           {
             title: 'Resources',
             items: [
-              { label: 'Integrations', to: '/integrations-1' },
-              { label: 'Account Settings', to: '/account-settings' },
-              { label: 'General Help', to: '/general-help' },
+              { label: 'API', href: 'https://www.hackerrank.com/work/api' },
+              { label: 'Roles Directory', href: 'https://www.hackerrank.com/roles' },
+              { label: 'Blog', href: 'https://www.hackerrank.com/blog' },
             ],
           },
           {
-            title: 'Company',
+            title: 'About Us',
             items: [
-              { label: 'HackerRank.com', href: 'https://www.hackerrank.com' },
-              { label: 'Blog', href: 'https://www.hackerrank.com/blog' },
-              { label: 'Contact Support', href: 'https://support.hackerrank.com' },
+              { label: 'Customer Stories', href: 'https://www.hackerrank.com/customers' },
+              { label: 'Trust', href: 'https://www.hackerrank.com/trust' },
+            ],
+          },
+          {
+            title: 'Get Started',
+            items: [
+              { label: 'Platform', href: 'https://www.hackerrank.com/work' },
+              { label: 'Pricing', href: 'https://www.hackerrank.com/work/pricing' },
+              { label: 'Free Trial', href: 'https://www.hackerrank.com/work/free-trial' },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} HackerRank. All rights reserved.`,
+        copyright: `© ${new Date().getFullYear()} HackerRank. All rights reserved.`,
       },
       prism: {
         theme: prismThemes.github,
